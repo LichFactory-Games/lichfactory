@@ -1,6 +1,6 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: Lich Factory # Change this to your site name
+site_description: My TTRPG Website
+site_url: https://lichfactory.com/ # Change this to your site URL
 
 theme:
     name: 'material'
@@ -13,37 +13,39 @@ theme:
     language: en
     palette:
 
-    # Light mode
+# Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: blue grey
+      accent: deep purple
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-night
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: indigo
+      primary: indigo
+      accent: purple
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to light mode
     features:
         - navigation.indexes
         - navigation.top
-        - navigation.tabs
-        - navigation.tabs.sticky
-        - navigation.expand
+        - navigation.path
+        # - navigation.tabs
+        # - navigation.tabs.sticky
+        # - navigation.expand
         - search.suggest
         - search.highlight
-        
+
 # Extensions
 markdown_extensions:
   - footnotes
   - nl2br
   - attr_list
+  - md_in_html
   - sane_lists
   - meta
   - smarty
@@ -77,6 +79,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
 plugins:
   - search
   - meta-descriptions
@@ -124,7 +127,7 @@ extra_css:
 extra:
   SEO: assets/meta/SEO.png
   comments: false #disable comments globally
-  generate_graph: true #generate the graph of the site
+  generate_graph: false #generate the graph of the site
   attachments: 'assets/img' #path to the folder where the attachments are stored
   no-auto-h1: false #disable the automatic generation of h1 if no h1 is found
   blog_list:
