@@ -86,7 +86,7 @@ plugins:
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      locale: fr
+      locale: en
       custom_format: "%A %d %B %Y"
       enable_creation_date: true
   - ezlinks:
@@ -124,6 +124,7 @@ extra_css:
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
+    - assets/css/its-fonts.css
 extra:
   SEO: assets/meta/SEO.png
   comments: false #disable comments globally
