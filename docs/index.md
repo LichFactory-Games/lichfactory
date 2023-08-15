@@ -1,9 +1,17 @@
 ---
 share: true
 date created: Sunday, August 13th 2023, 6:07:50 pm
-date modified: Sunday, August 13th 2023, 6:59:22 pm
+date modified: Tuesday, August 15th 2023, 1:13:2 pm
 hide: [toc]
 title: Home
 ---
 
-Welcome to Lich Factory, my ttrpg website. I host my games and game resources here, as well as material I've created for them (primarily D&D 5e). 
+Welcome to Lich Factory, the home for all my ttrpg game info and resources.  Here you'll find:
+
+- The adventures (and related campaigns) "Ad astra" and "Per aspera", that I am writing for use at my table. 
+- An almanac for the fictional wildspace system "Erspace" in which my campaigns are based. 
+- Custom character options (including custom races and classes/subclasses) and my table rules for 5e
+- DM Tools I use, including random generators, tables, and easy access to core rule info 
+- Some info on using [Foundry VTT](https://foundryvtt.com), that should hopefully be helpful to players new to the system. I'll also post here notes on my use of Foundry, preferred modules and macros, etc. 
+
+![[./assets/img/lich-factory.webp|lich-factory.webp]]
