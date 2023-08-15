@@ -1,10 +1,20 @@
-/* UNCOMMENT THIS LINE TO ADD ANY BACKGROUND IN THE HEADER
-DONT FORGET TO EDIT THE URL
-.md-header,
-.md-nav--primary .md-nav__title[for="__drawer"] {
- background: var(--md-primary-fg-color) url(background_image_link_here&auto=format&fit=crop&w=1074&q=80) left center/cover no-repeat;
+.md-header {
+    background: var(--md-primary-fg-color) url(https://5e.tools/img/book/AAG/001-00-001.wildspace-splash.webp) left center/cover no-repeat;
 }
-*/
+
+.md-header__title {
+    font-family: "Cinzel Decorative";
+}
+
+.md-typeset h1,h2,h3 {
+    font-family: "Cinzel Decorative";
+}
+
+.md-typeset details.wiki,
+.md-typeset .admonition.wiki {
+    border-color: transparent;
+    background-color: transparent;
+}
 
 .md-typeset details.wiki,
 .md-typeset .admonition.wiki {
