@@ -139,3 +139,4 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
+copyright: Copyright &copy; 2023 Colin McLear · All material on this website is licensed under a Creative Commons Attribution NonCommercial-ShareAlike 4.0 International License, except where otherwise indicated.
