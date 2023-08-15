@@ -4,8 +4,8 @@ site_url: https://lichfactory.com/ # Change this to your site URL
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/lich-factory-logo.png
+    favicon: assets/meta/lich-factory-logo.png
     custom_dir: overrides
     font:
         text: Ubuntu
