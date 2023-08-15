@@ -31,14 +31,17 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
     features:
+        - header.autohide
         - navigation.indexes
         - navigation.top
+        - navigation.footer
         - navigation.path
         # - navigation.tabs
         # - navigation.tabs.sticky
         # - navigation.expand
         - search.suggest
         - search.highlight
+        - toc.follow
 
 # Extensions
 markdown_extensions:
@@ -139,4 +142,4 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
-copyright: Copyright &copy; 2023 Colin McLear · All material on this website is licensed under a Creative Commons Attribution NonCommercial-ShareAlike 4.0 International License, except where otherwise indicated.
+copyright: Copyright &copy; 2023 Lich Factory · All material on this website is licensed under a Creative Commons Attribution NonCommercial-ShareAlike 4.0 International License, except where otherwise indicated.
