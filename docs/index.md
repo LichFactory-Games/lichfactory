@@ -6,7 +6,7 @@ hide: [toc]
 title: Home
 ---
 
-Welcome to Lich Factory, the home for all my ttrpg game info and resources.  Here you'll find:
+Welcome to the Lich Factory, the home for all my ttrpg game info and resources.  Here you'll find:
 
 - The adventures (and related campaigns) "Ad astra" and "Per aspera", that I am writing for use at my table. 
 - An almanac for the fictional wildspace system "Erspace" in which my campaigns are based. 

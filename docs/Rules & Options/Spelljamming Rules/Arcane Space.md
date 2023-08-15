@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Saturday, August 5th 2023, 11:25:16 am
-date modified: Sunday, August 6th 2023, 9:34:17 am
+date modified: Tuesday, August 15th 2023, 3:28:15 pm
 tags:
   - spelljammer/info/wildspace
   - test
@@ -15,7 +15,7 @@ Forget all that. It's wrong.
 
 You can get out of the atmosphere on the back of a Roc; fly between planets in a breathable envelope of air; sail between the so-called "crystal spheres" that surround habited systems on a river of firery energy. The stars are a living thing in some areas, great bowls of fire in others, and in some cases merely pinpoints of light projected onto the inside of a crystal sphere.
 
-# CELESTIAL BODIES
+# Celestial Bodies
 
 The celestial bodies in wildspace are the destinations for adventure. Unlike the orderly physics of our real universe, celestial bodies come in all shapes, sizes, and impossible configurations. Spherical worlds of earth, air, fire, and water exist alongside cubes of solid stone, orbiting rings, shattered asteroids, and sentient planetoids. Gravity may flow sideways, minerals and metals may float as clouds, and physical laws warp and blend between neighboring bodies.
 
@@ -89,7 +89,7 @@ Air behaves similarly in both Phlogiston and wildspace. In hazardous air or its 
 
 Rescues in wildspace aren't always benevolent. Pirates seize valuables and discard bodies. Neogi and Mindflayers enslave these victims.
 
-## Temperature 
+## Temperature
 
 Due to the activity of the planets, the spheres, and various gates to the plane of elemental fire, temperature in wildspace is not typically a problem for adventurers. The ambient temperature in most space is about the same as a moderate spring day in the temperate regions of most worlds.
 
@@ -107,11 +107,11 @@ Yet catastrophe can shift the flows, cutting off worlds from the astral routes. 
 
 Clued-in captains guard their astromantic charts of eddies and aether weather. Those who master the currents thrive, while the unwise find only gravity's death grip awaiting at the end of depleted rivers. The currents giveth and taketh away - maximizing their gifts and avoiding their threats is the spelljammer's craft.
 
-## Time 
+## Time
 
 Time is a constant in a wildspace system. It is also a constant in the astral sea. So a day = 24 hours in one wildspace system typically elapses the very same way in another system, as well as in the astral sea that contains both. *However*, while time is constant throughout the astral sea, it is possible that some wildspace systems will function differently, and that characters will suffer time-dilation or expansion when traveling through those systems. Traveler beware!
 
-# THE PHLOGISTON
+# The Phlogiston
 
 Passing through the porous membranes of "crystal spheres", spelljammers enter the vast expanse of the phlogiston. Known as the "flow", the "astral sea", or the "rainbow ocean", the phlogiston appears as a limitless rainbow haze flowing around the crystal spheres.
 
