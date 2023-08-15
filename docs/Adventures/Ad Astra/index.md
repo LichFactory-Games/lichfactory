@@ -1,13 +1,13 @@
 ---
 share: true
 date created: Sunday, August 6th 2023, 5:49:20 pm
-date modified: Tuesday, August 15th 2023, 1:20:03 pm
-title: Ad Astra Campaign Guide
+date modified: Tuesday, August 15th 2023, 3:22:05 pm
+title: Ad Astra Adventure Guide
 ---
 
 # Welcome to Ermis
 
-Ermis, the hollow planet. Its inhabitants dwell concealed in the interior, living under the light of the *Strom*, a forever raging electrostatic tempest. Ermis's two great cities, Eryth and Astryth, flank the twin towers of the Spar, colossal mesas piercing up through the Strom from opposing ends of Ermis. The floating city of Omerth hovers between them at Ermis's hollow center. Together these cities constitute the Dyarchy, a theocracy ruled by the Dyad (the Two-Who-Are-One). Adventurers must navigate the dangers of the Dyarchy,  the intrigues of its great houses, and the challenges of other factions, such as the mechanically-minded Haimin and the enigmatic Fair Folk.
+Ermis, the hollow planet. Its inhabitants dwell concealed in the interior, living under the light of the *Strom*, a forever-raging electrostatic tempest. Ermis's two great cities, Eryth and Astryth, flank the twin towers of the Spar, colossal mesas piercing up through the Strom from opposing ends of Ermis. The floating city of Omerth hovers between them at Ermis's hollow center. Together these cities constitute the Dyarchy, a theocracy ruled by the Dyad (the Two-Who-Are-One). Adventurers must navigate the dangers of the Dyarchy,  the intrigues of its great houses, and the challenges of other factions, such as the mechanically-minded Haimin and the enigmatic Fair Folk.
 
 To its denizens, Ermis is everything. They lack even the *concept* of an "outside" to Ermis. But what if intrepid explorers uncovered the astonishing truth that Ermis is merely one small part of a vast cosmic tapestry? Or that its inhabitants originate from the wild voids between distant stars? Journey from the hollows of Ermis to the stars beyond. Ancient secrets and eldritch powers converge to determine Ermis's future. Can our heroes stop what's coming? 
 
