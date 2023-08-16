@@ -1,6 +1,6 @@
 .md-header {
     /* background: var(--md-primary-fg-color) url(https://5e.tools/img/book/AAG/001-00-001.wildspace-splash.webp) left center/cover no-repeat; */
-    background: var(--md-primary-fg-color) url(/assets/meta/lich-factory-banner.webp) left bottom/cover no-repeat;
+    background: var(--md-primary-fg-color) url(/assets/meta/lich-factory-banner.png) left bottom/cover no-repeat;
 }
 
 .md-header__title {
