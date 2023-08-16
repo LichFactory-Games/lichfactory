@@ -8,7 +8,7 @@ jobs:
   maintenance:
     uses: ObsidianPublisher/actions/.github/workflows/maintenance.yml@main
     with:
-      CLEAN: true
-      DRY_RUN: false
+      CLEAN: false
+      DRY_RUN: true
     secrets:
       GH_PAT: ${{ secrets.GITHUB_TOKEN }}
