@@ -11,7 +11,7 @@ share: true
 linter-yaml-title-alias: Ermis Character Options
 title: Character Options
 date created: Sunday, July 2nd 2023, 10:56:12 am
-date modified: Tuesday, August 8th 2023, 8:59:30 am
+date modified: Thursday, August 17th 2023, 9:19:23 pm
 ---
 
 # Ermis Character Options
@@ -37,13 +37,19 @@ The planet Ermis and the history of Erspace put special constraints on, and opti
 - **[[./Classes/Power Domain|Power Domain]]** (Cleric) : a focus on the promotion of life, the freedom from external constraints or conditions, and the connection of each being's existence to that of others and the fate of all.
 - **[[./Classes/Tinkerer|Tinkerer]]** (Rogue):  a master of cobbling materials together, though perhaps they don't always work as intended.
 
-## Ancestry/Lineage/Race
+## Species & Lineage
 
-In addition to Human, the following ancestries/lineages/races are available for play on Ermis: Dhampir, Giff, Goliath, Hadozee, Harengon, Hexblood, Loxodon, Plasmoid, Thri-Kreen, Vedalken (All these should be available on DnDBeyond). There are also some new additional races/lineages:
+In addition to Human, the following species and lineages are available for play on Ermis: Dhampir, Giff, Goliath, Hadozee, Harengon, Hexblood, Loxodon, Plasmoid, Thri-Kreen, Vedalken. There are also some new additional species & lineages:
 
 - **[[./Ancestry/Auton|Auton]]**: A living mechanical construct. 
 - **[[./Ancestry/Doloi|Doloi]]**: A kind of goblinoid; may be small or medium in size. 
 - **[[./Ancestry/The Faeir|The Faeir]]**: Humanoid fey creatures, they are enigmatic and aloof.
-- **[[./Ancestry/Haimin|Haimin]]**:   Humanoids small of stature but big in their ideas (like if dwarves, halflings, and gnomes were just one race…). 
+- **[[haemin-haemin|Haemin]]**:   Humanoids small of stature but big in their ideas (like if dwarves, halflings, and gnomes were just one race…). 
 
 Ermis lacks many standard D&D ancestries/races. You **cannot** play a Dwarf, Dragonborn, Elf, Gnome, Halfling, or Tiefling.
+
+## Background
+
+The PHB backgrounds are all available as usual. There is one new background -- the Renegade. There are also a few other backgrounds that work well on Ermis. These are: 
+
+- House Agent (Eberron)
