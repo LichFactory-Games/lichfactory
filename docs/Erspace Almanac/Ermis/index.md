@@ -26,7 +26,7 @@ The dominant religion on Ermis is that of Er. This is a monotheistic religion in
 
 ## Geographic Overview
 
-![[../../assets/img/Ermis-hi-res.webp|1125]]
+![[../../assets/img/Ermis-hi-res.jpg|1125]]
 
 
 There are three megacities on Ermis. These are the cities of the Dyarchy (also known as the "cities of the Spar") [[./Gazetteer/Eryth|Eryth]] and [[./Gazetteer/Astryth|Astryth]] (known also as the "twin cities"), and the capital city of [[./Gazetteer/Omerth|Omerth]] (a floating city at the center of the world). 
