@@ -1,10 +1,9 @@
 ---
 share: true
 date created: Saturday, August 5th 2023, 11:25:16 am
-date modified: Tuesday, August 15th 2023, 3:28:15 pm
+date modified: Saturday, September 2nd 2023, 12:39:26 pm
 tags:
   - spelljammer/info/wildspace
-  - test
 type: rules 
 ---
 # Everything You Know about Space is Wrong
@@ -37,7 +36,7 @@ Overlapping gravity fields interact in complex ways. The region between two oppo
 
 Pockets of "reverse gravity" and "zero-g" may spontaneously form as gravity eddies and storms warp the aether in wildspace. Navigating these hazards tests the skills of spelljamming helmsmen. Understanding the intricacies of gravity is crucial for survival in wildspace.
 
-![[../../assets/img/013-02-002-air-and-gravity.webp|013-02-002-air-and-gravity.webp]]
+![[../../assets/img/013-02-002.air-and-gravity.png|013-02-002.air-and-gravity.png]]
 
 ## Air
 
