@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Monday, August 14th 2023, 2:13:24 pm
-date modified: Monday, August 21st 2023, 12:16:24 pm
+date modified: Saturday, September 2nd 2023, 9:48:21 am
 ---
 
 Greetings, Wanderer,
@@ -12,10 +12,14 @@ Contained herein are not fanciful myths or superstitions, but the pure light of 
 
 Gaze with me at the Strom, see its elegant geometries, the silent music of its tumultuous circuit. Contemplate the facets of the humblest stone and therein behold eternity's laws etched by the hand of God. In all phenomena, substance reveals itself through its attributes.
 
-Let us proceed together step by step, elevating our minds through contemplation alone. The passions spellbond and mislead, but reason liberates. By intellect's patient labor, nature surrenders her secrets. Her book we read best by ebblight, as fading sight is supplanted by a deeper comprehension. 
+Let us proceed together step by step, elevating our minds through contemplation. The passions spellbond and mislead, but reason liberates. By intellect's patient labor, nature surrenders her secrets. Her book we read best by ebblight, as fading sight is supplanted by a deeper comprehension. 
 
-Come, friends, cast away fear and ignorance, envy and greed. Our journey begins in wonder, continues through insight and ends in the light of true understanding. The truths herein kindle a small flame, inviting you to further illuminate reality's infinite expanse.
+Come, friends, cast away fear and ignorance, envy and greed. Our journey begins in wonder and ends in the light of true understanding. The truths herein kindle a small flame, inviting you to further illuminate reality's infinite expanse.
 
 With joyful fellowship,
 
 Arion, Sylfweard of Althussein 
+
+--- 
+
+In this gazeteer you'll find a discussion of all the regions of the known world. Some are highly detailed, based on Arion's first-hand experience in the region, while others are mere sketches, gathered from whatever resources were to hand. Discussion of Ermis is broken down by region and major population centers, along with major points of interest. The discussion is not by any means complete. Ermis' wonders are vast, and we have by no means here exhausted them. 
