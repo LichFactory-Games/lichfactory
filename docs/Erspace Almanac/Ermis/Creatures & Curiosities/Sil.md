@@ -6,13 +6,13 @@ share: true
 linter-yaml-title-alias: The Sil (Silauri)
 title: Sil
 date created: Sunday, April 9th 2023, 9:45:41 am
-date modified: Monday, July 17th 2023, 11:04:19 pm
+date modified: Saturday, September 2nd 2023, 9:48:21 am
 ---
 # The Sil (Silauri)
 
 ![[../../../assets/img/sil.webp|hmedium|left]]
 
-The Sil are a race of [[lizardfolk|Lizardfolk]]. They live in the [[Kypar desert|Kypar desert]] wastes surrounded by the [[../Gazetteer/Vardoun Mountains|Vardoun Mountains]]. 
+The Sil are a race of [[lizardfolk|Lizardfolk]]. They live in the [[Kypar desert|Kypar desert]] wastes surrounded by the [[Vardoun Mountains|Vardoun Mountains]]. 
 
 The Sil have adapted fully to the arid climate of the Kypar desert. They can burrow into the (loose) sand at their normal movement speed, and they can camouflage themselves in the desert with a +5 to stealth. 
 
