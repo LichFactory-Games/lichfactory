@@ -4,7 +4,7 @@ tags:
 share: true
 title: Ermis
 date created: Sunday, March 12th 2023, 4:50:28 pm
-date modified: Saturday, August 19th 2023, 1:48:44 pm
+date modified: Saturday, September 2nd 2023, 9:48:21 am
 ---
 # Welcome to Ermis
 
@@ -16,7 +16,7 @@ Campaigns set in Ermis easily accommodate political intrigue, exploration, horro
 
 ## A Brief History of Ermis
 
-Ermis has had a tumultuous history. The origins of the various peoples of Ermis are largely unknown, though there are rumors of a \"great secret\" held by the Dyad and members of the Faeir council, concerning the nature of Ermis and its people. What is known from recorded history is that settlements near the ends of each part of the Spar became major powers, concentrated in the hands of the great families or houses of each city, and forming a kind of mercantilist oligarchy. However, this system was inherently unstable, as each house vied with the others for control of goods flowing through the Spar. There were also military incursions into Haem and the wilds of the Faeir. This instability culminated in a war that raged over all of Ermis. From this war no clear victor emerged. Instead the house system itself partially collapsed, and with it the oligarchy it sustained. In its place the Dyarchy emerged. The Diarchy is the result of the merger of bloodlines from the two greatest houses of the old Astrythian and Erythian orders, resulting in the \"two-who-are-one\" -- two beings who are deeply mentally and spiritually linked. They and their descendants have kept the peace now for centuries.
+Ermis has had a tumultuous history. The origins of the various peoples of Ermis are largely unknown, though there are rumors of a \"great secret\" held by the Dyad and members of the Faeir council, concerning the nature of Ermis and its people. What is known from recorded history is that settlements near the ends of each part of the Spar became major powers, concentrated in the hands of the great families or houses of each city, and forming a kind of mercantilist oligarchy. However, this system was inherently unstable, as each house vied with the others for control of goods flowing through the Spar. There were also military incursions into Haem and the wilds of the Faeir. This instability culminated in a war that raged over all of Ermis. From this war no clear victor emerged. Instead the house system itself partially collapsed, and with it the oligarchy it sustained. In its place the Dyarchy emerged. The Dyarchy is the result of the merger of bloodlines from the two greatest houses of the old Astrythian and Erythian orders, resulting in the \"two-who-are-one\" -- two beings who are deeply mentally and spiritually linked. They and their descendants have kept the peace now for centuries.
 
 The Faeir have largely withdrawn into themselves and their wildes, while Haem maintains trade relations with the Dyarchy. Though Ermis has enjoyed several hundred years of relative peace and stability, recently things have taken a turn. Strange events and curious beings have started to appear throughout Ermis. There are rumors of terrifying beings that reside in the great trenches to the north of Eryth and in the wastes of the Kypar Desert
 
@@ -26,19 +26,16 @@ The dominant religion on Ermis is that of Er. This is a monotheistic religion in
 
 ## Geographic Overview
 
-![[../../assets/img/Ermis-hi-res.jpg|1125]]
+![[../../assets/img/Ermis-world-map.jpg|Ermis-world-map.jpg]]
 
+There are three megacities on Ermis. These are the cities of the Dyarchy (also known as the "cities of the Spar") [[Eryth|Eryth]] and [[Astryth|Astryth]] (known also as the "twin cities"), and the capital city of [[Omerth|Omerth]] (a floating city at the center of the world). 
 
-There are three megacities on Ermis. These are the cities of the Dyarchy (also known as the "cities of the Spar") [[./Gazetteer/Eryth|Eryth]] and [[./Gazetteer/Astryth|Astryth]] (known also as the "twin cities"), and the capital city of [[./Gazetteer/Omerth|Omerth]] (a floating city at the center of the world). 
+Other major cities or city states include [[Kavouri|Kavouri]] and [[Tehmérr|Tehmérr]] (major seaports, independent of the Dyarchy), [[Thalassia|Thalassia]] in the Faeir Wildes (the seat of the Council of the Faeir), and [[Caer Mynydd|Caer Mynydd]] (the northern center of the Haem Collective). 
 
-Other major cities or city states include [[Kavouri|Kavouri]] and [[Tehmérr|Tehmérr]] (major seaports, independent of the Dyarchy), [[Thalassia|Thalassia]] in the Faeir Wildes (the seat of the Council of the Faeir), and [[Mykonia|Mykonia]] (the northern center of the Haem Collective). 
-
-The primary deity worshipped on Ermis is [[./Gazetteer/Er|Er]].  [[./Pyntarch's Lives/The Dyarchy|The Dyarchy]] recognizes no other deity and contend that all other gods are simply aspects or appearances of Er. 
+The primary deity worshipped on Ermis is [[Er|Er]].  [[The Dyarchy|The Dyarchy]] recognizes no other deity and contend that all other gods are simply aspects or appearances of Er. 
 
 There are many other smaller settlements, including agricultural and shipping centers near the twin cities, and nomadic groups such as the Sil, who live in the wastes of the Kypar desert. The desert is largely left to the Sil and whatever terrors live in the deep desert. 
 
-Kra Chora is largely unexplored by humans, though the Haem have their great city of Mykonia nestled in the Kraav mountain range. There are stories of icy monuments made by an unknown hand.
+Kra Chora is largely unexplored by humans, though the Haem have their great city of Caer Mynydd nestled in the Kra'Aav mountain range. There are stories of icy monuments made by an unknown hand.
 
 Ignis is a blackened land. Much of it seems made of a glass like material. There are rumors that giant lizards live there. But these are usually dismissed as mere stories -- the fancies of sailors and savages.  
-
-
