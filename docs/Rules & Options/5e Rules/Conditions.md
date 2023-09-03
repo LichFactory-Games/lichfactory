@@ -7,7 +7,7 @@ tags:
   - compendium/src/5e/tob2
 aliases: ["Conditions"]
 date created: Saturday, September 2nd 2023, 1:04:31 pm
-date modified: Saturday, September 2nd 2023, 1:24:48 pm
+date modified: Sunday, September 3rd 2023, 7:27:09 am
 ---
 # Conditions
 
