@@ -7,18 +7,27 @@ type: rules
 share: true
 title: House Rules
 date created: Friday, June 30th 2023, 5:48:01 pm
-date modified: Wednesday, July 19th 2023, 10:36:14 am
+date modified: Saturday, September 2nd 2023, 1:05:57 pm
 ---
 
 These house rules are designed to streamline play and are built assuming the WOTC published 2014 Player's Handbook. These house rules are specifically designed to streamline character creation, gameplay, and to support the other players and the GM at the table.
 
-## Inspiration
+## Luck
 
-Characters begin each session with inspiration and inspiration does not carry over between sessions. Once expended, the GM may reward a character inspiration during the game as normal.
+Every PC has a special resource called Luck. Use Luck to influence the result of any ability check, attack roll, or save you make.
+
+A player can spend a luck point whenever he or she makes an attack roll, an ability check, or a saving throw. The player can spend the luck point after the roll is made but before any of its results are applied. Spend Luck points on a 1-for-1 bonus to add to any d20 roll you make. For example, if you have 4 Luck points, and roll a 13 on the die, you could spend 2 Luck points and make your result a 15. You then have 2 Luck points left to use later. You *can't* use Luck points to offset the effects of rolling a natural 1 or create the effects of a natural 20. No one is that lucky. Alternatively, immediately after you make an ability check, attack roll, or save, you can spend 3 Luck points to reroll a single d20 used for that roll. In addition, whenever a character fails a death saving throw, the player can spend one luck point to turn the failure into a success.
+
+A character starts with 5 luck points at 1st level. Each time the character gains a level, they lose any unspent luck points and gain a new total equal to 5 + 1/2 the character's level (rounded down, minimum of 1). 
+
+Luck points may also be awarded under special circumstances, such as:
+
+- The GM can award 1 Luck point to a character as a reward for coming up with a clever idea, excellent roleplaying, or trying something interesting but not optimal.
+- The GM can award Luck points to a party for surviving difficult encounters or achieving story goals (in addition to XP).
 
 ## Resting
 
-We're going to use slightly more "gritty" rules for resting. Short rests are (still) an hour, and may be taken in any moderately secure place. But long rests do not restore exhaustion, hit dice, or full hit points unless you are in a "safe" area, such as a house, town, inn, etc. You cannot (at least typically) take a long rest in a dungeon and restore anything other than one hit die, spell slots, or other abilities/resources that depend on a long rest. 
+We're going to use slightly more "gritty" rules for resting. Short rests are (still) an hour, and may be taken in any moderately secure place. But long rests do not restore exhaustion or full hit points unless you are in a "safe" area, such as a house, town, inn, etc. You cannot (at least typically) take a long rest in a dungeon and restore anything other than hit dice, spell slots, or other abilities/resources that depend on a long rest. 
 
 ## Exhaustion
 
