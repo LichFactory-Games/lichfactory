@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Saturday, August 5th 2023, 11:25:16 am
-date modified: Saturday, September 2nd 2023, 12:39:26 pm
+date modified: Sunday, September 3rd 2023, 7:40:29 am
 tags:
   - spelljammer/info/wildspace
 type: rules 
@@ -132,24 +132,24 @@ Currents in the sea of phlogiston provide navigable flows for spelljammer ships.
 
 # Summary
 
-- Celestial bodies 
+#### Celestial Bodies
    - Can be any shape, element, composition - not bound by real physics
    - Gravity direction always "pulls down" but isn't bound to physical shape  
    - Orbits and inter-body physics don't adhere to actual astrophysics
    
-- Wildspace
+#### Wildspace
    - Is the void between celestial bodies - airless and filled with magic
    - Can vary subtly between different crystal spheres
    - Is home to ether phenomena, space-dwelling creatures, hazards
    - Holds adventure seeds like spelljammer wrecks, hidden bases    
 
-- Gravity 
+#### Gravity
    - The plane is aligned to the object's longest axis
    - Crossing the plane flips orientation upside-down
    - Overlapping fields interact in complex ways
    - Regions of strange gravity provide hazards
    
-- Air
+#### Air
    - Persists around objects proportionally to their mass 
    - Magical flames burn in a void; mundane flames do not
    - Ships can use magic to maintain fresh air envelopes
@@ -157,13 +157,13 @@ Currents in the sea of phlogiston provide navigable flows for spelljammer ships.
    - Void raiders weaponize air depletion during attacks
    - Is the essence of life in the void, guarded closely
    
-- Aether currents
+#### Aether Currents
    - Act as celestial highways for planetary access and control
    - Can shift over time, forcing new routes to be found
    - Mapping eddies and weather aids navigation
    - Mastering the currents is key to thriving in wildspace 
    
-- The phlogiston
+#### The Phlogiston
    - Is a vast expanse permeating the space between wildspace systems
    - Repulsion with aether creates "crystal sphere" bubbles
    - Is highly flammable, detonates mundane flames
