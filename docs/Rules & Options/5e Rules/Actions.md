@@ -8,7 +8,7 @@ tags:
   - compendium/src/5e/xge
 aliases: ["Actions"]
 date created: Saturday, September 2nd 2023, 1:04:31 pm
-date modified: Sunday, September 3rd 2023, 7:14:28 am
+date modified: Sunday, September 3rd 2023, 7:47:52 am
 ---
 # Actions
 
