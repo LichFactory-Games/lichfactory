@@ -8,7 +8,7 @@ type: folder-note
 share: true
 title: Rules & Options
 date created: Friday, July 14th 2023, 1:47:17 pm
-date modified: Monday, July 17th 2023, 1:15:48 pm
+date modified: Saturday, September 2nd 2023, 9:48:21 am
 ---
 
 Here you'll find options for character creation, descriptions of new spells, as well as details concerning house rules. 

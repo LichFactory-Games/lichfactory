@@ -4,7 +4,7 @@ tags:
 share: true
 title: Factions of Ermis
 date created: Monday, April 24th 2023, 3:41:56 pm
-date modified: Monday, July 17th 2023, 1:15:48 pm
+date modified: Saturday, September 2nd 2023, 9:48:21 am
 ---
 # Factions of Ermis
 
