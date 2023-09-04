@@ -4,15 +4,15 @@ obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
   - class/rogue/tinkerer
-  - compendium/src/5e/tinkerer
+  - compendium/src/5e/ermis
 aliases: ["Tinkerer"]
-date created: Sunday, September 3rd 2023, 9:39:52 am
-date modified: Sunday, September 3rd 2023, 11:50:06 pm
+date created: Monday, September 4th 2023, 10:31:10 am
+date modified: Monday, September 4th 2023, 10:31:42 am
 ---
 # Tinkerer
 
 *[Rogue](rogue.md#): Roguish Archetype*  
-*Source: Tinkerer*  
+*Source: Ermis: Ad Astra*  
 
 ## Class Features
 

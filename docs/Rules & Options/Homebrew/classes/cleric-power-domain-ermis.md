@@ -4,16 +4,16 @@ obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
   - class/cleric/pdcleric
-  - compendium/src/5e/pdcleric
+  - compendium/src/5e/ermis
   - domain/pdcleric
 aliases: ["Power Domain"]
-date created: Sunday, September 3rd 2023, 9:39:52 am
-date modified: Sunday, September 3rd 2023, 11:49:31 pm
+date created: Monday, September 4th 2023, 10:31:10 am
+date modified: Monday, September 4th 2023, 10:31:33 am
 ---
 # Power Domain
 
 *[Cleric](cleric.md#): Divine Domain*  
-*Source: Power Domain*  
+*Source: Ermis: Ad Astra*  
 
 ## Class Features
 

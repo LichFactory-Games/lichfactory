@@ -3,14 +3,14 @@ share: true
 obsidianUIMode: preview
 cssclass: json5e-background
 tags:
-  - compendium/src/5e/ermis-bg
+  - compendium/src/5e/ermis
 aliases: ["Renegade"]
-date created: Sunday, September 3rd 2023, 9:39:52 am
-date modified: Sunday, September 3rd 2023, 10:16:26 pm
+date created: Monday, September 4th 2023, 10:31:10 am
+date modified: Monday, September 4th 2023, 10:31:24 am
 ---
 # Renegade
 
-*Ermis Backgrounds*  
+*Ermis: Ad Astra*  
 
 - **Skill Proficiencies.** Survival and another of your choice from Arcana, Deception, Insight, Persuasion, or Religion.  
 - **Languages.** Two of your choice  

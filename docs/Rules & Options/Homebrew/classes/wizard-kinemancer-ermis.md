@@ -4,15 +4,15 @@ obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
   - class/wizard/kinemancer
-  - compendium/src/5e/kinemancer
+  - compendium/src/5e/ermis
 aliases: ["Kinemancer"]
-date created: Sunday, September 3rd 2023, 9:39:52 am
-date modified: Sunday, September 3rd 2023, 10:17:37 pm
+date created: Monday, September 4th 2023, 10:31:10 am
+date modified: Monday, September 4th 2023, 10:31:56 am
 ---
 # Kinemancer
 
 *[Wizard](wizard.md#): Arcane Tradition*  
-*Source: Kinemancer*  
+*Source: Ermis: Ad Astra*  
 
 ## Class Features
 

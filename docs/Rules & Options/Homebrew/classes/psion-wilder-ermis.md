@@ -4,15 +4,15 @@ obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
   - class/psion/wilder
-  - compendium/src/5e/psion
+  - compendium/src/5e/ermis
 aliases: ["Wilder"]
-date created: Sunday, September 3rd 2023, 9:39:52 am
-date modified: Sunday, September 3rd 2023, 11:52:09 pm
+date created: Monday, September 4th 2023, 10:31:10 am
+date modified: Monday, September 4th 2023, 10:31:40 am
 ---
 # Wilder
 
-*[Psion](Psion.md#)*  
-*Source: Psion*  
+*[Psion](psion-ermis.md#)*  
+*Source: Ermis: Ad Astra*  
 
 ## Class Features
 
