@@ -7,7 +7,7 @@ tags:
   - race/the-faeir
 aliases: ["The Faeir"]
 date created: Sunday, September 3rd 2023, 9:39:52 am
-date modified: Sunday, September 3rd 2023, 11:17:16 am
+date modified: Sunday, September 3rd 2023, 10:18:17 pm
 ---
 
 # The Faeir

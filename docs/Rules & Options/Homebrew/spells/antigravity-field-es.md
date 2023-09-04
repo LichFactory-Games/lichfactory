@@ -9,7 +9,7 @@ tags:
   - spell/school/transmutation
 aliases: ["Antigravity Field"]
 date created: Sunday, September 3rd 2023, 9:39:52 am
-date modified: Sunday, September 3rd 2023, 11:17:20 am
+date modified: Sunday, September 3rd 2023, 10:18:34 pm
 ---
 # Antigravity Field
 
