@@ -27,26 +27,26 @@ The planet Ermis and the history of Erspace put special constraints on, and opti
 
 ## New Classes
 
--  **[[psion-psion|Psion]]**: A psychic class with three subclasses: Wilder, Inquisitor, and Tactician. There are also several available psionic subclasses for other classes, including the Fighter (Psi-Knight), Rogue (Soul-Blade), and Sorcerer (Aberrant Mind). Most psions are found, inducted, and trained by the Gnostari -- the psychic order of The Dyarchy. The Gnostari actively seek out and recruit any beings that manifest any significant psychic ability. If a character has psychic powers but does not want to be "recruited" into the Gnostari, then that character had better keep their powers a secret and perhaps also live in a remote place. There are rumors that both the Haim Collective and the Fair harbor various psychics who are of significant power but have no wish to serve the Gnostari.
+-  **[[Psion|Psion]]**: A psychic class with three subclasses: Wilder, Inquisitor, and Tactician. There are also several available psionic subclasses for other classes, including the Fighter (Psi-Knight), Rogue (Soul-Blade), and Sorcerer (Aberrant Mind). Most psions are found, inducted, and trained by the Gnostari -- the psychic order of The Dyarchy. The Gnostari actively seek out and recruit any beings that manifest any significant psychic ability. If a character has psychic powers but does not want to be "recruited" into the Gnostari, then that character had better keep their powers a secret and perhaps also live in a remote place. There are rumors that both the Haim Collective and the Fair harbor various psychics who are of significant power but have no wish to serve the Gnostari.
 - **[[pugilist-sterlingvermin|Pugilist]]**: Pugilists unconsciously tap into their own inner strength in the form of "moxie". This is not an esoteric or mystical energy that flows through the multiverse, but the result of determination forged over a lifetime of hardship with a never-say-die attitude. You can teach someone how to fight but you could never teach someone how to be a pugilist. The secret of mastering moxie doesn't come from disciplined study or rigorous training, it comes from years of wanting and needing
 
 ## New Subclasses
 
 NOTE: These all still require playtesting so please be aware that tweaks might need to be made as the game progresses. 
 
-- **[[wizard-kinemancer-kinemancer|Kinemancer]]** (Wizard): experts in manipulating attractive and repulsive force.
-- **[[wizard-orimancer-orimancer|Orimancer]]** (Wizard): experts at manipulating the limits, boundaries, and measure of space and time.
-- **[[cleric-power-domain-pdcleric|Power Domain]]** (Cleric) : a focus on the promotion of life, the freedom from external constraints or conditions, and the connection of each being's existence to that of others and the fate of all.
-- **[[rogue-tinkerer-tinkerer|Tinkerer]]** (Rogue):  a master of cobbling materials together, though perhaps they don't always work as intended.
+- **[[Wizard Kinemancer|Kinemancer]]** (Wizard): experts in manipulating attractive and repulsive force.
+- **[[Wizard Orimancer|Orimancer]]** (Wizard): experts at manipulating the limits, boundaries, and measure of space and time.
+- **[[Cleric Power Domain|Power Domain]]** (Cleric) : a focus on the promotion of life, the freedom from external constraints or conditions, and the connection of each being's existence to that of others and the fate of all.
+- **[[Rouge Tinkerer|Tinkerer]]** (Rogue):  a master of cobbling materials together, though perhaps they don't always work as intended.
 
 ## Species & Lineage
 
 In addition to Human, the following species and lineages are available for play on Ermis: Dhampir, Giff, Goliath, Hadozee, Harengon, Hexblood, Loxodon, Plasmoid, Thri-Kreen, Vedalken. There are also some new additional species & lineages:
 
-- **[[auton-auton|Auton]]**: A living mechanical construct. 
-- **[[doloi-doloi|Doloi]]**: A kind of goblinoid; may be small or medium in size. 
-- **[[the-faeir-faeir-folk|The Faeir]]**: Humanoid fey creatures, they are enigmatic and aloof.
-- **[[haemin-haemin|Haemin]]**:   Humanoids small of stature but big in their ideas (like if dwarves, halflings, and gnomes were just one race…). 
+- **[[auton|Auton]]**: A living mechanical construct. 
+- **[[doloi|Doloi]]**: A kind of goblinoid; may be small or medium in size. 
+- **[[the-faeir|The Faeir]]**: Humanoid fey creatures, they are enigmatic and aloof.
+- **[[haemin|Haemin]]**:   Humanoids small of stature but big in their ideas (like if dwarves, halflings, and gnomes were just one race…). 
 
 Ermis lacks many standard D&D ancestries/races. You **cannot** play a Dwarf, Dragonborn, Elf, Gnome, Halfling, or Tiefling.
 
@@ -55,4 +55,4 @@ Ermis lacks many standard D&D ancestries/races. You **cannot** play a Dwarf, Dra
 The PHB backgrounds are all available as usual. There is one new background -- the Renegade. There are also a few other backgrounds that work well on Ermis. These are: 
 
 - [[house-agent-erlw|House Agent]]
-- [[renegade-ermis-bg|Renegade]]
+- [[Background Renegade|Renegade]]
