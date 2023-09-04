@@ -7,14 +7,14 @@ date modified: Sunday, September 3rd 2023, 10:16:28 pm
 ---
 # Index of Classes
 
-- [Cleric: Power Domain](cleric-power-domain-pdcleric.md#)
+- [Cleric: Power Domain](Cleric%20Power%20Domain.md#)
 - [Cleric](cleric.md#)
-- [Psion: Inquisitor](psion-inquisitor-psion.md#)
-- [Psion](psion-psion.md#)
-- [Psion: Tactician](psion-tactician-psion.md#)
-- [Psion: Wilder](psion-wilder-psion.md#)
-- [Rogue: Tinkerer](rogue-tinkerer-tinkerer.md#)
+- [Psion: Inquisitor](Psion%20Inquisitor.md#)
+- [Psion](Psion.md#)
+- [Psion: Tactician](Psion%20Tactician.md#)
+- [Psion: Wilder](Psion%20Wilder.md#)
+- [Rogue: Tinkerer](Rouge%20Tinkerer.md#)
 - [Rogue](rogue.md#)
-- [Wizard: Kinemancer](wizard-kinemancer-kinemancer.md#)
-- [Wizard: Orimancer](wizard-orimancer-orimancer.md#)
+- [Wizard: Kinemancer](Wizard%20Kinemancer.md#)
+- [Wizard: Orimancer](Wizard%20Orimancer.md#)
 - [Wizard](wizard.md#)
