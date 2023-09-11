@@ -1,5 +1,5 @@
 ---
-title: 5e Compendium
+title: "5e Compendium"
 ---
 
 
