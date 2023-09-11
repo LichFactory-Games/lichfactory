@@ -1,0 +1,42 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-class
+tags:
+- class/pugilist/bloodhound-bruisers
+- compendium/src/5e/sterlingvermin
+aliases: ["Bloodhound Bruisers"]
+---
+# Bloodhound Bruisers
+*[Pugilist](./pugilist-sterlingvermin.md#): Fight Club*  
+*Source: The Pugilist Class*  
+
+
+## Class Features
+
+### Bloodhound Bruisers (Level 3)
+
+Pugilists in the Bloodhound Bruisers fight club are notorious for looking for trouble and finding it every time. Members of this fight club are highly observant of character traits and physical evidence and can form an almost supernatural connection to the cities they live in. Most use these abilities to become urban defenders of the downtrodden but others lend their talents to less savory organizations.
+
+### Ever Vigilant (Level 3)
+
+When you choose this fight club at 3rd level, you have advantage on initiative rolls. During the first round of combat, you have advantage on attack rolls against creatures who haven't acted yet.
+
+### Detective Work (Level 3)
+
+Also at 3rd level, you gain proficiency with two of the following skills of your choice: [Insight](../../../Rules%20&%20Options/5e%20Rules/skills.md##Insight), [Investigation](../../../Rules%20&%20Options/5e%20Rules/skills.md##Investigation), or [Perception](../../../Rules%20&%20Options/5e%20Rules/skills.md##Perception). In addition, when you make an [Insight](../../../Rules%20&%20Options/5e%20Rules/skills.md##Insight) (Wisdom), [Perception](../../../Rules%20&%20Options/5e%20Rules/skills.md##Perception) (Wisdom), or [Investigation](../../../Rules%20&%20Options/5e%20Rules/skills.md##Investigation) (Intelligence) ability check you can spend 1 moxie point to gain advantage on that ability check.
+
+### Scrap Like a Sleuth (Level 6)
+
+At 6th level, you can use a bonus action and expend 2 moxie points to hone in on the idiosyncrasies and bad habits of an enemy you can see within 30 feet. When you do, you have advantage on weapon attacks against the creature and you add your proficiency bonus to your AC against attacks made by that creature. These effects continue for 1 minute or until you use this feature again.
+
+### Heart of the City (Level 11)
+
+Starting at 11th level, when you take a long rest in a settlement, you can choose to become familiar with the settlement. When you use this feature again, you replace your previous familiar settlement with the current one. You gain the following benefits while in a familiar settlement:
+
+- You cannot be surprised and you add your proficiency bonus to your initiative.  
+- You have darkvision to a range of 120 feet.  
+- When you make an ability check using the Insight, Investigation, or Perception skills that adds your proficiency bonus, add twice your proficiency bonus instead.  
+
+### Eyes Wide Open (Level 17)
+
+Starting at 17th level, you can use a bonus action and spend 1 moxie point to open your senses to your surroundings for 1 minute. During this time, you have advantage on saving throws against being [blinded](../../../Rules%20&%20Options/5e%20Rules/conditions.md##blinded) or [deafened](../../../Rules%20&%20Options/5e%20Rules/conditions.md##deafened) and have truesight out to a distance of 30 feet.
