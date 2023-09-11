@@ -4,7 +4,7 @@ tags:
 share: true
 title: Ermis
 date created: Sunday, March 12th 2023, 4:50:28 pm
-date modified: Saturday, September 2nd 2023, 9:48:21 am
+date modified: Sunday, September 10th 2023, 11:01:01 pm
 ---
 # Welcome to Ermis
 
@@ -38,4 +38,4 @@ There are many other smaller settlements, including agricultural and shipping ce
 
 Kra Chora is largely unexplored by humans, though the Haem have their great city of Caer Mynydd nestled in the Kra'Aav mountain range. There are stories of icy monuments made by an unknown hand.
 
-Ignis is a blackened land. Much of it seems made of a glass like material. There are rumors that giant lizards live there. But these are usually dismissed as mere stories -- the fancies of sailors and savages.  
+Ignis is a blackened land. Much of it seems made of a glass like material. There are rumors that giant lizards live there. But these are usually dismissed as mere stories – the fancies of sailors and fools.  

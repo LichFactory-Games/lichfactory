@@ -7,7 +7,7 @@ type: rules
 share: true
 title: House Rules
 date created: Friday, June 30th 2023, 5:48:01 pm
-date modified: Saturday, September 2nd 2023, 1:05:57 pm
+date modified: Monday, September 4th 2023, 9:28:29 pm
 ---
 
 These house rules are designed to streamline play and are built assuming the WOTC published 2014 Player's Handbook. These house rules are specifically designed to streamline character creation, gameplay, and to support the other players and the GM at the table.
@@ -33,9 +33,9 @@ We're going to use slightly more "gritty" rules for resting. Short rests are (st
 
 Instead of the standard degrees of exhaustion, exhaustion imposes a cumulative -1 penalty on all attack rolls, saving throws, and ability checks to the exhausted creature. A creature dies if it reaches -6.
 
-## Consider the Boss Monster
+## Big Bads
 
-Some monsters in our games are just more powerful than others. These "boss" monsters often have Legendary Resistance even if they're not full legendary monsters.
+Some monsters in our games are just more powerful than others. These "big bad boss" monsters often have Legendary Resistance even if they're not full legendary monsters.
 
 Further, bosses can use Legendary Resistance to break other debilitating effects. For example, armored bosses can rip off their armor to avoid heat metal. A death knight can tear open a force cage. A dragon's breath can sometimes break through resistances and immunities. Bosses likely cannot be charmed, suggested, or otherwise easily mentally manipulated.
 
