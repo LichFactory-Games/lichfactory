@@ -1,16 +1,12 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/wizard
-  - compendium/src/5e/phb
+- class/wizard
+- compendium/src/5e/phb
 aliases: ["Wizard"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Sunday, September 10th 2023, 10:27:12 pm
 ---
 # Wizard
-
 *Source: Player's Handbook p. 112. Available in the SRD and the Basic Rules.*  
 
 > [!tldr]- Feature progression
@@ -143,27 +139,24 @@ The price that wizards pay for their mastery is that most valuable of commoditie
 If you're playing a wizard, take advantage of the opportunity to make your character more than just a stereotypical spell-slinger. Use the advice that follows to add some intriguing details to how your wizard interacts with the world.
 
 ## Spellbook
-
-*Source: Xanathar's Guide to Everything*
+_Source: Xanathar's Guide to Everything_
 
 Your wizard character's most prized possession—your spellbook—might be an innocuous-looking volume whose covers show no hint of what's inside. Or you might display some flair, as many wizards do, by carrying a spellbook of an unusual sort. If you don't own such an item already, one of your goals might be to find a spellbook that sets you apart by its appearance or its means of manufacture.
 
 **Spellbooks**
 
-| `d6` | Spellbook |
-|------|-----------|
+| dice: d6 | Spellbook |
+|----------|-----------|
 | 1 | A tome with pages that are thin sheets of metal, spells etched into them with acid |
 | 2 | Long straps of leather on which spells are written, wrapped around a staff for ease of transport |
 | 3 | A battered tome filled with pictographs that only you can understand |
 | 4 | Small stones inscribed with spells and kept in a cloth bag |
 | 5 | A scorched book, ravaged by dragon fire, with the script of your spells barely visible on its pages |
 | 6 | A tome full of black pages whose writing is visible only in dim light or darkness |
-
 ^spellbooks
 
 ## Ambition
-
-*Source: Xanathar's Guide to Everything*
+_Source: Xanathar's Guide to Everything_
 
 Few aspiring wizards undertake the study of magic without some personal goal in mind. Many wizards use their spells as a tool to produce a tangible benefit, in material goods or in status, for themselves or their companions. For others, the theoretical aspect of magic might have a strong appeal, pushing those wizards to seek out knowledge that supports new theories of the arcane or confirms old ones.
 
@@ -171,20 +164,18 @@ Beyond the obvious, why does your wizard character study magic, and what do you 
 
 **Ambitions**
 
-| `d6` | Ambition |
-|------|----------|
+| dice: d6 | Ambition |
+|----------|----------|
 | 1 | You will prove that the gods aren't as powerful as folk believe. |
 | 2 | Immortality is the end goal of your studies. |
 | 3 | If you can fully understand magic, you can unlock its use for all and usher in an era of equality. |
 | 4 | Magic is a dangerous tool. You use it to protect what you treasure. |
 | 5 | Arcane power must be taken away from those who would abuse it. |
 | 6 | You will become the greatest wizard the world has seen in generations. |
-
 ^ambitions
 
 ## Eccentricity
-
-*Source: Xanathar's Guide to Everything*
+_Source: Xanathar's Guide to Everything_
 
 Endless hours of solitary study and research can have a negative effect on anyone's social skills. Wizards, who are a breed apart to begin with, are no exception. An odd mannerism or two is not necessarily a drawback, though; an eccentricity of this sort is usually harmless and could provide a source of amusement or serve as a calling card of sorts.
 
@@ -192,15 +183,14 @@ If your character has an eccentricity, is it a physical tic or a mental one? Are
 
 **Eccentricities**
 
-| `d6` | Eccentricity |
-|------|--------------|
+| dice: d6 | Eccentricity |
+|----------|--------------|
 | 1 | You have the habit of tapping your foot incessantly, which often annoys those around you. |
 | 2 | Your memory is quite good, but you have no trouble pretending to be absentminded when it suits your purposes. |
 | 3 | You never enter a room without looking to see what's hanging from the ceiling. |
 | 4 | Your most prized possession is a dead worm that you keep inside a potion vial. |
 | 5 | When you want people to leave you alone, you start talking to yourself. That usually does the trick. |
 | 6 | Your fashion sense and grooming, or more accurately lack thereof, sometimes cause others to assume you are a beggar. |
-
 ^eccentricities
 
 ## Class Features
@@ -286,7 +276,7 @@ When you reach 4th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Arcane Tradition Feature (Level 6)
+### Arcane Tradition feature (Level 6)
 
 At 6th level, you gain a feature granted by your Arcane Tradition.
 
@@ -296,7 +286,7 @@ When you reach 8th level, you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Arcane Tradition Feature (Level 10)
+### Arcane Tradition feature (Level 10)
 
 At 10th level, you gain a feature granted by your Arcane Tradition.
 
@@ -306,7 +296,7 @@ When you reach 12th level, you can increase one ability score of your choice by 
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Arcane Tradition Feature (Level 14)
+### Arcane Tradition feature (Level 14)
 
 At 14th level, you gain a feature granted by your Arcane Tradition.
 
