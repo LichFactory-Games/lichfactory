@@ -1,15 +1,11 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclass: json5e-background
 tags:
-  - compendium/src/5e/ermis
+- compendium/src/5e/ermis
 aliases: ["Renegade"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Sunday, September 10th 2023, 10:28:18 pm
 ---
 # Renegade
-
 *Ermis: Ad Astra*  
 
 - **Skill Proficiencies.** Survival and another of your choice from Arcana, Deception, Insight, Persuasion, or Religion.  
