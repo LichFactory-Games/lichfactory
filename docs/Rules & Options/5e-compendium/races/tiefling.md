@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/tiefling
+  - compendium/src/5e/phb
+  - race/tiefling
 aliases: ["Tiefling"]
+date created: Monday, September 11th 2023, 10:02:59 pm
+date modified: Tuesday, September 12th 2023, 9:06:12 am
 ---
 
 # Tiefling
+
 *Player's Handbook p. 42. Available in the SRD.*
+
 ![](../../../assets/img/tiefling.png)  
 
 - **Ability Scores**: Charisma +2, Intelligence +1
