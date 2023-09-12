@@ -1,18 +1,15 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/psion/wilder
-  - compendium/src/5e/ermis
+- class/psion/wilder
+- compendium/src/5e/ermis
 aliases: ["Wilder"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Thursday, September 7th 2023, 11:00:00 pm
 ---
 # Wilder
-
-*[Psion](psion-ermis.md#)*  
+*[Psion](./psion-ermis.md#)*  
 *Source: Ermis: Ad Astra*  
+
 
 ## Class Features
 
@@ -28,8 +25,8 @@ If a Wild Psionic effect is a power, it's too wild to be affected by any further
 
 **Wild Psionic Surge**
 
-| `d100` | Effect |
-|--------|--------|
+| dice: d100 | Effect |
+|------------|--------|
 | 01-02 | Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls. |
 | 03-04 | For the next minute, you can detect any invisible creature if you have line of sight to it. |
 | 05-06 | You manifest a psionic version of fireball as a 3rd-level power centered on yourself. |
@@ -80,7 +77,6 @@ If a Wild Psionic effect is a power, it's too wild to be affected by any further
 | 95-96 | You regain your lowest-level expended psionic power die. |
 | 97-98 | For the next minute, you must shout when you speak. |
 | 99-00 | You regain all expended psionic power dice. |
-
 ^wild-psionic-surge
 
 ### Psychic Feedback (Level 5)
