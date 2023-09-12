@@ -18,6 +18,6 @@ aliases: ["Spatial Distortion"]
 
 You distort the space around you, causing the area within the radius to become difficult terrain for all creatures other than you. Additionally, any ranged attacks or spells made into or out of the area are at disadvantage.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra
