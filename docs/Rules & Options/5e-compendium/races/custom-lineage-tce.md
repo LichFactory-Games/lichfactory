@@ -1,13 +1,17 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/tce
-- race/custom-lineage
+  - compendium/src/5e/tce
+  - race/custom-lineage
 aliases: ["Custom Lineage"]
+date created: Monday, September 11th 2023, 10:02:59 pm
+date modified: Tuesday, September 12th 2023, 9:06:27 am
 ---
 
 # Custom Lineage
+
 *Tasha's Cauldron of Everything p. 8*
 
 - **Ability Scores**: Apply +2 to one of Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma
