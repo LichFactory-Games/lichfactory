@@ -1,18 +1,15 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/wizard/orimancer
-  - compendium/src/5e/ermis
+- class/wizard/orimancer
+- compendium/src/5e/ermis
 aliases: ["Orimancer"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Monday, September 4th 2023, 9:27:34 pm
 ---
 # Orimancer
-
-*[Wizard](wizard.md#): Arcane Tradition*  
+*[Wizard](./wizard.md#): Arcane Tradition*  
 *Source: Ermis: Ad Astra*  
+
 
 ## Class Features
 
