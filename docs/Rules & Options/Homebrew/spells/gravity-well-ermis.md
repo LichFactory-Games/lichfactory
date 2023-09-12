@@ -18,6 +18,6 @@ aliases: ["Gravity Well"]
 
 You manipulate the gravitational forces within a 15-foot radius sphere centered on yourself. The area becomes difficult terrain for creatures other than you, and each creature other than you that starts its turn within the area must succeed on a Strength saving throw or have its speed halved until the start of its next turn. Additionally, ranged weapon attacks made into or out of the area are made at disadvantage.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra
