@@ -20,6 +20,6 @@ You reverse time for a brief moment, causing a creature or object within range t
 
 Additionally, if you cast this spell at a higher level, you can target an additional creature or object for each level above 7th.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra
