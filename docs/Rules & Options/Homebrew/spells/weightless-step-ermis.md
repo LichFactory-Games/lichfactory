@@ -18,6 +18,6 @@ aliases: ["Weightless Step"]
 
 For the duration, you can move through difficult terrain as if it were normal terrain, and you gain a climbing speed equal to your walking speed. Additionally, you can jump up to your Intelligence modifier (minimum of 1) times your normal jump distance.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra

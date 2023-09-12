@@ -18,6 +18,6 @@ aliases: ["Gravity Flux"]
 
 You create an area of gravitational flux centered on a point you can see within range. The area is a 20-foot radius sphere. Creatures within the sphere must succeed on a Strength saving throw or be pulled towards the center of the sphere, where they become restrained. A restrained creature can use its action to make a Strength check against your spell save DC to escape. Additionally, any creature that starts its turn restrained by the spell takes 2d8 force damage.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra

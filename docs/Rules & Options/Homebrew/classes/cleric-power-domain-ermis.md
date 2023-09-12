@@ -1,19 +1,16 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/cleric/pdcleric
-  - compendium/src/5e/ermis
-  - domain/pdcleric
+- class/cleric/pdcleric
+- compendium/src/5e/ermis
+- domain/pdcleric
 aliases: ["Power Domain"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Sunday, September 10th 2023, 10:28:07 pm
 ---
 # Power Domain
-
-*[Cleric](cleric.md#): Divine Domain*  
+*[Cleric](./cleric.md#): Divine Domain*  
 *Source: Ermis: Ad Astra*  
+
 
 ## Class Features
 
@@ -32,7 +29,6 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 | 5th | aura of vitality, clairvoyance |
 | 7th | aura of purity, divination |
 | 9th | greater restoration, legend lore |
-
 ^power-domain-spells
 
 ### Imbue with Power (Level 1)

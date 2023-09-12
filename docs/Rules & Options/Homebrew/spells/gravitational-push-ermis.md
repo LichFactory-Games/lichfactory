@@ -18,6 +18,6 @@ aliases: ["Gravitational Push"]
 
 You manipulate the gravitational forces around a creature of your choice within range. The creature must succeed on a Strength saving throw or be pushed up to 10 feet away from you.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra

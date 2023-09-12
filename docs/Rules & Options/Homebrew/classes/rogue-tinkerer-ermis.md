@@ -1,18 +1,15 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/rogue/tinkerer
-  - compendium/src/5e/ermis
+- class/rogue/tinkerer
+- compendium/src/5e/ermis
 aliases: ["Tinkerer"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Sunday, September 10th 2023, 10:27:14 pm
 ---
 # Tinkerer
-
-*[Rogue](rogue.md#): Roguish Archetype*  
+*[Rogue](./rogue.md#): Roguish Archetype*  
 *Source: Ermis: Ad Astra*  
+
 
 ## Class Features
 
@@ -38,13 +35,16 @@ You are adept at constructing or fixing a variety of mechanical devices. All tin
 
 #### Tool Proficiency
 
+
 You gain proficiency in two tool sets of your choice, one of which must be tinker's tools if you are not already proficient in them. You gain one additional tool proficiency at levels 5, 7, 11, and 13. You must have expertise in at least two of tinker's tools, smith's tools, alchemist's tools, or carpenter's tools, before you can gain expertise in any other tool set.
 
 #### Fast Production
 
+
 You may produce an item, tool, or construct with unusual rapidity. However, these products are prone to volatility and breakage. The more complex the item or the more quickly it is produced, the more likely that something will go wrong. When using Fast Production, you can create an item, tool, or construct in half the normal time it would take to create it. However, the DC for the creation of the item is based on its complexity score plus 10. If you wish to further reduce the time required for production, you may do so, but for each further unit increment of time (i.e. for each unit of measurement as minutes/hours/days/weeks), you add an additional 2 to the DC of the creation check. If the DC is not met during the creation process, the device is either destroyed or rendered non-functional, and you must start over.
 
 #### Restoration
+
 
 When it comes to repair, so long as an item has not been completely destroyed you can expend an action and try to restore it to a minimal level of functionality. Roll your tinker's proficiency against a DC 10 + the complexity level of the item. If successful you can restore 1 HP to an item in a single turn; you can restore up to 1d4 + your Intelligence modifier to an item in 1 minute outside of combat. Otherwise repair rules are as normal.
 
@@ -67,7 +67,6 @@ When it comes to repair, so long as an item has not been completely destroyed yo
 | Steam-powered mech | 15 |
 | Weather control device | 17 |
 | Steam-powered airship carrier | 19 |
-
 ^sample-item-complexity-levels
 
 ### Tool Improvisation (Level 3)

@@ -18,6 +18,6 @@ aliases: ["Spatial Rift"]
 
 You create a rift in space at a point you can see within range. Any creature within a 10-foot radius of the rift must make a Dexterity saving throw or take 6d6 force damage and be pushed 10 feet away from the rift. A successful save halves the damage and negates the push.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra

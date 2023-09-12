@@ -18,6 +18,6 @@ aliases: ["Antigravity Field"]
 
 You create an antigravity field centered on yourself, which lasts for the duration. Any creatures, objects, or liquids within the area of effect that aren't secured to a solid surface are affected by the field, and will begin to float and drift upward at a rate of 60 feet per round. While in the field, creatures can move themselves by pushing off of objects or other creatures, and can move at their normal speed in any direction. They can also choose to fall by intentionally moving downward, but otherwise will continue to float until the spell ends or they exit the field. When the spell ends, affected creatures and objects gently descend to the ground.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra
