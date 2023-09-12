@@ -1,28 +1,24 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/ermis
+- compendium/src/5e/ermis
 aliases: ["Minor Talent"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Monday, September 4th 2023, 5:02:30 pm
 ---
 # Minor Talent
-
 *Source: Ermis: Ad Astra* 
 
-- [Animal Magnetism](animal-magnetism-ermis.md#)
-- [ESP](esp-ermis.md#)
-- [Life Touch](life-touch-ermis.md#)
-- [Mental Rapport](mental-rapport-ermis.md#)
-- [Mind Spike](mind-spike-ermis.md#)
-- [Mislead](mislead-ermis.md#)
-- [Psi Bolt](psi-bolt-ermis.md#)
-- [Psi Digits](psi-digits-ermis.md#)
-- [Psi Whisper](psi-whisper-ermis.md#)
-- [Psionic Wave](psionic-wave-ermis.md#)
-- [Psychic Shield](psychic-shield-ermis.md#)
-- [Psychic Whip](psychic-whip-ermis.md#)
-- [Thaumaturgy](thaumaturgy-ermis.md#)
-- [Toughen](toughen-ermis.md#)
+- [Animal Magnetism](compendium/optional-features/animal-magnetism-ermis.md)
+- [ESP](compendium/optional-features/esp-ermis.md)
+- [Life Touch](compendium/optional-features/life-touch-ermis.md)
+- [Mental Rapport](compendium/optional-features/mental-rapport-ermis.md)
+- [Mind Spike](compendium/optional-features/mind-spike-ermis.md)
+- [Mislead](compendium/optional-features/mislead-ermis.md)
+- [Psi Bolt](compendium/optional-features/psi-bolt-ermis.md)
+- [Psi Digits](compendium/optional-features/psi-digits-ermis.md)
+- [Psi Whisper](compendium/optional-features/psi-whisper-ermis.md)
+- [Psionic Wave](compendium/optional-features/psionic-wave-ermis.md)
+- [Psychic Shield](compendium/optional-features/psychic-shield-ermis.md)
+- [Psychic Whip](compendium/optional-features/psychic-whip-ermis.md)
+- [Thaumaturgy](compendium/optional-features/thaumaturgy-ermis.md)
+- [Toughen](compendium/optional-features/toughen-ermis.md)
