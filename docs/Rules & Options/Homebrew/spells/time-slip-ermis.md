@@ -18,6 +18,6 @@ aliases: ["Time Slip"]
 
 You slip out of time for a brief moment, gaining a +2 bonus to AC and Dexterity saving throws. Additionally, you can use your reaction to move up to your speed when an attack is made against you.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra
