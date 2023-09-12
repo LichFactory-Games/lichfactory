@@ -1,18 +1,15 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/psion/tactician
-  - compendium/src/5e/ermis
+- class/psion/tactician
+- compendium/src/5e/ermis
 aliases: ["Tactician"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Sunday, September 10th 2023, 10:27:20 pm
 ---
 # Tactician
-
-*[Psion](psion-ermis.md#)*  
+*[Psion](./psion-ermis.md#)*  
 *Source: Ermis: Ad Astra*  
+
 
 ## Class Features
 
