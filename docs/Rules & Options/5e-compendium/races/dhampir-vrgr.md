@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/vrgr
-- race/dhampir
+  - compendium/src/5e/vrgr
+  - race/dhampir
 aliases: ["Dhampir"]
+date created: Monday, September 11th 2023, 10:02:59 pm
+date modified: Tuesday, September 12th 2023, 9:06:27 am
 ---
 
 # Dhampir
+
 *Van Richten's Guide to Ravenloft p. 16*
+
 ![](../../../assets/img/dhampir.png)  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -39,6 +44,7 @@ While many dhampirs thirst for blood, your character might otherwise gain susten
 | 4 | Psychic energy |
 | 5 | Dreams |
 | 6 | Life energy |
+
 ^dhampir-hungers
 
 ### Dhampir Origins
@@ -57,8 +63,8 @@ Dhampirs often arise from encounters with vampires, but all manner of macabre ba
 | 6 | You are a diminished form of an otherworldly being. Slaking your hunger hastens your renewal. |
 | 7 | One of your parents was a vampire. |
 | 8 | A radical experiment changed your body, making you reliant on others for vital fluids. |
-^dhampir-origins
 
+^dhampir-origins
 
 ## Traits
 

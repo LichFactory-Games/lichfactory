@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/aag
-- race/giff
+  - compendium/src/5e/aag
+  - race/giff
 aliases: ["Giff"]
+date created: Monday, September 11th 2023, 10:02:59 pm
+date modified: Tuesday, September 12th 2023, 9:06:26 am
 ---
 
 # Giff
+
 *Astral Adventurer's Guide p. 12*
+
 ![](../../../assets/img/giff.webp)  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -26,7 +31,6 @@ Most giff believe they originated on one world, but their home world is now the 
 Although they don't realize it, giff are drawn to the Astral Plane because, on a deep psychic level, they remain connected to their creator gods, who have just enough divine spark left in them to imbue giff with sparks of their own, which giff have learned to channel through their weapons. Most giff have no idea where this so-called astral spark comes from, but they feel its presence most strongly when they are in Wildspace or the Astral Sea.
 
 Giff are split into two camps concerning how their name is pronounced. Half of them say it with a hard g, half with a soft g. Disagreements over the correct pronunciation often blossom into hard feelings, loud arguments, and head-butting contests, but they rarely escalate beyond that.
-
 
 ## Traits
 

@@ -8,7 +8,7 @@ aliases: ["Fey Teleportation"]
 # Fey Teleportation
 *Source: Xanathar's Guide to Everything p. 74*  
 
-***Prerequisites*** [Elf (High)](../races/elf-high.md#)
+***Prerequisites*** elf (high)
 
 Your study of high elven lore has unlocked fey power that few other elves possess, except your eladrin cousins. Drawing on your fey ancestry, you can momentarily stride through the Feywild to shorten your path from one place to another. You gain the following benefits:
 

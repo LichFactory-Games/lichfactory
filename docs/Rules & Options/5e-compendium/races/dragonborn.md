@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/dragonborn
+  - compendium/src/5e/phb
+  - race/dragonborn
 aliases: ["Dragonborn"]
+date created: Tuesday, September 12th 2023, 8:29:21 am
+date modified: Tuesday, September 12th 2023, 9:06:28 am
 ---
 
 # Dragonborn
+
 *Player's Handbook p. 32. Available in the SRD.*
+
 ![](../../../assets/img/dragonborn.png)  
 
 - **Ability Scores**: Strength +2, Charisma +1
@@ -78,6 +83,7 @@ You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry
 | Red | Fire | 15 ft. cone (Dex. save) |
 | Silver | Cold | 15 ft. cone (Con. save) |
 | White | Cold | 15 ft. cone (Con. save) |
+
 ^draconic-ancestry
 
 ### Breath Weapon

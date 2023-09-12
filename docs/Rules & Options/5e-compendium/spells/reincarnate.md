@@ -25,17 +25,17 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 | dice: d100 | Race |
 |------------|------|
 | 1-4 | [Dragonborn](../races/dragonborn.md#) |
-| 5-13 | [Dwarf, hill](../races/dwarf-hill.md#) |
-| 14-21 | [Dwarf, mountain](../races/dwarf-mountain.md#) |
-| 22-25 | [Elf, dark](../races/elf-drow.md#) |
-| 26-34 | [Elf, high](../races/elf-high.md#) |
-| 35-42 | [Elf, wood](../races/elf-wood.md#) |
-| 43-46 | [Gnome, forest](../races/gnome-forest.md#) |
-| 47-52 | [Gnome, rock](../races/gnome-rock.md#) |
+| 5-13 | Dwarf, hill |
+| 14-21 | Dwarf, mountain |
+| 22-25 | Elf, dark |
+| 26-34 | Elf, high |
+| 35-42 | Elf, wood |
+| 43-46 | Gnome, forest |
+| 47-52 | Gnome, rock |
 | 53-56 | [Half-elf](../races/half-elf.md#) |
 | 57-60 | [Half-orc](../races/half-orc.md#) |
-| 61-68 | [Halfling, lightfoot](../races/halfling-lightfoot.md#) |
-| 69-76 | [Halfling, stout](../races/halfling-stout.md#) |
+| 61-68 | Halfling, lightfoot |
+| 69-76 | Halfling, stout |
 | 77-96 | [Human](../races/human.md#) |
 | 97-0 | [Tiefling](../races/tiefling.md#) |
 ^reincarnate-races

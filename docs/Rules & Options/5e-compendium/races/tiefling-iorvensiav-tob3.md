@@ -1,13 +1,17 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/tob3
-- race/tiefling/iorvensiav
+  - compendium/src/5e/tob3
+  - race/tiefling/iorvensiav
 aliases: ["Tiefling (Iorvensiav)"]
+date created: Tuesday, September 12th 2023, 8:53:06 am
+date modified: Tuesday, September 12th 2023, 9:06:19 am
 ---
 
 # Tiefling (Iorvensiav)
+
 *Tome of Beasts 3 p. 117*
 
 - **Ability Scores**: Charisma +2, Intelligence +1

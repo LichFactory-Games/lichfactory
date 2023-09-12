@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/dwarf
+  - compendium/src/5e/phb
+  - race/dwarf
 aliases: ["Dwarf"]
+date created: Monday, September 11th 2023, 10:02:59 pm
+date modified: Tuesday, September 12th 2023, 9:06:29 am
 ---
 
 # Dwarf
+
 *Player's Handbook p. 18. Available in the SRD and the Basic Rules.*
+
 ![](../../../assets/img/dwarf.png)  
 
 - **Ability Scores**: Constitution +2
