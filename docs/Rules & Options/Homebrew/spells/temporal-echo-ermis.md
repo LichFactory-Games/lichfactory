@@ -18,6 +18,6 @@ aliases: ["Temporal Echo"]
 
 You create an echo of yourself that lasts for the duration. As a bonus action on subsequent turns, you can swap places with the echo, allowing you to move up to your movement speed as part of the swap.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra

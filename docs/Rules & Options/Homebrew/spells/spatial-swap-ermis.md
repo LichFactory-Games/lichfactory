@@ -18,6 +18,6 @@ aliases: ["Spatial Swap"]
 
 You swap the positions of two creatures or objects within range. Both targets must be willing or must make a Wisdom saving throw. On a failed save, the target resists the swap and the spell fails. On a successful save, the targets swap places, exchanging their positions. If either target cannot occupy the other's space, the spell fails. The targets retain their orientation and any objects they are carrying or wearing. If a target is unwilling or unable to move, the spell fails.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra

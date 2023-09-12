@@ -1,19 +1,14 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-  - compendium/src/5e/ermis
-  - race/auton
+- compendium/src/5e/ermis
+- race/auton
 aliases: ["Auton"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Monday, September 4th 2023, 5:04:29 pm
 ---
 
 # Auton
-
 *Ermis: Ad Astra*
-
 ![](../../../assets/img/auton.png)  
 
 - **Ability Scores**: Apply +1 to one of ; or Apply +1 to one of 
@@ -31,6 +26,7 @@ Autons can be programmed to carry out simple or complex tasks, such as guarding 
 Despite their artificial nature, Autons are capable of learning and adapting to new situations. They can be equipped with various tools and weapons, making them versatile assets in many fields.
 
 However, the creation of Autons is not without controversy. Some view them as threats to human employment or as dangerous potential weapons if they were to malfunction or fall into the wrong hands. Others argue that they should be treated as other sapient beings with their own rights and freedoms. Autons are still relatively rare on Ermis, though it is thought that they will inevitably increase in number due to their usefulness in carrying out various tasks.
+
 
 ## Traits
 

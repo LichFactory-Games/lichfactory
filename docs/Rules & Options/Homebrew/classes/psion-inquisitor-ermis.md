@@ -1,18 +1,15 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/psion/inquisitor
-  - compendium/src/5e/ermis
+- class/psion/inquisitor
+- compendium/src/5e/ermis
 aliases: ["Inquisitor"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Monday, September 4th 2023, 4:29:53 pm
 ---
 # Inquisitor
-
-*[Psion](psion-ermis.md#)*  
+*[Psion](./psion-ermis.md#)*  
 *Source: Ermis: Ad Astra*  
+
 
 ## Class Features
 

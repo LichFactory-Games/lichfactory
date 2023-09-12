@@ -18,6 +18,6 @@ aliases: ["Time Lock"]
 
 You lock a creature or object in time, causing it to be unable to move or take any actions for the duration. At the end of each of its turns, the target can make a Wisdom saving throw to end the effect.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra

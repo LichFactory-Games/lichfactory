@@ -1,16 +1,12 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/psion
-  - compendium/src/5e/ermis
+- class/psion
+- compendium/src/5e/ermis
 aliases: ["Psion"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Sunday, September 10th 2023, 10:27:43 pm
 ---
 # Psion
-
 *Source: Ermis: Ad Astra*  
 
 > [!tldr]- Feature progression
@@ -215,7 +211,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Empowered Psionics (Level 13)
 
-At 13th level, when you deal psychic or force damage with a psychic attack, you can add your Constitution modifier to the damage against the attack's targets.
+At 13th level, when you deal psychic or force damage with a psychic attack, you can add your Constitution modifier to the damage against the attack’s targets.
 
 ### Psionic Archetype Feature (Level 15)
 

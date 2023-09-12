@@ -1,16 +1,12 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-  - compendium/src/5e/ermis
-  - optional-feature/mint
+- compendium/src/5e/ermis
+- optional-feature/mint
 aliases: ["Animal Magnetism"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Monday, September 4th 2023, 4:30:11 pm
 ---
 # Animal Magnetism
-
 *Source: Ermis: Ad Astra* 
 
 **Type:** Action
