@@ -18,6 +18,6 @@ aliases: ["Weightless Field"]
 
 You create an area of low gravity within a 30-foot radius sphere centered on yourself. For the duration, creatures, objects, and structures within the area are affected as if by the feather fall spell. Additionally, creatures within the area can jump up to three times their normal distance and can move through difficult terrain as if it were normal terrain.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra
