@@ -33,4 +33,4 @@ If you cast this spell multiple times, you can have no more than two of its non-
 
 **Classes**: [Cleric (Nature Domain)](../classes/cleric-nature-domain.md#), [Druid (Circle of the Land)](../classes/druid-circle-of-the-land.md#), [Druid](../classes/druid.md#), [Fighter (Eldritch Knight)](../classes/fighter-eldritch-knight.md#), [Rogue (Arcane Trickster)](../classes/rogue-arcane-trickster.md#), [Sorcerer](../classes/sorcerer.md#), [Wizard](../classes/wizard.md#)
 
-Xanathar's Guide to Everything p. 164, Explorer's Guide to Wildemount
+Xanathar's Guide to Everything p. 164
