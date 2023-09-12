@@ -18,6 +18,6 @@ aliases: ["Spatial Compression"]
 
 You compress your physical form, causing you to occupy half the space you normally would. You have advantage on Dexterity (Acrobatics) and Dexterity (Stealth) checks, and gain resistance to bludgeoning, piercing, and slashing damage.
 
-**Classes**: [Wizard](../../../z_compendium/classes/wizard.md#)
+**Classes**: [Wizard](../../5e-compendium/classes/wizard.md#)
 
 Ermis: Ad Astra
