@@ -9,4 +9,4 @@ jobs:
     with:
       AUTO_MERGE: true
     secrets:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GH_TOKEN: ${{ secrets.PUBLISHER_TEMPLATE }}
