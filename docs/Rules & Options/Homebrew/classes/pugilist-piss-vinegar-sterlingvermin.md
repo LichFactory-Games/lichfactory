@@ -1,15 +1,18 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/pugilist/piss-vinegar
-- compendium/src/5e/sterlingvermin
+  - class/pugilist/piss-vinegar
+  - compendium/src/5e/sterlingvermin
 aliases: ["Piss & Vinegar"]
+date created: Monday, September 11th 2023, 9:53:45 pm
+date modified: Sunday, September 17th 2023, 11:00:48 am
 ---
 # Piss & Vinegar
+
 *[Pugilist](./pugilist-sterlingvermin.md#): Fight Club*  
 *Source: The Pugilist Class*  
-
 
 ## Class Features
 
