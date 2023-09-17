@@ -1,15 +1,18 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/druid/wildfire
-- compendium/src/5e/tce
+  - class/druid/wildfire
+  - compendium/src/5e/tce
 aliases: ["Circle of Wildfire"]
+date created: Monday, September 11th 2023, 9:02:59 pm
+date modified: Thursday, September 14th 2023, 7:37:52 pm
 ---
 # Circle of Wildfire
+
 *[Druid](./druid.md#): Druid Circle*  
 *Source: Tasha's Cauldron of Everything p. 39*  
-
 
 ## Class Features
 
@@ -34,6 +37,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 | 5th | [plant growth](../spells/plant-growth.md#), [revivify](../spells/revivify.md#) |
 | 7th | [aura of life](../spells/aura-of-life.md#), [fire shield](../spells/fire-shield.md#) |
 | 9th | [flame strike](../spells/flame-strike.md#), [mass cure wounds](../spells/mass-cure-wounds.md#) |
+
 ^circle-of-wildfire-spells
 
 ### Summon Wildfire Spirit (Level 2)
