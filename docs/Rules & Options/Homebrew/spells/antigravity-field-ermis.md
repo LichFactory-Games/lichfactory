@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/5
-- spell/school/transmutation
+- spell/school/kinemancy
 aliases: ["Antigravity Field"]
 ---
 # Antigravity Field
-*5th-level, Transmutation*  
+*5th-level, Kinemancy*  
 
 - **Casting time:** 1 action
 - **Range:** Self (20-feet sphere)
