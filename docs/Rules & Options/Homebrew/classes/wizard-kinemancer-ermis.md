@@ -7,7 +7,7 @@ tags:
 aliases: ["Kinemancer"]
 ---
 # Kinemancer
-*[Wizard](./wizard.md#): Arcane Tradition*  
+*[Wizard](../../5e-compendium/classes/wizard.md#): Arcane Tradition*  
 *Source: Ermis: Ad Astra*  
 
 
