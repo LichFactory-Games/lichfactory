@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/2
-- spell/school/transmutation
+- spell/school/kinemancy
 aliases: ["Force Pull"]
 ---
 # Force Pull
-*2nd-level, Transmutation*  
+*2nd-level, Kinemancy*  
 
 - **Casting time:** 1 action
 - **Range:** 30 feet
