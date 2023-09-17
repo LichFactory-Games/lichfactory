@@ -10,7 +10,7 @@ share: true
 type: tutorial
 title: Player Basics
 date created: Saturday, July 15th 2023, 5:12:07 pm
-date modified: Saturday, September 2nd 2023, 9:48:21 am
+date modified: Sunday, September 17th 2023, 11:35:11 am
 ---
 
 I'll walk you through the basic tutorial that you can find [here](https://foundryvtt.com/article/player-orientation/).  Here are a couple of other links to tutorials.
@@ -58,6 +58,12 @@ I'll use some background ambient sound. If it gets annoying for you, or otherwis
 ## Users & Macros
 
 ![[../assets/img/foundry-macros.png|foundry-macros.png]]
+
+## Chat
+
+Other than your character sheet, the chat is probably the most important interface for you to use in Foundry, as it is where you will usually roll all dice and see the results of your and others rolls. You can also send messages to other players or the DM. For more extensive info see [[./Foundry Chat Commands|Foundry Chat Commands]].
+
+![[../assets/img/foundry-chat.png|foundry-chat.png]]
 
 ## Your Character
 
