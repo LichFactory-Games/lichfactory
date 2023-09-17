@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/1
-- spell/school/divination
+- spell/school/orimancy
 aliases: ["Temporal Echo"]
 ---
 # Temporal Echo
-*1st-level, Divination*  
+*1st-level, Orimancy*  
 
 - **Casting time:** 1 bonus action
 - **Range:** Self
