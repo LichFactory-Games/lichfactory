@@ -1,15 +1,18 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/ranger/fey-wanderer
-- compendium/src/5e/tce
+  - class/ranger/fey-wanderer
+  - compendium/src/5e/tce
 aliases: ["Fey Wanderer"]
+date created: Monday, September 11th 2023, 9:02:59 pm
+date modified: Thursday, September 14th 2023, 7:42:59 pm
 ---
 # Fey Wanderer
+
 *[Ranger](./ranger.md#): Ranger Archetype*  
 *Source: Tasha's Cauldron of Everything p. 58*  
-
 
 ## Class Features
 
@@ -40,6 +43,7 @@ You learn an additional spell when you reach certain levels in this class, as sh
 | 9th | [dispel magic](../spells/dispel-magic.md#) |
 | 13th | [dimension door](../spells/dimension-door.md#) |
 | 17th | [mislead](../spells/mislead.md#) |
+
 ^fey-wanderer-spells
 
 You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.
@@ -54,6 +58,7 @@ You also possess a preternatural blessing from a fey ally or a place of fey powe
 | 4 | Your shadow dances while no one is looking directly at it. |
 | 5 | Horns or antlers sprout from your head. |
 | 6 | Your skin and hair change color to match the season at each dawn. |
+
 ^feywild-gifts
 
 ### Otherworldly Glamour (Level 3)
