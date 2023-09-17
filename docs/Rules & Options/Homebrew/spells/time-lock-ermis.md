@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/5
-- spell/school/transmutation
+- spell/school/orimancy
 aliases: ["Time Lock"]
 ---
 # Time Lock
-*5th-level, Transmutation*  
+*5th-level, Orimancy*  
 
 - **Casting time:** 1 action
 - **Range:** 60 feet
