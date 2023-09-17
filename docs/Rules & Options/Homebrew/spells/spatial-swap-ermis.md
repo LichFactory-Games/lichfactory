@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/8
-- spell/school/conjuration
+- spell/school/orimancy
 aliases: ["Spatial Swap"]
 ---
 # Spatial Swap
-*8th-level, Conjuration*  
+*8th-level, Orimancy*  
 
 - **Casting time:** 1 action
 - **Range:** 120 feet
