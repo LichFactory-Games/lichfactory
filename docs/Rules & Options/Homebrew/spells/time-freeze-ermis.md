@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/9
-- spell/school/transmutation
+- spell/school/orimancy
 aliases: ["Time Freeze"]
 ---
 # Time Freeze
-*9th-level, Transmutation*  
+*9th-level, Orimancy*  
 
 - **Casting time:** 1 action
 - **Range:** 30 radius
