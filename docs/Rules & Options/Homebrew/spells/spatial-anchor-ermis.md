@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/6
-- spell/school/abjuration
+- spell/school/orimancy
 aliases: ["Spatial Anchor"]
 ---
 # Spatial Anchor
-*6th-level, Abjuration*  
+*6th-level, Orimancy*  
 
 - **Casting time:** 1 action
 - **Range:** Self (30-feet sphere)
