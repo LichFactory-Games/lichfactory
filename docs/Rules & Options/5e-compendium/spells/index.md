@@ -1,6 +1,9 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
+date created: Tuesday, September 12th 2023, 6:48:07 am
+date modified: Thursday, September 14th 2023, 12:51:02 pm
 ---
 # Index of Spells
 
