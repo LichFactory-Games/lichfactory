@@ -8,7 +8,7 @@ tags:
 aliases: ["Power Domain"]
 ---
 # Power Domain
-*[Cleric](./cleric.md#): Divine Domain*  
+*[Cleric](../../5e-compendium/classes/cleric.md#): Divine Domain*  
 *Source: Ermis: Ad Astra*  
 
 

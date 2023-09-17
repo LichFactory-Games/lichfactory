@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/1
-- spell/school/transmutation
+- spell/school/kinemancy
 aliases: ["Weightless Step"]
 ---
 # Weightless Step
-*1st-level, Transmutation*  
+*1st-level, Kinemancy*  
 
 - **Casting time:** 1 bonus action
 - **Range:** Self

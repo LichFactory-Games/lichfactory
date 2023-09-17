@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/3
-- spell/school/transmutation
+- spell/school/orimancy
 aliases: ["Time Slip"]
 ---
 # Time Slip
-*3rd-level, Transmutation*  
+*3rd-level, Orimancy*  
 
 - **Casting time:** 1 action
 - **Range:** Self

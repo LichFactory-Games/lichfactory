@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/1
-- spell/school/transmutation
+- spell/school/orimancy
 aliases: ["Spatial Distortion"]
 ---
 # Spatial Distortion
-*1st-level, Transmutation*  
+*1st-level, Orimancy*  
 
 - **Casting time:** 1 action
 - **Range:** Self (15-feet sphere)

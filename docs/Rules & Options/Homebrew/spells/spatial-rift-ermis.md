@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/4
-- spell/school/conjuration
+- spell/school/orimancy
 aliases: ["Spatial Rift"]
 ---
 # Spatial Rift
-*4th-level, Conjuration*  
+*4th-level, Orimancy*  
 
 - **Casting time:** 1 action
 - **Range:** 60 feet

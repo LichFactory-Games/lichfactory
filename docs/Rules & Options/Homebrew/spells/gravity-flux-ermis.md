@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/4
-- spell/school/transmutation
+- spell/school/kinemancy
 aliases: ["Gravity Flux"]
 ---
 # Gravity Flux
-*4th-level, Transmutation*  
+*4th-level, Kinemancy*  
 
 - **Casting time:** 1 action
 - **Range:** 60 feet

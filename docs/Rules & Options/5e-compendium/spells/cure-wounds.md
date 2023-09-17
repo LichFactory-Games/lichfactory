@@ -1,23 +1,27 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/artificer
-- spell/class/bard
-- spell/class/cleric
-- spell/class/cleric/life-domain
-- spell/class/druid
-- spell/class/druid/circle-of-wildfire
-- spell/class/paladin
-- spell/class/ranger
-- spell/class/sorcerer/divine-soul
-- spell/class/warlock/the-celestial
-- spell/level/1
-- spell/school/evocation
+  - compendium/src/5e/phb
+  - spell/class/artificer
+  - spell/class/bard
+  - spell/class/cleric
+  - spell/class/cleric/life-domain
+  - spell/class/druid
+  - spell/class/druid/circle-of-wildfire
+  - spell/class/paladin
+  - spell/class/ranger
+  - spell/class/sorcerer/divine-soul
+  - spell/class/warlock/the-celestial
+  - spell/level/1
+  - spell/school/evocation
 aliases: ["Cure Wounds"]
+date created: Monday, September 11th 2023, 9:03:00 pm
+date modified: Thursday, September 14th 2023, 7:37:47 pm
 ---
 # Cure Wounds
+
 *1st-level, Evocation*  
 
 - **Casting time:** 1 action

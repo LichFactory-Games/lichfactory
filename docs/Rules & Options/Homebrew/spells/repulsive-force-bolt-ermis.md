@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/3
-- spell/school/enchantment
+- spell/school/kinemancy
 aliases: ["Repulsive Force Bolt"]
 ---
 # Repulsive Force Bolt
-*3rd-level, Enchantment*  
+*3rd-level, Kinemancy*  
 
 - **Casting time:** 1 action
 - **Range:** 120 feet

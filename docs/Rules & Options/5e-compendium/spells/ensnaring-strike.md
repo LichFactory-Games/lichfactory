@@ -1,15 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin/oath-of-the-ancients
-- spell/class/ranger
-- spell/level/1
-- spell/school/conjuration
+  - compendium/src/5e/phb
+  - spell/class/paladin/oath-of-the-ancients
+  - spell/class/ranger
+  - spell/level/1
+  - spell/school/conjuration
 aliases: ["Ensnaring Strike"]
+date created: Monday, September 11th 2023, 9:03:00 pm
+date modified: Thursday, September 14th 2023, 7:37:13 pm
 ---
 # Ensnaring Strike
+
 *1st-level, Conjuration*  
 
 - **Casting time:** 1 bonus

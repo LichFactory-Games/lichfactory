@@ -1,11 +1,13 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
+date created: Monday, September 4th 2023, 10:31:10 am
+date modified: Sunday, September 17th 2023, 10:56:31 am
 ---
 # Index of Classes
 
 - [Cleric: Power Domain](./cleric-power-domain-ermis.md#)
-- [Cleric](./cleric.md#)
 - [Psion](./psion-ermis.md#)
 - [Psion: Inquisitor](./psion-inquisitor-ermis.md#)
 - [Psion: Tactician](./psion-tactician-ermis.md#)
@@ -19,7 +21,5 @@ cssclasses: json5e-note
 - [Pugilist: The Squared Circle](./pugilist-the-squared-circle-sterlingvermin.md#)
 - [Pugilist: The Sweet Science](./pugilist-the-sweet-science-sterlingvermin.md#)
 - [Rogue: Tinkerer](./rogue-tinkerer-ermis.md#)
-- [Rogue](./rogue.md#)
 - [Wizard: Kinemancer](./wizard-kinemancer-ermis.md#)
 - [Wizard: Orimancer](./wizard-orimancer-ermis.md#)
-- [Wizard](./wizard.md#)

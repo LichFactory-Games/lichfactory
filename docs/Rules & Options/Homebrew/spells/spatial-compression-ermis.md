@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/2
-- spell/school/transmutation
+- spell/school/orimancy
 aliases: ["Spatial Compression"]
 ---
 # Spatial Compression
-*2nd-level, Transmutation*  
+*2nd-level, Orimancy*  
 
 - **Casting time:** 1 action
 - **Range:** Self

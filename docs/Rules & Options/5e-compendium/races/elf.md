@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/elf
+  - compendium/src/5e/phb
+  - race/elf
 aliases: ["Elf"]
+date created: Monday, September 11th 2023, 10:02:59 pm
+date modified: Thursday, September 14th 2023, 11:14:42 am
 ---
 
 # Elf
+
 *Player's Handbook p. 21. Available in the SRD and the Basic Rules.*
+
 ![](../../../assets/img/elf.png)  
 
 - **Ability Scores**: Dexterity +2

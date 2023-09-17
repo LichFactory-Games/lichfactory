@@ -7,7 +7,7 @@ tags:
 aliases: ["Tinkerer"]
 ---
 # Tinkerer
-*[Rogue](./rogue.md#): Roguish Archetype*  
+*[Rogue](../../5e-compendium/classes/rogue.md#): Roguish Archetype*  
 *Source: Ermis: Ad Astra*  
 
 

@@ -83,6 +83,10 @@ If a Wild Psionic effect is a power, it's too wild to be affected by any further
 
 When you take damage from a creature that you can see within 60 feet of you, you can use your reaction to amplify the pain back upon that creature. The target must succeed on a Wisdom saving throw against your psionic save DC or take psychic damage equal to your current psionic energy die size (minimum of 1 damage). You may do this a number of times up to your Constitution bonus before needing a short or long rest.
 
+### Unstable Mind (Level 9)
+
+As your powers grow, so too does their unpredictability. When you are hit by an attack or fail a saving throw, you can use your reaction to roll on your Wild Psionic Surge table immediately.
+
 ### Psychic Eruption (Level 15)
 
 As an action, you create a psychic eruption in a 30 foot radius centered either on yourself or at any point withing 60 feet that you can immediately perceive. Each enemy in the area must make a Dexterity saving throw, taking 8d8 psychic damage on a failed save, or half as much on a successful one. You may do this once per short rest.
