@@ -1,15 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
-- compendium/src/5e/phb
-- spell/class/paladin/oath-of-vengeance
-- spell/class/ranger
-- spell/level/1
-- spell/school/divination
+  - compendium/src/5e/phb
+  - spell/class/paladin/oath-of-vengeance
+  - spell/class/ranger
+  - spell/level/1
+  - spell/school/divination
 aliases: ["Hunter's Mark"]
+date created: Monday, September 11th 2023, 9:03:00 pm
+date modified: Thursday, September 14th 2023, 7:36:01 pm
 ---
 # Hunter's Mark
+
 *1st-level, Divination*  
 
 - **Casting time:** 1 bonus
