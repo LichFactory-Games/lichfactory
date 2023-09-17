@@ -11,7 +11,7 @@ aliases: ["The Faeir"]
 *Ermis: Ad Astra*
 ![](../../../assets/img/faeir.png)  
 
-- **Ability Scores**: Apply +1 to one of ; or Apply +1 to one of 
+- **Ability Scores**: Charisma +2, Intelligence +1
 - **Creature Type**: race
 - **Size**: Medium
 - **Speed**: 35 ft.
