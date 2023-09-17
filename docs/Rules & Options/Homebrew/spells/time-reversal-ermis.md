@@ -5,11 +5,11 @@ tags:
 - compendium/src/5e/ermis
 - spell/class/wizard
 - spell/level/7
-- spell/school/transmutation
+- spell/school/orimancy
 aliases: ["Time Reversal"]
 ---
 # Time Reversal
-*7th-level, Transmutation*  
+*7th-level, Orimancy*  
 
 - **Casting time:** 1 action
 - **Range:** 60 feet
