@@ -1,16 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-- class/cleric/life
-- compendium/src/5e/phb
-- domain/life
+  - class/cleric/life
+  - compendium/src/5e/phb
+  - domain/life
 aliases: ["Life Domain"]
+date created: Monday, September 11th 2023, 9:02:59 pm
+date modified: Thursday, September 14th 2023, 7:37:51 pm
 ---
 # Life Domain
+
 *[Cleric](./cleric.md#): Divine Domain*  
 *Source: Player's Handbook p. 60. Available in the SRD and the Basic Rules.*  
-
 
 ## Class Features
 
@@ -29,6 +32,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 | 5th | [beacon of hope](../spells/beacon-of-hope.md#), [revivify](../spells/revivify.md#) |
 | 7th | [death ward](../spells/death-ward.md#), [guardian of faith](../spells/guardian-of-faith.md#) |
 | 9th | [mass cure wounds](../spells/mass-cure-wounds.md#), [raise dead](../spells/raise-dead.md#) |
+
 ^life-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -54,7 +58,8 @@ Beginning at 6th level, the healing spells you cast on others heal you as well. 
 At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `1d8` radiant damage to the target. When you reach 14th level, the extra damage increases to `2d8`.
 
 ### Blessed Strikes (Level 8)
-_Source: Tasha's Cauldron of Everything p. 30_
+
+*Source: Tasha's Cauldron of Everything p. 30*
 
 *8th-level cleric [optional class features](../../5e-rules/variant-rules/optional-class-features-tce.md#), which replaces the Divine Strike feature*
 
