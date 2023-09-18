@@ -9,7 +9,7 @@ aliases: ["Haemin"]
 
 # Haemin
 *Ermis: Ad Astra*
-![](../../../assets/img/haemin.png)  
+![](https://lichfactory.com/assets/img/haemin.png#portrait)  
 
 - **Ability Scores**: Intelligence +2, Constitution +1
 - **Creature Type**: race
