@@ -1,20 +1,16 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/sorcerer
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/6
-  - spell/school/conjuration
+- compendium/src/5e/phb
+- spell/class/sorcerer
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/6
+- spell/school/conjuration
 aliases: ["Arcane Gate"]
-date created: Monday, September 11th 2023, 9:03:00 pm
-date modified: Thursday, September 14th 2023, 12:51:08 pm
 ---
 # Arcane Gate
-
 *6th-level, Conjuration*  
 
 - **Casting time:** 1 action
