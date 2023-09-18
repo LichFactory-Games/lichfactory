@@ -8,7 +8,7 @@ aliases: ["Fade Away"]
 # Fade Away
 *Source: Xanathar's Guide to Everything p. 74*  
 
-***Prerequisites*** [Gnome](../races/gnome.md#)
+***Prerequisites*** gnome
 
 Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm. You gain the following benefits:
 
