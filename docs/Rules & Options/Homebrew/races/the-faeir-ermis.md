@@ -9,7 +9,7 @@ aliases: ["The Faeir"]
 
 # The Faeir
 *Ermis: Ad Astra*
-![](../../../assets/img/faeir.png)  
+![](https://lichfactory.com/assets/img/faeir.png#portrait)  
 
 - **Ability Scores**: Charisma +2, Intelligence +1
 - **Creature Type**: race
