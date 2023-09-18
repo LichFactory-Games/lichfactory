@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/ermis
-- race/the-faeir
+  - compendium/src/5e/ermis
+  - race/the-faeir
 aliases: ["The Faeir"]
+date created: Monday, September 4th 2023, 10:31:10 am
+date modified: Monday, September 18th 2023, 8:45:44 am
 ---
 
 # The Faeir
+
 *Ermis: Ad Astra*
+
 ![](https://lichfactory.com/assets/img/faeir.png#portrait)  
 
 - **Ability Scores**: Charisma +2, Intelligence +1
@@ -22,7 +27,6 @@ aliases: ["The Faeir"]
 The Fǣir are known for their unsettling beauty, intelligence, and magic. Their origins are largely a mystery, though there are rumors that they are somehow descended from human, elven, and various fey lineages. They are sought after for their knowledge of arcane and mystical lore, which they guard closely.
 
 The Fǣir can primarily be found living in secluded natural areas. Their settlements are often protected by enchantments and illusions that make them difficult for outsiders to locate. They have a reputation for being aloof and enigmatic, preferring to observe from a distance rather than engage with outsiders.
-
 
 ## Traits
 
@@ -48,7 +52,7 @@ The Fǣir don't need to sleep. Instead they meditate deeply for 4 hours a day, r
 
 ### Uncanny Presence
 
-The Fǣir are ... different, unsettling, to non-Fǣir Folk. This does not mean it is necessarily unpleasant to be around one of the Fǣir, just that their presence always engenders a level of disquiet (in negative cases) or frisson (in positive ones). Add 1d4 to all Charisma ability checks and saving throws when made against another humanoid creature. Likewise, subtract 1d4 from all Charisma-based ability and skill checks made by other humanoid creatures insofar as they are directed specifically at the Fǣir creature.
+The Fǣir are … different, unsettling, to non-Fǣir Folk. This does not mean it is necessarily unpleasant to be around one of the Fǣir, just that their presence always engenders a level of disquiet (in negative cases) or frisson (in positive ones). Add 1d4 to all Charisma ability checks and saving throws when made against another humanoid creature. Likewise, subtract 1d4 from all Charisma-based ability and skill checks made by other humanoid creatures insofar as they are directed specifically at the Fǣir creature.
 
 ### Fey Magic
 
@@ -69,8 +73,8 @@ The Fǣir often have one or more distinctive physical traits. These manifest as 
 | 5 | Vestigial translucent wings that shimmer and flutter according to mood. |
 | 6 | Extra fingers or toes, giving the hands or feet an ethereal, otherworldly appearance. |
 | 7 | Skin covered in delicate, intricate tattoos that move and change like flowing water. |
-| 8 | Patches of bark-like skin that blend seamlessly with the character’s fey surroundings. |
-| 9 | A second pair of vestigial arms that can’t be used for delicate manipulation but add a surreal look. |
+| 8 | Patches of bark-like skin that blend seamlessly with the character's fey surroundings. |
+| 9 | A second pair of vestigial arms that can't be used for delicate manipulation but add a surreal look. |
 | 10 | Hair made of delicate, iridescent strands that sway in an unseen breeze. |
 | 11 | Large, expressive ears that can be manipulated like those of an animal. |
 | 12 | Translucent, glass-like nails that reflect and refract light in mesmerizing patterns. |
@@ -82,6 +86,7 @@ The Fǣir often have one or more distinctive physical traits. These manifest as 
 | 18 | Eyes located in unusual places on the body, such as the palms of the hands or the knees. |
 | 19 | Skin that appears to be made of crystalline material, refracting light in brilliant hues. |
 | 20 | Sharper nails and teeth that give the character a predatory or feral appearance. |
+
 ^fey-features
 
 ### Languages
