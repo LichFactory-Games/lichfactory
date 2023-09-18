@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/phb
-- race/human
+  - compendium/src/5e/phb
+  - race/human
 aliases: ["Human"]
+date created: Monday, September 11th 2023, 10:02:59 pm
+date modified: Sunday, September 17th 2023, 12:32:51 pm
 ---
 
 # Human
+
 *Player's Handbook p. 29. Available in the SRD and the Basic Rules.*
+
 ![](../../../assets/img/human.png)  
 
 - **Ability Scores**: None
