@@ -1,12 +1,16 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-psionic
 tags:
-- compendium/src/5e/ermis
+  - compendium/src/5e/ermis
 aliases: ["Psychic Shield"]
+date created: Monday, September 18th 2023, 12:03:36 am
+date modified: Monday, September 18th 2023, 8:42:08 am
 ---
 # Psychic Shield
-**  
+
+*Minor Talent*  
 
 **Type:** Reaction
 

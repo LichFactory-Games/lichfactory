@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/ermis
-- race/doloi
+  - compendium/src/5e/ermis
+  - race/doloi
 aliases: ["Doloi"]
+date created: Sunday, September 17th 2023, 10:55:56 am
+date modified: Monday, September 18th 2023, 8:45:43 am
 ---
 
 # Doloi
+
 *Ermis: Ad Astra*
+
 ![](https://lichfactory.com/assets/img/doloi.png#portrait)  
 
 - **Ability Scores**: Dexterity +2, Intelligence +1
@@ -20,7 +25,6 @@ aliases: ["Doloi"]
 ## Description
 
 The Doloi are a nomadic race that dwells largely in forests and plains of the Faeir Wildes. The Doloi are of goblinoid heritage, but range widely in size, from three to five feet, and vary in skin color and features. Due to their heritage they are often seen as untrustworthy or even dangerous by other races, and may face prejudice and discrimination as a result.
-
 
 ## Traits
 
