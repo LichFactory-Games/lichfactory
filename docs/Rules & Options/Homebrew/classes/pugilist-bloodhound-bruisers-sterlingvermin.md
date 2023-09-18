@@ -1,18 +1,15 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/pugilist/bloodhound-bruisers
-  - compendium/src/5e/sterlingvermin
+- class/pugilist/bloodhound-bruisers
+- compendium/src/5e/sterlingvermin
 aliases: ["Bloodhound Bruisers"]
-date created: Monday, September 11th 2023, 9:53:45 pm
-date modified: Sunday, September 17th 2023, 11:00:45 am
 ---
 # Bloodhound Bruisers
-
 *[Pugilist](./pugilist-sterlingvermin.md#): Fight Club*  
 *Source: The Pugilist Class*  
+
 
 ## Class Features
 
