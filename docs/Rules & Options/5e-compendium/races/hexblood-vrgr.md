@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/vrgr
-- race/hexblood
+  - compendium/src/5e/vrgr
+  - race/hexblood
 aliases: ["Hexblood"]
+date created: Monday, September 11th 2023, 10:02:59 pm
+date modified: Sunday, September 17th 2023, 12:32:52 pm
 ---
 
 # Hexblood
+
 *Van Richten's Guide to Ravenloft p. 18*
+
 ![](../../../assets/img/hexblood.png)  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -42,8 +47,8 @@ A bargain with a hag or other eerie forces transformed your character into a mag
 | 4 | You were cursed as a child. A deal with the spirits of the forest transformed you into a hexblood, now free of the curse. |
 | 5 | You began life as a fey creature, but an accident changed you and forced you from your home. |
 | 6 | A slighted druid transformed you and bound you to live only so long as a sacred tree bears fruit. |
-^hexblood-origins
 
+^hexblood-origins
 
 ## Traits
 
