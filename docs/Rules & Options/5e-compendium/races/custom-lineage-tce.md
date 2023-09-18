@@ -6,8 +6,8 @@ tags:
   - compendium/src/5e/tce
   - race/custom-lineage
 aliases: ["Custom Lineage"]
-date created: Monday, September 11th 2023, 10:02:59 pm
-date modified: Tuesday, September 12th 2023, 9:06:27 am
+date created: Sunday, September 17th 2023, 12:32:39 pm
+date modified: Sunday, September 17th 2023, 2:06:11 pm
 ---
 
 # Custom Lineage
