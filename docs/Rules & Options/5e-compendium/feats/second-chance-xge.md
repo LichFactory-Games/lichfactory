@@ -8,7 +8,7 @@ aliases: ["Second Chance"]
 # Second Chance
 *Source: Xanathar's Guide to Everything p. 75*  
 
-***Prerequisites*** [Halfling](../races/halfling.md#)
+***Prerequisites*** halfling
 
 Fortune favors you when someone tries to strike you. You gain the following benefits:
 
