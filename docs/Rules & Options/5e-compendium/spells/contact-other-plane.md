@@ -1,20 +1,16 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/warlock
-  - spell/class/wizard
-  - spell/level/5
-  - spell/ritual
-  - spell/school/divination
+- compendium/src/5e/phb
+- spell/class/warlock
+- spell/class/wizard
+- spell/level/5
+- spell/ritual
+- spell/school/divination
 aliases: ["Contact Other Plane"]
-date created: Monday, September 11th 2023, 9:03:00 pm
-date modified: Thursday, September 14th 2023, 12:52:34 pm
 ---
 # Contact Other Plane
-
 *5th-level, Divination (ritual)*  
 
 - **Casting time:** 1 minute unless cast as a ritual

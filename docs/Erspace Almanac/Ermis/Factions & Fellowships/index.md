@@ -4,11 +4,11 @@ tags:
 share: true
 title: Factions of Ermis
 date created: Monday, April 24th 2023, 3:41:56 pm
-date modified: Sunday, September 10th 2023, 11:31:12 pm
+date modified: Sunday, September 17th 2023, 6:04:02 pm
 ---
 # Factions of Ermis
 
-The Dyad and the five great houses are by far the most significant political and economic factions on Ermis and together they form the governing body of the twin cities -- the Synod. The political structure of the twin cities resembles in some respects that of a constitutional monarchy, but the Dyad has ultimate authority and the rest of the Synod is more advisory in nature. However, because the Synod exists in part to resolve disputes between the houses peacefully, as well as to address outside threats, there is a significant investment by all in an at least surface-level or apearance of respecting the established norms, practices, and rulings of the Synod.
+The Dyad and the five great houses are by far the most significant political and economic factions on Ermis and together they form the governing body of the twin cities -- the Synod. The political structure of the twin cities resembles in some respects that of a constitutional monarchy, but the Dyad has ultimate authority and the rest of the Synod is more advisory in nature. However, because the Synod exists in part to resolve disputes between the houses peacefully, as well as to address outside threats, there is a significant investment by all in an at least an appearance of respecting the established norms, practices, and rulings of the Synod.
 
 The other great powers include the Council of the Fair and the Haem Collective. The nomadic Sil, that live in the wastes, are rumored to also have some sort of broader political structure, but their organization is largely unknown.
 
@@ -36,7 +36,7 @@ Using earth-based magic and advanced geotechnologies, House Xeryth is based in A
 
 ## The Council of the Faeir
 
-The Council of the Fair is a confederation of independent fair folk that come together periodically to share knowledge and resources. Each circle is led by a powerful Fair creature with unique abilities and skills, and decisions are made through consensus rather than formal voting. The Council's main goals are to preserve and protect the natural order of Ermis, and to ensure that the faerie folk can continue to exist and thrive in the face of the increasingly powerful and authoritarian Dyarchy. They are rumored to communicate with each other through a network of enchanted trees and stones scattered throughout the forests and mountains, and they rarely interact with other races unless such interaction furthers their own perhaps inscrutable ends.
+The Council of the Fair is a confederation of independent fair folk that come together periodically to share knowledge and resources. Each circle is led by a powerful Fair creature with unique abilities and skills, and decisions are made through consensus rather than formal voting. The Council's main goals are to preserve and protect the natural order of Ermis, and to ensure that the faeir folk can continue to exist and thrive in the face of the increasingly powerful and authoritarian Dyarchy. They are rumored to communicate with each other through a network of enchanted trees and stones scattered throughout the forests and mountains, and they rarely interact with other races unless such interaction furthers their own, often inscrutable, ends.
 
 ## The Haem Collective
 

@@ -1,7 +1,7 @@
 ---
-share: true
+share: false
 date created: Tuesday, July 25th 2023, 11:41:29 am
-date modified: Saturday, September 2nd 2023, 9:48:21 am
+date modified: Sunday, September 17th 2023, 6:17:18 pm
 ---
 
 ```text-mapper
@@ -57,7 +57,7 @@ date modified: Saturday, September 2nd 2023, 9:48:21 am
 0605 dust grass "grassland"
 0606 soil fields "fields"
 0607 soil fields "fields"
-0608 light-green town "Trinth" 30
+0608 light-green town "Trynth" 30
 
 0701 sand desert "desert"
 0702 sand desert "desert"
@@ -89,3 +89,5 @@ road path attributes stroke="black" stroke-width="3" fill-opacity="0" stroke-das
 0206-0505 road
 0608-0505 road
 ```
+
+[[../../../assets/img/astryth-hexmap-image.png|astryth-hexmap-image.png]]

@@ -6,8 +6,8 @@ tags:
   - compendium/src/5e/aag
   - race/giff
 aliases: ["Giff"]
-date created: Monday, September 11th 2023, 10:02:59 pm
-date modified: Tuesday, September 12th 2023, 9:06:26 am
+date created: Sunday, September 17th 2023, 12:32:39 pm
+date modified: Sunday, September 17th 2023, 12:32:44 pm
 ---
 
 # Giff

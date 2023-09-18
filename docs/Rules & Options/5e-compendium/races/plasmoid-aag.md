@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/aag
-- race/plasmoid
+  - compendium/src/5e/aag
+  - race/plasmoid
 aliases: ["Plasmoid"]
+date created: Monday, September 11th 2023, 10:02:59 pm
+date modified: Sunday, September 17th 2023, 12:32:48 pm
 ---
 
 # Plasmoid
+
 *Astral Adventurer's Guide p. 14*
+
 ![](../../../assets/img/plasmoid.webp)  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -24,7 +29,6 @@ Plasmoids are amorphous beings with no typical shape. In the presence of other f
 Plasmoids don't have internal organs of the usual sort. Their bodies are composed of cells, fibers, plasma-like ooze, and clusters of nerves. These nerves enable a plasmoid to detect light, heat, texture, sound, pain, and vibrations. Plasmoids can stiffen the outer layers of their bodies to maintain a humanlike shape, so they can wear clothing and accessories. They speak by forcing air out of tubular cavities that constrict to produce sound.
 
 When plasmoids sleep, they lose their rigidity and spread out and are thus sometimes mistaken for a rock or some other feature of the environment.
-
 
 ## Traits
 

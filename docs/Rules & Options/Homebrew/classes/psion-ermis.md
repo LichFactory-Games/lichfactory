@@ -96,7 +96,7 @@ To multiclass as a Psion, you must meet the following prerequisites:
 
 ## Psion
 
-![](../../../assets/img/psion.png)
+![](https://lichfactory.com/assets/img/psion.png#center)
 
 The cloaked figure stood amidst a bustling marketplace, their eyes closed in deep concentration. With a gentle sweep of their hand, the figure extended their consciousness beyond the physical realm, delving into the thoughts and emotions of those nearby. The hustle and bustle of the market faded into whispers as they effortlessly read the minds of the crowd, discerning secrets and desires. Knowledge was their weapon in navigating this intricate web of minds, their insights guiding their every move in this world of hidden intentions.
 

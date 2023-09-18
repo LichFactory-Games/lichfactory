@@ -8,7 +8,7 @@ aliases: ["Squat Nimbleness"]
 # Squat Nimbleness
 *Source: Xanathar's Guide to Everything p. 75*  
 
-***Prerequisites*** [Dwarf](../races/dwarf.md#), small race
+***Prerequisites*** dwarf, small race
 
 You are uncommonly nimble for your race. You gain the following benefits:
 

@@ -1,24 +1,20 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
-  - compendium/src/5e/phb
-  - spell/class/barbarian/path-of-the-totem-warrior
-  - spell/class/bard
-  - spell/class/cleric/nature-domain
-  - spell/class/druid
-  - spell/class/paladin/oath-of-the-ancients
-  - spell/class/ranger
-  - spell/level/1
-  - spell/ritual
-  - spell/school/divination
+- compendium/src/5e/phb
+- spell/class/barbarian/path-of-the-totem-warrior
+- spell/class/bard
+- spell/class/cleric/nature-domain
+- spell/class/druid
+- spell/class/paladin/oath-of-the-ancients
+- spell/class/ranger
+- spell/level/1
+- spell/ritual
+- spell/school/divination
 aliases: ["Speak with Animals"]
-date created: Monday, September 11th 2023, 9:03:00 pm
-date modified: Thursday, September 14th 2023, 7:33:39 pm
 ---
 # Speak with Animals
-
 *1st-level, Divination (ritual)*  
 
 - **Casting time:** 1 action unless cast as a ritual

@@ -8,7 +8,7 @@ aliases: ["Dwarven Fortitude"]
 # Dwarven Fortitude
 *Source: Xanathar's Guide to Everything p. 74*  
 
-***Prerequisites*** [Dwarf](../races/dwarf.md#)
+***Prerequisites*** dwarf
 
 You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
 

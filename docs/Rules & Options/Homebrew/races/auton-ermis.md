@@ -9,7 +9,7 @@ aliases: ["Auton"]
 
 # Auton
 *Ermis: Ad Astra*
-![](../../../assets/img/auton.png)  
+![](https://lichfactory.com/assets/img/auton.png#portrait)  
 
 - **Ability Scores**: Constitution +2, Intelligence +1
 - **Creature Type**: race
