@@ -8,7 +8,7 @@ aliases: ["Prodigy"]
 # Prodigy
 *Source: Xanathar's Guide to Everything p. 75*  
 
-***Prerequisites*** [Half-Elf](../races/half-elf.md#), [Half-Orc](../races/half-orc.md#), [Human](../races/human.md#)
+***Prerequisites*** half-elf, half-orc, [Human](../races/human.md#)
 
 You have a knack for learning new things. You gain the following benefits:
 
