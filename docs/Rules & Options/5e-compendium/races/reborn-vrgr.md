@@ -1,14 +1,19 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-- compendium/src/5e/vrgr
-- race/reborn
+  - compendium/src/5e/vrgr
+  - race/reborn
 aliases: ["Reborn"]
+date created: Monday, September 11th 2023, 10:02:59 pm
+date modified: Sunday, September 17th 2023, 12:32:47 pm
 ---
 
 # Reborn
+
 *Van Richten's Guide to Ravenloft p. 20*
+
 ![](../../../assets/img/reborn.png)  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -37,6 +42,7 @@ Rather than sleeping, reborn regularly sit and dwell on the past, hoping for som
 | 4 | A memory brings with it the voice of someone once close to you. How do they advise you? |
 | 5 | You recall enjoying something that you can't stand doing now. What is it? Why don't you like it now? |
 | 6 | A memory carries a vivid smell or sensation. What are you going to do to recreate that experience? |
+
 ^lost-memories
 
 ### Reborn Origins
@@ -55,8 +61,8 @@ Reborn might originate from circumstances similar to those of various undead or 
 | 6 | You were released after being petrified for generations. Your memories have faded, though, and your body isn't what it once was. |
 | 7 | Your body hosts a possessing spirit that shares its memories and replaces your missing appendages with phantasmal limbs. |
 | 8 | In public, you pass as an unremarkable individual, but you can feel the itchy straw stuffing inside you. |
-^reborn-origins
 
+^reborn-origins
 
 ## Traits
 
