@@ -1,16 +1,12 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-class
 tags:
-  - class/pugilist
-  - compendium/src/5e/sterlingvermin
+- class/pugilist
+- compendium/src/5e/sterlingvermin
 aliases: ["Pugilist"]
-date created: Monday, September 11th 2023, 9:53:45 pm
-date modified: Sunday, September 17th 2023, 11:00:50 am
 ---
 # Pugilist
-
 *Source: The Pugilist Class*  
 
 > [!tldr]- Feature progression
@@ -138,7 +134,6 @@ No one becomes as tough as a pugilist without enduring terrible hardship and per
 | 4 | Your parents sold you to the thieves guild for less than a gold piece. |
 | 5 | You drank your life away until you hit rock bottom and sobered up. |
 | 6 | You refused to throw a match at a gang boss's insistence and your family ended up paying the price. |
-
 ^hardships
 
 ### Favorite Dive
@@ -157,7 +152,6 @@ How long has your favorite dive been your go-to spot? Do you have any friends or
 | 4 | A high stakes gambling den with games of skill and chance. |
 | 5 | The orphanage you grew up in that was closed and abandoned some years ago. |
 | 6 | A quiet library. |
-
 ^dives
 
 ### Rumor
@@ -171,12 +165,11 @@ Whether or not it's true, you have a particular rumor that follows you wherever 
 | dice: d6 | Rumor |
 |----------|-------|
 | 1 | You got your prodigious strength from suckling milk at the teet of a giantess. |
-| 2 | You won a drinking competition against a dwarf…and then three more before the night was through. |
+| 2 | You won a drinking competition against a dwarf...and then three more before the night was through. |
 | 3 | The town guards hate you as much as their spouses love you. |
 | 4 | You are an enforcer for one of the most powerful figures in the criminal underworld. |
 | 5 | You wrestled an owlbear to the ground with such ease you fell asleep during the tussle. |
 | 6 | Your daddy was an earth elemental which is why your bones are made of iron. |
-
 ^rumors
 
 ### Creating a Pugilist
@@ -256,7 +249,7 @@ Starting at 5th level, before you make an attack roll with an unarmed strike or 
 
 Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
 
-### Fight Club Feature (Level 6)
+### Fight Club feature (Level 6)
 
 At 6th level, you gain one feature granted by your Fight Club.
 
@@ -282,7 +275,7 @@ At 9th level, when you use your Bloodied but Unbowed feature you can choose to a
 
 By 10th level, you've graduated top of the class at the school of hard knocks and you took most of them on the head. You have resistance to psychic damage and gain advantage on saving throws against effects that would make you stunned or unconscious.
 
-### Fight Club Feature (Level 11)
+### Fight Club feature (Level 11)
 
 At 11th level, you gain a feature granted by your Fight Club.
 
@@ -310,7 +303,7 @@ When you reach 16th level you can increase one ability score of your choice by 2
 
 If your DM allows the use of feats, you may instead take a feat.
 
-### Fight Club Feature (Level 17)
+### Fight Club feature (Level 17)
 
 At 17th level, you gain a feature granted by your Fight Club.
 
