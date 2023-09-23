@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
+- feat
 aliases: ["Skulker"]
 ---
 # Skulker
 *Source: Player's Handbook p. 170*  
 
-***Prerequisites*** Dexterity 13 or higher
+**Prerequisite**: Dexterity 13 or higher
 
 You are expert at slinking through shadows. You gain the following benefits:
 
