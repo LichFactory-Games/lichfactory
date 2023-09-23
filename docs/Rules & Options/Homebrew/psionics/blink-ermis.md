@@ -1,15 +1,11 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-psionic
 tags:
-  - compendium/src/5e/ermis
+- compendium/src/5e/ermis
 aliases: ["Blink"]
-date created: Sunday, September 17th 2023, 9:38:55 pm
-date modified: Monday, September 18th 2023, 8:46:01 am
 ---
 # Blink
-
 *Major Talent*  
 
 **Prerequisite:** Porting
