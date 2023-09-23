@@ -1,19 +1,14 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-  - compendium/src/5e/ggr
-  - race/loxodon
+- compendium/src/5e/ggr
+- race/loxodon
 aliases: ["Loxodon"]
-date created: Monday, September 11th 2023, 10:02:59 pm
-date modified: Sunday, September 17th 2023, 12:32:49 pm
 ---
 
 # Loxodon
-
 *Guildmasters' Guide to Ravnica p. 17*
-
 ![](../../../assets/img/loxodon.png)  
 
 - **Ability Scores**: Constitution +2, Wisdom +1
