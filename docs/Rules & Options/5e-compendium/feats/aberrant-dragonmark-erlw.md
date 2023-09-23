@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/erlw
+- feat
 aliases: ["Aberrant Dragonmark"]
 ---
 # Aberrant Dragonmark
 *Source: Eberron: Rising from the Last War p. 52*  
 
-***Prerequisites*** No other dragonmark
+**Prerequisite**: No other dragonmark
 
 You have manifested an aberrant dragonmark. Determine its appearance and the flaw associated with it. You gain the following benefits:
 
