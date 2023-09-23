@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/erlw
+- feat
 aliases: ["Revenant Blade"]
 ---
 # Revenant Blade
 *Source: Eberron: Rising from the Last War p. 22*  
 
-***Prerequisites*** elf
+**Prerequisite**: elf
 
 You are descended from a master of the [double-bladed scimitar](double-bladed-scimitar-erlw.md#), and some of that mastery has passed on to you. You gain the following benefits:
 
