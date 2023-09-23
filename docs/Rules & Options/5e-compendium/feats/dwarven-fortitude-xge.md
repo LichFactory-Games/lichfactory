@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/xge
+- feat
 aliases: ["Dwarven Fortitude"]
 ---
 # Dwarven Fortitude
 *Source: Xanathar's Guide to Everything p. 74*  
 
-***Prerequisites*** dwarf
+**Prerequisite**: dwarf
 
 You have the blood of dwarf heroes flowing through your veins. You gain the following benefits:
 
