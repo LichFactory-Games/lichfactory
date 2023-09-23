@@ -1,19 +1,14 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-  - compendium/src/5e/aag
-  - race/thri-kreen
+- compendium/src/5e/aag
+- race/thri-kreen
 aliases: ["Thri-kreen"]
-date created: Monday, September 11th 2023, 10:02:59 pm
-date modified: Sunday, September 17th 2023, 12:32:46 pm
 ---
 
 # Thri-kreen
-
 *Astral Adventurer's Guide p. 15*
-
 ![](../../../assets/img/thri-kreen.webp)  
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -29,6 +24,7 @@ Thri-kreen have insectile features and two pairs of arms. Their bodies are encas
 Although thri-kreen don't sleep, they do require periods of inactivity to revitalize themselves. During these periods, they are fully aware of what's happening around them.
 
 Thri-kreen speak by clacking their mandibles and waving their antennae, indicating to other thri-kreen what they are thinking and feeling. Other creatures find this method of communication difficult to interpret and impossible to duplicate. To interact with other folk, thri-kreen rely on a form of telepathy.
+
 
 ## Traits
 
