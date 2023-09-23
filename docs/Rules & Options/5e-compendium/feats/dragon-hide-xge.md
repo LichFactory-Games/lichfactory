@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/xge
+- feat
 aliases: ["Dragon Hide"]
 ---
 # Dragon Hide
 *Source: Xanathar's Guide to Everything p. 74*  
 
-***Prerequisites*** dragonborn
+**Prerequisite**: dragonborn
 
 You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
 

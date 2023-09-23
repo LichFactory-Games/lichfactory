@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/ai
 aliases: ["Enhanced Arcane Focus"]
 ---
 # Enhanced Arcane Focus
-*Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62* 
+*Source: Tasha's Cauldron of Everything p. 21, Eberron: Rising from the Last War p. 62*  
+
+**Prerequisite**: A rod, staff, or wand (requires attunement)
 
 While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack.
 

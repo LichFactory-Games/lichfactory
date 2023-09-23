@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
+- feat
 aliases: ["War Caster"]
 ---
 # War Caster
 *Source: Player's Handbook p. 170*  
 
-***Prerequisites*** The ability to cast at least one spell
+**Prerequisite**: The ability to cast at least one spell
 
 You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
 

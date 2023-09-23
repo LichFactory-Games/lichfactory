@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
+- feat
 aliases: ["Ritual Caster"]
 ---
 # Ritual Caster
 *Source: Player's Handbook p. 169*  
 
-***Prerequisites*** Intelligence or Wisdom 13 or higher
+**Prerequisite**: Intelligence or Wisdom 13 or higher
 
 You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.
 

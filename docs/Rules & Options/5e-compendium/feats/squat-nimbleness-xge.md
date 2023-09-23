@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/xge
+- feat
 aliases: ["Squat Nimbleness"]
 ---
 # Squat Nimbleness
 *Source: Xanathar's Guide to Everything p. 75*  
 
-***Prerequisites*** dwarf, small race
+**Prerequisite**: dwarf, small race
 
 You are uncommonly nimble for your race. You gain the following benefits:
 

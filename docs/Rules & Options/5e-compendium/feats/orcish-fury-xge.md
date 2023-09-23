@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/xge
+- feat
 aliases: ["Orcish Fury"]
 ---
 # Orcish Fury
 *Source: Xanathar's Guide to Everything p. 75*  
 
-***Prerequisites*** half-orc
+**Prerequisite**: half-orc
 
 Your fury burns tirelessly. You gain the following benefits:
 

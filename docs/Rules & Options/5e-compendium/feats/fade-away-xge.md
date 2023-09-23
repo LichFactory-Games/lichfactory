@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/xge
+- feat
 aliases: ["Fade Away"]
 ---
 # Fade Away
 *Source: Xanathar's Guide to Everything p. 74*  
 
-***Prerequisites*** gnome
+**Prerequisite**: gnome
 
 Your people are clever, with a knack for illusion magic. You have learned a magical trick for fading away when you suffer harm. You gain the following benefits:
 

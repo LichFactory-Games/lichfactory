@@ -1,13 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tce
 - optional-feature/ei
 aliases: ["Investment of the Chain Master"]
 ---
 # Investment of the Chain Master
-*Source: Tasha's Cauldron of Everything p. 71* 
+*Source: Tasha's Cauldron of Everything p. 71*  
+
+**Prerequisite**: Pact of the Chain
 
 When you cast [find familiar](../spells/find-familiar.md#), you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits:
 

@@ -23,4 +23,4 @@ The blade can harmlessly pass through any barrier, including a [wall of force](.
 
 **Classes**: 
 
-Tasha's Cauldron of Everything p. 106
+Tasha's Cauldron of Everything p. 106, Icewind Dale: Rime of the Frostmaiden p. 318

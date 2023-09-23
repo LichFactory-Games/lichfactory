@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
+- feat
 aliases: ["Elemental Adept"]
 ---
 # Elemental Adept
 *Source: Player's Handbook p. 166*  
 
-***Prerequisites*** The ability to cast at least one spell
+**Prerequisite**: The ability to cast at least one spell
 
 When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.
 

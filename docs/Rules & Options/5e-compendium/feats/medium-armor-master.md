@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
+- feat
 aliases: ["Medium Armor Master"]
 ---
 # Medium Armor Master
 *Source: Player's Handbook p. 168*  
 
-***Prerequisites*** Proficiency with medium armor
+**Prerequisite**: Proficiency with medium armor
 
 You have practiced moving in medium armor to gain the following benefits:
 

@@ -1,13 +1,13 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
+cssclasses: json5e-feat
 tags:
 - compendium/src/5e/tob
 - optional-feature/oth
 aliases: ["Ethereal Jaunt"]
 ---
 # Ethereal Jaunt
-*Source: Tome of Beasts* 
+*Source: Tome of Beasts*  
 
 As a bonus action, the creature can magically shift from the Material Plane to the Ethereal Plane, or vice versa.
 
