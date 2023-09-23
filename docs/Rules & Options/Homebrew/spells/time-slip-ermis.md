@@ -1,18 +1,14 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclass: json5e-spell
 tags:
-  - compendium/src/5e/ermis
-  - spell/class/wizard
-  - spell/level/3
-  - spell/school/orimancy
+- compendium/src/5e/ermis
+- spell/class/wizard
+- spell/level/3
+- spell/school/orimancy
 aliases: ["Time Slip"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Monday, September 18th 2023, 8:45:28 am
 ---
 # Time Slip
-
 *3rd-level, Orimancy*  
 
 - **Casting time:** 1 action
