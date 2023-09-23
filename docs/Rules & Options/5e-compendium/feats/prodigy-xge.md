@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/xge
+- feat
 aliases: ["Prodigy"]
 ---
 # Prodigy
 *Source: Xanathar's Guide to Everything p. 75*  
 
-***Prerequisites*** half-elf, half-orc, [Human](../races/human.md#)
+**Prerequisite**: half-elf, half-orc, [Human](../races/human.md#)
 
 You have a knack for learning new things. You gain the following benefits:
 
