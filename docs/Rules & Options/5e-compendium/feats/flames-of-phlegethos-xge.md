@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/xge
+- feat
 aliases: ["Flames of Phlegethos"]
 ---
 # Flames of Phlegethos
 *Source: Xanathar's Guide to Everything p. 74*  
 
-***Prerequisites*** tiefling
+**Prerequisite**: tiefling
 
 You learn to call on hellfire to serve your commands. You gain the following benefits:
 
