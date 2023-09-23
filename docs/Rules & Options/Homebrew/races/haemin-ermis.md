@@ -1,19 +1,14 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclass: json5e-race
 tags:
-  - compendium/src/5e/ermis
-  - race/haemin
+- compendium/src/5e/ermis
+- race/haemin
 aliases: ["Haemin"]
-date created: Monday, September 4th 2023, 10:31:10 am
-date modified: Monday, September 18th 2023, 8:45:41 am
 ---
 
 # Haemin
-
 *Ermis: Ad Astra*
-
 ![](https://lichfactory.com/assets/img/haemin.png#portrait)  
 
 - **Ability Scores**: Intelligence +2, Constitution +1
@@ -25,6 +20,7 @@ date modified: Monday, September 18th 2023, 8:45:41 am
 ## Description
 
 The native denizens of Haem are humanoids small of stature but big in their ideas. They see the world as something to be molded to fit their needs and interests. Haemish society is oriented towards using technology to solve material needs (sometimes in fairly ridiculous ways). Haemin are of various types, but typically stand scarcely taller than four feet, and live in loosely organized and non-hierarchical groups. The Haem Collective is the loose federation of such groups in the northern reaches of Ermis.
+
 
 ## Traits
 

@@ -1,9 +1,6 @@
 ---
-share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
-date created: Sunday, September 17th 2023, 9:38:55 pm
-date modified: Monday, September 18th 2023, 10:48:14 am
 ---
 # Index of Psionics
 

@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 cssclass: json5e-background
 tags:
+- background
 - compendium/src/5e/ermis
 aliases: ["Renegade"]
 ---
