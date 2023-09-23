@@ -9,7 +9,7 @@ type: folder-note
 share: true
 title: Rules & Options
 date created: Friday, July 14th 2023, 1:47:17 pm
-date modified: Thursday, September 14th 2023, 11:20:02 am
+date modified: Friday, September 22nd 2023, 9:38:05 am
 ---
 
 Here you'll find basic rules for D&D 5e, custom options for character creation, descriptions of new spells, as well as details concerning house rules. 
