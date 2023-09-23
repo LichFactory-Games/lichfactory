@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
+- feat
 aliases: ["Heavy Armor Master"]
 ---
 # Heavy Armor Master
 *Source: Player's Handbook p. 167*  
 
-***Prerequisites*** Proficiency with heavy armor
+**Prerequisite**: Proficiency with heavy armor
 
 You can use your armor to deflect strikes that would kill others. You gain the following benefits:
 
