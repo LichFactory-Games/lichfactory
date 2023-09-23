@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
+- feat
 aliases: ["Grappler"]
 ---
 # Grappler
 *Source: Player's Handbook p. 167. Available in the SRD.*  
 
-***Prerequisites*** Strength 13 or higher
+**Prerequisite**: Strength 13 or higher
 
 You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
 
