@@ -3,12 +3,13 @@ obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
 - compendium/src/5e/phb
+- feat
 aliases: ["Spell Sniper"]
 ---
 # Spell Sniper
 *Source: Player's Handbook p. 170*  
 
-***Prerequisites*** The ability to cast at least one spell
+**Prerequisite**: The ability to cast at least one spell
 
 You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
 
