@@ -1,3 +1,8 @@
+---
+share: true
+date created: Sunday, October 30th 2022, 8:31:52 am
+date modified: Friday, September 29th 2023, 1:17:25 pm
+---
 # Languages
 
 Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
