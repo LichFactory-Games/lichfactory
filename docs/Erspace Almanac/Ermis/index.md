@@ -4,7 +4,7 @@ tags:
 share: true
 title: Ermis
 date created: Sunday, March 12th 2023, 4:50:28 pm
-date modified: Sunday, September 10th 2023, 11:01:01 pm
+date modified: Friday, September 29th 2023, 11:53:50 pm
 ---
 # Welcome to Ermis
 
@@ -28,11 +28,11 @@ The dominant religion on Ermis is that of Er. This is a monotheistic religion in
 
 ![[../../assets/img/Ermis-world-map.jpg|Ermis-world-map.jpg]]
 
-There are three megacities on Ermis. These are the cities of the Dyarchy (also known as the "cities of the Spar") [[Eryth|Eryth]] and [[Astryth|Astryth]] (known also as the "twin cities"), and the capital city of [[Omerth|Omerth]] (a floating city at the center of the world). 
+There are three megacities on Ermis. These are the cities of the Dyarchy (also known as the "cities of the Spar") [[./Gazetteer/Eryth|Eryth]] and [[./Gazetteer/Astryth|Astryth]] (known also as the "twin cities"), and the capital city of [[./Gazetteer/Omerth|Omerth]] (a floating city at the center of the world). 
 
 Other major cities or city states include [[Kavouri|Kavouri]] and [[Tehmérr|Tehmérr]] (major seaports, independent of the Dyarchy), [[Thalassia|Thalassia]] in the Faeir Wildes (the seat of the Council of the Faeir), and [[Caer Mynydd|Caer Mynydd]] (the northern center of the Haem Collective). 
 
-The primary deity worshipped on Ermis is [[Er|Er]].  [[The Dyarchy|The Dyarchy]] recognizes no other deity and contend that all other gods are simply aspects or appearances of Er. 
+The primary deity worshipped on Ermis is [[./Gazetteer/Er|Er]].  [[./Pyntarch's Lives/The Dyarchy|The Dyarchy]] recognizes no other deity and contend that all other gods are simply aspects or appearances of Er. 
 
 There are many other smaller settlements, including agricultural and shipping centers near the twin cities, and nomadic groups such as the Sil, who live in the wastes of the Kypar desert. The desert is largely left to the Sil and whatever terrors live in the deep desert. 
 
