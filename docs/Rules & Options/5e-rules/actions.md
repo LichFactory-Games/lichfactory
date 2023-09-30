@@ -1,16 +1,20 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-- compendium/src/5e/phb
-- compendium/src/5e/xge
+  - compendium/src/5e/dmg
+  - compendium/src/5e/phb
+  - compendium/src/5e/xge
 aliases: ["Actions"]
+date created: Thursday, September 7th 2023, 11:32:13 pm
+date modified: Saturday, September 23rd 2023, 1:22:48 pm
 ---
 # Actions
 
 ## Activate an Item
-_Source: Dungeon Master's Guide p. 141. Available in the SRD and the Basic Rules._
+
+*Source: Dungeon Master's Guide p. 141. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
@@ -39,7 +43,8 @@ A magic item, such as certain staffs, may require you to use your own spellcasti
 Some magic items have charges that you expend to activate its properties. The number of charges an item has remaining is revealed when an identify spell is cast on the item, or when a creature attunes to the item. Additionally, when an item regains charges, the creature attuned to that item learns how many charges it regained.
 
 ## Attack
-_Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
@@ -52,14 +57,16 @@ Certain features, such as the Extra Attack feature of the fighter, allow you to 
 See also: [Disarm](actions.md##Disarm), [Grapple](actions.md##Grapple), [Mark](actions.md##Mark), [Shove](actions.md##Shove), [Shove Aside](actions.md##Shove Aside), [Two-Weapon Fighting](actions.md##Two-Weapon Fighting)
 
 ## Cast a Spell
-_Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules.*
 
 - **Duration**: Varies
 
 Spellcasters such as wizards and clerics, as well as many monsters, have access to spells and can use them to great effect in combat. Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. Casting a spell is, therefore, not necessarily an action. Most spells do have a casting time of 1 action, so a spellcaster often uses his or her action in combat to cast such a spell. See "chapter 10" for the rules on spellcasting.
 
 ## Climb onto a Bigger Creature
-_Source: Dungeon Master's Guide p. 271_
+
+*Source: Dungeon Master's Guide p. 271*
 
 - **Duration**: 1 action
 
@@ -72,7 +79,8 @@ The smaller creature can move around within the larger creature's space, treatin
 This action is an optional addition to the game, from the optional/variant rule [Action Options](./variant-rules/action-options.md#).
 
 ## Dash
-_Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
@@ -81,7 +89,8 @@ When you take the Dash action, you gain extra movement for the current turn. The
 Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you dash.
 
 ## Disarm
-_Source: Dungeon Master's Guide p. 271_
+
+*Source: Dungeon Master's Guide p. 271*
 
 - **Duration**: 1 action
 
@@ -94,35 +103,40 @@ See also: [Attack](actions.md##Attack)
 This action is an optional addition to the game, from the optional/variant rule [Action Options](./variant-rules/action-options.md#.md#).
 
 ## Disengage
-_Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
 If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn.
 
 ## Dodge
-_Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
 When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in the appendix) or if your speed drops to 0.
 
 ## Don or Doff a Shield
-_Source: Player's Handbook p. 146. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 146. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
 The time it takes to don or doff armor [depends on the armor's category](getting-into-and-out-of-armor-donning-and-doffing-armor.md#). A [shield](shield.md#) can be donned or doffed as an action.
 
 ## End Concentration
-_Source: Player's Handbook p. 203. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 203. Available in the SRD and the Basic Rules.*
 
 - **Duration**: Free
 
 If a spell must be maintained with [concentration](./conditions.md##concentration), that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [concentration](./conditions.md.md##concentration) at any time (no action required).
 
 ## Escape a Grapple
-_Source: Player's Handbook p. 195. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 195. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
@@ -131,7 +145,8 @@ A [grappled](./conditions.md##grappled) creature can use its action to escape. T
 See also: [Grapple](actions.md.md##Grapple)
 
 ## Grapple
-_Source: Player's Handbook p. 195. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 195. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
@@ -146,7 +161,8 @@ When you move, you can drag or carry the [grappled](./conditions.md.md.md##grapp
 See also: [Escape a Grapple](actions.md##Escape a Grapple)
 
 ## Healing Surge
-_Source: Dungeon Master's Guide p. 266_
+
+*Source: Dungeon Master's Guide p. 266*
 
 - **Duration**: 1 action
 
@@ -157,7 +173,8 @@ A character who uses a healing surge can't do so again until he or she finishes 
 This action is an optional addition to the game, from the optional/variant rule [Healing](./variant-rules/healing.md#).
 
 ## Help
-_Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
@@ -166,14 +183,16 @@ You can lend your aid to another creature in the completion of a task. When you 
 Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage.
 
 ## Hide
-_Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 192. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
 When you take the Hide action, you make a Dexterity ([Stealth](./skills.md##Stealth)) check in an attempt to hide, following the rules in "chapter 7 " for hiding. If you succeed, you gain certain benefits, as described in the ""Unseen Attackers and Targets"" section in the Player's Handbook.
 
 ## Identify a Spell
-_Source: Xanathar's Guide to Everything p. 85_
+
+*Source: Xanathar's Guide to Everything p. 85*
 
 - **Duration**: 1 reaction, 1 action
 
@@ -186,7 +205,8 @@ This Intelligence ([Arcana](./skills.md.md##Arcana)) check represents the fact t
 This action is an optional addition to the game, from the optional/variant rule [Spellcasting](./variant-rules/spellcasting-xge.md#).
 
 ## Improvising an Action
-_Source: Player's Handbook p. 193. Available in the Basic Rules._
+
+*Source: Player's Handbook p. 193. Available in the Basic Rules.*
 
 - **Duration**: Varies
 
@@ -195,18 +215,20 @@ Your character can do things not covered by the actions in this chapter, such as
 When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
 ## Mark
-_Source: Dungeon Master's Guide p. 271_
+
+*Source: Dungeon Master's Guide p. 271*
 
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
 
-When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [incapacitated](./conditions.md.md##incapacitated) condition or the [shocking grasp](../5e-compendium/spells/shocking-grasp.md#) spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
+When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [incapacitated](./conditions.md.md##incapacitated) condition or the [shocking grasp](shocking-grasp.md#) spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
 
 See also: [Attack](actions.md.md.md.md.md##Attack)
 
 This action is an optional addition to the game, from the optional/variant rule [Action Options](./variant-rules/action-options.md#.md#.md#).
 
 ## Opportunity Attack
-_Source: Player's Handbook p. 195. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 195. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 reaction
 
@@ -217,7 +239,8 @@ You can make an opportunity attack when a hostile creature that you can see move
 You can avoid provoking an opportunity attack by taking the [Disengage](actions.md##Disengage) action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
 
 ## Other Activity
-_Source: Player's Handbook p. 190. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 190. Available in the SRD and the Basic Rules.*
 
 - **Duration**: Varies
 
@@ -259,7 +282,8 @@ The DM might require you to use an action for any of these activities when it ne
 ^interacting-with-objects-around-you
 
 ## Overrun
-_Source: Dungeon Master's Guide p. 272_
+
+*Source: Dungeon Master's Guide p. 272*
 
 - **Duration**: 1 action, 1 bonus
 
@@ -270,7 +294,8 @@ See also: [Tumble](actions.md##Tumble)
 This action is an optional addition to the game, from the optional/variant rule [Action Options](./variant-rules/action-options.md#.md#.md#.md#).
 
 ## Ready
-_Source: Player's Handbook p. 193. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 193. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
@@ -285,14 +310,16 @@ When you ready a spell, you cast it as normal but hold its energy, which you rel
 You have until the start of your next turn to use a readied action.
 
 ## Search
-_Source: Player's Handbook p. 193. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 193. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
 When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the DM might have you make a Wisdom ([Perception](./skills.md##Perception)) check or an Intelligence ([Investigation](./skills.md##Investigation)) check.
 
 ## Shove
-_Source: Player's Handbook p. 195. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 195. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
@@ -303,7 +330,8 @@ The target of your shove must be no more than one size larger than you, and it m
 See also: [Attack](actions.md.md.md.md.md.md.md##Attack), [Shove Aside](actions.md.md##Shove Aside)
 
 ## Shove Aside
-_Source: Dungeon Master's Guide p. 272_
+
+*Source: Dungeon Master's Guide p. 272*
 
 - **Duration**: 1 action
 
@@ -312,7 +340,8 @@ With this option, a creature uses the special [shove](actions.md##shove) attack 
 This action is an optional addition to the game, from the optional/variant rule [Action Options](./variant-rules/action-options.md#.md#.md#.md#.md#).
 
 ## Tumble
-_Source: Dungeon Master's Guide p. 272_
+
+*Source: Dungeon Master's Guide p. 272*
 
 - **Duration**: 1 action, 1 bonus
 
@@ -323,7 +352,8 @@ See also: [Overrun](actions.md##Overrun)
 This action is an optional addition to the game, from the optional/variant rule [Action Options](./variant-rules/action-options.md#.md#.md#.md#.md#.md#).
 
 ## Two-Weapon Fighting
-_Source: Player's Handbook p. 195. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 195. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 bonus
 
@@ -334,14 +364,16 @@ If either weapon has the thrown property, you can throw the weapon, instead of m
 See also: [Attack](actions.md.md##Attack)
 
 ## Use an Object
-_Source: Player's Handbook p. 193. Available in the SRD and the Basic Rules._
+
+*Source: Player's Handbook p. 193. Available in the SRD and the Basic Rules.*
 
 - **Duration**: 1 action
 
 You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
 
 ## Waking Someone
-_Source: Xanathar's Guide to Everything p. 77_
+
+*Source: Xanathar's Guide to Everything p. 77*
 
 - **Duration**: 1 action
 

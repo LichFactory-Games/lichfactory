@@ -4,15 +4,15 @@ tags:
 share: true
 title: Astryth
 date created: Sunday, March 12th 2023, 7:26:29 pm
-date modified: Saturday, September 2nd 2023, 9:48:21 am
+date modified: Friday, September 29th 2023, 11:20:18 pm
 ---
 
 ![[../../../assets/img/astryth-wide.png|astryth-wide.png]]
 
-Astryth is one of two major cities on [[Ermis|Ermis]], sister to the city Eryth. It is the original home of [[Vires|Vires]]. Astryth is slightly smaller than [[Eryth|Eryth]] but also has a more varied surrounding landscape, encompassing, plains, mountains, desert, and forest. The core of the old city is located at the southern base of the [[Spar|Spar]]. 
+Astryth is one of two major cities on [[../index|Ermis]], sister to the city Eryth. It is the original home of [[../Pyntarch's Lives/Vires|Vires]]. Astryth is slightly smaller than [[./Eryth|Eryth]] but also has a more varied surrounding landscape, encompassing, plains, mountains, desert, and forest. The core of the old city is located at the southern base of the [[./The Spar|The Spar]]. 
 
 Astryth consists of  multiple levels as it carves its way up the foot of the Spar. 
 
-It also has an "undercity", which is a network of passages and sewers that lead throughout the city. The undercity is also connected to the so-called "underdark" which is a deeper network of caverns and tunnels that lead into the mountains. From both the undercity and the underdark one can find passages leading to the tunnels of the [[Sil|Sil]] in the northern wastes of the [[Kypar desert|Kypar desert]].
+It also has an "undercity", which is a network of passages and sewers that lead throughout the city. The undercity is also connected to the so-called "underdark" which is a deeper network of caverns and tunnels that lead into the mountains. From both the undercity and the underdark one can find passages leading to the tunnels of the [[../Creatures & Curiosities/Sil|Sil]] in the northern wastes of the [[./Kypar desert|Kypar desert]].
 
 ![[../../../assets/img/astryth-city-map.png|astryth-city-map.png]]

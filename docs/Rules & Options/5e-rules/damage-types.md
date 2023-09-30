@@ -1,11 +1,15 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
+  - compendium/src/5e/phb
 aliases: ["Damage Types"]
+date created: Thursday, September 7th 2023, 11:32:13 pm
+date modified: Saturday, September 23rd 2023, 1:22:53 pm
 ---
 # Damage Types
+
 *Source: Player's Handbook p. 196. Available in the SRD and the Basic Rules.* 
 
 ## Acid
