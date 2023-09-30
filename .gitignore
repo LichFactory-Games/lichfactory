@@ -1,2 +1,7 @@
 .vscode/settings.json
 desktop.ini
+/.DS_Store
+/overrides/.icons/*.svg
+/docs/.DS_Store
+*/DS.Store
+.DS_Store
