@@ -1,20 +1,25 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-- compendium/src/5e/phb
+  - compendium/src/5e/dmg
+  - compendium/src/5e/phb
 aliases: ["Item Types"]
+date created: Thursday, September 7th 2023, 11:32:13 pm
+date modified: Saturday, September 23rd 2023, 1:22:57 pm
 ---
 # Item Types
 
 ## Artisan's Tools
-_Source: Player's Handbook p. 154_
+
+*Source: Player's Handbook p. 154*
 
 These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
 
 ## Gaming Set
-_Source: Player's Handbook p. 154_
+
+*Source: Player's Handbook p. 154*
 
 If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.
 
@@ -22,21 +27,17 @@ Proficiency with a gaming set applies to one type of game, such as Three-Dragon 
 
 ### Components
 
-
 A gaming set has all the pieces needed to play a specific game or type of game, such as a complete deck of cards or a board and tokens.
 
 ### History
-
 
 Your mastery of a game includes knowledge of its history, as well as of important events it was connected to or prominent historical figures involved with it.
 
 ### Insight
 
-
 Playing games with someone is a good way to gain understanding of their personality, granting you a better ability to discern their lies from their truths and read their mood.
 
 ### Sleight of Hand
-
 
 Sleight of Hand is a useful skill for cheating at a game, as it allows you to swap pieces, palm cards, or alter a die roll. Alternatively, engrossing a target in a game by manipulating the components with dexterous movements is a great distraction for a pickpocketing attempt.
 
@@ -46,10 +47,12 @@ Sleight of Hand is a useful skill for cheating at a game, as it allows you to sw
 |----------|----|
 | Catch a player cheating | 15 |
 | Gain insight into an opponent's personality | 15 |
+
 ^gaming-set
 
 ## Instrument
-_Source: Player's Handbook p. 154_
+
+*Source: Player's Handbook p. 154*
 
 If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
 
@@ -57,16 +60,13 @@ Proficiency with a musical instrument indicates you are familiar with the techni
 
 ### History
 
-
 Your expertise aids you in recalling lore related to your instrument.
 
 ### Performance
 
-
 Your ability to put on a good show is improved when you incorporate an instrument into your act.
 
 ### Compose a Tune
-
 
 As part of a long rest, you can compose a new tune and lyrics for your instrument. You might use this ability to impress a noble or spread scandalous rumors with a catchy tune.
 
@@ -76,22 +76,26 @@ As part of a long rest, you can compose a new tune and lyrics for your instrumen
 |----------|----|
 | Identify a tune | 10 |
 | Improvise a tune | 20 |
+
 ^musical-instrument
 
 ## Range
-_Source: Player's Handbook p. 146_
+
+*Source: Player's Handbook p. 146*
 
 A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
 
 ## Trade Good
-_Source: Player's Handbook p. 146_
+
+*Source: Player's Handbook p. 146*
 
 Most wealth is not in coins. It is measured in livestock, grain, land, rights to collect taxes, or rights to resources (such as a mine or a forest).
 
 Guilds, nobles, and royalty regulate trade. Chartered companies are granted rights to conduct trade along certain routes, to send merchant ships to various ports, or to buy or sell specific goods. Guilds set prices for the goods or services that they control, and determine who may or may not offer those goods and services. Merchants commonly exchange trade goods without using currency.
 
 ## Vehicle
-_Source: Dungeon Master's Guide p. 119_
+
+*Source: Dungeon Master's Guide p. 119*
 
 ### Crew
 
