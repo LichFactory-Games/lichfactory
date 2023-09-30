@@ -1,5 +1,6 @@
 ---
 share: true
+art: "![[pc-gwen.jpeg|75]]"
 aliases:
   - "**Gwenzahlya**"
 tags:
@@ -10,7 +11,7 @@ player: Adam (Keotep)
 class: Wizard
 subclass: 
 level: 1
-background: Spirit Medium (custom)
+background: Spirit Medium
 strength: 10
 dexterity: 18
 constitution: 15 
@@ -39,21 +40,27 @@ condition:
 occupation: 
 associatedGroup: 
 associatedReligion: 
-location: 
+location:
+
+overview:
 traits: [an outsider, a dreamer, meticulous in perceiving small details, sees miracles of magic in soap bubbles, uses tarot cards for her spell book and arcane focus]
+ideals: 
+bonds: 
+flaws: superstitious belief in signs, omens, and forces outside one’s control
+
 goals: [achieve acceptance, learn school magic]
 linter-yaml-title-alias: "**Gwenzahlya**"
 date created: Monday, September 18th 2023, 5:02:53 pm
-date modified: Tuesday, September 19th 2023, 9:47:22 pm
+date modified: Monday, September 25th 2023, 1:55:20 pm
 ---
 
 > [!infobox|left]  
 > ![Image](https://media.discordapp.net/attachments/1148807785212039248/1153513917490937866/IMG_5551.png?width=1206&height=1206)
 > ###### Stats
-> > - `fas:DiceD20` \+ ⋅`rir:Run` 30ft
-> > - `rir:ShieldStar` 18 ⋅ `fas:Heart` 8
-> > - `fas:Eye` 12 ⋅`ris:Spy`  14
-> >
+>> -  :fas_dice_d20: \+ ⋅ :fas_running: 30ft
+>> - :rif_shield_star: 18 ⋅ :fas_heart: 8
+>> - :fas_eye: 12 ⋅ :rif_spy: 14
+>>
 >  > | Ability      | Score                | Mod                                        |
 >  > |--------------|----------------------|--------------------------------------------|
 >  > | Strength     | 10     |      |
@@ -62,51 +69,53 @@ date modified: Tuesday, September 19th 2023, 9:47:22 pm
 >  > | Intelligence | 19 |  |
 >  > | Wisdom       | 11       |        |
 >  > | Charisma     | 11     |      |
+>> ||||
+>>  - **Skill Proficiencies:** \-
+>>  - **Save Proficiencies:** \-
+>>  - **Default Action:** \-
+>>  -  **Condition:** \-
 
 # **Gwenzahlya**
-> [!info|bg-c-purple]- Overview
-> Gwenzahlya (Gwen) is a Doloi Wizard of acute intelligence. She aspires to be an Orimancer and achieve both great power and great learning. 
+>[!info|bg-c-purple]- Overview
+> - \-
 
-> [!column|clean no-title] Traits
-> > [!metadata| bg-c-blue]+ Traits
-> > an outsider,a dreamer,meticulous in perceiving small details,sees miracles of magic in soap bubbles,uses tarot cards for her spell book and arcane focus
-> 
-> > [!metadata|txt-c bg-c-blue]+ Goals & Needs
-> > achieve acceptance,learn school magic
- 
-> [!column|flex 3 clean no-title]
-> > [!info| bg-c-gray]+ Bio
-> > - **Alias(es)** \- 
-> > - **Age**  26 
-> > - **Sex**  Female 
-> > - **Sexuality**  \- 
-> > - **Height**  5'1 
-> > - **Weight**  \- 
-> > - **Occupation(s)**  \- 
-> > - **Group(s)**  \- 
-> > - **Religion(s)**  \- 
-> > - **Current Location**  \- 
+>[!column|clean no-title] Traits
+>> [!metadata|bg-c-blue]+ Traits
+>> - an outsider,a dreamer,meticulous in perceiving small details,sees miracles of magic in soap bubbles,uses tarot cards for her spell book and arcane focus
 >
-> > [!info| bg-c-gray]+ Other Info 
-> > - **Ancestry:**  Doloi
-> > - **Background:** Spirit Medium (custom)
-> > - **Class:** Wizard
-> > - **Level:** 1
-> > - **Alignment:** \-
-> > - **Condition:** \-
-> > - **Default Action:** \-
-> > - **Proficiencies:** Arcana, Investigation, Perception, Performance
-> > - **Languages**: Common, Goblin
+>> [!metadata|bg-c-blue]+ Ideals, Bonds, & Flaws
+>> -  \-
+>> -  \-
+>> -  superstitious belief in signs, omens, and forces outside one’s control
+ 
+>[!column|flex 3 clean no-title]
+>> [!info|bg-c-gray]+ Bio
+>> - **Alias(es):** **`=this.file.name`** 
+>> - **Age:**  26 
+>> - **Sex:**  Female 
+>> - **Sexuality:**  \- 
+>> - **Height:**  5'1 
+>> - **Weight:**  \- 
+>> - **Occupation(s):**  \- 
+>> - **Group(s):**  \- 
+>> - **Religion(s):**  \- 
+>
+>> [!info|bg-c-gray]+ Other Info 
+>> - **Ancestry:**  Doloi
+>> - **Background:** Spirit Medium
+>> - **Class:** Wizard
+>> - **Level:** 1
+>> - **Alignment:** \-
+>> - **Current Location:**  \- 
 
 ## Relationships
-> [!column|dataview|clean no-title] Relationships
-> > [!metadata|text-Center bg-c-green]- Friends & Family
-> > TBD
-> 
-> > [!metadata|text-Center bg-c-orange]- Rivals
-> > TBD
+>[!column|dataview|clean no-title] Relationships
+>> [!metadata|bg-c-green]- Friends & Family
+>> - \-
 >
+>> [!metadata|bg-c-orange]- Rivals
+>> - \-
+
 
 ## Biographical Details
 
-TBD
