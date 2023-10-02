@@ -14,3 +14,4 @@ The party members are:
 | ![[../../../assets/img/slithy-familiar.png\|75]]       | [[./Prince Slithy\|Prince Slithy]] [Adam (Keotep)] | Snake    | \-            | Familiar  | 10        | 13        | 13           | \-                                                                     | \-        |
 | ![[../../../assets/img/faeir-feline.png\|75]]          | [[./Ryalith Seraphia\|Ryalith Seraphia]] [Val]     | Faeir    | Criminal      | Pugilist  | 12        | 12        | 16           | Athletics, Deception, Perception, Stealth\-                            | \-        |
 | ![[../../../assets/img/er_dhampir-portrait_5.png\|75]] | [[./Stigs the Stiff\|Stigs the Stiff]] [Griffin]   | Dhampir  | Shipwright    | Artificer | 13        | 15        | 15           | Arcana, History, Investigation, Perception, Sleight of Hand, Stealth\- | \-        |
+
