@@ -39,7 +39,7 @@ bonds:
 flaws: 
 pronouns: 
 pronounced: 
-ancestry: 
+ancestry: Dhampir
 gender: 
 age: 
 sexuality: 
@@ -52,7 +52,7 @@ rivals:
 associatedGroup: House Ororos
 associatedReligion: Er
 date created: Saturday, September 23rd 2023, 7:45:19 pm
-date modified: Tuesday, September 26th 2023, 5:46:39 pm
+date modified: Monday, October 2nd 2023, 9:18:23 am
 ---
 
 >[!infobox|left]  
@@ -102,7 +102,7 @@ date modified: Tuesday, September 26th 2023, 5:46:39 pm
 >> - **Religion(s):**  [[../../../Erspace Almanac/Ermis/Gazetteer/Er|Er]] 
 >
 >> [!info|bg-c-gray]+ Other Info 
->> - **Ancestry:**  \-
+>> - **Ancestry:**  Dhampir
 >> - **Background:** Shipwright
 >> - **Class:** Artificer
 >> - **Level:** 1
