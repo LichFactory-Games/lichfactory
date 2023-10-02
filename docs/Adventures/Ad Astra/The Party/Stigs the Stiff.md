@@ -52,7 +52,7 @@ rivals:
 associatedGroup: House Ororos
 associatedReligion: Er
 date created: Saturday, September 23rd 2023, 7:45:19 pm
-date modified: Monday, October 2nd 2023, 9:18:23 am
+date modified: Monday, October 2nd 2023, 1:06:28 pm
 ---
 
 >[!infobox|left]  
