@@ -13,8 +13,8 @@ date modified: Sunday, September 17th 2023, 11:34:18 am
 
 Foundry can be a bit confusing to use initially. Here are a few links to reference docs and related information to help you. 
 
-- [[./Foundry Chat Commands|Foundry Chat Commands]]
 - [[./Foundry Combat|Foundry Combat]]
+- [[./Foundry Chat Commands|Foundry Chat Commands]]
 - [[./Player Basics|Player Basics]]
 
 
