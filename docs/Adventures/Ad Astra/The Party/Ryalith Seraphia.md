@@ -57,35 +57,35 @@ rivals:
 associatedGroup: 
 associatedReligion: 
 date created: Saturday, September 23rd 2023, 7:28:45 pm
-date modified: Sunday, September 24th 2023, 9:33:49 am
+date modified: Monday, October 2nd 2023, 12:57:09 pm
 ---
 
 >[!infobox|left]  
 >![[../../../assets/img/faeir-feline.png|vm-sm]]
 >###### Stats
->> -  :fas_dice_d20:: \+ ⋅ :fas_running: 35ft
->> - :rif_shield_star: 16 ⋅ :fas_heart:: 12
->> - :fas_eye: 12 ⋅ :rif_spy: 12
->>
->> | Ability      | Score                | Mod                                        |
->> |--------------|----------------------|--------------------------------------------|
->> | Strength     | 17     |      |
->> | Dexterity    | 11    |     |
->> | Constitution | 18 |  |
->> | Intelligence | 10 |  |
->> | Wisdom       | 11       |        |
->> | Charisma     | 17     |      |
->> ||||
->>  - **Skill Proficiencies:** Athletics, Deception, Perception, Stealth
->>  - **Save Proficiencies:** Strength, Constitution
->>  - **Default Action:** \-
->>  -  **Condition:** healthy
+> > -  :fas_dice_d20:: \+ ⋅ :fas_running: 35ft
+> > - :rif_shield_star: 16 ⋅ :fas_heart:: 12
+> > - :fas_eye: 12 ⋅ :rif_spy: 12
+> >
+> > | Ability      | Score                | Mod                                        |
+> > |--------------|----------------------|--------------------------------------------|
+> > | Strength     | 17     |      |
+> > | Dexterity    | 11    |     |
+> > | Constitution | 18 |  |
+> > | Intelligence | 10 |  |
+> > | Wisdom       | 11       |        |
+> > | Charisma     | 17     |      |
+> > ||||
+> >  - **Skill Proficiencies:** Athletics, Deception, Perception, Stealth
+> >  - **Save Proficiencies:** Strength, Constitution
+> >  - **Default Action:** \-
+> >  -  **Condition:** healthy
 
 # **Ryalith Seraphia**
 >[!info|bg-c-purple]- Overview
 > She’s purposefully left her secluded life with other Faeir and started to live on the streets in another settlement.
 
->[!column|clean no-title] Traits
+>[!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
 >> - I don't pay attention to risk, Never tell me the odds, I'm always calm no matter the situation, I never raise my voice or let my emotions control me
 >
