@@ -51,10 +51,10 @@ bonds: [I'm desperately seeking a cure to an affliction or a curse, either for s
 flaws: [I've done unspeakable evil and will do anything to prevent others from finding out.]
 linter-yaml-title-alias: "**Gloopwing**"
 date created: Tuesday, September 19th 2023, 10:22:50 pm
-date modified: Monday, October 2nd 2023, 2:42:37 pm
+date modified: Monday, October 2nd 2023, 3:25:41 pm
 ---
 >[!infobox|left]  
->![[../../../assets/img/gloopwing.png|hm-sm]]
+>![[../../../assets/img/gloopwing.png|cover hm-sm]]
 >###### Stats
 > > -  :fas_dice_d20: \+ ⋅ :fas_running: 30ft
 > > - :rif_shield_star: 18 ⋅ :fas_heart: 13
