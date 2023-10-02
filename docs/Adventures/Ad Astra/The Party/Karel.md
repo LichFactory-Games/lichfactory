@@ -58,29 +58,29 @@ associatedReligion:
 >[!infobox|left]  
 >![[PlaceholderImage.png|hm-sm]]
 >###### Stats
->> -  :fas_dice_d20: \+ ⋅ :fas_running: 30ft
->> - :rif_shield_star: 16 ⋅ :fas_heart: 12
->> - :fas_eye: 10 ⋅ :rif_spy: 13
->>
->> | Ability      | Score                | Mod                                        |
->> |--------------|----------------------|--------------------------------------------|
->> | Strength     | 18     |      |
->> | Dexterity    | 16    |     |
->> | Constitution | 18 |  |
->> | Intelligence | 12 |  |
->> | Wisdom       | 11       |        |
->> | Charisma     | 12     |      |
->> ||||
->>  - **Skill Proficiencies:** Athletics, Insight, Intimidation, Survival
->>  - **Save Proficiencies:** Strength, Constitution
->>  - **Default Action:** \-
->>  -  **Condition:** Healthy
+> > - :fas_dice_d20: \+ ⋅ :fas_running: 30ft
+> > - :rif_shield_star: 16 ⋅ :fas_heart: 12
+> > - :fas_eye: 10 ⋅ :rif_spy: 13
+> >
+> > | Ability      | Score                | Mod                                        |
+> > |--------------|----------------------|--------------------------------------------|
+> > | Strength     | 18     |      |
+> > | Dexterity    | 16    |     |
+> > | Constitution | 18 |  |
+> > | Intelligence | 12 |  |
+> > | Wisdom       | 11       |        |
+> > | Charisma     | 12     |      |
+> > ||||
+> >  - **Skill Proficiencies:** Athletics, Insight, Intimidation, Survival
+> >  - **Save Proficiencies:** Strength, Constitution
+> >  - **Default Action:** \-
+> >  -  **Condition:** Healthy
 
 # **Karel**
 >[!info|bg-c-purple]- Overview
 > \-
 
->[!column|clean no-title] Traits
+>[!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
 >> - \-
 >
