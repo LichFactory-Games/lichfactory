@@ -51,7 +51,7 @@ flaws: superstitious belief in signs, omens, and forces outside one’s control
 goals: [achieve acceptance, learn school magic]
 linter-yaml-title-alias: "**Gwenzahlya**"
 date created: Monday, September 18th 2023, 5:02:53 pm
-date modified: Monday, September 25th 2023, 1:55:20 pm
+date modified: Monday, October 2nd 2023, 9:23:45 am
 ---
 
 > [!infobox|left]  
