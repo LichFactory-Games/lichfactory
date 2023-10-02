@@ -3,7 +3,7 @@ share: true
 aliases:
   - Ad Astra - Session 1
 date created: Saturday, September 30th 2023, 9:28:43 am
-date modified: Monday, October 2nd 2023, 11:27:09 am
+date modified: Monday, October 2nd 2023, 12:55:52 pm
 ---
 
 # Session 1 - Minutes
