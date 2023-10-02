@@ -50,7 +50,7 @@ rivals:
 associatedGroup: 
 associatedReligion:
 date created: Saturday, September 23rd 2023, 7:44:41 pm
-date modified: Sunday, October 1st 2023, 9:09:18 am
+date modified: Monday, October 2nd 2023, 9:24:48 am
 ---
 
 >[!infobox|left]  
