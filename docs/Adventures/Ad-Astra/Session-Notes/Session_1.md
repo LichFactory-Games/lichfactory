@@ -3,7 +3,7 @@ share: true
 aliases:
   - Ad Astra - Session 1
 date created: Saturday, September 30th 2023, 9:28:43 am
-date modified: Monday, October 2nd 2023, 3:48:46 pm
+date modified: Monday, October 2nd 2023, 4:33:32 pm
 ---
 
 # Session 1 - Minutes
@@ -98,7 +98,7 @@ Not even a minute later, the yell of Stigs entered the clearing, followed by a h
 > The Night Hunter enjoyed toying with the party. It was incredibly stealthy. It hid in the forest shadows and only came out to attack when it helped to terrorize the group, or when the party had been split. It attacked fiercely with two slicing cuts of its cursed knife. 
 > The Night Hunter also seemed to exude shadows -- they split off of it as it took our hits. 
 
-The Night Hunter slashed at Stigs with an old and bloodied knife, twice. The first missed, but the second caught the dhampir across his front. Gwenzahlya, leaving the safety of Celin in Gloopwings capable oozy claws, stepped lightly and swiftly towards the source of the trouble. As she exited the treeline into another clearing where Stigs was dodging and cradling his oozing wound, she fanned her arms about and created a [[temporal-echo-ermis|Temporal Echo]]. The echo burst from the ground in a shimmer of white light, and sat hovering in lotus pose as its caster continued on with their next spell, a [[chill-touch|Chill Touch]] . The ghostly hands of ice appeared from the aether and reached out for the attacking shadowy being. As the hands about reached their target, Karel burst from the Night Hunter's flank, and delivered two punishing blows of his fists. 
+The Night Hunter slashed at Stigs with an old and bloodied knife, twice. The first missed, but the second caught the dhampir across his front. Gwenzahlya, leaving the safety of Celin in Gloopwings capable oozy claws, stepped lightly and swiftly towards the source of the trouble. As she exited the treeline into another clearing where Stigs was dodging and cradling his oozing wound, she fanned her arms about and created a Temporal Echo. The echo burst from the ground in a shimmer of white light, and flickered near the Hunter as its caster continued on with their next spell, a Chill Touch. The ghostly hands of ice appeared from the aether and reached out for the attacking shadowy being. As the hands about reached their target, Karel burst from the Night Hunter's flank, and delivered two punishing blows of his fists. 
 
 The Night Hunter doubled over, and the ice claws brushed harmlessly past its target. The shadowy being's visage warped, it shimmered, then drew in the light as it expelled from its core a smaller version of itself; darker than the night itself.
 
@@ -112,7 +112,7 @@ And then another shadow exited The Night Hunter and swiped at the incoming Ryali
 
 While this had been going on, Gloopwing and Celin had stayed near the fire. When the sounds of battle became apparent, the plasmoid gave the faeir a look, took some nearby leaves with a limb, and dropped them above their head. With the admission of their guilt freed, the plasmoid left the safety of the fire. Using growing limbs to project itself along, Gloopwing reached the clearing quickly. Ryalith was attempting to dodge the attacks of a large shadow striking with a weapon, and a smaller shadow was flaking from her side. A decision made, the plasmoid ejected their small crossbow from their arm pores and shot at the shadow. The bolt connected, and the shadow squealed, drawing the attention of The Night Hunter and its other shadows. Gwenzahlya took her chance, casting another Chill Touch over towards The Night Hunter. It brushed off her first one, but the second hand of ice shoved itself into the gaping wound of shadow from which its spawn came. 
 
-Stigs, finally recovered from the initial ambush attack, casted a [[cure-wounds|Cure Wounds]] on himself. 
+Stigs, finally recovered from the initial ambush attack, cast a Cure Wounds on himself. 
 
 The Night Hunter reared back. Its shadows circled around it as they regrouped. They turned to face the group as one and advanced, but for the roar of a creature behind them. The Night Hunter turned in time to see the snarling face of an angry Celin attempting to shove his sword into The Night Hunter's wound.  A miss! Taking advantage of the opening, Karel gave one more punishing strike and the shadowy being discorporated, its robe settling slowly in the air onto Karel's arm. The shadow fragments faded into the mist, as if they never existed. 
 
