@@ -1,10 +1,10 @@
 ---
 share: true
 date created: Sunday, September 17th 2023, 6:38:42 pm
-date modified: Monday, October 2nd 2023, 9:22:15 am
+date modified: Monday, October 2nd 2023, 4:10:49 pm
 ---
 
-The party members are: 
+The party members are as follows: 
 
 | Art                                         | NPC                                                                               | Ancestry | BG            | Class     | :rif_eye: | :rif_spy: | :rif_shield: | Proficiencies                                                          | Languages |
 | ------------------------------------------- | --------------------------------------------------------------------------------- | -------- | ------------- | --------- | --------- | --------- | ------------ | ---------------------------------------------------------------------- | --------- |
