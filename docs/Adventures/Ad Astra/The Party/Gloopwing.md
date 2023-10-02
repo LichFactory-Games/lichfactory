@@ -51,34 +51,34 @@ bonds: [I'm desperately seeking a cure to an affliction or a curse, either for s
 flaws: [I've done unspeakable evil and will do anything to prevent others from finding out.]
 linter-yaml-title-alias: "**Gloopwing**"
 date created: Tuesday, September 19th 2023, 10:22:50 pm
-date modified: Friday, September 29th 2023, 10:44:25 pm
+date modified: Monday, October 2nd 2023, 1:06:08 pm
 ---
 >[!infobox|left]  
 >![[../../../assets/img/gloopwing.png|hm-sm]]
 >###### Stats
->> -  :fas_dice_d20: \+ ⋅ :fas_running: 30ft
->> - :rif_shield_star: 18 ⋅ :fas_heart: 13
->> - :fas_eye: 10 ⋅ :rif_spy: 11
->>
->> | Ability      | Score                | Mod                                        |
->> |--------------|----------------------|--------------------------------------------|
->> | Strength     | 17     |      |
->> | Dexterity    | 13    |     |
->> | Constitution | 17 |  |
->> | Intelligence | 15 |  |
->> | Wisdom       | 11       |        |
->> | Charisma     | 11     |      |
->> ||||
->>  - **Skill Proficiencies:** Arcana, History, Insight, Religion
->>  - **Save Proficiencies:** Strength, Constitution
->>  - **Default Action:** Attack
->>  -  **Condition:** Normal
+> > -  :fas_dice_d20: \+ ⋅ :fas_running: 30ft
+> > - :rif_shield_star: 18 ⋅ :fas_heart: 13
+> > - :fas_eye: 10 ⋅ :rif_spy: 11
+> >
+> > | Ability      | Score                | Mod                                        |
+> > |--------------|----------------------|--------------------------------------------|
+> > | Strength     | 17     |      |
+> > | Dexterity    | 13    |     |
+> > | Constitution | 17 |  |
+> > | Intelligence | 15 |  |
+> > | Wisdom       | 11       |        |
+> > | Charisma     | 11     |      |
+> > ||||
+> >  - **Skill Proficiencies:** Arcana, History, Insight, Religion
+> >  - **Save Proficiencies:** Strength, Constitution
+> >  - **Default Action:** Attack
+> >  -  **Condition:** Normal
 
 # **Gloopwing**
 >[!info|bg-c-purple]- Overview
 >I had an encounter that I believe gives me a special affinity with a supernatural creature or event.
 
->[!column|clean no-title] Traits
+>[!column|clean no-title] Characteristics 
 >> [!metadata|bg-c-blue]+ Traits
 >> -  I have morbid interests and a macabre aesthetic.
 > 
