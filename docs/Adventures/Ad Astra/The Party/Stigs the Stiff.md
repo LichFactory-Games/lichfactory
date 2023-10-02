@@ -58,29 +58,29 @@ date modified: Monday, October 2nd 2023, 9:18:23 am
 >[!infobox|left]  
 >![[../../../assets/img/er_dhampir-portrait_4.png|vh-sm]]
 >###### Stats
->> -  :fas_dice_d20: \+ ⋅ :fas_running: 35ft
->> - :rif_shield_star: 15 ⋅ :fas_heart: 12
->> - :fas_eye: 13 ⋅ :rif_spy: 15
->>
->> | Ability      | Score                | Mod                                        |
->> |--------------|----------------------|--------------------------------------------|
->> | Strength     | 12     |      |
->> | Dexterity    | 17    |     |
->> | Constitution | 15 |  |
->> | Intelligence | 18 |  |
->> | Wisdom       | 12       |        |
->> | Charisma     | 10     |      |
->> ||||
->>  - **Skill Proficiencies:** Arcana, History, Investigation, Perception, Sleight of Hand, Stealth
->>  - **Save Proficiencies:** Constitution, Intelligence
->>  - **Default Action:** \-
->>  -  **Condition:** Healthy
+> > -  :fas_dice_d20: \+ ⋅ :fas_running: 35ft
+> > - :rif_shield_star: 15 ⋅ :fas_heart: 12
+> > - :fas_eye: 13 ⋅ :rif_spy: 15
+> >
+> > | Ability      | Score                | Mod                                        |
+> > |--------------|----------------------|--------------------------------------------|
+> > | Strength     | 12     |      |
+> > | Dexterity    | 17    |     |
+> > | Constitution | 15 |  |
+> > | Intelligence | 18 |  |
+> > | Wisdom       | 12       |        |
+> > | Charisma     | 10     |      |
+> > ||||
+> >  - **Skill Proficiencies:** Arcana, History, Investigation, Perception, Sleight of Hand, Stealth
+> >  - **Save Proficiencies:** Constitution, Intelligence
+> >  - **Default Action:** \-
+> >  -  **Condition:** Healthy
 
 # **Stigs the Stiff**
 >[!info|bg-c-purple]- Overview
 > - A shipwright for House Ororos
 
->[!column|clean no-title] Traits
+>[!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
 >> - \-
 >
