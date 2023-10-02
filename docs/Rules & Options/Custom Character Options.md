@@ -11,7 +11,7 @@ share: true
 linter-yaml-title-alias: Ermis Character Options
 title: Character Options
 date created: Sunday, July 2nd 2023, 10:56:12 am
-date modified: Sunday, September 10th 2023, 11:48:26 pm
+date modified: Monday, October 2nd 2023, 8:27:58 am
 ---
 
 # Ermis Character Options
