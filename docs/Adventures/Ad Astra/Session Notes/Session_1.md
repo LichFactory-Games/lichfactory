@@ -12,7 +12,7 @@ By luck or destiny, six individuals come together and face the horrors of the ni
 
 >[!info] Session 1
 >**Date:** 2023-09-25
->
+> 1840.04.11-13 (Days 311-13 of the 1840th kilchron of Er)
 >---
 >**Party Members:** 
 > - [[../The Party/Gloopwing|Gloopwing]]
