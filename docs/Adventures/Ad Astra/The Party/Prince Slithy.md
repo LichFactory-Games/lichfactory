@@ -56,29 +56,29 @@ date modified: Monday, October 2nd 2023, 9:24:48 am
 >[!infobox|left]  
 >![[../../../assets/img/slithy-familiar.png|vmed]]
 >###### Stats
->> -  :fas_dice_d20: \+ ⋅ :fas_running: 30ft
->> - :rif_shield_star: 13 ⋅ :fas_heart: 4
->> - :fas_eye: 10 ⋅ :rif_spy: 13
->>
->> | Ability      | Score                | Mod                                        |
->> |--------------|----------------------|--------------------------------------------|
->> | Strength     | 2     |      |
->> | Dexterity    | 16    |     |
->> | Constitution | 11 |  |
->> | Intelligence | 1 |  |
->> | Wisdom       | 10       |        |
->> | Charisma     | 3     |      |
->> ||||
->>  - **Skill Proficiencies:** \-
->>  - **Save Proficiencies:** \-
->>  - **Default Action:** \-
->>  -  **Condition:** Healthy
+> > - :fas_dice_d20: \+ ⋅ :fas_running: 30ft
+> > - :rif_shield_star: 13 ⋅ :fas_heart: 4
+> > - :fas_eye: 10 ⋅ :rif_spy: 13
+> >
+> > | Ability      | Score                | Mod                                        |
+> > |--------------|----------------------|--------------------------------------------|
+> > | Strength     | 2     |      |
+> > | Dexterity    | 16    |     |
+> > | Constitution | 11 |  |
+> > | Intelligence | 1 |  |
+> > | Wisdom       | 10       |        |
+> > | Charisma     | 3     |      |
+> > ||||
+> >  - **Skill Proficiencies:** \-
+> >  - **Save Proficiencies:** \-
+> >  - **Default Action:** \-
+> >  -  **Condition:** Healthy
 
 # **Prince Slithy**
 >[!info|bg-c-purple]- Overview
 > - \-
 
->[!column|clean no-title] Traits
+>[!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
 >> - \-
 >
