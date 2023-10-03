@@ -3,7 +3,7 @@ share: true
 aliases:
   - Ad Astra - Session 1
 date created: Saturday, September 30th 2023, 9:28:43 am
-date modified: Monday, October 2nd 2023, 4:33:32 pm
+date modified: Monday, October 2nd 2023, 6:20:42 pm
 ---
 
 # Session 1 - Minutes
@@ -98,7 +98,7 @@ Not even a minute later, the yell of Stigs entered the clearing, followed by a h
 > The Night Hunter enjoyed toying with the party. It was incredibly stealthy. It hid in the forest shadows and only came out to attack when it helped to terrorize the group, or when the party had been split. It attacked fiercely with two slicing cuts of its cursed knife. 
 > The Night Hunter also seemed to exude shadows -- they split off of it as it took our hits. 
 
-The Night Hunter slashed at Stigs with an old and bloodied knife, twice. The first missed, but the second caught the dhampir across his front. Gwenzahlya, leaving the safety of Celin in Gloopwings capable oozy claws, stepped lightly and swiftly towards the source of the trouble. As she exited the treeline into another clearing where Stigs was dodging and cradling his oozing wound, she fanned her arms about and created a Temporal Echo. The echo burst from the ground in a shimmer of white light, and flickered near the Hunter as its caster continued on with their next spell, a Chill Touch. The ghostly hands of ice appeared from the aether and reached out for the attacking shadowy being. As the hands about reached their target, Karel burst from the Night Hunter's flank, and delivered two punishing blows of his fists. 
+The Night Hunter slashed at Stigs with an old and bloodied knife, twice. The first missed, but the second caught the dhampir across his front. Gwenzahlya, leaving the safety of Celin in Gloopwings capable oozy claws, stepped lightly and swiftly towards the source of the trouble. As she exited the treeline into another clearing where Stigs was dodging and cradling his oozing wound, she fanned her arms about and created a Temporal Echo. The echo burst from the ground in a shimmer of white light, and flickeredas its caster continued on with their next spell, a Chill Touch. The ghostly hands of ice appeared from the aether and reached out for the attacking shadowy being. As the hands about reached their target, Karel burst from the Night Hunter's flank, and delivered two punishing blows of his fists. 
 
 The Night Hunter doubled over, and the ice claws brushed harmlessly past its target. The shadowy being's visage warped, it shimmered, then drew in the light as it expelled from its core a smaller version of itself; darker than the night itself.
 
