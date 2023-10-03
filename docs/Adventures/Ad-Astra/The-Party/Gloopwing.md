@@ -51,23 +51,24 @@ bonds: [I'm desperately seeking a cure to an affliction or a curse, either for s
 flaws: [I've done unspeakable evil and will do anything to prevent others from finding out.]
 linter-yaml-title-alias: "**Gloopwing**"
 date created: Tuesday, September 19th 2023, 10:22:50 pm
-date modified: Monday, October 2nd 2023, 3:25:41 pm
+date modified: Monday, October 2nd 2023, 6:29:49 pm
 ---
+
 >[!infobox|left]  
 >![[../../../assets/img/gloopwing.png|cover hm-sm]]
 >###### Stats
-> > -  :fas_dice_d20: \+ ⋅ :fas_running: 30ft
-> > - :rif_shield_star: 18 ⋅ :fas_heart: 13
+> > -  :fas_dice_d20: \+1 ⋅ :fas_running: 30ft
+> > - :rif_shield_star: 18 ⋅ :fas_heart: 13 
 > > - :fas_eye: 10 ⋅ :rif_spy: 11
 > >
 > > | Ability      | Score                | Mod                                        |
 > > |--------------|----------------------|--------------------------------------------|
-> > | Strength     | 17     |      |
-> > | Dexterity    | 13    |     |
-> > | Constitution | 17 |  |
-> > | Intelligence | 15 |  |
-> > | Wisdom       | 11       |        |
-> > | Charisma     | 11     |      |
+> > | Strength     | 17     | 3     |
+> > | Dexterity    | 13    | 1    |
+> > | Constitution | 17 | 3 |
+> > | Intelligence | 15 | 2 |
+> > | Wisdom       | 11       | 0       |
+> > | Charisma     | 11     | 0     |
 > > ||||
 > >  - **Skill Proficiencies:** Arcana, History, Insight, Religion
 > >  - **Save Proficiencies:** Strength, Constitution
@@ -89,7 +90,7 @@ date modified: Monday, October 2nd 2023, 3:25:41 pm
  
 >[!column|flex 3 clean no-title]
 >> [!info|bg-c-gray]+ Bio
->> - **Alias(es):** \- 
+>> - **Alias(es):** \-  
 >> - **Age:**  \- 
 >> - **Sex:**  unnknown 
 >> - **Sexuality:**  unknown 
