@@ -63,18 +63,18 @@ date modified: Monday, October 2nd 2023, 12:57:09 pm
 >[!infobox|left]  
 >![[../../../assets/img/faeir-feline.png|vm-sm]]
 >###### Stats
-> > -  :fas_dice_d20:: \+ ⋅ :fas_running: 35ft
+> > -  :fas_dice_d20:: \+0 ⋅ :fas_running: 35ft
 > > - :rif_shield_star: 16 ⋅ :fas_heart:: 12
 > > - :fas_eye: 12 ⋅ :rif_spy: 12
 > >
 > > | Ability      | Score                | Mod                                        |
 > > |--------------|----------------------|--------------------------------------------|
-> > | Strength     | 17     |      |
-> > | Dexterity    | 11    |     |
-> > | Constitution | 18 |  |
-> > | Intelligence | 10 |  |
-> > | Wisdom       | 11       |        |
-> > | Charisma     | 17     |      |
+> > | Strength     | 17     | 3     |
+> > | Dexterity    | 11    | 0    |
+> > | Constitution | 18 | 4 |
+> > | Intelligence | 10 | 0 |
+> > | Wisdom       | 11       | 0       |
+> > | Charisma     | 17     | 3     |
 > > ||||
 > >  - **Skill Proficiencies:** Athletics, Deception, Perception, Stealth
 > >  - **Save Proficiencies:** Strength, Constitution
