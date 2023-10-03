@@ -3,7 +3,7 @@ share: true
 aliases:
   - Ad Astra - Session 1
 date created: Saturday, September 30th 2023, 9:28:43 am
-date modified: Monday, October 2nd 2023, 6:20:42 pm
+date modified: Tuesday, October 3rd 2023, 12:03:43 am
 ---
 
 # Session 1 - Minutes
@@ -36,15 +36,13 @@ As Celin began walking away, one of the party members slowly followed him. Gloop
 
 Utterly pleased with its deception, Gloopwing shuffles back to the camp site a few paces away. But, not before quickly nabbing an unfortunate squirrel from a nearby oak. *Dinner Time!*
 
-Around the campsite, the Master-of-all-that-is-human-punching, Karel began setting up the tents with the similar Master-of-all-that-needs-tinkering-by-Dhampir, Stigs the stiff. Gloopwing settles on a nearby log next to the doloi wizard, Gwenzahlya. In the background, the lithe Ryalith practiced their way through a series of punches and kicks. The doloi fumbled with a pack of cards, whose ornate background caught the eye of the plasmoid. Generating another pseudopodic limb, Gloopwing tagged a leaf and attempted to stick it to the back of the cards. The doloi was quicker, and pulled the objects closer to her chest. Then, as if deciding something, the wizard fanned out her cards and said "Pick one."
+Around the campsite, the Master-of-all-that-is-human-punching, Karel began setting up the tents with the similar Master-of-all-that-needs-tinkering-by-Dhampir, Stigs the stiff. Gloopwing settles on a nearby log next to the doloi wizard, Gwenzahlya. In the background, the lithe Ryalith practiced their way through a series of punches and kicks. The doloi toyed with a pack of cards, whose ornate background caught the eye of the plasmoid. Generating another pseudopodic limb, Gloopwing tagged a leaf and attempted to stick it to the back of the cards. The doloi was quicker, and pulled the objects closer to her chest. Then, as if deciding something, the wizard fanned out her cards and said "Pick one."
 
 Without hesitation, the limb stuck the leaf to the back of one card. The closest one really, in the plasmoid's view. To Gwenzahlya, however, it was something else entirely. "This.. this is the Knight of Swords." The doloi looked up and became aware that the entire camp was looking at her, and so she explained. "The knight of swords means that they are very brave. But it also can mean danger is near."
 
 Just as the words left Gwenzahlya's mouth, Celin appears with some fruit and fungus. As the party looks at him suspiciously, he sighs and sets down the food before proceeding to throw more kindling on the fire because no one, absolutely no one, had attended to it. "Keep this alive," he told him. "If we want to survive the night we need to stay near the fire." He passes by the doloi, glances at one of the cards still fanned out, and yoinks it away from the rest. A purse of the lips and he drops it, which Gwenzahlya snatches up. 
 
-> [!danger|p+l txt-c]- The Tower
-> ![[../../../assets/img/tarot-tower.jpg|hmed]]
-> A warning, upheaval, or betrayal.
+> [!danger|p+l txt-c]- The Tower: A warning, upheaval, or betrayal.
 > Is our guide a trustworthy friend, or a foe?
 
 Gwenzahlya mused on the implications of the card. She clutched the chosen card fervently before waving a hand. Out from her clothes came a vibrant, multicolored snake. "Prince Slithy. Can you take a look around for us?" Without an answer, the snake slid off into the underbrush.
@@ -58,13 +56,13 @@ A short while later, the shriek of an owl preceded the rushed slithering of Slit
 >___
 > The Elk hit hard when scared, but were otherwise fairly docile and certainly very dumb -- for example, they seemed easily susceptible to Gwenzahlya's illusions.
 
-One elk, the leader, pushed ahead of the rest  and rushed towards the fire. Celin, knowing the danger should that fire go out, worked to intercept and calm the beast. The elk was not having any quarter for the faeir, and reminded him of his place as it delivered a hoof kick to his chest. Gwenzahlya rushed to Celin's aide. Gloopwing, also striving into action, extended numerous pseudopodic limbs and waved them around like strands of sea kelp, or the strange delicacy known as "ruh-men noodle." The elk turned, preparing to deliver another kick but hesitating at the presence of this strange and unusual creature. While it was distracted, Ryalith, ever itching for a fight, jumped in the air and landed on the elk's back with a twisting flourish – because why the heck not? 
+One elk, the leader, pushed ahead of the rest  and rushed towards the fire. Celin, knowing the danger should that fire go out, worked to intercept and calm the beast. The elk was not having any quarter for the faeir, and reminded him of his place as it delivered a hoof kick to his chest. Gwenzahlya rushed to Celin's aide. Gloopwing, also striving into action, extended numerous pseudopodic limbs and waved them around like strands of sea kelp, or the strange delicacy known as "ruh-men noodle." The elk turned, preparing to deliver another kick but hesitating at the presence of this strange and unusual creature. While it was distracted, Ryalith, ever itching for a fight, and aided by Gwenzahlya innate fey knack for help, jumped in the air and landed on the elk's back with a twisting flourish – because why the heck not? 
 
 Startled, out of its element, and deciding it picked the wrong fight, the elk took off with a jaunt with Ryalith still attached. Unfortunately, the elk managed to trample an empty tent as it ran off.
 
 The rest of the herd, left behind, themselves slowly approached the fire. Karel stepped in front of the now closest one, and with a great heave, pushed it aside. Now nervous of the strange, two-legged creature, this elk veered off into the forest after its leader.
 
-The other three elk seemed to debate taking residence next to the fire. Celin pushes himself to his feet, and Gwenzahlya turns her attention to the approaching elk. Joined by Prince Slithy, she begins casting a strange magic. The elk, seeing a snake, and reared in instinctual panic. Gloopwing and Stigs intercepted. While the Dhampir shimmied up the tree to take much needed aim if the elk decided to charge, Gloopwing once again changed its form to look … nothing like an elk but its best interpretation of an elk. In return, the elk gave Gloopwing the cervidaean equivalent of '*WTF are you?'*, decided these creatures were just as deadly as what it was running from. 
+The other three elk seemed to debate taking residence next to the fire. Celin pushes himself to his feet, and Gwenzahlya turns her attention to the approaching elk. Joined by Prince Slithy, she begins casting a strange magic. The elk, seeing an illusory snake created by Gwen, reared in instinctual panic. Gloopwing and Stigs intercepted. While the Dhampir shimmied up the tree to take much needed aim if the elk decided to charge, Gloopwing once again changed its form to look … nothing like an elk but its best interpretation of an elk. In return, the elk gave Gloopwing the cervidaean equivalent of '*WTF are you?'*, decided these creatures were just as deadly as what it was running from. 
 
 The fourth elk looked uncertain if it should stay, or should it go; the fire was its source of protection. Gwenzahlya and Celin gave it no chance to think about settling in as they shoo'd it off. 
 
@@ -86,7 +84,7 @@ Celin pointedly sat down next to the fire. Gwenzahlya turned to look at Gloopwin
 
 "Fire." The plasmoid said without hesitation as its 'mouth' reformed. Not that it was going to tell the others that *someone* needed to watch Celin. 
 
-Gwenzahlya appeared unsure, but set herself next to Celin for the time being as the other three cracked their various knuckles and set off three different directions. 
+Gwen joined with Ryalith after Ryalith teased her, and was part of the search in the woods suggesting they search by torchlight. When the searching by torchlight discovered the Night Hunter, Gwen ran back to gather the rest of the party to join in fight.  
 
 ## Encounter: The Night Hunter
 
@@ -98,7 +96,7 @@ Not even a minute later, the yell of Stigs entered the clearing, followed by a h
 > The Night Hunter enjoyed toying with the party. It was incredibly stealthy. It hid in the forest shadows and only came out to attack when it helped to terrorize the group, or when the party had been split. It attacked fiercely with two slicing cuts of its cursed knife. 
 > The Night Hunter also seemed to exude shadows -- they split off of it as it took our hits. 
 
-The Night Hunter slashed at Stigs with an old and bloodied knife, twice. The first missed, but the second caught the dhampir across his front. Gwenzahlya, leaving the safety of Celin in Gloopwings capable oozy claws, stepped lightly and swiftly towards the source of the trouble. As she exited the treeline into another clearing where Stigs was dodging and cradling his oozing wound, she fanned her arms about and created a Temporal Echo. The echo burst from the ground in a shimmer of white light, and flickeredas its caster continued on with their next spell, a Chill Touch. The ghostly hands of ice appeared from the aether and reached out for the attacking shadowy being. As the hands about reached their target, Karel burst from the Night Hunter's flank, and delivered two punishing blows of his fists. 
+The Night Hunter slashed at Stigs with an old and bloodied knife, twice. The first missed, but the second caught the dhampir across his front. Gwenzahlya, leaving the safety of Celin in Gloopwings capable oozy claws, stepped lightly and swiftly towards the source of the trouble. As she exited the treeline into another clearing where Stigs was dodging and cradling his oozing wound, she fanned and shuffled her Tarot deck and created a Temporal Echo. The echo  shimmered and flickered as if Gwenzahlya was in many places at once, she then continued on with her next spell, a Chill Touch. A spectral Valkrye like figure appeared from the aether and reached out for the attacking shadowy being. Though the spectral hands missed their target, Karel burst from the Night Hunter's flank, and delivered two punishing blows of his fists. 
 
 The Night Hunter doubled over, and the ice claws brushed harmlessly past its target. The shadowy being's visage warped, it shimmered, then drew in the light as it expelled from its core a smaller version of itself; darker than the night itself.
 
@@ -110,7 +108,7 @@ The Night Hunter doubled over, and the ice claws brushed harmlessly past its tar
 
 And then another shadow exited The Night Hunter and swiped at the incoming Ryalith. The fierce pugilist snarled in annoyance. *If her fists were going to hit lighter, she would just have to punch faster!* As she moved to implement her rage, the The Night Hunter took the opening to make two attacks of its blade, leaving Ryalith in a state of seething.
 
-While this had been going on, Gloopwing and Celin had stayed near the fire. When the sounds of battle became apparent, the plasmoid gave the faeir a look, took some nearby leaves with a limb, and dropped them above their head. With the admission of their guilt freed, the plasmoid left the safety of the fire. Using growing limbs to project itself along, Gloopwing reached the clearing quickly. Ryalith was attempting to dodge the attacks of a large shadow striking with a weapon, and a smaller shadow was flaking from her side. A decision made, the plasmoid ejected their small crossbow from their arm pores and shot at the shadow. The bolt connected, and the shadow squealed, drawing the attention of The Night Hunter and its other shadows. Gwenzahlya took her chance, casting another Chill Touch over towards The Night Hunter. It brushed off her first one, but the second hand of ice shoved itself into the gaping wound of shadow from which its spawn came. 
+While this had been going on, Gloopwing and Celin had stayed near the fire. When the sounds of battle became apparent, the plasmoid gave the faeir a look, took some nearby leaves with a limb, and dropped them above their head. With the admission of their guilt freed, the plasmoid left the safety of the fire. Using growing limbs to project itself along, Gloopwing reached the clearing quickly. Ryalith was attempting to dodge the attacks of a large shadow striking with a weapon, and a smaller shadow was flaking from her side. A decision made, the plasmoid ejected their small crossbow from their arm pores and shot at the shadow. The bolt connected, and the shadow squealed, drawing the attention of The Night Hunter and its other shadows. Gwenzahlya took her chance, casting another Chill Touch over towards The Night Hunter. A spectral young girl circled by birds,  and the birds swooped into strike. Unfortunately the Night Hunter proved evasive still.  
 
 Stigs, finally recovered from the initial ambush attack, cast a Cure Wounds on himself. 
 
