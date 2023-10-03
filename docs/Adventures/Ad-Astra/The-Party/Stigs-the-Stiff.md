@@ -58,18 +58,18 @@ date modified: Monday, October 2nd 2023, 1:06:28 pm
 >[!infobox|left]  
 >![[../../../assets/img/er_dhampir-portrait_4.png|vh-sm]]
 >###### Stats
-> > -  :fas_dice_d20: \+ ⋅ :fas_running: 35ft
+> > -  :fas_dice_d20: \+3 ⋅ :fas_running: 35ft
 > > - :rif_shield_star: 15 ⋅ :fas_heart: 12
 > > - :fas_eye: 13 ⋅ :rif_spy: 15
 > >
 > > | Ability      | Score                | Mod                                        |
 > > |--------------|----------------------|--------------------------------------------|
-> > | Strength     | 12     |      |
-> > | Dexterity    | 17    |     |
-> > | Constitution | 15 |  |
-> > | Intelligence | 18 |  |
-> > | Wisdom       | 12       |        |
-> > | Charisma     | 10     |      |
+> > | Strength     | 12     | 1     |
+> > | Dexterity    | 17    | 3    |
+> > | Constitution | 15 | 2 |
+> > | Intelligence | 18 | 4 |
+> > | Wisdom       | 12       | 1       |
+> > | Charisma     | 10     | 0     |
 > > ||||
 > >  - **Skill Proficiencies:** Arcana, History, Investigation, Perception, Sleight of Hand, Stealth
 > >  - **Save Proficiencies:** Constitution, Intelligence
