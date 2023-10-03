@@ -57,18 +57,18 @@ date modified: Monday, October 2nd 2023, 9:23:45 am
 > [!infobox|left]  
 > ![Image](https://media.discordapp.net/attachments/1148807785212039248/1153513917490937866/IMG_5551.png?width=1206&height=1206)
 > ###### Stats
-> > - :fas_dice_d20: \+ ⋅ :fas_running: 30ft
+> > - :fas_dice_d20: \+4 ⋅ :fas_running: 30ft
 > > - :rif_shield_star: 18 ⋅ :fas_heart: 8
 > > - :fas_eye: 12 ⋅ :rif_spy: 14
 > >
 > > | Ability      | Score                | Mod                                        |
 > > |--------------|----------------------|--------------------------------------------|
-> > | Strength     | 10     |      |
-> > | Dexterity    | 18    |     |
-> > | Constitution | 15 |  |
-> > | Intelligence | 19 |  |
-> > | Wisdom       | 11       |        |
-> > | Charisma     | 11     |      |
+> > | Strength     | 10     | 0     |
+> > | Dexterity    | 18    | 4    |
+> > | Constitution | 15 | 2 |
+> > | Intelligence | 19 | 4 |
+> > | Wisdom       | 11       | 0       |
+> > | Charisma     | 11     | 0     |
 > > ||||
 > >  - **Skill Proficiencies:** \-
 > >  - **Save Proficiencies:** \-

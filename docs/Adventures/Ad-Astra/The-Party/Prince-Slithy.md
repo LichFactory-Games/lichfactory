@@ -56,18 +56,18 @@ date modified: Monday, October 2nd 2023, 9:24:48 am
 >[!infobox|left]  
 >![[../../../assets/img/slithy-familiar.png|vmed]]
 >###### Stats
-> > - :fas_dice_d20: \+ ⋅ :fas_running: 30ft
+> > - :fas_dice_d20: \+3 ⋅ :fas_running: 30ft
 > > - :rif_shield_star: 13 ⋅ :fas_heart: 4
 > > - :fas_eye: 10 ⋅ :rif_spy: 13
 > >
 > > | Ability      | Score                | Mod                                        |
 > > |--------------|----------------------|--------------------------------------------|
-> > | Strength     | 2     |      |
-> > | Dexterity    | 16    |     |
-> > | Constitution | 11 |  |
-> > | Intelligence | 1 |  |
-> > | Wisdom       | 10       |        |
-> > | Charisma     | 3     |      |
+> > | Strength     | 2     | -4     |
+> > | Dexterity    | 16    | 3    |
+> > | Constitution | 11 | 0 |
+> > | Intelligence | 1 | -5 |
+> > | Wisdom       | 10       | 0       |
+> > | Charisma     | 3     | -4     |
 > > ||||
 > >  - **Skill Proficiencies:** \-
 > >  - **Save Proficiencies:** \-

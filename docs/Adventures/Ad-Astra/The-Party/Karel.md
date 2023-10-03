@@ -58,18 +58,18 @@ associatedReligion:
 >[!infobox|left]  
 >![[PlaceholderImage.png|hm-sm]]
 >###### Stats
-> > - :fas_dice_d20: \+ ⋅ :fas_running: 30ft
+> > - :fas_dice_d20: \+3 ⋅ :fas_running: 30ft
 > > - :rif_shield_star: 16 ⋅ :fas_heart: 12
 > > - :fas_eye: 10 ⋅ :rif_spy: 13
 > >
 > > | Ability      | Score                | Mod                                        |
 > > |--------------|----------------------|--------------------------------------------|
-> > | Strength     | 18     |      |
-> > | Dexterity    | 16    |     |
-> > | Constitution | 18 |  |
-> > | Intelligence | 12 |  |
-> > | Wisdom       | 11       |        |
-> > | Charisma     | 12     |      |
+> > | Strength     | 18     | 4     |
+> > | Dexterity    | 16    | 3    |
+> > | Constitution | 18 | 4 |
+> > | Intelligence | 12 | 1 |
+> > | Wisdom       | 11       | 0       |
+> > | Charisma     | 12     | 1     |
 > > ||||
 > >  - **Skill Proficiencies:** Athletics, Insight, Intimidation, Survival
 > >  - **Save Proficiencies:** Strength, Constitution
