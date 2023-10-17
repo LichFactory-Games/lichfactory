@@ -45,18 +45,18 @@ associatedReligion:
 location: Hestia
 overview: 
 traits: |
-  I have never lost my childlike sense of wonder, like my fascination in the beauty of refracted light in the crystal jewelry I handcraft. 
-  I live by my own set of weird and wonderful rules, having been raised/adopted by a found family of traveling performers of acrobats, musicians and wonderful eccentric talented people.
+  - I have never lost my childlike sense of wonder, like my fascination in the beauty of refracted light in the crystal jewelry I handcraft. 
+  - I live by my own set of weird and wonderful rules, having been raised/adopted by a family of traveling performers, acrobats, musicians and wonderful eccentric talented people.
 ideals: |
   **Independent Thinker**. I trust my own intuition and deduction much more than any authority.
 bonds: |
-  I find the secrets hidden in mystery of time and space to be utterly compelling. The more a place promises answers, the more I am drawn to it.
+  I find the mysteries of time and space to be utterly compelling. The more a place promises answers, the more I am drawn to it.
 flaws: | 
   **Deeply Superstitious**. I believe in my ability to interpret the Tarot symbolic signs to reveal truths about people, places and things in my world in the present and future.
 goals: [achieve acceptance, learn school magic]
 linter-yaml-title-alias: "**Gwenzahlya**"
 date created: Monday, September 18th 2023, 5:02:53 pm
-date modified: Tuesday, October 17th 2023, 4:12:09 pm
+date modified: Tuesday, October 17th 2023, 5:54:45 pm
 ---
 
 > [!infobox|left]  
@@ -87,13 +87,13 @@ date modified: Tuesday, October 17th 2023, 4:12:09 pm
 >[!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
 >> - I have never lost my childlike sense of wonder, like my fascination in the beauty of refracted light in the crystal jewelry I handcraft. 
-I live by my own set of weird and wonderful rules, having been raised/adopted by a found family of traveling performers of acrobats, musicians and wonderful eccentric talented people.
+- I live by my own set of weird and wonderful rules, having been raised/adopted by a family of traveling performers, acrobats, musicians and wonderful eccentric talented people.
 
 >
 >> [!metadata|bg-c-blue]+ Ideals, Bonds, & Flaws
 >> -  **Independent Thinker**. I trust my own intuition and deduction much more than any authority.
 
->> -  I find the secrets hidden in mystery of time and space to be utterly compelling. The more a place promises answers, the more I am drawn to it.
+>> -  I find the mysteries of time and space to be utterly compelling. The more a place promises answers, the more I am drawn to it.
 
 >> -  **Deeply Superstitious**. I believe in my ability to interpret the Tarot symbolic signs to reveal truths about people, places and things in my world in the present and future.
 
