@@ -5,7 +5,7 @@ tags:
   - town
 type: location
 date created: Thursday, October 5th 2023, 4:36:43 pm
-date modified: Friday, October 6th 2023, 8:05:07 am
+date modified: Sunday, October 15th 2023, 10:33:39 pm
 ---
 
 Hestia is a mid-sized town of roughly 4-5000 people. It sits on the north side of [[./The-Dunwold|The Dunwold]], and is the largest settlement, other than Astryth (which dwarfs it), in the Lower Kypar region. 
