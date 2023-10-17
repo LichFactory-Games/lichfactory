@@ -4,7 +4,7 @@ tags:
 share: true
 title: The Spar
 date created: Sunday, March 12th 2023, 7:27:43 pm
-date modified: Saturday, September 23rd 2023, 10:22:21 am
+date modified: Thursday, October 5th 2023, 11:50:24 pm
 ---
 
 The Spar is the great rock column that spans the diameter of [[../index|Ermis]]. It consists of extremely dense rock and is approximately 25 miles in width (it has an irregular cylindrical shape). It is the primary trade way for [[../index|Ermis]]. 
