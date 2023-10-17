@@ -91,18 +91,18 @@ date modified: Monday, October 16th 2023, 12:15:17 pm
 >[!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
 >> - I can't resist prying into anything forbidden, since it must be terribly interesting. 
-I'm easily startled, but I'm not a coward.
+>> - I'm easily startled, but I'm not a coward.
 
 >
 >> [!metadata|bg-c-blue]+ Ideals, Bonds, & Flaws
->> -  **Escape**. I believe there is something beyond the world I know, and I need to find it. 
-**Obligation**. I owe it to my people, faith, family, or teacher to continue a vaunted legacy.
-
+>> - **Escape**. I believe there is something beyond the world I know, and I need to find it. 
+>> - **Obligation**. I owe it to my people, faith, family, or teacher to continue a vaunted legacy.
+>>
 >> -  My peers keep me grounded.
-I don't care about the house as a whole, but I would do anything for my old mentor.
-
+>> - I don't care about the house as a whole, but I would do anything for my old mentor.
+>> 
 >> -  I'm obsessed with conspiracy theories and worried about secret societies and hidden demons. 
-I'm never satisfied with what I have – I always want more.
+>> - I'm never satisfied with what I have – I always want more.
 
  
 >[!column|flex 3 clean no-title]
