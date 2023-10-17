@@ -32,9 +32,9 @@ skill-proficiencies: Athletics, Deception, Perception, Stealth
 save-proficiencies: Strength, Constitution
 languages: Common, Faeir
 overview: She’s purposefully left her secluded life with other Faeir and started to live on the streets in another settlement.
-traits: |
-  I don't pay attention to risk
-  Never tell me the odds
+traits: | 
+  I don't pay attention to risk 
+  Never tell me the odds 
   I'm always calm no matter the situation
   I never raise my voice or let my emotions control me
 ideals: |
@@ -62,7 +62,7 @@ rivals:
 associatedGroup: 
 associatedReligion: 
 date created: Saturday, September 23rd 2023, 7:28:45 pm
-date modified: Tuesday, October 17th 2023, 4:14:22 pm
+date modified: Tuesday, October 17th 2023, 5:20:19 pm
 ---
 
 >[!infobox|left]  
@@ -92,11 +92,7 @@ date modified: Tuesday, October 17th 2023, 4:14:22 pm
 
 >[!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
->> - I don't pay attention to risk
-Never tell me the odds
-I'm always calm no matter the situation
-I never raise my voice or let my emotions control me
-
+>> - `VIEW[{traits}]`
 >
 >> [!metadata|bg-c-blue]+ Ideals, Bonds, & Flaws
 >> -  **Freedom** Chains are meant to be broken, as are those who would forge them
