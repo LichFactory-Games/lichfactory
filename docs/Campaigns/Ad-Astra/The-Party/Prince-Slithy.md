@@ -1,84 +1,82 @@
 ---
 share: true
-date created: Saturday, September 23rd 2023, 7:45:44 pm
-date modified: Tuesday, September 26th 2023, 5:45:53 pm
 tags:
-  - erspace/ermis
-type: pc
-linter-yaml-title-alias: "**Karel**"
-art: ""
-player: Josh
-name: Kárel
+  - familiar
+type: familiar
+linter-yaml-title-alias: "**Prince Slithy**"
+art: "![[../../../assets/img/slithy-familiar.png|75]]"
+player: Adam (Keotep)
+name: 
 aliases:
-  - "**Karel**"
-class: Pugilist
+  - "**Prince Slithy**"
+class: Familiar
 subclass: 
-level: 1
-background: Renegade
+level: "-"
+background: 
 alignment: 
-strength: 18
+strength: 2
 dexterity: 16
-constitution: 18
-intelligence: 12
-wisdom: 11
-charisma: 12
+constitution: 11
+intelligence: 1
+wisdom: 10
+charisma: 3
 perception: 10
 stealth: 13
-pb: 
-hd: 1d8
-hp: 12
-ac: 16
+hd: 1d4
+hp: 4
+ac: 13
 speed: 30
 condition: Healthy
 action: 
-skill-proficiencies: Athletics, Insight, Intimidation, Survival
-save-proficiencies: Strength, Constitution
-languages: Common
-overview: 
+skill-proficiencies: 
+save-proficiencies: 
+languages: 
 traits: 
 ideals: 
 bonds: 
 flaws: 
-pronouns: 
+pronouns: He/Him/It
 pronounced: 
-ancestry: Human
-gender: Male
+ancestry: Snake
+gender: 
 age: 
 sexuality: 
 height: 
 weight: 
-location: 
+location: Hestia
 occupation: 
 friends-family: 
 rivals: 
 associatedGroup: 
-associatedReligion:
+associatedReligion: 
+date created: Saturday, September 23rd 2023, 7:44:41 pm
+date modified: Friday, October 13th 2023, 3:46:47 pm
 ---
 
 >[!infobox|left]  
->![[PlaceholderImage.png|hm-sm]]
+>![[../../../assets/img/slithy-familiar.png|vmed]]
 >###### Stats
 > > - :fas_dice_d20: \+3 ⋅ :fas_running: 30ft
-> > - :rif_shield_star: 16 ⋅ :fas_heart: 12
+> > - :rif_shield_star: 13 ⋅ :fas_heart: 4
 > > - :fas_eye: 10 ⋅ :rif_spy: 13
 > >
 > > | Ability      | Score                | Mod                                        |
 > > |--------------|----------------------|--------------------------------------------|
-> > | Strength     | 18     | 4     |
+> > | Strength     | 2     | -4     |
 > > | Dexterity    | 16    | 3    |
-> > | Constitution | 18 | 4 |
-> > | Intelligence | 12 | 1 |
-> > | Wisdom       | 11       | 0       |
-> > | Charisma     | 12     | 1     |
+> > | Constitution | 11 | 0 |
+> > | Intelligence | 1 | -5 |
+> > | Wisdom       | 10       | 0       |
+> > | Charisma     | 3     | -4     |
 > > ||||
-> >  - **Skill Proficiencies:** Athletics, Insight, Intimidation, Survival
-> >  - **Save Proficiencies:** Strength, Constitution
+> >  - **Skill Proficiencies:** \-
+> >  - **Save Proficiencies:** \-
 > >  - **Default Action:** \-
 > >  -  **Condition:** Healthy
 
-# **Karel**
+# **Prince Slithy**
 >[!info|bg-c-purple]- Overview
-> \-
+> - \-
 
 >[!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
@@ -91,9 +89,9 @@ associatedReligion:
  
 >[!column|flex 3 clean no-title]
 >> [!info|bg-c-gray]+ Bio
->> - **Alias(es):** \- 
+>> - **Alias(es):** **`=this.file.name`** 
 >> - **Age:**  \- 
->> - **Sex:**  Male 
+>> - **Sex:**  \- 
 >> - **Sexuality:**  \- 
 >> - **Height:**  \- 
 >> - **Weight:**  \- 
@@ -102,12 +100,12 @@ associatedReligion:
 >> - **Religion(s):**  \- 
 >
 >> [!info|bg-c-gray]+ Other Info 
->> - **Ancestry:**  Human
->> - **Background:** Renegade
->> - **Class:** Pugilist
->> - **Level:** 1
+>> - **Ancestry:**  Snake
+>> - **Background:** \-
+>> - **Class:** Familiar
+>> - **Level:** -
 >> - **Alignment:** \-
->> - **Current Location:**  \- 
+>> - **Current Location:**  [[../../../Erspace-Almanac/Ermis/Gazetteer/Hestia|Hestia]] 
 
 ## Relationships
 >[!column|dataview|clean no-title] Relationships
@@ -119,3 +117,4 @@ associatedReligion:
 
 
 ## Biographical Details
+

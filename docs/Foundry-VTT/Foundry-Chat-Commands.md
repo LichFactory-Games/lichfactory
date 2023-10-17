@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Sunday, September 10th 2023, 9:01:49 am
-date modified: Sunday, September 10th 2023, 9:20:51 am
+date modified: Monday, October 16th 2023, 12:07:56 pm
 ---
 
 The Chat sidebar is one of the most important interfaces for players on Foundry, since it records all die rolls and in general serves as the hub of player interactions with the game world, one another, and the GM. 
@@ -66,7 +66,7 @@ You can find more complicated dice syntax (such as roll & keep) [here.](https:/
 
 ### More Dice Tips:
 
-- Some functions of JS builtin object [Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) are supported in rolls. Example `[[ 1d6 + round(7/2) | 1d6 + round(7/2) ]]`
+- Some functions of JS builtin object [Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) are supported in rolls. Example `[[ 1d6 + round(7/2) ]]`
     
 - Explode with "operator" does not really need a number after operator and maximum die value is used in that case. Example: `/roll 1d4x=` will explode on 4.
     
@@ -112,7 +112,7 @@ The top level attributes you can access with the @ symbol are: `@abilities, @at
 You can roll dice inside *any* text by placing brackets around it, like so:
 
 ```none
-The quick brown fox jumps [[2d10+5|2d10+5]] over the lazy dog.
+The quick brown fox jumps [[2d10+5]] over the lazy dog.
 ```
 
 When you send that to chat, the dice will be rolled and the result will be displayed inside the text, like so:
@@ -122,7 +122,7 @@ When you send that to chat, the dice will be rolled and the result will be displ
 You can also put "delayed" rolls or "clickable" rolls inline. This will show the dice formula inline instead of automatically rolling the dice, and when clicked the dice will roll. You can accomplish this by including the roll command inside the brackets. Like so:
 
 ```none
-The quick brown fox jumps [[/r 2d10+5|/r 2d10+5]] over the lazy dog.
+The quick brown fox jumps [[/r 2d10+5]] over the lazy dog.
 ```
 
 When you send it to chat, it will look like this:

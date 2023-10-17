@@ -4,7 +4,7 @@ tags:
 share: true
 title: Astryth
 date created: Sunday, March 12th 2023, 7:26:29 pm
-date modified: Friday, September 29th 2023, 11:20:18 pm
+date modified: Thursday, October 5th 2023, 4:00:59 pm
 ---
 
 ![[../../../assets/img/astryth-wide.png|astryth-wide.png]]

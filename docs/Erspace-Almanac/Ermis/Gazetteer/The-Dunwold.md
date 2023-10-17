@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Sunday, September 17th 2023, 7:53:41 am
-date modified: Sunday, September 17th 2023, 8:00:22 am
+date modified: Wednesday, October 11th 2023, 10:45:03 pm
 ---
 
 A large forest in southern Vardoun. The Dunwold separates the major coastal towns from Astryth and the wider Strythian Plains. The Dunwold is a major source of timber for shipbuilding as well as general construction. Occasional conflicts with the Sylweards arise due to worries about deforestation. 

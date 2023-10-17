@@ -3,7 +3,7 @@ share: true
 aliases:
   - Ad Astra - Session 1
 date created: Saturday, September 30th 2023, 9:28:43 am
-date modified: Saturday, October 7th 2023, 2:00:38 pm
+date modified: Tuesday, October 10th 2023, 3:35:03 pm
 ---
 
 # Session 1 - Minutes
@@ -12,7 +12,7 @@ By luck or destiny, six individuals come together and face the horrors of the ni
 
 >[!info] Session 1
 >**Date:** 2023-09-25
-> 1840.04.11-13 (Days 311-13 of the 1840th kilchron of Er)
+> 1840.04.11-13 (Days 311-13 of the 1840th kilochron of Er)
 >---
 >**Party Members:** 
 > - [[../The-Party/Gloopwing|Gloopwing]]

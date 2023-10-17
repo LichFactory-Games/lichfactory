@@ -1,15 +1,16 @@
 ---
 share: true
-aliases: ["**Gloopwing**"]
+aliases:
+  - "**Gloopwing**"
 tags:
   - erspace/ermis
 art: "![[../../../assets/img/gloopwing.png|75]]"
 type: pc
 player: Rebbecca
 name: Gloopwing
-class: Fighter 
-subclass:
-level: 1
+class: Fighter
+subclass: 
+level: "2"
 background: Haunted One
 strength: 17
 dexterity: 13
@@ -27,22 +28,22 @@ languages: Common, Draconic, Giant, Goblin
 skill-proficiencies: Arcana, History, Insight, Religion
 save-proficiencies: Strength, Constitution
 speed: 30
-pronouns: they/them
+pronouns: They/Them
 pronounced: 
 ancestry: Plasmoid
 gender: unnknown
 age: 
 sexuality: unknown
-height:
-weight:
+height: 
+weight: 
 alignment: 
-condition: Normal
+condition: Healthy
 occupation: 
 associatedGroup: 
 associatedReligion: 
-location: 
-friends-family:
-rivals:
+location: Hestia
+friends-family: 
+rivals: 
 overview: I had an encounter that I believe gives me a special affinity with a supernatural creature or event.
 traits: [I have morbid interests and a macabre aesthetic.]
 goals: [I'm desperately seeking a cure to an affliction or a curse, either for someone close to me for myself.]
@@ -51,7 +52,7 @@ bonds: [I'm desperately seeking a cure to an affliction or a curse, either for s
 flaws: [I've done unspeakable evil and will do anything to prevent others from finding out.]
 linter-yaml-title-alias: "**Gloopwing**"
 date created: Tuesday, September 19th 2023, 10:22:50 pm
-date modified: Monday, October 2nd 2023, 6:29:49 pm
+date modified: Monday, October 16th 2023, 12:21:57 pm
 ---
 
 >[!infobox|left]  
@@ -73,7 +74,7 @@ date modified: Monday, October 2nd 2023, 6:29:49 pm
 > >  - **Skill Proficiencies:** Arcana, History, Insight, Religion
 > >  - **Save Proficiencies:** Strength, Constitution
 > >  - **Default Action:** Attack
-> >  -  **Condition:** Normal
+> >  -  **Condition:** Healthy
 
 # **Gloopwing**
 >[!info|bg-c-purple]- Overview
@@ -99,13 +100,13 @@ date modified: Monday, October 2nd 2023, 6:29:49 pm
 >> - **Occupation(s):**  \- 
 >> - **Group(s):**  \- 
 >> - **Religion(s):**  \- 
->> - **Current Location:**  \- 
+>> - **Current Location:**  [[../../../Erspace-Almanac/Ermis/Gazetteer/Hestia|Hestia]] 
 >
 >> [!info|bg-c-gray]+ Other Info 
 >> - **Ancestry:**  Plasmoid
 >> - **Background:** Haunted One
 >> - **Class:** Fighter
->> - **Level:** 1
+>> - **Level:** 2
 >> - **Alignment:** \-
 
 ## Relationships
