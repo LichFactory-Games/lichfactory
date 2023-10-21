@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Sunday, September 24th 2023, 12:18:02 am
-date modified: Thursday, October 12th 2023, 12:06:36 pm
+date modified: Tuesday, October 17th 2023, 6:02:39 pm
 ---
 # Welcome to Ermis
 
