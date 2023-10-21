@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Sunday, August 6th 2023, 5:49:20 pm
-date modified: Sunday, October 1st 2023, 8:59:52 am
+date modified: Friday, October 20th 2023, 5:11:08 pm
 title: Ad Astra Adventure Guide
 ---
 
