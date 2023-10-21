@@ -4,7 +4,7 @@ tags:
 share: true
 title: Omerth
 date created: Sunday, March 12th 2023, 7:31:15 pm
-date modified: Saturday, September 2nd 2023, 9:48:21 am
+date modified: Friday, October 20th 2023, 8:20:10 am
 ---
 
 The capital city of the [[Dyaarchy|Dyaarchy]] (and unoficially of [[../index|Ermis]]). It is the set of autocratic power on the planet. It hosts [[./The-Arkanum|The Arkanum]] and the [[./Gnōstērion|Gnōstērion]]. It is also the residence of [[../Pyntarch's-Lives/The-Dyad|The Dyad]]. 
