@@ -30,7 +30,7 @@ condition: Healthy
 action: Unarmed Strike (1d6)
 skill-proficiencies: Athletics, Deception, Perception, Stealth
 save-proficiencies: Strength, Constitution
-languages: Common, Faei
+languages: Common, Faeir
 overview: Ryalith purposefully left her secluded life with other Faeir and started to live life on the edge, and on the streets. 
 traits: | 
   - I don't pay attention to risk 
@@ -62,7 +62,7 @@ rivals:
 associatedGroup: 
 associatedReligion: 
 date created: Saturday, September 23rd 2023, 7:28:45 pm
-date modified: Tuesday, October 17th 2023, 5:38:11 pm
+date modified: Friday, October 20th 2023, 5:07:34 pm
 ---
 
 >[!infobox|left]  
@@ -93,20 +93,21 @@ date modified: Tuesday, October 17th 2023, 5:38:11 pm
 >[!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
 >> - I don't pay attention to risk 
->> - Never tell me the odds 
->> - I'm always calm no matter the situation
->> - I never raise my voice or let my emotions control me
+- Never tell me the odds 
+- I'm always calm no matter the situation
+- I never raise my voice or let my emotions control me
+
 >
 >> [!metadata|bg-c-blue]+ Ideals, Bonds, & Flaws
 >> - **Freedom** Chains are meant to be broken, as are those who would forge them
->> - **Neutral** No injury or obstacle can turn me away from my goal. 
->>
+- **Neutral** No injury or obstacle can turn me away from my goal. 
+
 >> - I live and breathe to fight; I chase adrenaline highs and like to live on the wild side.
->> - I value my freedom above all else.
->>
+- I value my freedom above all else.
+
 >> - I often act first and think later, which gets me into more trouble than I can handle at times.  
->> - I seem to be stubborn and hard headed. 
->> - If someone insults my pride or my ability, I have the irrational urge to prove my worth, especially when it comes to my physical prowess.
+- I seem to be stubborn and hard headed. 
+- If someone insults my pride or my ability, I have the irrational urge to prove my worth, especially when it comes to my physical prowess.
 
  
 >[!column|flex 3 clean no-title]

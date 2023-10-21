@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Tuesday, August 15th 2023, 1:49:02 pm
-date modified: Thursday, October 12th 2023, 12:18:33 pm
+date modified: Thursday, October 19th 2023, 9:12:50 am
 ---
 
 Adventures for the campaign setting of Erspace, a wildspace system that is isolated from the rest of the prime material plane and largely lost to the collective memory of the multiverse…

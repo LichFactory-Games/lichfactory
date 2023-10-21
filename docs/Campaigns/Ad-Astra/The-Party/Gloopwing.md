@@ -28,7 +28,7 @@ languages: Common, Draconic, Giant, Goblin
 skill-proficiencies: Arcana, History, Insight, Religion
 save-proficiencies: Strength, Constitution
 speed: 30
-pronouns: They/Them
+pronouns: They/Them/She/Her
 pronounced: 
 ancestry: Plasmoid
 gender: unnknown
@@ -52,7 +52,7 @@ bonds: [I'm desperately seeking a cure to an affliction or a curse, either for s
 flaws: [I've done unspeakable evil and will do anything to prevent others from finding out.]
 linter-yaml-title-alias: "**Gloopwing**"
 date created: Tuesday, September 19th 2023, 10:22:50 pm
-date modified: Monday, October 16th 2023, 12:21:57 pm
+date modified: Friday, October 20th 2023, 2:51:25 pm
 ---
 
 >[!infobox|left]  

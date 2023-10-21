@@ -1,9 +1,13 @@
 ---
 share: true
+alias: "Erianism"
 tags:
   - erspace/ermis
+type: faction
+base: Eryth
+associatedReligion: Erianism
 date created: Friday, September 29th 2023, 8:23:26 am
-date modified: Friday, September 29th 2023, 11:25:54 pm
+date modified: Friday, October 20th 2023, 6:33:07 pm
 ---
 
 # The Erian Religion
