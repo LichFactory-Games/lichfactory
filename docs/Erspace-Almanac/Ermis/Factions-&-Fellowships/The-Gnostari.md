@@ -5,7 +5,7 @@ share: true
 title: Gnostari
 type: faction
 base: Omerth 
-associatedReligion: Erianism
+associatedReligion: Eranism
 date created: Tuesday, April 25th 2023, 8:16:58 am
 date modified: Friday, October 20th 2023, 6:32:20 pm
 ---
