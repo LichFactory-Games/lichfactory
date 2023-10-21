@@ -13,7 +13,7 @@ Hestia is a mid-sized town of roughly 4-5000 people. It sits on the north side o
 The main points of interest are:
 
 1. The Trade Ward: The center of commerce for Hestia, the Trade Ward is where all goods passing through the Dunwold come, and where a significant amount of trade and barter is conducted. It is an ideal place to collect gossip, buy items both mundane and wonderous, and in general people watch. 
-2. The Temple of Er: The central temple of Er for Hestia and the surrounding countryside. It is of a elegant, if simple, build, and is one of the oldest Erian temples in Vardoun. 
+2. The Temple of Er: The central temple of Er for Hestia and the surrounding countryside. It is of a elegant, if simple, build, and is one of the oldest Eran temples in Vardoun. 
 3. Wold Ward: Sitting at the border to the Dunwold, this ward is slightly run-down, but is where many a tradesman might be found, or perhaps a guide through the Wold. 
 4. Comm's Way: The "main street" of Hestia -- several major businesses are located here, including Klik'tik's *Wares and Wonders* and the Crooked Tree Inn and Tavern. 
 
