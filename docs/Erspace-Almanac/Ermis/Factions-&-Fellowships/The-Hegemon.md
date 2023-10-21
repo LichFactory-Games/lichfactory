@@ -5,7 +5,7 @@ tags:
   - dyarchy
 type: faction
 base: "The Hegemonikon (Omerth)"
-associatedReligion: Erianism
+associatedReligion: Eranism
 date created: Friday, October 20th 2023, 6:26:20 pm
 date modified: Friday, October 20th 2023, 6:31:49 pm
 ---
