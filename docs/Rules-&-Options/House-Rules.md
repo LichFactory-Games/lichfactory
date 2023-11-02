@@ -7,7 +7,7 @@ type: rules
 share: true
 title: House Rules
 date created: Friday, June 30th 2023, 5:48:01 pm
-date modified: Thursday, October 12th 2023, 10:06:13 pm
+date modified: Wednesday, November 1st 2023, 10:50:54 pm
 ---
 
 These house rules are designed to streamline play and are built assuming the WOTC published 2014 Player's Handbook. These house rules are specifically designed to streamline character creation, gameplay, and to support the other players and the GM at the table.
