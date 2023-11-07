@@ -1,9 +1,12 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
+  - compendium/src/5e/dmg
 aliases: ["Downtime Activity: Gaining Renown"]
+date created: Friday, November 3rd 2023, 5:30:36 pm
+date modified: Saturday, November 4th 2023, 5:08:00 pm
 ---
 # Downtime Activity: Gaining Renown
 *Source: Dungeon Master's Guide p. 129* 
