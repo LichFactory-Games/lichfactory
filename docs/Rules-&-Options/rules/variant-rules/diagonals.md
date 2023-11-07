@@ -1,9 +1,12 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
+  - compendium/src/5e/dmg
 aliases: ["Diagonals"]
+date created: Friday, November 3rd 2023, 5:30:36 pm
+date modified: Monday, November 6th 2023, 10:46:53 am
 ---
 # Diagonals
 *Source: Dungeon Master's Guide p. 252* 
