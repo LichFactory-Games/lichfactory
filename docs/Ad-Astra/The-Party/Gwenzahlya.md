@@ -57,24 +57,24 @@ goals: [achieve acceptance, learn school magic]
 biography:
 linter-yaml-title-alias: "**Gwenzahlya**"
 date created: Monday, September 18th 2023, 5:02:53 pm
-date modified: Friday, October 27th 2023, 8:50:55 am
+date modified: Sunday, November 5th 2023, 10:45:52 am
 ---
 
 > [!infobox|left]  
 > ![Image](https://media.discordapp.net/attachments/1148807785212039248/1153513917490937866/IMG_5551.png?width=1206&height=1206)
 > ###### Stats
-> > - :fas_dice_d20: \+ ⋅ :fas_running: 30ft
+> > - :fas_dice_d20: \+4 ⋅ :fas_running: 30ft
 > > - :rif_shield_star: 18 ⋅ :fas_heart: 14
 > > - :fas_eye: 12 ⋅ :rif_spy: 14
 > >
 > > | Ability      | Score                | Mod                                        |
 > > |--------------|----------------------|--------------------------------------------|
-> > | Strength     | 10     |      |
-> > | Dexterity    | 18    |     |
-> > | Constitution | 15 |  |
-> > | Intelligence | 19 |  |
-> > | Wisdom       | 11       |        |
-> > | Charisma     | 11     |      |
+> > | Strength     | 10     | 0     |
+> > | Dexterity    | 18    | 4    |
+> > | Constitution | 15 | 2 |
+> > | Intelligence | 19 | 4 |
+> > | Wisdom       | 11       | 0       |
+> > | Charisma     | 11     | 0     |
 > > ||||
 > >  - **Skill Proficiencies:** Arcana, Investigation, Perception, Performance
 > >  - **Save Proficiencies:** Intelligence, Wisdom
@@ -82,8 +82,11 @@ date modified: Friday, October 27th 2023, 8:50:55 am
 > >  -  **Condition:** Healthy
 
 # **Gwenzahlya**
->[!info|bg-c-purple]- Overview
-> - \-
+>[!info|bg-c-purple ttl-c nbrd]+ Overview
+>
+> ```meta-bind
+> INPUT[textArea(class(meta-bind-text)):overview]
+> ```
 
 >[!column|no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
