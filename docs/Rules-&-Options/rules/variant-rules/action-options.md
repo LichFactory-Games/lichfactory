@@ -1,9 +1,12 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
+  - compendium/src/5e/dmg
 aliases: ["Action Options"]
+date created: Friday, November 3rd 2023, 5:30:36 pm
+date modified: Saturday, November 4th 2023, 5:07:53 pm
 ---
 # Action Options
 *Source: Dungeon Master's Guide p. 271* 
