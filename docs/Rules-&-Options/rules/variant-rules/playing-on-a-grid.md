@@ -1,9 +1,12 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
+  - compendium/src/5e/phb
 aliases: ["Playing on a Grid"]
+date created: Friday, November 3rd 2023, 5:30:36 pm
+date modified: Monday, November 6th 2023, 10:46:34 am
 ---
 # Playing on a Grid
 *Source: Player's Handbook p. 192* 
