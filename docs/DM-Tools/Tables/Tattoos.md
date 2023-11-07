@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Friday, November 3rd 2023, 1:53:30 pm
-date modified: Friday, November 3rd 2023, 2:06:19 pm
+date modified: Saturday, November 4th 2023, 5:07:23 pm
 ---
 ## Tattoo Ink
 
