@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Friday, November 3rd 2023, 12:22:30 pm
-date modified: Friday, November 3rd 2023, 12:25:47 pm
+date modified: Saturday, November 4th 2023, 5:07:20 pm
 ---
 
 | Item Name                     | Cost (Normal) | Cost (Cheap) | Cost (Expensive) | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
