@@ -4,7 +4,7 @@ tags:
   - foundry
   - macros
 date created: Tuesday, October 17th 2023, 4:00:55 pm
-date modified: Tuesday, October 17th 2023, 4:04:13 pm
+date modified: Saturday, November 4th 2023, 5:12:18 pm
 ---
 
 # Macro Commands
