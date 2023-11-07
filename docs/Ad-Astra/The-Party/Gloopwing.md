@@ -44,7 +44,7 @@ religion:
 location: Hestia
 friends-family: 
 rivals: 
-overview: I had an encounter that I believe gives me a special affinity with a supernatural creature or event.
+overview: Gloopwing most commonly presents herself as a pink bipedal lizard-like creature with wings. When necessary, she does take advantage of her ability to morph and will change as needed.
 traits: [I have morbid interests and a macabre aesthetic.]
 goals: [I'm desperately seeking a cure to an affliction or a curse, either for someone close to me for myself.]
 ideals: [Sanctuary. I know the forces at work in the world and strive to create islands apart from them.]
@@ -52,24 +52,24 @@ bonds: [I'm desperately seeking a cure to an affliction or a curse, either for s
 flaws: [I've done unspeakable evil and will do anything to prevent others from finding out.]
 linter-yaml-title-alias: "**Gloopwing**"
 date created: Tuesday, September 19th 2023, 10:22:50 pm
-date modified: Friday, October 27th 2023, 8:40:43 am
+date modified: Sunday, November 5th 2023, 6:36:03 pm
 ---
 
 >[!infobox|left]  
 >![[../../assets/img/gloopwing.png|cover]]
 >###### Stats
-> > -  :fas_dice_d20: \+ ⋅ :fas_running: 30ft
+> > -  :fas_dice_d20: \+1 ⋅ :fas_running: 30ft
 > > - :rif_shield_star: 18 ⋅ :fas_heart: 13 
 > > - :fas_eye: 10 ⋅ :rif_spy: 11
 > >
 > > | Ability      | Score                | Mod                                        |
 > > |--------------|----------------------|--------------------------------------------|
-> > | Strength     | 17     |      |
-> > | Dexterity    | 13    |     |
-> > | Constitution | 17 |  |
-> > | Intelligence | 15 |  |
-> > | Wisdom       | 11       |        |
-> > | Charisma     | 11     |      |
+> > | Strength     | 17     | 3     |
+> > | Dexterity    | 13    | 1    |
+> > | Constitution | 17 | 3 |
+> > | Intelligence | 15 | 2 |
+> > | Wisdom       | 11       | 0       |
+> > | Charisma     | 11     | 0     |
 > > ||||
 > >  - **Skill Proficiencies:** Arcana, History, Insight, Religion
 > >  - **Save Proficiencies:** Strength, Constitution
@@ -77,8 +77,8 @@ date modified: Friday, October 27th 2023, 8:40:43 am
 > >  -  **Condition:** Healthy
 
 # **Gloopwing**
->[!info|bg-c-purple]- Overview
->I had an encounter that I believe gives me a special affinity with a supernatural creature or event.
+>[!info|bg-c-purple title-center no-border]+ Overview
+> `INPUT[textArea(class(meta-bind-text)):overview]`
 
 >[!column|clean no-title] Characteristics 
 >> [!metadata|bg-c-blue]+ Traits
@@ -89,7 +89,7 @@ date modified: Friday, October 27th 2023, 8:40:43 am
 >> -  I'm desperately seeking a cure to an affliction or a curse,either for someone close to me for myself.
 >> -  I've done unspeakable evil and will do anything to prevent others from finding out.
  
->[!column|flex 3 clean no-title]
+>[!column| no-title]
 >> [!info|bg-c-gray]+ Bio
 >> - **Alias(es):** \-  
 >> - **Age:**  \- 
@@ -119,4 +119,9 @@ date modified: Friday, October 27th 2023, 8:40:43 am
 
 ## Biographical Details
 
-TBD
+Gloopwing, like many of her plasmoidic kind, was born alone. The two dollops of DNA that made her formation first congealed in a ruin of some type. Her first sight was the dark shadows of stone. But when the cascading rays of the star lit her surroundings, it revealed a picture of creature on a wall. As the nameless blob fixated upon the image, her form changed, shifted, and became what she saw.
+
+Over time, the ruins which became her home began to crumble further, with all the constant intrusions by people who dirtied her space. She mostly ignored them, except when they approached her kin on the wall. After one particularly close call, she made the decision to take the facade and leave the ruins and search for more of her kin.
+
+In her journeys, she recently came across a strange Doloi holding gems the seemed to match some of the baubles shown on her picture of her kin. She decided to follow them, and ended up getting sucked up into an adventure.
+
