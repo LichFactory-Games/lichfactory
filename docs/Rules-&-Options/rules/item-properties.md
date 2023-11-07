@@ -1,7 +1,10 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 aliases: ["Item Properties"]
+date created: Friday, November 3rd 2023, 5:30:36 pm
+date modified: Saturday, November 4th 2023, 8:58:46 am
 ---
 # Item Properties
 
@@ -140,6 +143,6 @@ A Large or smaller creature hit by a net is [restrained](./conditions.md##restra
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
 ## Vestige
-_Source: Tal'Dorei Campaign Setting Reborn p. 200_
+*Source: Tal'Dorei Campaign Setting Reborn p. 200*
 
 A Vestige of Divergence, see "Tal'Dorei Treasures" for more information.
