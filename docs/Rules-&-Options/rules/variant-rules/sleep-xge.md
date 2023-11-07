@@ -1,9 +1,12 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
+  - compendium/src/5e/xge
 aliases: ["Sleep"]
+date created: Friday, November 3rd 2023, 5:30:36 pm
+date modified: Monday, November 6th 2023, 1:48:08 pm
 ---
 # Sleep
 *Source: Xanathar's Guide to Everything p. 77* 
