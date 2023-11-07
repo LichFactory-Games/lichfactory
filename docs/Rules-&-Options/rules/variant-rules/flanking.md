@@ -1,9 +1,12 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
+  - compendium/src/5e/dmg
 aliases: ["Flanking"]
+date created: Friday, November 3rd 2023, 5:30:36 pm
+date modified: Saturday, November 4th 2023, 8:58:35 am
 ---
 # Flanking
 *Source: Dungeon Master's Guide p. 251* 
