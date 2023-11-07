@@ -1,9 +1,12 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
+  - compendium/src/5e/xge
 aliases: ["Falling"]
+date created: Friday, November 3rd 2023, 5:30:36 pm
+date modified: Saturday, November 4th 2023, 9:03:10 am
 ---
 # Falling
 *Source: Xanathar's Guide to Everything p. 77* 
