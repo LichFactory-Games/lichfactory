@@ -32,11 +32,11 @@ action:
 skill-proficiencies: Arcana, History, Investigation, Perception, Sleight of Hand, Stealth
 save-proficiencies: Constitution, Intelligence
 languages: Common
-overview: A shipwright for House Orosen
+overview: A shipwright for House Orosen. Standing tall at 6'6", Stigs is a thickly built man. His shaggy, wild hair grows out white, with black tips that he refuses to cut. His eyes are piercing red, his skin deathly pale, his ears and teeth unnaturally pointed for a human. He has perpetually dark bags around his eyes, some freckles, and a scowl etched into his brow over the years. His imposing figure, however, is quickly dispelled if you were to talk to him, where one would realize he was a rather awkward, rambling gearhead.
 traits: |
   I can't resist prying into anything forbidden, since it must be terribly interesting. 
   I'm easily startled, but I'm not a coward.
-ideals: | 
+ideals: |
   **Escape**. I believe there is something beyond the world I know, and I need to find it. 
   **Obligation**. I owe it to my people, faith, family, or teacher to continue a vaunted legacy.
 bonds: |
@@ -57,27 +57,28 @@ location: Hestia
 occupation: Shipwright
 friends-family: [House Ororos]
 rivals: 
-faction: [[House Orosen|House Orosen]]
+faction:
+  - - House Orosen
 religion: Er
 date created: Saturday, September 23rd 2023, 7:45:19 pm
-date modified: Sunday, October 29th 2023, 5:12:33 pm
+date modified: Sunday, November 5th 2023, 6:29:40 pm
 ---
 
 >[!infobox|left]  
 >![[../../assets/img/er_dhampir-portrait_4.png|vh-sm]]
 >###### Stats
-> > -  :fas_dice_d20: \+ ⋅ :fas_running: 35ft
+> > -  :fas_dice_d20: \+3 ⋅ :fas_running: 35ft
 > > - :rif_shield_star: 16 ⋅ :fas_heart: 17
 > > - :fas_eye: 13 ⋅ :rif_spy: 15
 > >
 > > | Ability      | Score                | Mod                                        |
 > > |--------------|----------------------|--------------------------------------------|
-> > | Strength     | 12     |      |
-> > | Dexterity    | 17    |     |
-> > | Constitution | 15 |  |
-> > | Intelligence | 18 |  |
-> > | Wisdom       | 12       |        |
-> > | Charisma     | 10     |      |
+> > | Strength     | 12     | 1     |
+> > | Dexterity    | 17    | 3    |
+> > | Constitution | 15 | 2 |
+> > | Intelligence | 18 | 4 |
+> > | Wisdom       | 12       | 1       |
+> > | Charisma     | 10     | 0     |
 > > ||||
 > >  - **Skill Proficiencies:** Arcana, History, Investigation, Perception, Sleight of Hand, Stealth
 > >  - **Save Proficiencies:** Constitution, Intelligence
@@ -85,8 +86,8 @@ date modified: Sunday, October 29th 2023, 5:12:33 pm
 > >  -  **Condition:** Healthy
 
 # **Stigs the Stiff**
->[!info|bg-c-purple]- Overview
-> - A shipwright for House Orosen
+>[!info|bg-c-purple title-center nbrd]+ Overview
+> `INPUT[textArea(class(meta-bind-text)):overview]`
 
 >[!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
@@ -114,7 +115,7 @@ I'm never satisfied with what I have – I always want more.
 >> - **Height:**  \- 
 >> - **Weight:**  \- 
 >> - **Occupation(s):**  Shipwright 
->> - **Group(s):**  [[../../../House Orosen|House Orosen]] 
+>> - **Group(s):**  [[../Ad-Astra-DM-Notes/Erspace-Almanac/Ermis/Factions-&-Fellowships/House-Orosen|House Orosen]] 
 >> - **Religion(s):**  [[../Player's-Almanac/Er|Er]] 
 >
 >> [!info|bg-c-gray]+ Other Info 
