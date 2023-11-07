@@ -1,7 +1,7 @@
 ---
 share: true
 date created: Friday, November 3rd 2023, 12:00:20 pm
-date modified: Friday, November 3rd 2023, 12:03:33 pm
+date modified: Saturday, November 4th 2023, 5:07:21 pm
 ---
 
 Hard Sell (daily) at 375 gp (Cheap: 281 gp, Expensive: 500 gp) 
