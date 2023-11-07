@@ -1,7 +1,7 @@
 ---
 share: false
 date created: Thursday, August 31st 2023, 9:01:26 am
-date modified: Thursday, August 31st 2023, 9:02:24 am
+date modified: Monday, November 6th 2023, 11:02:33 pm
 ---
 
 The Hozhungi are one of two dominant social powers on Andromea, the other being the Neogi. The Hozhungi are a clan-based society with [matrilineal](https://en.wikipedia.org/wiki/Matrilineal "Matrilineal") [kinship](https://en.wikipedia.org/wiki/Kinship "Kinship") groups. Children are considered born into the mother's family and gain their social status from her and her clan. Her eldest brother traditionally has a strong influence on rearing the children.
