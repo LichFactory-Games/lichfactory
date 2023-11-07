@@ -1,9 +1,12 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xge
+  - compendium/src/5e/xge
 aliases: ["Adamantine Weapons"]
+date created: Friday, November 3rd 2023, 5:30:36 pm
+date modified: Saturday, November 4th 2023, 5:07:55 pm
 ---
 # Adamantine Weapons
 *Source: Xanathar's Guide to Everything p. 78* 

@@ -10,7 +10,7 @@ share: true
 type: tutorial
 title: Player Basics
 date created: Saturday, July 15th 2023, 5:12:07 pm
-date modified: Sunday, September 17th 2023, 11:35:11 am
+date modified: Saturday, November 4th 2023, 5:12:16 pm
 ---
 
 I'll walk you through the basic tutorial that you can find [here](https://foundryvtt.com/article/player-orientation/).  Here are a couple of other links to tutorials.

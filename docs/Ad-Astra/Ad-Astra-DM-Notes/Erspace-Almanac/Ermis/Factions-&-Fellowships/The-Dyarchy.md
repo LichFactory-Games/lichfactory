@@ -8,10 +8,10 @@ alias: |
   - The Dyad
   - The Two-Who-Are-One
 date created: Sunday, March 12th 2023, 5:07:49 pm
-date modified: Wednesday, November 1st 2023, 9:48:50 pm
+date modified: Sunday, November 5th 2023, 5:52:43 pm
 art: "![[../../../../../assets/img/icon-dyad.png|cover]]"
 type: faction
-leader: Duum and Vires
+leader: [Duum, Vires]
 personnel: |
   - The Hetai (Warriors)
   - The Erathoi (Clerics/Priesthood)
@@ -40,7 +40,7 @@ overview: |-
 
 # The Dyarchy
 
-> [!infobox|c-p-med invert-images]+
+> [!infobox|c-p-med invert-images right]+
 > >![[../../../../../assets/img/icon-dyad.png|cover]]
 > ###### Basic Information
 > 
@@ -52,10 +52,11 @@ overview: |-
 > Base of Operations | [[../../../../Player's-Almanac/Omerth|Omerth]] |
 > Associated Religion | [[../../../../Player's-Almanac/Er|Er]] |
 > Alignment | Lawful Neutral |
-> Leader | [[Duum and Vires|Duum and Vires]] |
+> Leader | [[../Pyntarch's-Lives/Duum|Duum]],[[../Pyntarch's-Lives/Vires|Vires]] |
 > Type | faction |
 
-The dominant state power on [[../../../../Player's-Almanac/Ermis|Ermis]]. The Dyarchy consists of two autocrats ruling toge[[The-Dyarchy|The Dyarchy]]re-One]], who are referred to separately as [[../Pyntarch's-Lives/Duum|Duum]] and [[../Pyntarch's-Lives/Vires|Vires]], and jointly as [[The-Dyarchy|The Dyarchy]]. 
+
+The dominant state power on [[../../../../Player's-Almanac/Ermis|Ermis]]. The Dyarchy consists of two autocrats ruling together---[[The-Dyarchy|- The Two-Who-Are-One]]---who are (extremely rarely) referred to separately as [[../Pyntarch's-Lives/Duum|Duum]] and [[../Pyntarch's-Lives/Vires|Vires]], and jointly as either "the Dyad" or "the Dyarch". 
 
 ```meta-bind
 INPUT[textArea(class(meta-bind-text)):overview]

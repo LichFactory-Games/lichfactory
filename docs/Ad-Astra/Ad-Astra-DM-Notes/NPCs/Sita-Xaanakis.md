@@ -34,7 +34,7 @@ rivals: Rogue psychics, heretical cults
 faction: The Gnostari
 religion: Devoted to the Dyarch
 date created: Sunday, October 29th 2023, 2:06:50 pm
-date modified: Sunday, October 29th 2023, 3:15:59 pm
+date modified: Monday, November 6th 2023, 10:31:06 am
 history: |-
   - Born in a small village, displayed psychic talents from a young age
   - Was recruited by the psionic order at age 10 to be trained in their monastery
@@ -86,8 +86,8 @@ notes: |-
 > **Default Action:** | Scanning newcomers at city gates |
 
 # **Sita Xaanakis**
->[!info|bg-c-purple]- Overview
-> - `INPUT[textArea(class(meta-bind-text)):overview]`
+>[!info|bg-c-purple no-border title-center]+ Overview
+>`INPUT[textArea(class(meta-bind-text)):overview]`
 
 >[!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits

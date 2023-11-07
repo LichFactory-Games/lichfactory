@@ -1,9 +1,12 @@
 ---
+share: true
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/phb
+  - compendium/src/5e/phb
 aliases: ["Feats"]
+date created: Friday, November 3rd 2023, 5:30:36 pm
+date modified: Monday, November 6th 2023, 10:47:40 am
 ---
 # Feats
 *Source: Player's Handbook p. 165* 
