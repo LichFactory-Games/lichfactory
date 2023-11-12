@@ -1,9 +1,10 @@
 ---
-share: true
+title: Ermis Calendar
+date created: Thursday, September 28th 2023, 10:31:24 am
 tags:
   - erspace/ermis
-date created: Thursday, September 28th 2023, 10:31:24 am
-date modified: Thursday, October 5th 2023, 11:45:16 pm
+date modified: Sunday, November 12th 2023, 8:27:17 am
+share: true
 ---
 ## History
 
