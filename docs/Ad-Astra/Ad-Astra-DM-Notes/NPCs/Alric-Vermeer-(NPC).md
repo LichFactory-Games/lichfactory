@@ -4,10 +4,9 @@ aliases: null
 creation date: 2023-05-27 22:18
 modification date: 2023-05-27 22:18:07
 condition: Healthy
-location: Astryth
+location: 
 tags:
   - erspace/ermis
-  - erspace/ermis/astryth
   - jail
 type: npc
 race: Human
@@ -17,7 +16,7 @@ religion: ""
 art: "![[../../../assets/img/npc-alric-vermeer.jpg|75]]"
 title: Alric Vermeer (NPC)
 date created: Saturday, May 27th 2023, 10:18:07 pm
-date modified: Sunday, October 22nd 2023, 12:03:11 pm
+date modified: Friday, November 10th 2023, 5:31:47 pm
 ---
 
 ![[../../../assets/img/npc-alric-vermeer.jpg|left|hmedium]]
