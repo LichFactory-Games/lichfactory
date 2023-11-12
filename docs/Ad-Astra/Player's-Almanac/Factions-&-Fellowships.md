@@ -1,10 +1,10 @@
 ---
+title: Factions & Fellowships
+date created: Monday, April 24th 2023, 3:41:56 pm
 tags:
   - erspace/ermis
+date modified: Sunday, November 12th 2023, 8:27:15 am
 share: true
-title: Factions of Ermis
-date created: Monday, April 24th 2023, 3:41:56 pm
-date modified: Thursday, November 2nd 2023, 8:49:53 am
 ---
 # Factions of Ermis
 
