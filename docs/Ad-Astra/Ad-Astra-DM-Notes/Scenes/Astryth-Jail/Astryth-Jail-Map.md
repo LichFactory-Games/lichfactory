@@ -11,7 +11,7 @@ type: map
 linter-yaml-title-alias: Map Key
 title: Astryth Jail Map
 date created: Thursday, May 25th 2023, 3:29:50 pm
-date modified: Saturday, September 2nd 2023, 9:48:23 am
+date modified: Thursday, November 9th 2023, 3:14:02 pm
 ---
 
 # Astryth Jail Map
