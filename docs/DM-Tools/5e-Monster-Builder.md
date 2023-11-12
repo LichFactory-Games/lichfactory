@@ -1,7 +1,8 @@
 ---
 share: true
 date created: Sunday, October 22nd 2023, 9:12:22 am
-date modified: Thursday, November 2nd 2023, 10:53:50 am
+date modified: Sunday, November 12th 2023, 6:39:43 am
+title: 5e-Monster-Builder
 ---
 # The Lazy GM's 5e Monster Builder Resource Document
 
