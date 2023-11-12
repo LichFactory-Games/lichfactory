@@ -3,8 +3,7 @@ share: true
 aliases: ["**Klik'tik Leafstrider**"]
 creation date: 2023-10-04 14:14
 modification date: 2023-10-04 14:14:22
-tags:
-  - 
+tags: []
 type: npc
 name: Klik'tik Leafstrider
 pronouns: they/them
@@ -23,7 +22,7 @@ traits: friendly, crafty
 goals: find and sell interesting wares, make profitable trades, acquire gossip
 linter-yaml-title-alias: "**Klik'tik Leafstrider**"
 date created: Wednesday, October 4th 2023, 2:14:22 pm
-date modified: Wednesday, October 11th 2023, 9:00:13 am
+date modified: Thursday, November 9th 2023, 9:34:28 am
 ---
 
 > [!infobox]
