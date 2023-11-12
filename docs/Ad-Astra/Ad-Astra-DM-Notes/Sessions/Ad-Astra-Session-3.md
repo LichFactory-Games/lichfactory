@@ -7,8 +7,16 @@ tags:
   - erspace/ermis/hestia
 type: session
 session: 3 | 23-10-30
-sessionNotes: 
-sessionTodos: |-
+sessionNotes: Some players had trouble with deducting HP from their sheets. 
+linter-yaml-title-alias: "Ad Astra Session 3"
+date created: Friday, October 20th 2023, 3:20:12 pm
+date modified: Saturday, November 11th 2023, 9:46:20 pm
+completed: false
+---
+
+# Ad Astra Session 3
+
+## Session TODOS
   
   - General prep 
     - [X] Make sure monsters are prepped
@@ -21,29 +29,14 @@ sessionTodos: |-
     - [X] Find combat sound/music
     - [X] Make sure all plugins are ready
     - [X] Revise macros
-linter-yaml-title-alias: "Ad Astra Session 3"
-date created: Friday, October 20th 2023, 3:20:12 pm
-date modified: Friday, November 3rd 2023, 12:59:24 pm
-completed: false
----
-
-# Ad Astra Session 3
-
-## Session TODOS
-
-```meta-bind
-INPUT[textArea(class(meta-bind-text)):sessionTodos]
-```
-
 ## Characters
 
-| Art                                                 | PC                                                                      | Quick Stats                                             | Ancestry | BG            | Class                 | Proficiencies                                                                                      | Languages                       |
-| --------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- | -------- | ------------- | --------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------- |
-| ![[../../../assets/img/gloopwing.png\|75]]             | [[../../The-Party/Gloopwing\|Gloopwing]]<br>[Rebbecca]            | :rif_eye:10 :rif_spy:11<br>:rif_shield:18 :fas_heart:13 | Plasmoid | Haunted One   | Fighter<br> (lvl 2)   | Arcana, History, Insight, Religion<br>Strength, Constitution                                       | Common, Draconic, Giant, Goblin |
-| ![[../../../assets/img/pc-gwen.jpeg\|75]]              | [[../../The-Party/Gwenzahlya\|Gwenzahlya]]<br>[Adam]              | :rif_eye:12 :rif_spy:14<br>:rif_shield:18 :fas_heart:14 | Doloi    | Spirit Medium | Wizard<br> (lvl 2)    | Arcana, Investigation, Perception, Performance<br>Intelligence, Wisdom                             | Common, Goblin                  |
-| ![[../../../assets/img/pc-karel.jpg\|75]]              | [[../../The-Party/Karel\|Karel]]<br>[Josh]                        | :rif_eye:10 :rif_spy:13<br>:rif_shield:16 :fas_heart:21 | Human    | Renegade      | Pugilist<br> (lvl 2)  | Athletics, Insight, Intimidation, Survival<br>Strength, Constitution                               | Common                          |
-| ![[../../../assets/img/faeir-feline.png\|75]]          | [[../../The-Party/Ryalith-Seraphia\|Ryalith Seraphia]]<br>[Val]   | :rif_eye:12 :rif_spy:12<br>:rif_shield:16 :fas_heart:22 | Faeir    | Criminal      | Pugilist<br> (lvl 2)  | Athletics, Deception, Perception, Stealth<br>Strength, Constitution                                | Common, Faeir                   |
-| ![[../../../assets/img/er_dhampir-portrait_5.png\|75]] | [[../../The-Party/Stigs-the-Stiff\|Stigs the Stiff]]<br>[Griffin] | :rif_eye:13 :rif_spy:15<br>:rif_shield:16 :fas_heart:17 | Dhampir  | Shipwright    | Artificer<br> (lvl 2) | Arcana, History, Investigation, Perception, Sleight of Hand, Stealth<br>Constitution, Intelligence | Common                          |
+| Art                                                 | PC                                                                      | Quick Stats                                             | Ancestry | BG          | Class                 | Proficiencies                                                                                      | Languages                       |
+| --------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------- | -------- | ----------- | --------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------- |
+| ![[../../../assets/img/gloopwing.png\|75]]             | [[../../The-Party/Gloopwing\|Gloopwing]]<br>[Rebbecca]            | :rif_eye:10 :rif_spy:11<br>:rif_shield:18 :fas_heart:13 | Plasmoid | Haunted One | Fighter<br> (lvl 2)   | Arcana, History, Insight, Religion<br>Strength, Constitution                                       | Common, Draconic, Giant, Goblin |
+| ![[../../../assets/img/pc-karel.jpg\|75]]              | [[../../The-Party/Karel\|Karel]]<br>[Josh]                        | :rif_eye:10 :rif_spy:13<br>:rif_shield:16 :fas_heart:21 | Human    | Renegade    | Pugilist<br> (lvl 2)  | Athletics, Insight, Intimidation, Survival<br>Strength, Constitution                               | Common                          |
+| ![[../../../assets/img/faeir-feline.png\|75]]          | [[../../The-Party/Ryalith-Seraphia\|Ryalith Seraphia]]<br>[Val]   | :rif_eye:12 :rif_spy:12<br>:rif_shield:16 :fas_heart:22 | Faeir    | Criminal    | Pugilist<br> (lvl 2)  | Athletics, Deception, Perception, Stealth<br>Strength, Constitution                                | Common, Faeir                   |
+| ![[../../../assets/img/er_dhampir-portrait_5.png\|75]] | [[../../The-Party/Stigs-the-Stiff\|Stigs the Stiff]]<br>[Griffin] | :rif_eye:13 :rif_spy:15<br>:rif_shield:16 :fas_heart:17 | Dhampir  | Shipwright  | Artificer<br> (lvl 2) | Arcana, History, Investigation, Perception, Sleight of Hand, Stealth<br>Constitution, Intelligence | Common                          |
 
 
 ## Background
