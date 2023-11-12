@@ -5,10 +5,9 @@ creation date: 2023-05-22 12:45
 modification date: 2023-05-22 12:45:59
 tags:
   - erspace/ermis
-  - erspace/ermis/astryth
   - jail
 type: npc
-location: Astryth
+location: 
 condition: Healthy
 ancestry: Haemin
 gender: Other
@@ -18,7 +17,7 @@ image: "![[../../../assets/img/npc-rhys.jpg|75]]"
 art: "![[../../../assets/img/npc-rhys.jpg|75]]"
 title: Rhys ap Gwyddno (NPC)
 date created: Monday, May 22nd 2023, 12:45:59 pm
-date modified: Friday, October 20th 2023, 5:46:39 pm
+date modified: Friday, November 10th 2023, 5:21:44 pm
 ---
 
 ![[../../../assets/img/npc-rhys.jpg|left|hmedium]]
