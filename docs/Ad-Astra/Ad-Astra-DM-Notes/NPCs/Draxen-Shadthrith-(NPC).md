@@ -5,19 +5,18 @@ creation date: 2023-05-22 11:20
 modification date: 2023-05-22 11:20:25
 tags:
   - erspace/ermis
-  - erspace/ermis/astryth
   - jail
 type: npc
 race: Doloi
 gender: Male
 condition: Healthy
-location: Jail (Astryth Ward Demos)
+location: 
 sexuality: Straight
 religion: ""
 art: "![[../../../assets/img/npc-drax.jpg|75]]"
 title: Draxen Shadthrith (NPC)
 date created: Monday, May 22nd 2023, 11:20:25 am
-date modified: Sunday, October 22nd 2023, 12:00:31 pm
+date modified: Friday, November 10th 2023, 5:18:09 pm
 ---
 
 ![[../../../assets/img/npc-drax.jpg|left|hmedium]]
