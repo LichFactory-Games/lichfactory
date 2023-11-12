@@ -19,7 +19,7 @@ sessionTodos: |
 sessionNotes: ""
 linter-yaml-title-alias: "Ad Astra Session 1"
 date created: Thursday, September 14th 2023, 12:56:57 pm
-date modified: Thursday, October 26th 2023, 3:58:22 pm
+date modified: Friday, November 10th 2023, 11:11:19 pm
 ---
 
 # Ad Astra Session 1
