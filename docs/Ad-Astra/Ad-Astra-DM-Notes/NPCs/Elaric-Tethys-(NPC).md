@@ -20,7 +20,7 @@ condition: Insane
 occupation: none
 associatedGroup: House Tethys
 religion: Hodos
-location: Jail (Astryth Ward Demos)
+location: Astryth
 personalityTrait: [Eccentric, Obsessive, Paranoid]
 socialTrait: [Isolated, Untrusting]
 mentalTrait: [Brilliant, Delusional]
@@ -28,7 +28,7 @@ likes: [Research and Experiments, Unconventional Knowledge, Solitude]
 dislikes: [Restrictions, Ignorance, Authority Figures]
 title: Elaric Tethys (NPC)
 date created: Saturday, June 24th 2023, 5:34:45 pm
-date modified: Sunday, October 22nd 2023, 12:07:41 pm
+date modified: Friday, November 10th 2023, 5:30:45 pm
 art: "![[../../../assets/img/npc-elaric-tethys.jpg|hsmall]]"
 ---
 
@@ -50,9 +50,9 @@ art: "![[../../../assets/img/npc-elaric-tethys.jpg|hsmall]]"
 > ---|---|
 > **Alias(es)** | Elaric |
 > **Occupation(s)** | none |
-> **Group(s)** | [[../Erspace-Almanac/Ermis/Factions-&-Fellowships/House-Tethys|House Tethys]] |
+> **Group(s)** | [[../Factions/House-Tethys|House Tethys]] |
 > **Religion(s)** | [[Hodos|Hodos]] |
-> **Current Location** | [[Jail (Astryth Ward Demos)|Jail (Astryth Ward Demos)]] |
+> **Current Location** | [[../../Player's-Almanac/Astryth|Astryth]] |
 
 # **Elaric Tethys (NPC)**
 > [!info|bg-c-purple]- Overview

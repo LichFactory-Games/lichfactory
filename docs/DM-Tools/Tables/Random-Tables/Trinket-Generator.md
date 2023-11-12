@@ -4,7 +4,7 @@ date: 2022-04-16
 title: "Trinket Generator"
 source: Dungeon Master's Guide 5e
 date created: Friday, November 3rd 2023, 2:35:58 pm
-date modified: Saturday, November 4th 2023, 5:51:56 pm
+date modified: Thursday, November 9th 2023, 11:50:55 am
 ---
 
 # How to Use:

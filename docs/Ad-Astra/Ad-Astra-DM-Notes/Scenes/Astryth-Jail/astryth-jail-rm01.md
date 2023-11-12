@@ -13,7 +13,7 @@ linter-yaml-title-alias: 01 - Barracks
 up: [[Astryth Jail Map|Astryth Jail Map]]
 title: astryth-jail rm01
 date created: Thursday, May 25th 2023, 3:44:21 pm
-date modified: Saturday, September 2nd 2023, 9:48:23 am
+date modified: Thursday, November 9th 2023, 3:14:56 pm
 ---
 
 # 01 - Barracks

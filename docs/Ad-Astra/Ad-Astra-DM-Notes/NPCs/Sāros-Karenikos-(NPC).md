@@ -17,14 +17,14 @@ sexuality: Bisexual
 alignment: Chaotic Neutral 
 condition: Healthy
 occupation: Gnostari Cleric
-associatedGroup: "[[../Erspace-Almanac/Ermis/Factions-&-Fellowships/Cult-of-the-Opener-of-the-Way|Hodos]]"
+associatedGroup: "[[../Factions/Cult-of-the-Opener-of-the-Way|Hodos]]"
 religion: "[[./Yog-Sothoth|Hodos]]"
 location: Unknown
 traits: [clever, hot-tempered, fastidious]
 goals: [knowledge, fulfillment]
 linter-yaml-title-alias: "**Sāros Karenikos (NPC)**"
 date created: Friday, July 28th 2023, 11:35:16 am
-date modified: Tuesday, October 31st 2023, 4:16:41 pm
+date modified: Friday, November 10th 2023, 5:21:47 pm
 ---
 
 > [!infobox]
@@ -45,7 +45,7 @@ date modified: Tuesday, October 31st 2023, 4:16:41 pm
 > ---|---|
 > **Alias(es)** | \- |
 > **Occupation(s)** | Gnostari Cleric |
-> **Group(s)** | [[../Erspace-Almanac/Ermis/Factions-&-Fellowships/Cult-of-the-Opener-of-the-Way|Cult of the Opener of the Way]] |
+> **Group(s)** | [[../Factions/Cult-of-the-Opener-of-the-Way|Cult of the Opener of the Way]] |
 > **Religion(s)** | [[./Yog-Sothoth|Hodos]] |
 > **Current Location** | [[Unknown|Unknown]] |
 
@@ -71,13 +71,13 @@ TBD
 
 ## History
 
-Older brother of [[Gar Karenikos|Gar Karenikos]]. Was formerly a cleric of the [[../../Player's-Almanac/Dunamikon|Dunamikon]] but had dissapeared after his studies led to his renouncing Er and joining the Openers of the Way  (i.e.  [[../Erspace-Almanac/Ermis/Factions-&-Fellowships/Cult-of-the-Opener-of-the-Way|Hodos]] )
+Older brother of [[Gar Karenikos|Gar Karenikos]]. Was formerly a cleric of the [[../../Player's-Almanac/Dunamikon|Dunamikon]] but had dissapeared after his studies led to his renouncing Er and joining the Openers of the Way  (i.e.  [[../Factions/Cult-of-the-Opener-of-the-Way|Hodos]] )
 
 ## DM Notes
 ### Plot Hooks
 
 - Pursuing the [[../Items/Astranomicon|Astranomicon]] 
-- Vying with [[./Zerrenia-Azhar-(NPC)|Zerrenia Azhar (NPC)]] for leadership of the [[../Erspace-Almanac/Ermis/Factions-&-Fellowships/Cult-of-the-Opener-of-the-Way|Hodos]]
+- Vying with [[./Zerrenia-Azhar-(NPC)|Zerrenia Azhar (NPC)]] for leadership of the [[../Factions/Cult-of-the-Opener-of-the-Way|Hodos]]
 - [[Gar Karenikos|Gar Karenikos]] wants to rescue or otherwise "save" his brother 
 
 ### Hidden Details

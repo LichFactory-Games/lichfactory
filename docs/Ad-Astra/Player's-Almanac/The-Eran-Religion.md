@@ -1,19 +1,20 @@
 ---
-share: true
+title: The Eran Religion
+date created: Friday, September 29th 2023, 8:23:26 am
+tags:
+  - erspace/ermis
+  - religion
 aliases:
   - The Eran Religion
   - Eranism
   - Eran
 art: "![[eranism.png|eranism.png]]"
-tags:
-  - erspace/ermis
-  - religion
-type: faction
-leader: The Hierophancy
 base: Eryth
+date modified: Sunday, November 12th 2023, 8:27:13 am
+leader: The Hierophancy
 religion: Eranism
-date created: Friday, September 29th 2023, 8:23:26 am
-date modified: Thursday, November 2nd 2023, 8:36:14 am
+share: true
+type: faction
 ---
 
 # Eranism

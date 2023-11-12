@@ -6,7 +6,6 @@ modification date: 2023-05-22 09:56:36
 type: npc
 tags:
   - erspace/ermis
-  - erspace/ermis/astryth
 ancestry: Human
 gender: Male
 sexuality: Straight
@@ -14,8 +13,8 @@ religion: ""
 art: "![[../../../assets/img/npc-nikolai-argyris.jpg|75]]"
 title: Nikolai Argyris (NPC)
 date created: Monday, May 22nd 2023, 9:56:36 am
-date modified: Friday, October 20th 2023, 5:47:00 pm
-location: Astryth
+date modified: Friday, November 10th 2023, 5:21:37 pm
+location: 
 condition: Healthy
 ---
 

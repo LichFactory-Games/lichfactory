@@ -1,20 +1,22 @@
 ---
-tags:
-  - erspace/ermis
-share: true
-type: city
 title: Astryth
 date created: Sunday, March 12th 2023, 7:26:29 pm
-date modified: Friday, October 27th 2023, 9:03:30 am
+tags:
+  - erspace/ermis
+date modified: Sunday, November 12th 2023, 8:41:10 am
+share: true
+type: city
 ---
 
 ![[../../assets/img/astryth-wide.png|astryth-wide.png]]
 
-Astryth is one of two major cities on [[./Ermis|Ermis]], sister to the city Eryth. It is the original home of [[../../../Vires|Vires]]. Astryth is slightly smaller than [[./Eryth|Eryth]] but also has a more varied surrounding landscape, encompassing, plains, mountains, desert, and forest. The core of the old city is located at the southern base of the [[./The-Spar|The Spar]]. 
+
+
+Astryth is one of two major cities on [[./Ermis|Ermis]], sister to the city Eryth. It is the original home of [[../Ad-Astra-DM-Notes/NPCs/Vires|Vires]]. Astryth is slightly smaller than [[./Eryth|Eryth]] but also has a more varied surrounding landscape, encompassing, plains, mountains, desert, and forest. The core of the old city is located at the southern base of the [[./The-Spar|The Spar]]. 
 
 Astryth consists of  multiple levels as it carves its way up the foot of the Spar. Lower Extremis, Ward Demos, and part of Ward Sophos are on the lower slope. Ward Aurum, Ward Emporos, and the Citadel, are all on the upper slope of the base of the Spar. 
 
-Astryth also has an "undercity", which is a network of passages and sewers that lead throughout the city. The undercity is also connected to the so-called "underdark" which is a deeper network of caverns and tunnels that lead into the mountains. From both the undercity and the underdark one can find passages leading to the tunnels of the [[../../../Sil|Sil]] in the northern wastes of the [[./Kypar-desert|Kypar desert]].
+Astryth also has an "undercity", which is a network of passages and sewers that lead throughout the city. The undercity is also connected to the so-called "underdark" which is a deeper network of caverns and tunnels that lead into the mountains. From both the undercity and the underdark one can find passages leading to the tunnels of the [[../Ad-Astra-DM-Notes/NPCs/Sil|Sil]] in the northern wastes of the [[./Kypar-desert|Kypar desert]].
 
 ## Entering the City
 
@@ -30,23 +32,24 @@ Major events include the 342 PD founding of the Arkane College *Lyceum Miskatoni
 
 Today the city covers over 45 square miles and houses over 150,000 inhabitants. It remains a key stop for overland trade routes and hosts a thriving community of artisans, merchants, and academics.
 
+
+## Wards of Astryth
+
+The Ward Emporos houses markets, guilds, and shops. The Ward Sophos contains Lyceum Miskatonis, as well as a variety of libraries, manuscript dealers, and purveyors of magic. The wealthy typically dwell in Ward Aurum. Ward Demos, as well as Upper and Lower Exremis largely house workers and the poor. An undercity lies beneath parts of Ward Demos. 
+
 ## City Government
 
 Astryth is governed by the Council of Three - the Chancellor, High Arkanist, and High Inquisitor. These are appointed by the leaders of House Tethys and Xeryth, after several rounds of voting by the other houses and the lower Ward Demos. The Council oversees the bureaucracy, city guard, taxes, laws, and foreign relations. They strive to balance the interests of the four wards.
 
 ## Surviving in the City
 
-New arrivals should secure lodging in an inn or boarding house, then seek work through markets, guilds, or temples. The lower quarters offer cheaper housing but more dangerous streets, so go armed and be cautious at night. Beware pickpockets in the bazaar crowds. The laws of the city are many, and can be complex for newcomers. Punishment of infraction can also be quite harsh. At the minimum newcomers to the city often find themselves quickly facing the choice between payment of a fine and spending a night in one of the city jails. 
+New arrivals should secure lodging in an inn or boarding house, then seek work through markets, guilds, or temples. The lower quarters offer cheaper housing but more dangerous streets, so go armed and be cautious at night. Beware pickpockets in the bazaar crowds. The laws of the city are many, and can be complex for newcomers. Punishment of infraction can be quite harsh. At the minimum, newcomers to the city often find themselves quickly facing the choice between payment of a fine and spending a night in one of the city jails. 
 
-Magic and technology are also strictly regulated. While many occupants of the city have some sort of magic ability, typically the public use of magic more significant than a cantrip is frowned upon unless one is a clear member of the Arkane order or another municipally-sanctioned organization. This is also true of technology, especially anything that seems like it could be used as a weapon (e.g. absolutely no open display of firearms). Violations of these rules will lead to swift fine and punishment by the Watch. 
-
-## Wards of Astryth
-
-The Ward Emporos houses markets, guilds, and shops. The Ward Sophos contains Lyceum Miskatonis, as well as a variety of libraries, manuscript dealers, and purveyors of magic. The wealthy typically dwell in Ward Aurum. Ward Demos, as well as Upper and Lower Exremis largely house workers and the poor. An undercity lies beneath parts of Ward Demos. 
+Magic and technology are also strictly regulated. While many occupants of the city have some sort of facility with magic, typically the public use of magic more significant than that of a cantrip is frowned upon unless one is a clear member of the Arkane order or another municipally-sanctioned organization. This is also true of technology, especially anything that seems like it could be used as a weapon (e.g. absolutely no open display of firearms unless you are a member of the Hetai). Violations of these rules will lead to swift fine and punishment by the Watch. 
 
 ## Notable Features
 
-Sites include the Temple of Vires, Catacombs of the Revered, underground Fortune's Wheel gambling parlor, natural hot springs of the Blessed Baths, Dockside Alehouse, Sweetroll Bakery, and Carnal Carnival.
+Sites include the Temple of Vires, Catacombs of the Revered, the gambling parlor Fortune's Wheel, the Blessed Baths hot springs, and many taverns, inns, shops, and warehouses.
 
 ## Holidays & Festivals
 
@@ -58,6 +61,6 @@ Astryth trades in ores, furs, timber, livestock, and crafted goods. Major guilds
 
 ## Religion
 
-Most follow the pantheon of Er. Various temples and shrines dedicated to this pantheon operate in the wards, with the most opulent being in Aurum. However, in part because of Er's somewhat abstruse nature, and in part because of the seeming infinite variety of Er's manifestations, there are a number of different groups, cults, and forms of religious praxis that have flourished in Astryth. Among these include the followers of Hodos the Opener, the Order of the Silver Key, and Telios Mechanicus. The hidden Syndicate of the Yellow Sign claims devotees in the undercity. Druidic old faiths persist in areas of the city and surrounding countryside.
+Most follow the pantheon of Er. Various temples and shrines dedicated to this pantheon operate in the wards, with the most opulent being in Aurum. However, in part because of Er's somewhat abstruse nature, and in part because of the seeming infinite variety of Er's manifestations, there are a number of different groups, cults, and forms of religious praxis that have flourished in Astryth. Among these include the followers of Hodos the Opener, the Order of the Silver Key, and Telios Mechanicus. The Syndicate of the King in  Yellow claims devotees in the undercity. Druidic old faiths persist in areas of the city and surrounding countryside.
 
 ![[../../assets/img/astryth-topo.png|astryth-topo.png]]

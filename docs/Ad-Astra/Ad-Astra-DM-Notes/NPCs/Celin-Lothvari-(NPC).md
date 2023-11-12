@@ -27,7 +27,7 @@ bonds: I am the last of my tribe, and it is up to me to ensure their names enter
 flaws:  Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish.
 linter-yaml-title-alias: "**Celin Lothvari (NPC)**" 
 date created: Thursday, September 14th 2023, 11:47:46 am
-date modified: Sunday, October 22nd 2023, 11:59:50 am
+date modified: Friday, November 10th 2023, 5:17:53 pm
 ---
 
 > [!infobox]

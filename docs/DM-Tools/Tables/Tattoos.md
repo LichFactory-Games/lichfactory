@@ -1,7 +1,8 @@
 ---
-share: true
+title: Tattoos
 date created: Friday, November 3rd 2023, 1:53:30 pm
-date modified: Saturday, November 4th 2023, 5:07:23 pm
+date modified: Sunday, November 12th 2023, 8:27:08 am
+share: true
 ---
 ## Tattoo Ink
 

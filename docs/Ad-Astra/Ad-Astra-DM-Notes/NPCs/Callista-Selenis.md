@@ -23,7 +23,7 @@ religion: null
 location: Astryth
 title: Callista Selenis
 date created: Saturday, June 24th 2023, 9:53:03 pm
-date modified: Sunday, October 22nd 2023, 12:02:33 pm
+date modified: Friday, November 10th 2023, 5:17:45 pm
 ---
 
 > [!infobox]

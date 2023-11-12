@@ -1,10 +1,10 @@
 ---
-tags:
-  - erspace/ermis
-share: true
 title: Ermis
 date created: Sunday, March 12th 2023, 4:50:28 pm
-date modified: Thursday, November 2nd 2023, 8:37:22 am
+tags:
+  - erspace/ermis
+date modified: Sunday, November 12th 2023, 8:27:18 am
+share: true
 ---
 # Welcome to Ermis
 
@@ -32,7 +32,7 @@ There are three megacities on Ermis. These are the cities of the Dyarchy (also k
 
 Other major cities or city states include [[Kavouri|Kavouri]] and [[Tehmérr|Tehmérr]] (major seaports, independent of the Dyarchy), [[Thalassia|Thalassia]] in the Faeir Wildes (the seat of the Council of the Faeir), and [[Caer Mynydd|Caer Mynydd]] (the northern center of the Haem Collective). 
 
-The primary deity worshipped on Ermis is [[./Er|Er]].  [[../../../The Dyarchy|The Dyarchy]] recognizes no other deity and contend that all other gods are simply aspects or appearances of Er. 
+The primary deity worshipped on Ermis is [[./Er|Er]].  [[../Ad-Astra-DM-Notes/Factions/The-Dyarchy|The Dyarchy]] recognizes no other deity and contend that all other gods are simply aspects or appearances of Er. 
 
 There are many other smaller settlements, including agricultural and shipping centers near the twin cities, and nomadic groups such as the Sil, who live in the wastes of the Kypar desert. The desert is largely left to the Sil and whatever terrors live in the deep desert. 
 

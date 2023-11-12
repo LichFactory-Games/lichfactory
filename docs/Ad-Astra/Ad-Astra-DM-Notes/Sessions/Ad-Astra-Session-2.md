@@ -11,13 +11,7 @@ creation date: 2023-09-28 18:36
 modification date: 2023-09-28 18:36:49
 linter-yaml-title-alias: "Ad Astra Session 2"
 date created: Thursday, September 28th 2023, 6:36:49 pm
-date modified: Sunday, October 29th 2023, 8:54:07 am
-sessionTodos: |-
-  
-  - [X] Flesh out opening scenes
-  - [X] Make sure everyone leveled up 
-  - [X] Create Maps/backdrops
-  - [X] Create tokens
+date modified: Friday, November 10th 2023, 11:11:17 pm
 sessionNotes: 
 ---
 
@@ -26,9 +20,10 @@ sessionNotes:
 
 ## Session TODOS
 
-```meta-bind
-INPUT[textArea(showcase, class(meta-bind-full-width), class(meta-bind-high), class(meta-bind-text)):sessionTodos]
-```
+  - [X] Flesh out opening scenes
+  - [X] Make sure everyone leveled up 
+  - [X] Create Maps/backdrops
+  - [X] Create tokens
 
 ## Characters
 

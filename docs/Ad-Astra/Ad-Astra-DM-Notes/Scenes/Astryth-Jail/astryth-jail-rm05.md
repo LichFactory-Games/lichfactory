@@ -14,7 +14,7 @@ up: [[Astryth Jail Map|Astryth Jail Map]]
 prev: [[astryth-jail rm04|astryth-jail rm04]] 
 title: astryth-jail rm05
 date created: Friday, May 26th 2023, 9:29:00 am
-date modified: Saturday, September 2nd 2023, 9:48:23 am
+date modified: Thursday, November 9th 2023, 3:14:06 pm
 ---
 
 # 05 - The Jail

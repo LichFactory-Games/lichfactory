@@ -5,19 +5,18 @@ creation date: 2023-05-21 22:56
 modification date: 2023-05-21 22:56:20
 tags:
   - erspace/ermis
-  - erspace/ermis/astryth
   - jail
 type: npc
 ancestry: Fair Folk
 gender: Female
 sexuality: Bisexual
 condition: Healthy
-location: Jail (Astryth Ward Demos)
+location: 
 religion: ""
 art: "![[../../../assets/img/npc-elara-nshad.jpg|75]]"
 title: Elara N'shad (NPC)
 date created: Sunday, May 21st 2023, 10:56:20 pm
-date modified: Sunday, October 22nd 2023, 12:01:05 pm
+date modified: Friday, November 10th 2023, 5:18:20 pm
 ---
 
 ![[../../../assets/img/npc-elara-nshad.jpg|right|hmedium]]

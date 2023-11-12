@@ -1,7 +1,8 @@
 ---
 share: false
 date created: Friday, September 29th 2023, 9:09:26 am
-date modified: Monday, October 30th 2023, 6:54:42 pm
+date modified: Saturday, November 11th 2023, 11:31:06 pm
+title: 2 - The Horror in Hestia
 ---
 
 # Introduction
@@ -14,7 +15,7 @@ This is an adaptation of the adventure "Crypts of Azarumme" by the Arcane Librar
 - While the characters are at the temple, undead creatures erupt into the main chamber, massacre the people present, and retreat with living victims.
 - The characters follow the undead down the empty well in the temple's undercroft, leading them to the catacombs beneath.
 - Inside the catacombs, the characters find clues about the fate of Thanatis Anelisi. 
-- The adventure culminates in a battle against the fallen Anelisi  and the horde of undead she controls with the *Ritus Cranii Vitae Mortis* ("The skull ritual of life and death") from out of the book *[[../Items/Fragmenta-Occultae-Doctrinae-Erian|Fragmenta Occultae Doctrinae Erian]]*, which is a transcribed set of fragments from various other texts both known and unknown. 
+- The adventure culminates in a battle against the fallen Anelisi  and the horde of undead she controls with the *Ritus Cranii Vitae Mortis* ("The skull ritual of life and death") from out of the book *[[../Items/Fragmenta-Occultae-Doctrinae-Eran|Fragmenta Occultae Doctrinae Eran]]*, which is a transcribed set of fragments from various other texts both known and unknown. 
 
 ## Background
 
