@@ -1,9 +1,7 @@
 ---
 title: Gwenzahlya
 type: pc
----
-
-## Gwenzahlya 
+--- 
 
 > [!infobox|right]  
 > ![[../../assets/img/pc-gwen.jpeg|pc-gwen.jpeg]]  

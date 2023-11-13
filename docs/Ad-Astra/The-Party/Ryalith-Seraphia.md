@@ -3,7 +3,6 @@ title: Ryalith Seraphia
 type: pc
 ---
 
-## Ryalith Seraphia
 
 > [!infobox|right]  
 > ![[../../assets/img/faeir-feline.png|faeir-feline.png]]  
