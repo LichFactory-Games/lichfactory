@@ -1,15 +1,15 @@
 ---
-share: false
+title: DM-Screen
 aliases: [DM Screen, "dm screen"]
-creation date: 2023-06-01 17:47
-modification date: 2023-06-01 17:47:26
+date created: Thursday, June 1st 2023, 5:48:38 pm
+date modified: Monday, November 6th 2023, 7:28:56 am
 tags:
   - tools
   - dm
+share: false
+creation date: 2023-06-01 17:47
+modification date: 2023-06-01 17:47:26
 linter-yaml-title-alias: DM Screen
-title: DM Tools
-date created: Thursday, June 1st 2023, 5:48:38 pm
-date modified: Monday, November 6th 2023, 7:28:56 am
 ---
 
 # DM Screen
@@ -21,17 +21,17 @@ date modified: Monday, November 6th 2023, 7:28:56 am
 
 
 > [!columns|2 bg-purple c-blue title-center no-icon]- Random Tables (Dice Roller)
->> ![[./Tables/Random-Tables/Encounter-Generator#^b3faa8|no-link]]
->> ![[./Tables/Random-Tables/NPC-Generator#^generator|no-link]]
->> ![[./Tables/Random-Tables/Trinket-Generator#^generator|no-link]]
->>  ![[./Tables/Treasure-Tables#^individual-treasure-generator|no-link]]
->>  ![[./Tables/Treasure-Tables#^horde-treasure-generator|no-link]]
+>> ![[./Tables/Random-Tables/Encounter-Generator#^b3faa8|no-link]]  
+>> ![[./Tables/Random-Tables/NPC-Generator#^generator|no-link]]  
+>> ![[./Tables/Random-Tables/Trinket-Generator#^generator|no-link]]  
+>> ![[./Tables/Treasure-Tables#^individual-treasure-generator|no-link]]  
 >
->> ![[./Tables/Random-Tables/Weather-Generator#^generator|no-link]]
->> ![[./Tables/Random-Tables/Urban-Encounter-Generator#^callout|no-link]]
->> ![[./Tables/Random-Tables/Random-Building-Generator#^generator|no-link]]
->> ![[./Tables/Random-Tables/Settlement-Generator#^generator|no-link]]
->> 
+>> ![[./Tables/Random-Tables/Random-Taverns#^random-taverns|no-link]]  
+>> ![[./Tables/Random-Tables/Weather-Generator#^generator|no-link]]  
+>> ![[./Tables/Random-Tables/Urban-Encounter-Generator#^callout|no-link]]  
+>> ![[./Tables/Random-Tables/Random-Building-Generator#^generator|no-link]]  
+>> ![[./Tables/Random-Tables/Settlement-Generator#^generator|no-link]]  
+>> ![[./Tables/Treasure-Tables#^horde-treasure-generator|no-link]]
 
 
 > [!columns|4 bg-gray c-blue title-center no-icon]- Random Tables (Web)
@@ -61,9 +61,9 @@ date modified: Monday, November 6th 2023, 7:28:56 am
 
 > [!columns|2 t-w bg-gray c-blue title-center no-icon]- Improvised Stats 
 >> [!info]+ Difficulty Checks
->>  - For any given task or challenge, ask yourself how hard it is to accomplish. 
->>  - Then assign a DC from 10 (easy) to 20 (very hard). 
->>  - If a task is trivial, don't bother asking for a roll. Rather, the characters automatically succeed. Likewise, reserve DCs above 20 for superhuman challenges.
+>> - For any given task or challenge, ask yourself how hard it is to accomplish. 
+>> - Then assign a DC from 10 (easy) to 20 (very hard). 
+>> - If a task is trivial, don't bother asking for a roll. Rather, the characters automatically succeed. Likewise, reserve DCs above 20 for superhuman challenges.
 >
 >> [!info]+ Quick Builder
 >> - Choose a challenge rating (CR) for your trap, object, effect, or creature between 1 and 30. When improvising statistics for traps and other objects that deal damage and can be attacked to destroy them, estimate the object's CR by comparing it to various creatures that produce the same sorts of effects in combat. Write down its statistics from the following formulas:
@@ -82,7 +82,7 @@ date modified: Monday, November 6th 2023, 7:28:56 am
 >>
 >> ![[./Tables/Deadly-Encounter-Benchmark-Table-(Lazy-DM)|nlk no-t]]
 >
->> [!info]+ Other Improv Tricks
+>> [!info]+ Other Improv Tricks  
 >> The following tricks can also help make it easier for you to improvise during your game:
 >> - Use the story the players give to you, rather than forcing the characters to stick to a path you set.
 >> - Use static monster damage.
@@ -92,40 +92,40 @@ date modified: Monday, November 6th 2023, 7:28:56 am
 >> - Let the characters stumble upon two weak monsters, then see whether the monsters and characters want to fight or simply have a conversation.
 
 > [!columns|2 t-w bg-gray c-blue title-center no-icon]- Monster Building
->> [!info|embed t-w]+ Monster Stats by CR
+>> [!info|embed t-w]+ Monster Stats by CR  
 >> ![[./Build-Monster-by-CR|no-t]]
 >> 
 >> - [[./5e-Monster-Builder#Monster Statistics by Challenge Rating|Full Table]] 
 > 
->> [!info|embed]+ Tips For Building Monsters
+>> [!info|embed]+ Tips For Building Monsters  
 >> ![[./5e-Monster-Builder#Building a Monster|no-h]]
 
 > [!info|3 bg-gray c-blue title-center clean no-icon]- Abilities, Skills, and Conditions 
->> [!info]+ **Abilities**
+>> [!info]+ **Abilities**  
 >> ![[./Tables/5e-Abilities-and-Skills#Abilities|Abilities Table| nlk no-h]]
 >
 >> [!column|3 bg-gray c-blue no-title]
->>> [!info|no-margin]+ **Skills**
+>>> [!info|no-margin]+ **Skills**  
 >>> ![[./Tables/5e-Abilities-and-Skills#Skill Table| nlk no-h]]
 >>
->>> [!info|text-center]+ **Conditions**
->>> 🙈 [[../Rules-&-Options/rules/conditions#Blinded|Blinded]]
->>> 😍 [[../Rules-&-Options/rules/conditions#Charmed|Charmed]]
->>> 🙉 [[../Rules-&-Options/rules/conditions#Deafened|Deafened]]
->>> 😓 [[../Rules-&-Options/rules/conditions#Exhaustion|Exhaustion]]
->>> 😨 [[../Rules-&-Options/rules/conditions#Frightened|Frightened]]
->>> 🫂 [[../Rules-&-Options/rules/conditions#Grappled|Grappled]]
->>> 😵 [[../Rules-&-Options/rules/conditions#Incapacitated|Incapacitated]]
->>> 👻 [[../Rules-&-Options/rules/conditions#Invisible|Invisible]]
->>> ♿ [[../Rules-&-Options/rules/conditions#Paralyzed|Paralyzed]]
->>> 😱 [[../Rules-&-Options/rules/conditions#Petrified|Petrified]]
->>> 🤮 [[../Rules-&-Options/rules/conditions#Poisoned|Poisoned]]
->>> 🛌 [[../Rules-&-Options/rules/conditions#Prone|Prone]]
->>> 🙅 [[../Rules-&-Options/rules/conditions#Restrained|Restrained]]
->>> 😵 [[../Rules-&-Options/rules/conditions#Stunned|Stunned]]
+>>> [!info|text-center]+ **Conditions**  
+>>> 🙈 [[../Rules-&-Options/rules/conditions#Blinded|Blinded]]  
+>>> 😍 [[../Rules-&-Options/rules/conditions#Charmed|Charmed]]  
+>>> 🙉 [[../Rules-&-Options/rules/conditions#Deafened|Deafened]]  
+>>> 😓 [[../Rules-&-Options/rules/conditions#Exhaustion|Exhaustion]]  
+>>> 😨 [[../Rules-&-Options/rules/conditions#Frightened|Frightened]]  
+>>> 🫂 [[../Rules-&-Options/rules/conditions#Grappled|Grappled]]  
+>>> 😵 [[../Rules-&-Options/rules/conditions#Incapacitated|Incapacitated]]  
+>>> 👻 [[../Rules-&-Options/rules/conditions#Invisible|Invisible]]  
+>>> ♿ [[../Rules-&-Options/rules/conditions#Paralyzed|Paralyzed]]  
+>>> 😱 [[../Rules-&-Options/rules/conditions#Petrified|Petrified]]  
+>>> 🤮 [[../Rules-&-Options/rules/conditions#Poisoned|Poisoned]]  
+>>> 🛌 [[../Rules-&-Options/rules/conditions#Prone|Prone]]  
+>>> 🙅 [[../Rules-&-Options/rules/conditions#Restrained|Restrained]]  
+>>> 😵 [[../Rules-&-Options/rules/conditions#Stunned|Stunned]]  
 >>> 😪 [[../Rules-&-Options/rules/conditions#Unconscious|Unconscious]]
 >>
->>> [!info]+ Saving Throws
+>>> [!info]+ Saving Throws  
 >>> ![[../../saving-throws#^saving-throws|saving-throws.md > ^saving-throws]]
 
 > [!columns|3 bg-gray c-blue title-center no-icon]- Combat and Actions
@@ -159,7 +159,7 @@ date modified: Monday, November 6th 2023, 7:28:56 am
 >> - 👂 [[../../screen-audible-distance-screendungeonkit|Noise Levels]]
 >> - 🕯 [[../../screen-light-screendungeonkit|Light Sources]]
 > 
->> [!info]+  Survival
+>> [!info]+ Survival
 >> - 👣 [[../../tracking-dcs|Tracking DCs]]
 >> - 🍓 [[../../screen-foraging-dcs-screendungeonkit|Foraging DCs]]
 >> - 🤿 [[../../09-adventuring#Suffocating|Suffocating]]
@@ -167,7 +167,7 @@ date modified: Monday, November 6th 2023, 7:28:56 am
 >> [!info]+ Movement
 >> - ⛰ [[../../09-adventuring#Difficult Terrain|Difficult Terrain]]
 >> - 🚶 [[../../09-adventuring#^travel-pace|Travel Pace]]
->> -  ⤵  [[../Rules-&-Options/rules/variant-rules/falling-xge|Falling]]
+>> - ⤵ [[../Rules-&-Options/rules/variant-rules/falling-xge|Falling]]
 >> - 🏊 [[../../09-adventuring#Climbing, Swimming, and Crawling|Climb, Swim, and Crawl]]
 >> - ↗ [[../../09-adventuring#Jumping|Jumping]]
 
@@ -187,7 +187,6 @@ date modified: Monday, November 6th 2023, 7:28:56 am
 
 %%
 > [!column|bg-gray c-blue title-center no-icon]- Conditions
-> - 
 > 	- 👓 [[../Rules-&-Options/rules/conditions#Blinded|Blinded]]
 > 	- 😍 [[../Rules-&-Options/rules/conditions#Charmed|Charmed]]
 > 	- 👂 [[../Rules-&-Options/rules/conditions#Deafened|Deafened]]
@@ -196,7 +195,6 @@ date modified: Monday, November 6th 2023, 7:28:56 am
 > 	- 🫂 [[../Rules-&-Options/rules/conditions#Grappled|Grappled]]
 > 	- 😵 [[../Rules-&-Options/rules/conditions#Incapacitated|Incapacitated]]
 > 	- 👻 [[../Rules-&-Options/rules/conditions#Invisible|Invisible]]
-> - 
 > 	- ♿ [[../Rules-&-Options/rules/conditions#Paralyzed|Paralyzed]]
 > 	- 😱 [[../Rules-&-Options/rules/conditions#Petrified|Petrified]]
 > 	- 🤮 [[../Rules-&-Options/rules/conditions#Poisoned|Poisoned]]
