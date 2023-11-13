@@ -6,6 +6,26 @@ date modified: Wednesday, November 1st 2023, 11:38:26 pm
 
 The party members are as follows: 
 
+> [!grid]
+>  - [[./Gloopwing|Gloopwing]]: ![[../../assets/img/gloopwing.png|75]]
+> - [[./Gwenzahlya|Gwenzahlya]]: ![[../../assets/img/pc-gwen.jpeg|75]]
+> - [[./Karel|Karel]]: ![[../../assets/img/pc-karel.jpg|75]]
+> - [[./Ryalith-Seraphia|Ryalith Seraphia]]: ![[../../assets/img/faeir-feline.png|75]]
+> - [[./Stigs-the-Stiff|Stigs the Stiff]]: ![[../../assets/img/er_dhampir-portrait_5.png|75]]
+> 
+
+
+> [!grid]
+>  | ART                                                 | PC                                                           |
+> | --------------------------------------------------- | ------------------------------------------------------------ |
+> | ![[../../assets/img/gloopwing.png\|75]]             | [[./Gloopwing\|Gloopwing]]               |
+> | ![[../../assets/img/pc-gwen.jpeg\|75]]              | [[./Gwenzahlya\|Gwenzahlya]]             |
+> | ![[../../assets/img/pc-karel.jpg\|75]]              | [[./Karel\|Karel]]                       |
+> | ![[../../assets/img/faeir-feline.png\|75]]          | [[./Ryalith-Seraphia\|Ryalith Seraphia]] |
+> | ![[../../assets/img/er_dhampir-portrait_5.png\|75]] | [[./Stigs-the-Stiff\|Stigs the Stiff]]   |
+> 
+
+
 | Art                                                 | PC                                                           | Quick Stats                                             | Ancestry | Background    | Class                 | Proficiencies                                                                                      | Languages                       |
 | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | -------- | ------------- | --------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------- |
 | ![[../../assets/img/gloopwing.png\|75]]             | [[./Gloopwing\|Gloopwing]]               | :rif_eye:10 :rif_spy:11<br>:rif_shield:18 :fas_heart:13 | Plasmoid | Haunted One   | Fighter<br> (lvl 2)   | Arcana, History, Insight, Religion<br>Strength, Constitution                                       | Common, Draconic, Giant, Goblin |
