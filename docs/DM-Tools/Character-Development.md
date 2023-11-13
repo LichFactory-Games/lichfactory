@@ -17,7 +17,7 @@ How should we encourage good character development for enhancing role-play and t
 
 Here are a few links:
 
-- ![The greatest fear trope](https://youtu.be/HEcI_tCU5DQ)
-- [Knife theory](https://www.reddit.com/r/DnD/comments/775caq/my_friends_and_i_have_something_called_knife/?utm_source=share&utm_medium=web2x&context=3))
+- [The greatest fear trope](https://youtu.be/HEcI_tCU5DQ)
+- [Knife theory](https://www.reddit.com/r/DnD/comments/775caq/my_friends_and_i_have_something_called_knife/?utm_source=share&utm_medium=web2x&context=3)
 - [Creating Stunning Character Arcs, Pt. 2: The Lie Your Character Believes - Helping Writers Become Authors](https://www.helpingwritersbecomeauthors.com/character-arcs-2/)
 - [Developing Character Personalities in TTRPGs – Flutes Loot](https://www.flutesloot.com/developing-character-personalities-in-ttrpgs/)
