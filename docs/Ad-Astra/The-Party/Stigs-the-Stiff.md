@@ -3,7 +3,6 @@ title: Stigs the Stiff
 type: pc
 ---
 
-## Stigs the Stiff
 
 > [!infobox|right]  
 > ![[../../assets/img/pc-stiggs.png|pc-stiggs.png]]  
