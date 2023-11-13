@@ -6,18 +6,19 @@ date modified: Wednesday, November 1st 2023, 11:38:26 pm
 
 The party members are as follows: 
 
-> [!caption]
-> [[./Gloopwing|Gloopwing]]
+- [[./Gloopwing|Gloopwing]]
+- [[./Gwenzahlya|Gwenzahlya]]
+- [[./Karel|Karel]]
+- [[./Ryalith-Seraphia|Ryalith Seraphia]]
+- [[./Stigs-the-Stiff|Stigs the Stiff]]
+
+
+> [!grid]
 > ![[../../assets/img/gloopwing.png|gloopwing.png]]
-> 
-> [[./Gwenzahlya|Gwenzahlya]]
 > ![[../../assets/img/pc-gwen.jpeg|pc-gwen.jpeg]]
-> 
-> [[./Karel|Karel]]
 > ![[../../assets/img/pc-karel.jpg|pc-karel.jpg]]
->
-> [[./Ryalith-Seraphia|Ryalith Seraphia]]
 > ![[../../assets/img/faeir-feline.png|faeir-feline.png]]
-> 
-> [[./Stigs-the-Stiff|Stigs the Stiff]]
 > ![[../../assets/img/er_dhampir-portrait_5.png|er_dhampir-portrait_5.png]]
+
+
+
