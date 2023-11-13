@@ -3,8 +3,6 @@ title: Karel
 type: pc
 ---
 
-## Karel
-
 > [!infobox|right]  
 > ![[../../assets/img/pc-karel.jpg|pc-karel.jpg]]  
 > **Character Name:** Kárel  
