@@ -1,9 +1,13 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
+title: madness
+date created: Friday, November 3rd 2023, 5:30:36 pm
 tags:
-- compendium/src/5e/dmg
+  - compendium/src/5e/dmg
 aliases: ["Madness"]
+cssclasses: json5e-note
+date modified: Sunday, November 12th 2023, 8:50:57 am
+obsidianUIMode: preview
+share: true
 ---
 # Madness
 *Source: Dungeon Master's Guide p. 258. Available in the SRD.* 
