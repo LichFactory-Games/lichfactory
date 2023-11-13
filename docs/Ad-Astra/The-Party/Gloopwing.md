@@ -3,8 +3,6 @@ title: Gloopwing
 type: pc
 ---
 
-## Gloopwing
-
 > [!infobox|right]  
 > ![[../../assets/img/gloopwing.png|gloopwing.png]]  
 > **Player:** Rebbecca  
