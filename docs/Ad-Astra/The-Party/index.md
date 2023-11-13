@@ -9,7 +9,7 @@ date modified: Wednesday, November 1st 2023, 11:38:26 pm
 > ![[../../assets/img/pc-gwen.jpeg|pc-gwen.jpeg]]
 > ![[../../assets/img/pc-karel.jpg|pc-karel.jpg]]
 > ![[../../assets/img/faeir-feline.png|faeir-feline.png]]
-> ![[../../assets/img/er_dhampir-portrait_5.png|er_dhampir-portrait_5.png]]
+> ![[../../assets/img/pc-stiggs.png|pc-stiggs.png]]
 
 The party members are as follows: 
 
