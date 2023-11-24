@@ -4,6 +4,7 @@ date created: Friday, November 3rd 2023, 1:28:59 pm
 date modified: Friday, November 3rd 2023, 1:45:05 pm
 ---
 
+
 ## Tailor / Textiles
 
 Hard Sell (daily) at 375 gp (Cheap: 281 gp, Expensive: 500 gp) 
