@@ -4,6 +4,7 @@ date created: Friday, November 3rd 2023, 12:45:39 pm
 date modified: Friday, November 3rd 2023, 12:57:53 pm
 ---
 
+
 ## Jeweler
 Hard Sell (daily) at 1000 gp (Cheap: 750 gp, Expensive: 1500 gp) 
 Selling Cap (daily) at 2000 gp (Cheap: 1500 gp, Expensive: 3000 gp) 
