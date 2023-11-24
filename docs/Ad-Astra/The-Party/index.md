@@ -15,9 +15,16 @@ share: true
 
 The party members are as follows: 
 
-- [[Gloopwing (Web)|Gloopwing (Web)]]
-- [[Gwenzahlya (Web)|Gwenzahlya (Web)]]
-- [[Karel (Web)|Karel (Web)]]
-- [[Ryalith Seraphia (Web)|Ryalith Seraphia (Web)]]
-- [[Stigs the Stiff (Web)|Stigs the Stiff (Web)]]
+- [[./Gloopwing-(Web)|Gloopwing]]
+- [[./Gwenzahlya-(Web)|Gwenzahlya]]
+- [[./Karel-(Web)|Karel]]
+- [[./Ryalith-Seraphia-(Web)|Ryalith]]
+- [[./Stigs-the-Stiff-(Web)|Stigs]]
 
+
+%% - [[./Gloopwing-(Web)|Gloopwing (Web)]]
+- [[./Gwenzahlya-(Web)|Gwenzahlya (Web)]]
+- [[./Karel-(Web)|Karel (Web)]]
+- [[./Ryalith-Seraphia-(Web)|Ryalith Seraphia (Web)]]
+- [[./Stigs-the-Stiff-(Web)|Stigs the Stiff (Web)]]
+ %%
