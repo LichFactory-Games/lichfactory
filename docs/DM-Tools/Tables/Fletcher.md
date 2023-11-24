@@ -4,6 +4,7 @@ date created: Friday, November 3rd 2023, 11:56:27 am
 date modified: Friday, November 3rd 2023, 3:11:47 pm
 ---
 
+
 | Item Name              | Cost (Normal) | Cost (Cheap) | Cost (Expensive) | Limited Stock | Rural Locale | Urban Locale | Premium Locale |
 | ---------------------- | ------------- | ------------ | ---------------- | ------------- | ------------ | ------------ | -------------- |
 | **[WEAPONS]**          |               |              |                  |               |              |              |                |
