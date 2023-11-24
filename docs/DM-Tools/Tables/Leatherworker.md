@@ -3,6 +3,7 @@ share: true
 date created: Friday, November 3rd 2023, 1:39:41 pm
 date modified: Friday, November 3rd 2023, 1:40:26 pm
 ---
+
 ## Leatherworker
 
 Hard Sell (daily) at 500 gp (Cheap: 375 gp, Expensive: 750 gp) 

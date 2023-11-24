@@ -6,6 +6,7 @@ date created: Saturday, September 30th 2023, 9:28:43 am
 date modified: Tuesday, October 10th 2023, 3:35:03 pm
 ---
 
+
 # Session 1 - Minutes
 
 By luck or destiny, six individuals come together and face the horrors of the night.
@@ -15,12 +16,12 @@ By luck or destiny, six individuals come together and face the horrors of the ni
 > 1840.04.11-13 (Days 311-13 of the 1840th kilochron of Er)
 >---
 >**Party Members:** 
-> - [[../The-Party/Gloopwing|Gloopwing]]
-> - [[../The-Party/Gwenzahlya|Gwenzahlya]]
-> - [[../The-Party/Karel|Karel]]
-> - [[../The-Party/Prince-Slithy|Prince Slithy]]
-> - [[../The-Party/Ryalith-Seraphia|Ryalith Seraphia]] 
-> - [[../The-Party/Stigs-the-Stiff|Stigs the Stiff]] 
+> - [[Gloopwing (Web)|Gloopwing (Web)]]
+> - [[Gwenzahlya (Web)|Gwenzahlya (Web)]]
+> - [[Karel (Web)|Karel (Web)]]
+> - [[../The-Party/Prince-Slithy-(Web)|Prince Slithy (Web)]]
+> - [[Ryalith Seraphia (Web)|Ryalith Seraphia (Web)]] 
+> - [[Stigs the Stiff (Web)|Stigs the Stiff (Web)]] 
 >---
 >**Enemies**:
 >- Elk
@@ -28,7 +29,7 @@ By luck or destiny, six individuals come together and face the horrors of the ni
 
 ## Exposition
 
-Night is approaching. The group of travellers, guided by the faeir [[../../../Celin Lothvari|Celin Lothvari]], make their way not so silently through [[../Player's-Almanac/The-Dunwold|The Dunwold]]. With every crack of a twig, or crunch of a leaf, Celin does little to hide his disdain at the group of beings he's been contracted to lead through *his* forest. 
+Night is approaching. The group of travellers, guided by the faeir [[Celin Lothvari|Celin Lothvari]], make their way not so silently through [[../Player's-Almanac/The-Dunwold|The Dunwold]]. With every crack of a twig, or crunch of a leaf, Celin does little to hide his disdain at the group of beings he's been contracted to lead through *his* forest. 
 
 'At least they are better than the last party,' he thinks as the forest quiets down and the dim sunlight through the trees fades away. "Dusk is upon us. We will camp here." Crouching down, he works to quickly build a fire. Behind him, he fails to notice the individuals each mocking him with serious looks and silent, sarcastic repeats of his grim lines. As he gets the embers going, he turns, and everyone abruptly looks idle. The faeir narrows his eyes, and proclaims in his haughty tone, "I will fetch us bounty from the woods. Keep that fire going."
 
