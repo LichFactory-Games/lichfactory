@@ -3,6 +3,7 @@ share: true
 date created: Friday, November 3rd 2023, 1:12:38 pm
 date modified: Friday, November 3rd 2023, 1:18:26 pm
 ---
+
 COMMON MEAL / INN
 
 **Dragon Steak**: The meat comes from the kind of dragon you choose. Flavor varies by type. (Ex. Red is spicy, Green is sour, etc.)
