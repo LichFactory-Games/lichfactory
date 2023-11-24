@@ -1,14 +1,17 @@
 ---
-share: true
+title: Prince Slithy
+aliases:
+  - "**Prince Slithy (Web)**"
+date created: Saturday, September 23rd 2023, 7:44:41 pm
+date modified: Friday, October 27th 2023, 9:03:10 am
 tags:
   - familiar
+share: true
 type: familiar
 linter-yaml-title-alias: "**Prince Slithy (Web)**"
 art: "![[../../assets/img/slithy-familiar.png|75]]"
 player: Adam (Keotep)
 name: 
-aliases:
-  - "**Prince Slithy (Web)**"
 class: Familiar
 subclass: 
 level: "-"
@@ -49,73 +52,32 @@ friends-family:
 rivals: 
 associatedGroup: 
 religion: 
-date created: Saturday, September 23rd 2023, 7:44:41 pm
-date modified: Friday, October 27th 2023, 9:03:10 am
 ---
 
 
->[!infobox|left]  
->![[../../assets/img/slithy-familiar.png|vmed]]
->###### Stats
-> > - :fas_dice_d20: \+3 ⋅ :fas_running: 30ft
-> > - :rif_shield_star: 13 ⋅ :fas_heart: 4
-> > - :fas_eye: 10 ⋅ :rif_spy: 13
-> >
-> > | Ability      | Score                | Mod                                        |
-> > |--------------|----------------------|--------------------------------------------|
-> > | Strength     | 2     | -4     |
-> > | Dexterity    | 16    | 3    |
-> > | Constitution | 11 | 0 |
-> > | Intelligence | 1 | -5 |
-> > | Wisdom       | 10       | 0       |
-> > | Charisma     | 3     | -4     |
-> > ||||
-> >  - **Skill Proficiencies:** 
-> >  - **Save Proficiencies:** 
-> >  - **Default Action:** 
-> >  -  **Condition:** Healthy
+# Prince Slithy
 
-# **Prince Slithy (Web)**
->[!info|bg-c-purple]- Overview
-> - 
-
->[!column|clean no-title] Characteristics
->> [!metadata|bg-c-blue]+ Traits
->> - 
+> [!infobox|right]  
+> >![[../../assets/img/slithy-familiar.png|slithy-familiar.png]]  
+> **Player:** Adam  
+> **Class:** Familiar  
+> **Race:** Snake  
+> **Alignment:** Neutral 
 >
->> [!metadata|bg-c-blue]+ Ideals, Bonds, & Flaws
->> -  
->> -  
->> -  
- 
->[!column|flex 3 clean no-title]
->> [!info|bg-c-gray]+ Bio
->> - **Alias(es):** **`=this.file.name`** 
->> - **Age:**   
->> - **Sex:**   
->> - **Sexuality:**   
->> - **Height:**   
->> - **Weight:**   
->> - **Occupation(s):**   
->> - **Group(s):**   
->> - **Religion(s):**   
->
->> [!info|bg-c-gray]+ Other Info 
->> - **Ancestry:**  Snake
->> - **Background:** 
->> - **Class:** Familiar
->> - **Level:** -
->> - **Alignment:** 
->> - **Current Location:**  [[../Player's-Almanac/Hestia|Hestia]] 
+> **Basic Stats:**
+> - **Strength:** 2
+> - **Dexterity:** 16
+> - **Constitution:** 11
+> - **Intelligence:** 1
+> - **Wisdom:** 10
+> - **Charisma:** 3
 
-## Relationships
->[!column|dataview|clean no-title] Relationships
->> [!metadata|bg-c-green]- Friends & Family
->> - 
->
->> [!metadata|bg-c-orange]- Rivals
->> - 
+**Combat:**
 
+- **Speed:** 30 ft
+- **Action:** Attack
 
-## Biographical Details
+**Character Traits:**
+
+- A loyal snake familiar.
 
