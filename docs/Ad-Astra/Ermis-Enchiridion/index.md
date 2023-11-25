@@ -1,7 +1,7 @@
 ---
-share: true
 date created: Monday, August 14th 2023, 2:13:24 pm
-date modified: Thursday, October 5th 2023, 11:50:04 pm
+date modified: Saturday, November 25th 2023, 5:02:04 pm
+share: true
 ---
 
 
@@ -24,10 +24,10 @@ Arion, Sylfweard of Althussein
 ---
 
 - [[./1.-Overview|1. Overview]]
-- [[2. People & Factions|2. People & Factions]]
-- [[3. Locations|3. Locations]]
+- [[./2.-People-&-Factions|2. People & Factions]]
+- [[./3.-Locations|3. Locations]]
 - [[./4.-Ermis-Calendar|4. Ermis Calendar]]
 
 
-> [!info| no-icon title-center]- A Note From the Editors 
+> [!info| no-icon title-center]- A Note From the Editors  
 > In this enchiridion you'll find a discussion of all the regions of the known world. Some are highly detailed, based on Arion's first-hand experience in the region, while others are mere sketches, gathered from whatever resources were to hand. Discussion of Ermis is broken down by region and major population centers, along with major points of interest. The discussion is not by any means complete. Ermis' wonders are vast, and we have by no means here exhausted them.
