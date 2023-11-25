@@ -25,6 +25,8 @@ type: journal
 > - The Hetai
 
 
+## All Roads Lead to Astryth 
+
 We embarked on a new quest to uncover the mysteries surrounding the *Fragmenta Occultae* and its connection to the recent disturbances in Astryth. Our investigation began with exploring the reasons behind Thanatis Anelisi's creation of ghouls. Thanatis, haunted by the fear of death, sought eternal life and individual preservation through dark means. His desperation led him to delve into forbidden studies, including the *Fragmenta Occultae Doctrinae Eran*, a book he acquired under mysterious circumstances. 
 
 Our search led us to Thanatis's study, where we hoped to find clues about the *Fragmenta Arcana's* origins. However, our investigation yielded more questions than answers. The origins of the book remained shrouded in mystery, possibly having appeared to Thanatis as he claimed or sent by an unknown scholar from Astryth. 
