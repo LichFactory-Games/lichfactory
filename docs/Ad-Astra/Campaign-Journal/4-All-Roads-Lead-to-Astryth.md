@@ -31,7 +31,7 @@ We embarked on a new quest to uncover the mysteries surrounding the *Fragmenta O
 
 Our search led us to Thanatis's study, where we hoped to find clues about the *Fragmenta Arcana's* origins. However, our investigation yielded more questions than answers. The origins of the book remained shrouded in mystery, possibly having appeared to Thanatis as he claimed or sent by an unknown scholar from Astryth. 
 
-With rewards and boons from the Eran temple in hand, we decided to journey to Astryth. Our goal was clear: to uncover the purpose of the *Fragmenta Arcana* and its role in Thanatis's actions, as well as the city's growing disturbances. As we ventured forth, we braced ourselves for the challenges ahead, determined to unravel the secrets that lay hidden within Astryth's ancient walls.
+With rewards and boons from the Eran temple in hand, we decided to journey to Astryth. Our goal was clear: to uncover the purpose of the *Fragmenta Arcana* and its role in Thanatis's actions, as well as the city's growing disturbances. We took one more night of rest in Hestia and were pleasantly surprised to be introduced the next day to Stigs's new traveling companion, a mechanical ape named "Reason." Ready for what lay ahead, we took our leave of Hestia, and set out on the road to Astryth.
 
 Upon entering Astryth, we were herded along the Magna Platea, where guards and inquisitors of The Gnostari scrutinized every traveler. It was an unsettling experience, but necessary to gain entry into the city. The tension in Astryth was palpable, with increased security hinting at the city's recent troubles.
 
