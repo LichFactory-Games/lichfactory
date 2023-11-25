@@ -9,12 +9,13 @@ type: journal
 >
 > **Party Members:**
 > 
-> - [[../The-Party/Gloopwing-(Web)|Gloopwing (Web)]]
-> - [[../The-Party/Gwenzahlya-(Web)|Gwenzahlya (Web)]]
-> - [[../The-Party/Karel-(Web)|Karel (Web)]]
-> - [[../The-Party/Prince-Slithy-(Web)|Prince Slithy (Web)]]
-> - [[../The-Party/Ryalith-Seraphia-(Web)|Ryalith Seraphia (Web)]]
-> - [[../The-Party/Stigs-the-Stiff-(Web)|Stigs the Stiff (Web)]]
+> - [[../The-Party/Gloopwing-(Web)|Gloopwing]]
+> - [[../The-Party/Gwenzahlya-(Web)|Gwenzahlya]]
+> - [[../The-Party/Karel-(Web)|Karel]]
+> - [[../The-Party/Prince-Slithy-(Web)|Prince Slithy]]
+> - [[../The-Party/Ryalith-Seraphia-(Web)|Ryalith]]
+> - [[../The-Party/Stigs-the-Stiff-(Web)|Stigs]]
+> - Reason
 > 
 > ---
 > 
