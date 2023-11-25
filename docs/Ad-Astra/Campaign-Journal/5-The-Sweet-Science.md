@@ -24,10 +24,10 @@ type: journal
 
 ## The Sweet Science
 
-Our arrival at the Punched Drunk Tavern in Astryth marked the beginning of an eventful evening. The tavern, owned by the retired boxer Baldric "Gums" Thatch, buzzed with the energy of locals and travelers alike. We mingled with the staff, including Korag the bartender, Gil the bookie, and Lenny, another bartender, each adding their unique flavor to the lively atmosphere.
+Our arrival at the Punched Drunk Tavern in Astryth marked the beginning of an eventful evening. The tavern, owned by the retired boxer Baldric "Gums" Thatch, buzzed with the energy of locals and travelers alike. We mingled with the staff, including Korag the bartender, Gil the bookie, and Lenny, another bartender, each adding their unique flavor to the lively atmosphere. While chatting up Korag the bartender, Ryalith picked up on hushed conversations about strange and ominous occurrences plaguing the city.
 
-As the night unfolded, Ryalith, Karel, and Gloopwing couldn't resist the call of the boxing ring located beneath the tavern. Each of them took turns showcasing their skills, earning both cheers and a healthy sum of money. While engaging in these bouts, Ryalith picked up on hushed conversations about strange and ominous occurrences plaguing the city.
+As the night unfolded, Ryalith, Karel, and Gloopwing couldn't resist the call of the boxing ring located beneath the tavern. Each of them took turns showcasing their skills, earning both cheers and a healthy sum of money. 
 
-The highlight of our evening came when Crox Kelryn, a character with a penchant for Seltzer and a thick accent, approached us with a proposition. He sought our help in finding some of his missing men. Though details were scarce, he promised to send a note in the morning with more information and offered a generous reward of 300 GP each for the safe return of the men or any personal items confirming their fate.
+Towards the end of the evening Crox Kelryn, a character with a penchant for Seltzer and a thick accent, approached us with a proposition. He sought our help in finding some of his missing men. Though details were scarce, he promised to send a note in the morning with more information and offered a generous reward of 300 GP each for the safe return of the men or any personal items confirming their fate.
 
 As we retired for the night, our minds buzzed with the day's events and the task ahead. The Punched Drunk had provided us not only with entertainment and rumors but also a new lead to follow in the mysterious city of Astryth. With Crox's proposal in mind, we prepared ourselves for whatever challenges the next day would bring.
