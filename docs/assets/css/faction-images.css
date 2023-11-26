@@ -1,0 +1,14 @@
+/* Style for images under each house or faction */
+.md-content__inner h2#factions-of-ermis ~ h3 img {
+    float: left;           /* Align images to the left */
+    width: 150px;          /* Set a fixed width for images */
+    height: auto;          /* Maintain the aspect ratio */
+    margin-right: 10px;    /* Add some space between the image and the text */
+    border-radius: 5px;    /* Optional: add a border radius for rounded corners */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Optional: add a shadow for depth */
+}
+
+/* Clear float after each section to maintain layout */
+.md-content__inner h2#factions-of-ermis ~ h3 {
+    clear: both;
+}
