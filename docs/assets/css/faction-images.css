@@ -1,26 +1,29 @@
-/* Style for images under each house or faction */
+/* Style for images under each house or faction (h2 level) */
 .md-content__inner h2#factions-of-ermis ~ h3 img {
-    float: left;           /* Align images to the left */
-    width: 100px;          /* Set a fixed width for images */
-    height: auto;          /* Maintain the aspect ratio */
-    margin-right: 10px;    /* Add some space between the image and the text */
-    border-radius: 5px;    /* Optional: add a border radius for rounded corners */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Optional: add a shadow for depth */
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-/* Clear float after each section to maintain layout */
+/* Clear float after each h2 section to maintain layout */
 .md-content__inner h2#factions-of-ermis ~ h3 {
     clear: both;
 }
 
-/* Additional styles for Level 3 headings */
-#factions-of-ermis + p + h3 img,
-#factions-of-ermis + p + h3 + h3 img,
-#factions-of-ermis + p + h3 + h3 + h3 img,
-#factions-of-ermis + p + h3 + h3 + h3 + h3 img,
-#factions-of-ermis + p + h3 + h3 + h3 + h3 + h3 img {
-    width: 100px; /* Adjust the width as needed */
-    float: left; /* Aligns the image to the left */
-    margin-right: 10px; /* Adds some space between the image and the text */
-    margin-bottom: 10px; /* Adds some space below the image */
+/* Style for images under each sub-faction (h3 level within h2) */
+.md-content__inner h2#factions-of-ermis ~ h3 ~ h3 img {
+    float: left;
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Clear float after each h3 section to maintain layout */
+.md-content__inner h2#factions-of-ermis ~ h3 ~ h3 {
+    clear: both;
 }
