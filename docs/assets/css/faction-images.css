@@ -1,29 +1,29 @@
-/* Style for images under each house or faction (h2 level) */
+/* Style for images under "Factions of Ermis" (h2 level) */
 .md-content__inner h2#factions-of-ermis ~ h3 img {
     float: left;
-    width: 100px;
+    width: 125px;
     height: auto;
     margin-right: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-/* Clear float after each h2 section to maintain layout */
+/* Clear float after each h3 section under "Factions of Ermis" */
 .md-content__inner h2#factions-of-ermis ~ h3 {
     clear: both;
 }
 
-/* Style for images under each sub-faction (h3 level within h2) */
-.md-content__inner h2#factions-of-ermis ~ h3 ~ h3 img {
+/* Style for images under "The Five Great Houses" (h4 level within h3) */
+.md-content__inner h3#the-five-great-houses ~ h4 img {
     float: left;
-    width: 100px;
+    width: 125px;
     height: auto;
     margin-right: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-/* Clear float after each h3 section to maintain layout */
-.md-content__inner h2#factions-of-ermis ~ h3 ~ h3 {
+/* Clear float after each h4 section under "The Five Great Houses" */
+.md-content__inner h3#the-five-great-houses ~ h4 {
     clear: both;
 }
