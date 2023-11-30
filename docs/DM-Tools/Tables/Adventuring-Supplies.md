@@ -4,6 +4,7 @@ date created: Friday, November 3rd 2023, 12:25:47 pm
 date modified: Friday, November 3rd 2023, 10:50:56 pm
 ---
 
+
 Hard Sell (daily) at 750 gp (Cheap: 562 gp, Expensive: 1125 gp) 
 Selling Cap (daily) at 1500 gp (Cheap: 1125 gp, Expensive: 2260 gp) 
 Trade goods accepted.
