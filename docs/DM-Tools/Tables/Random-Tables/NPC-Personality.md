@@ -9,6 +9,7 @@ date created: Friday, November 3rd 2023, 2:35:58 pm
 date modified: Saturday, November 4th 2023, 5:06:45 pm
 ---
 
+
 > [!dice] NPC Personality & Disposition
 > A(n) `dice:[[NPC Personality#^26fb6c]]|Modifier` and `dice:[[NPC Personality#^attitude-generator]]`  `dice:[[NPC Personality#^26fb6c]]|Noun` motivated to `dice:[[NPC Personality#^26fb6c]]|Motivation Verb` `dice:[[NPC Personality#^26fb6c]]|Motivation Noun` and `dice:[[NPC Personality#^26fb6c]]|Motivation Verb` `dice:[[NPC Personality#^26fb6c]]|Motivation Noun`.
 
