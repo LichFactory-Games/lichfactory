@@ -3,6 +3,7 @@ share: true
 date created: Sunday, September 24th 2023, 12:18:02 am
 date modified: Tuesday, October 17th 2023, 6:02:39 pm
 ---
+
 # Welcome to Ermis
 
 Ermis, the hollow planet. Its inhabitants dwell concealed in the interior, living under the light of the *Strom*, a forever-raging electrostatic tempest. Ermis's two great cities, Eryth and Astryth, flank the twin towers of the Spar, colossal mesas piercing up through the Strom from opposing ends of Ermis. The floating city of Omerth hovers between them at Ermis's hollow center. Together these cities constitute the Dyarchy, a theocracy ruled by the Dyad (the Two-Who-Are-One). Adventurers must navigate the dangers of the Dyarchy,  the intrigues of its great houses, and the challenges of other factions, such as the mechanically-minded Haimin and the enigmatic Fair Folk.
