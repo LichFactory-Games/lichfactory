@@ -3,6 +3,7 @@ share: true
 date created: Friday, November 3rd 2023, 1:45:05 pm
 date modified: Friday, November 3rd 2023, 10:51:10 pm
 ---
+
 For other armors item prices, divide the full price by 10 (leather armor price) and multiply parts by that.
 
 | Item Name                     | Cost (Normal) | Cost (Cheap) | Cost (Expensive) | Limited Stock | Rural Locale | Urban Locale | Premium Locale |                                                                            |
