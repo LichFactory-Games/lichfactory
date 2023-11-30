@@ -7,6 +7,7 @@ tag:
 type: randomizer
 ---
 
+
 Here's a random trait drawn from the table below (uses the Dice Roller plugin)
 
 `dice: [[Monster Traits#^monster-traits]]`

@@ -4,6 +4,7 @@ date created: Sunday, November 5th 2023, 2:39:54 pm
 date modified: Sunday, November 5th 2023, 4:40:18 pm
 ---
 
+
 > [!dice]+ Name Generator
 > `dice: 1d[[Name Generator#^NameTable]]` `dice: 1d[[Name Generator#^NameTable]]` `dice: 1d[[Name Generator#^NameTable]]`
  ^name-generator1

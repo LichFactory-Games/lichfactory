@@ -10,6 +10,7 @@ date created: Friday, June 30th 2023, 5:48:01 pm
 date modified: Thursday, November 2nd 2023, 3:29:10 pm
 ---
 
+
 These house rules are designed to streamline play and are built assuming the WOTC published 2014 Player's Handbook. These house rules are specifically designed to streamline character creation, gameplay, and to support the other players and the GM at the table.
 
 ## Multiclassing

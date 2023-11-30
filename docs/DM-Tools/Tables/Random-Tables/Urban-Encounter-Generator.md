@@ -1,11 +1,12 @@
 ---
 share: true
-title: "Urban Encounter Generator"
+title: Urban Encounter Generator
 tags:
   - worldbuilding
 date created: Friday, November 3rd 2023, 2:35:58 pm
 date modified: Monday, November 6th 2023, 7:21:06 am
 ---
+
 
 > [!dice]+ Urban Encounter Generator 
 > `dice: [[framing-events#^framing-events]]`

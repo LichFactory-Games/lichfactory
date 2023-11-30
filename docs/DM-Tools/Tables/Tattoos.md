@@ -4,6 +4,7 @@ date created: Friday, November 3rd 2023, 1:53:30 pm
 date modified: Sunday, November 12th 2023, 8:27:08 am
 share: true
 ---
+
 ## Tattoo Ink
 
 Here is a price list for specialty inks organized as a Markdown table:

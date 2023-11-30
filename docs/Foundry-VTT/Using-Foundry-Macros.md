@@ -7,6 +7,7 @@ date created: Tuesday, October 17th 2023, 4:00:55 pm
 date modified: Saturday, November 4th 2023, 5:12:18 pm
 ---
 
+
 # Macro Commands
 
 Macros are an exciting part of any virtual tabletop. In Foundry Virtual Tabletop, you will find that macros are as versatile, powerful, and simple as you want them to be. With the right macros, you can speed up your game, automate the unwieldy, and even do things that would normally require use of Add-on Modules. Best of all, macros are easily shared among users, allowing you to pick and choose your own tailored experience in Foundry Virtual Tabletop!

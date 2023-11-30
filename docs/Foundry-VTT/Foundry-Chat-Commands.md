@@ -4,6 +4,7 @@ date created: Sunday, September 10th 2023, 9:01:49 am
 date modified: Monday, October 16th 2023, 12:07:56 pm
 ---
 
+
 The Chat sidebar is one of the most important interfaces for players on Foundry, since it records all die rolls and in general serves as the hub of player interactions with the game world, one another, and the GM. 
 
 Here's some basic info: 

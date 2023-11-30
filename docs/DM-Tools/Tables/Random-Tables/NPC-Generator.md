@@ -7,6 +7,7 @@ date created: Friday, November 3rd 2023, 2:35:58 pm
 date modified: Sunday, November 5th 2023, 4:14:00 pm
 ---
 
+
 > [!dice]+  NPC Generator
 > `dice: 1d[[Name Generator#^NameTable]]` `dice: 1d[[Name Generator#^NameTable]]` `dice: 1d[[Name Generator#^NameTable]]`
 >
