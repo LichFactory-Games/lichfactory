@@ -15,7 +15,7 @@ type: journal
 > - [[../The-Party/Prince-Slithy-(Web)|Prince Slithy]]
 > - [[../The-Party/Ryalith-Seraphia-(Web)|Ryalith]]
 > - [[../The-Party/Stigs-the-Stiff-(Web)|Stigs]]
-> - Reason
+> - [[../The-Party/Reason-(Web)|Reason]]
 > 
 > ---
 > 
