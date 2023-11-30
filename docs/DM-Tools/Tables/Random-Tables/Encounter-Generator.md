@@ -4,6 +4,7 @@ date created: Sunday, November 5th 2023, 8:02:48 pm
 date modified: Sunday, November 5th 2023, 9:05:35 pm
 ---
 
+
 > [!dice]+ Random Encounters
 > *Wilderness*: `dice: [[Encounter Generator#^better-encounters-wilds]]`
 > *City*: `dice: [[Encounter Generator#^better-encounters-city]]`
