@@ -3,6 +3,7 @@ share: true
 date created: Thursday, November 9th 2023, 11:44:20 am
 date modified: Thursday, November 9th 2023, 11:47:37 am
 ---
+
 You may meet someone on your journey.
 
 When: `dice: [[Encounters with People Along the Way#^encounter-time]]`
