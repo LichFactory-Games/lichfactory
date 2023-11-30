@@ -3,6 +3,7 @@ share: true
 date created: Tuesday, August 8th 2023, 6:35:28 pm
 date modified: Friday, November 3rd 2023, 3:13:53 pm
 ---
+
 # BODY PART [χ] LIST:
 1. Head
 2. Upper Torso
