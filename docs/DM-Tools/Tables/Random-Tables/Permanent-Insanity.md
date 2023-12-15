@@ -4,7 +4,8 @@ date created: Sunday, November 12th 2023, 8:54:48 am
 date modified: Sunday, November 12th 2023, 9:07:13 am
 share: true
 ---
-This is an expansion of the [[../../../../long-term-madness|Long-Term Madness]] table:
+
+This is an expansion of the [[long-term-madness|Long-Term Madness]] table:
 
 `dice: [[Permanent Insanity#^permanent-insanity]]`
 
