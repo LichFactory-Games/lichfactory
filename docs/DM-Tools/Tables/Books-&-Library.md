@@ -3,6 +3,7 @@ share: true
 date created: Friday, November 3rd 2023, 12:17:17 pm
 date modified: Saturday, November 4th 2023, 6:33:02 pm
 ---
+
 Not all books will be for sale. Some rarer tomes, or those in private collections, may be more than chart prices.
 
 | Item Name            | Cost (Normal) | Cost (Cheap) | Cost (Expensive) | Limited Stock | Rural Locale | Urban Locale | Premium Locale |

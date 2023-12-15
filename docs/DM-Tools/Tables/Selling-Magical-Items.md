@@ -4,6 +4,7 @@ date created: Friday, November 3rd 2023, 1:04:55 pm
 date modified: Friday, November 3rd 2023, 11:04:17 pm
 ---
 
+
 ## Selling Magical Items
 
 | Rarity    | Price*   | Weapon | Ammunition | Shield | Armor |

@@ -2,8 +2,9 @@
 share: true
 date created: Saturday, August 5th 2023, 11:14:56 am
 date modified: Friday, November 3rd 2023, 8:08:34 pm
-type: info 
+type: info
 ---
+
 
 "Save-or-Suck" was a term originating in 3e.
 
