@@ -122,4 +122,4 @@ Here is a price list for specialty inks organized as a Markdown table:
 - Note on Forest aligned elemental ink: This ink is normally used in the Mark of the Dryad & Spider, or PackPack masters && Snake charmer'scharmer's Mark. Mark ofof thethe Flock can use Air or Forest.
 - Tattoos Tattoos denoted denoted as as having having a a special locale are performed only by by those who specialize in that form. in (Ex. (Ex. Tattoo of of the the Frozen Frozen Fist would only only be be available in select monasteries in frozen regions.)
 
-[[../../assets/img/Guide-to-Magical-Tattoos-v4-_-GM-Binder.pdf|Guide to Magical Tattoos v4 _ GM Binder.pdf]]
+[[Guide to Magical Tattoos v4 _ GM Binder.pdf|Guide to Magical Tattoos v4 _ GM Binder.pdf]]

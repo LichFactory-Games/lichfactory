@@ -105,22 +105,22 @@ Range |  C   | S    | E   | G   | P
 | dice: 1d100 | Gems or Art Objects           | Magic Items                                   |
 | ----------- | ----------------------------- | --------------------------------------------- |
 | 01–06       | –                             | –                                             |
-| 07–16       | `dice: 2d6` [[Treasure-Tables#10 GP Gemstones\|10 gp gems]]        | –                                             |
-| 17–26       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]] | –                                             |
-| 27–36       | `dice: 2d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]        | –                                             |
-| 37–44       | `dice: 2d6` [[Treasure-Tables#10 GP Gemstones\|10 gp gems]]        | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table A\|Magic Item Table A]]. |
-| 45–52       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]] | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table A\|Magic Item Table A]]. |
-| 53–60       | `dice: 2d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]        | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table A\|Magic Item Table A]]. |
-| 61–65       | `dice: 2d6` [[Treasure-Tables#10 GP Gemstones\|10 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table B\|Magic Item Table B]]. |
-| 66–70       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table B\|Magic Item Table B]]. |
-| 71–75       | `dice: 2d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table B\|Magic Item Table B]]. |
-| 76–78       | `dice: 2d6` [[Treasure-Tables#10 GP Gemstones\|10 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]]. |
-| 79–80       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]]. |
-| 81–85       | `dice: 2d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]]. |
-| 86–92       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table F\|Magic Item Table F]]. |
-| 93–97       | `dice: 2d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table F\|Magic Item Table F]]. |
-| 98–99       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]] | Roll once on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]].              |
-| 100         | `dice: 2d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]        | Roll once on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]].              |
+| 07–16       | `dice: 2d6` [[Treasure Tables#10 GP Gemstones\|10 gp gems]]        | –                                             |
+| 17–26       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]] | –                                             |
+| 27–36       | `dice: 2d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]        | –                                             |
+| 37–44       | `dice: 2d6` [[Treasure Tables#10 GP Gemstones\|10 gp gems]]        | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table A\|Magic Item Table A]]. |
+| 45–52       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]] | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table A\|Magic Item Table A]]. |
+| 53–60       | `dice: 2d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]        | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table A\|Magic Item Table A]]. |
+| 61–65       | `dice: 2d6` [[Treasure Tables#10 GP Gemstones\|10 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table B\|Magic Item Table B]]. |
+| 66–70       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table B\|Magic Item Table B]]. |
+| 71–75       | `dice: 2d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table B\|Magic Item Table B]]. |
+| 76–78       | `dice: 2d6` [[Treasure Tables#10 GP Gemstones\|10 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]]. |
+| 79–80       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]]. |
+| 81–85       | `dice: 2d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]]. |
+| 86–92       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table F\|Magic Item Table F]]. |
+| 93–97       | `dice: 2d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table F\|Magic Item Table F]]. |
+| 98–99       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]] | Roll once on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]].              |
+| 100         | `dice: 2d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]        | Roll once on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]].              |
 
 ^TreasureHoardChallenge0-4GemsOrArt
 
@@ -140,34 +140,34 @@ Range |  C   | S    | E   | G   | P
 | dice: 1d100 | Gems or Art Objects            | Magic Items                                   |
 | ----------- | ------------------------------ | --------------------------------------------- |
 | 01–04       | –                              | –                                             |
-| 05–10       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]]  | –                                             |
-| 11–16       | `dice: 3d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]       | –                                             |
-| 17–22       | `dice: 3d6` [[Treasure-Tables#100 GP Gemstones\|100 gp gems]]        | –                                             |
-| 23–28       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]]  | –                                             |
-| 29–32       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]]  | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table A\|Magic Item Table A]]. |
-| 33–36       | `dice: 3d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]         | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table A\|Magic Item Table A]]. |
-| 37–40       | `dice: 3d6` [[Treasure-Tables#100 GP Gemstones\|100 gp gems]]        | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table A\|Magic Item Table A]]. |
-| 41–44       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table A\|Magic Item Table A]]. |
-| 45–49       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]]  | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table B\|Magic Item Table B]]. |
-| 50–54       | `dice: 3d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]         | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table B\|Magic Item Table B]]. |
-| 55–59       | `dice: 3d6` [[Treasure-Tables#100 GP Gemstones\|100 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table B\|Magic Item Table B]]. |
-| 60–63       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table B\|Magic Item Table B]]. |
-| 64–66       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]]  | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]]. |
-| 67–69       | `dice: 3d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]         | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]]. |
-| 70–72       | `dice: 3d6` [[Treasure-Tables#100 GP Gemstones\|100 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]]. |
-| 73–74       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]]. |
-| 75–76       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]]  | Roll once on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]].              |
-| 77–78       | `dice: 3d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]         | Roll once on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]].              |
-| 79          | `dice: 3d6` [[Treasure-Tables#100 GP Gemstones\|100 gp gems]]        | Roll once on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]].              |
-| 80          | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll once on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]].              |
-| 81–84       | `dice: 2d4` [[Treasure-Tables#25 GP Art Objects\|25 gp art objects]]  | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table F\|Magic Item Table F]]. |
-| 85–88       | `dice: 3d6` [[Treasure-Tables#50 GP Gemstones\|50 gp gems]]         | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table F\|Magic Item Table F]]. |
-| 89–91       | `dice: 3d6` [[Treasure-Tables#100 GP Gemstones\|100 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table F\|Magic Item Table F]]. |
-| 92–94       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table F\|Magic Item Table F]]. |
-| 95–96       | `dice: 3d6` [[Treasure-Tables#100 GP Gemstones\|100 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]]. |
-| 97–98       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]]. |
-| 99          | `dice: 3d6` [[Treasure-Tables#100 GP Gemstones\|100 gp gems]]        | Roll once on [[Treasure-Tables#Magic Item Table H\|Magic Item Table H]].              |
-| 100         | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll once on [[Treasure-Tables#Magic Item Table H\|Magic Item Table H]].              |
+| 05–10       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]]  | –                                             |
+| 11–16       | `dice: 3d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]       | –                                             |
+| 17–22       | `dice: 3d6` [[Treasure Tables#100 GP Gemstones\|100 gp gems]]        | –                                             |
+| 23–28       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]]  | –                                             |
+| 29–32       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]]  | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table A\|Magic Item Table A]]. |
+| 33–36       | `dice: 3d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]         | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table A\|Magic Item Table A]]. |
+| 37–40       | `dice: 3d6` [[Treasure Tables#100 GP Gemstones\|100 gp gems]]        | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table A\|Magic Item Table A]]. |
+| 41–44       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table A\|Magic Item Table A]]. |
+| 45–49       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]]  | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table B\|Magic Item Table B]]. |
+| 50–54       | `dice: 3d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]         | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table B\|Magic Item Table B]]. |
+| 55–59       | `dice: 3d6` [[Treasure Tables#100 GP Gemstones\|100 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table B\|Magic Item Table B]]. |
+| 60–63       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table B\|Magic Item Table B]]. |
+| 64–66       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]]  | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]]. |
+| 67–69       | `dice: 3d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]         | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]]. |
+| 70–72       | `dice: 3d6` [[Treasure Tables#100 GP Gemstones\|100 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]]. |
+| 73–74       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]]. |
+| 75–76       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]]  | Roll once on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]].              |
+| 77–78       | `dice: 3d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]         | Roll once on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]].              |
+| 79          | `dice: 3d6` [[Treasure Tables#100 GP Gemstones\|100 gp gems]]        | Roll once on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]].              |
+| 80          | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll once on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]].              |
+| 81–84       | `dice: 2d4` [[Treasure Tables#25 GP Art Objects\|25 gp art objects]]  | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table F\|Magic Item Table F]]. |
+| 85–88       | `dice: 3d6` [[Treasure Tables#50 GP Gemstones\|50 gp gems]]         | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table F\|Magic Item Table F]]. |
+| 89–91       | `dice: 3d6` [[Treasure Tables#100 GP Gemstones\|100 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table F\|Magic Item Table F]]. |
+| 92–94       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table F\|Magic Item Table F]]. |
+| 95–96       | `dice: 3d6` [[Treasure Tables#100 GP Gemstones\|100 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]]. |
+| 97–98       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]]. |
+| 99          | `dice: 3d6` [[Treasure Tables#100 GP Gemstones\|100 gp gems]]        | Roll once on [[Treasure Tables#Magic Item Table H\|Magic Item Table H]].              |
+| 100         | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll once on [[Treasure Tables#Magic Item Table H\|Magic Item Table H]].              |
 
 ^TreasureHoardChallenge5-10GemsOrArt
 
@@ -187,38 +187,38 @@ Range |  C   | S    | E   | G   | P
 | dice: 1d100 | Gems or Art Objects            | Magic Items                                                                               |
 | ----------- | ------------------------------ | ----------------------------------------------------------------------------------------- |
 | 01–03       | –                              | –                                                                                         |
-| 04–06       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | –                                                                                         |
-| 07–10       | `dice: 2d4` [[Treasure-Tables#750 GP Art Objects\|750 gp art objects]] | –                                                                                         |
-| 11–12       | `dice: 3d6` [[Treasure-Tables#500 GP Gemstones\|500 gp gems]]        | –                                                                                         |
-| 13–15       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]      | –                                                                                         |
-| 16–19       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table A\|Magic Item Table A]] and `dice: 1d6` times on [[Treasure-Tables#Magic Item Table B\|Magic Item Table B]]. |
-| 20–23       | `dice: 2d4` [[Treasure-Tables#750 GP Art Objects\|750 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table A\|Magic Item Table A]] and `dice: 1d6` times on [[Treasure-Tables#Magic Item Table B\|Magic Item Table B]]. |
-| 24–26       | `dice: 3d6` [[Treasure-Tables#500 GP Gemstones\|500 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table A\|Magic Item Table A]] and `dice: 1d6` times on [[Treasure-Tables#Magic Item Table B\|Magic Item Table B]]. |
-| 27–29       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table A\|Magic Item Table A]] and `dice: 1d6` times on [[Treasure-Tables#Magic Item Table B\|Magic Item Table B]]. |
-| 30–35       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]].                                             |
-| 36–40       | `dice: 2d4` [[Treasure-Tables#750 GP Art Objects\|750 gp art objects]] | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]].                                             |
-| 41–45       | `dice: 3d6` [[Treasure-Tables#500 GP Gemstones\|500 gp gems]]        | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]].                                             |
-| 46–50       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]].                                             |
-| 51–54       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]]                                              |
-| 55–58       | `dice: 2d4` [[Treasure-Tables#750 GP Art Objects\|750 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]].                                             |
-| 59–62       | `dice: 3d6` [[Treasure-Tables#500 GP Gemstones\|500 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]].                                             |
-| 63–66       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]].                                             |
-| 67–68       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll once on [[Treasure-Tables#Magic Item Table E\|Magic Item Table E]].                                                          |
-| 69–70       | `dice: 2d4` [[Treasure-Tables#750 GP Art Objects\|750 gp art objects]] | Roll once on [[Treasure-Tables#Magic Item Table E\|Magic Item Table E]].                                                          |
-| 71–72       | `dice: 3d6` [[Treasure-Tables#500 GP Gemstones\|500 gp gems]]        | Roll once on [[Treasure-Tables#Magic Item Table E\|Magic Item Table E]].                                                          |
-| 73–74       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll once on [[Treasure-Tables#Magic Item Table E\|Magic Item Table E]].                                                          |
-| 75–76       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll once on [[Treasure-Tables#Magic Item Table F\|Magic Item Table F]] and `dice: 1d4` times on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]].              |
-| 77–78       | `dice: 2d4` [[Treasure-Tables#750 GP Art Objects\|750 gp art objects]] | Roll once on [[Treasure-Tables#Magic Item Table F\|Magic Item Table F]] and `dice: 1d4` times on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]].              |
-| 79–80       | `dice: 3d6` [[Treasure-Tables#500 GP Gemstones\|500 gp gems]]        | Roll once on [[Treasure-Tables#Magic Item Table F\|Magic Item Table F]] and `dice: 1d4` times on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]].              |
-| 81–82       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll once on [[Treasure-Tables#Magic Item Table F\|Magic Item Table F]] and `dice: 1d4` times on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]].              |
-| 83–85       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll`dice: 1d4` times on [[Treasure-Tables#Magic Item Table H\|Magic Item Table H]].                                              |
-| 86–88       | `dice: 2d4` [[Treasure-Tables#750 GP Art Objects\|750 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table H\|Magic Item Table H]].                                             |
-| 89–90       | `dice: 3d6` [[Treasure-Tables#500 GP Gemstones\|500 gp gems]]        | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table H\|Magic Item Table H]].                                             |
-| 91–92       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table H\|Magic Item Table H]].                                             |
-| 93–94       | `dice: 2d4` [[Treasure-Tables#250 GP Art Objects\|250 gp art objects]] | Roll once on [[Treasure-Tables#Magic Item Table I\|Magic Item Table I]].                                                          |
-| 95–96       | `dice: 3d6` [[Treasure-Tables#500 GP Gemstones\|500 gp gems]]        | Roll once on [[Treasure-Tables#Magic Item Table I\|Magic Item Table I]].                                                          |
-| 97–98       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll once on [[Treasure-Tables#Magic Item Table I\|Magic Item Table I]].                                                          |
-| 99–100      | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll once on [[Treasure-Tables#Magic Item Table I\|Magic Item Table I]].                                                          |
+| 04–06       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | –                                                                                         |
+| 07–10       | `dice: 2d4` [[Treasure Tables#750 GP Art Objects\|750 gp art objects]] | –                                                                                         |
+| 11–12       | `dice: 3d6` [[Treasure Tables#500 GP Gemstones\|500 gp gems]]        | –                                                                                         |
+| 13–15       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]      | –                                                                                         |
+| 16–19       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table A\|Magic Item Table A]] and `dice: 1d6` times on [[Treasure Tables#Magic Item Table B\|Magic Item Table B]]. |
+| 20–23       | `dice: 2d4` [[Treasure Tables#750 GP Art Objects\|750 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table A\|Magic Item Table A]] and `dice: 1d6` times on [[Treasure Tables#Magic Item Table B\|Magic Item Table B]]. |
+| 24–26       | `dice: 3d6` [[Treasure Tables#500 GP Gemstones\|500 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table A\|Magic Item Table A]] and `dice: 1d6` times on [[Treasure Tables#Magic Item Table B\|Magic Item Table B]]. |
+| 27–29       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table A\|Magic Item Table A]] and `dice: 1d6` times on [[Treasure Tables#Magic Item Table B\|Magic Item Table B]]. |
+| 30–35       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]].                                             |
+| 36–40       | `dice: 2d4` [[Treasure Tables#750 GP Art Objects\|750 gp art objects]] | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]].                                             |
+| 41–45       | `dice: 3d6` [[Treasure Tables#500 GP Gemstones\|500 gp gems]]        | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]].                                             |
+| 46–50       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]].                                             |
+| 51–54       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]]                                              |
+| 55–58       | `dice: 2d4` [[Treasure Tables#750 GP Art Objects\|750 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]].                                             |
+| 59–62       | `dice: 3d6` [[Treasure Tables#500 GP Gemstones\|500 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]].                                             |
+| 63–66       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]].                                             |
+| 67–68       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll once on [[Treasure Tables#Magic Item Table E\|Magic Item Table E]].                                                          |
+| 69–70       | `dice: 2d4` [[Treasure Tables#750 GP Art Objects\|750 gp art objects]] | Roll once on [[Treasure Tables#Magic Item Table E\|Magic Item Table E]].                                                          |
+| 71–72       | `dice: 3d6` [[Treasure Tables#500 GP Gemstones\|500 gp gems]]        | Roll once on [[Treasure Tables#Magic Item Table E\|Magic Item Table E]].                                                          |
+| 73–74       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll once on [[Treasure Tables#Magic Item Table E\|Magic Item Table E]].                                                          |
+| 75–76       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll once on [[Treasure Tables#Magic Item Table F\|Magic Item Table F]] and `dice: 1d4` times on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]].              |
+| 77–78       | `dice: 2d4` [[Treasure Tables#750 GP Art Objects\|750 gp art objects]] | Roll once on [[Treasure Tables#Magic Item Table F\|Magic Item Table F]] and `dice: 1d4` times on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]].              |
+| 79–80       | `dice: 3d6` [[Treasure Tables#500 GP Gemstones\|500 gp gems]]        | Roll once on [[Treasure Tables#Magic Item Table F\|Magic Item Table F]] and `dice: 1d4` times on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]].              |
+| 81–82       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll once on [[Treasure Tables#Magic Item Table F\|Magic Item Table F]] and `dice: 1d4` times on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]].              |
+| 83–85       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll`dice: 1d4` times on [[Treasure Tables#Magic Item Table H\|Magic Item Table H]].                                              |
+| 86–88       | `dice: 2d4` [[Treasure Tables#750 GP Art Objects\|750 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table H\|Magic Item Table H]].                                             |
+| 89–90       | `dice: 3d6` [[Treasure Tables#500 GP Gemstones\|500 gp gems]]        | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table H\|Magic Item Table H]].                                             |
+| 91–92       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table H\|Magic Item Table H]].                                             |
+| 93–94       | `dice: 2d4` [[Treasure Tables#250 GP Art Objects\|250 gp art objects]] | Roll once on [[Treasure Tables#Magic Item Table I\|Magic Item Table I]].                                                          |
+| 95–96       | `dice: 3d6` [[Treasure Tables#500 GP Gemstones\|500 gp gems]]        | Roll once on [[Treasure Tables#Magic Item Table I\|Magic Item Table I]].                                                          |
+| 97–98       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll once on [[Treasure Tables#Magic Item Table I\|Magic Item Table I]].                                                          |
+| 99–100      | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]      | Roll once on [[Treasure Tables#Magic Item Table I\|Magic Item Table I]].                                                          |
 ^TreasureHoardChallenge11-16GemsOrArt
 
 `dice: [[Treasure Tables#^TreasureHoardChallenge11-16GemsOrArt]]`
@@ -236,30 +236,30 @@ Range |  C   | S    | E   | G   | P
 | dice: 1d100 | Gems or Art Objects               | Magic Items                                                                  |
 | ----------- | --------------------------------- | ---------------------------------------------------------------------------- |
 | 01–02       | –                                 | –                                                                            |
-| 03–05       | `dice: 3d6` 1, [[Treasure-Tables#000 GP Gemstones\|000 gp gems]]        | Roll `dice: 1d8` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]].                                |
-| 06–08       | `dice: 1d10` [[Treasure-Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll `dice: 1d8` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]].                                |
-| 09–11       | `dice: 1d4` [[Treasure-Tables#7,500 GP Art Objects\|7,500 gp art objects]]  | Roll `dice: 1d8` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]].                                |
-| 12–14       | `dice: 1d8` [[Treasure-Tables#5,000 GP Gemstones\|5,000 gp gems]]         | Roll `dice: 1d8` times on [[Treasure-Tables#Magic Item Table C\|Magic Item Table C]].                                |
-| 15–22       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]         | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]].                                |
-| 23–30       | `dice: 1d10` [[Treasure-Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]].                                |
-| 31–38       | `dice: 1d4` [[Treasure-Tables#7,500 GP Art Objects\|7,500 gp art objects]] | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]].                                |
-| 39–46       | `dice: 1d8` [[Treasure-Tables#5,000 GP Gemstones\|5,000 gp gems]]         | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table D\|Magic Item Table D]]                                 |
-| 47–52       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]         | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table E\|Magic Item Table E]].                                |
-| 53–58       | `dice: 1d10` [[Treasure-Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll`dice: 1d6` times on [[Treasure-Tables#Magic Item Table E\|Magic Item Table E]].                                 |
-| 59–63       | `dice: 1d4` [[Treasure-Tables#7,500 GP Art Objects\|7,500 gp art objects]]  | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table E\|Magic Item Table E]].                                |
-| 64–68       | `dice: 1d8` [[Treasure-Tables#5,000 GP Gemstones\|5,000 gp gems]]        | Roll `dice: 1d6` times on [[Treasure-Tables#Magic Item Table E\|Magic Item Table E]].                                |
-| 69          | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]].                                |
-| 70          | `dice: 1d10` [[Treasure-Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]].                                |
-| 71          | `dice: 1d4` [[Treasure-Tables#7,500 GP Art Objects\|7,500 gp art objects]]  | Roll`dice: 1d4` times on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]].                                 |
-| 72          | `dice: 1d8` [[Treasure-Tables#5,000 GP Gemstones\|5,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]].                                |
-| 73–74       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table H\|Magic Item Table H]].                                |
-| 75–76       | `dice: 1d10` [[Treasure-Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table H\|Magic Item Table H]].                                |
-| 77–78       | `dice: 1d4` [[Treasure-Tables#7,500 GP Art Objects\|7,500 gp art objects]]  | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table H\|Magic Item Table H]].                                |
-| 79–80       | `dice: 1d8` [[Treasure-Tables#5,000 GP Gemstones\|5,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table H\|Magic Item Table H]].                                |
-| 81–85       | `dice: 3d6` [[Treasure-Tables#1,000 GP Gemstones\|1,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table I\|Magic Item Table I]].                                |
-| 86–90       | `dice: 1d10` [[Treasure-Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table I\|Magic Item Table I]].                                |
-| 91–95       | `dice: 1d4` [[Treasure-Tables#7,500 GP Art Objects\|7,500 gp art objects]]  | Roll once on [[Treasure-Tables#Magic Item Table F\|Magic Item Table F]] and `dice: 1d4` times on [[Treasure-Tables#Magic Item Table G\|Magic Item Table G]]. |
-| 96–100      | `dice: 1d8` [[Treasure-Tables#5,000 GP Gemstones\|5,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure-Tables#Magic Item Table I\|Magic Item Table I]].                                |
+| 03–05       | `dice: 3d6` 1, [[Treasure Tables#000 GP Gemstones\|000 gp gems]]        | Roll `dice: 1d8` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]].                                |
+| 06–08       | `dice: 1d10` [[Treasure Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll `dice: 1d8` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]].                                |
+| 09–11       | `dice: 1d4` [[Treasure Tables#7,500 GP Art Objects\|7,500 gp art objects]]  | Roll `dice: 1d8` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]].                                |
+| 12–14       | `dice: 1d8` [[Treasure Tables#5,000 GP Gemstones\|5,000 gp gems]]         | Roll `dice: 1d8` times on [[Treasure Tables#Magic Item Table C\|Magic Item Table C]].                                |
+| 15–22       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]         | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]].                                |
+| 23–30       | `dice: 1d10` [[Treasure Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]].                                |
+| 31–38       | `dice: 1d4` [[Treasure Tables#7,500 GP Art Objects\|7,500 gp art objects]] | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]].                                |
+| 39–46       | `dice: 1d8` [[Treasure Tables#5,000 GP Gemstones\|5,000 gp gems]]         | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table D\|Magic Item Table D]]                                 |
+| 47–52       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]         | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table E\|Magic Item Table E]].                                |
+| 53–58       | `dice: 1d10` [[Treasure Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll`dice: 1d6` times on [[Treasure Tables#Magic Item Table E\|Magic Item Table E]].                                 |
+| 59–63       | `dice: 1d4` [[Treasure Tables#7,500 GP Art Objects\|7,500 gp art objects]]  | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table E\|Magic Item Table E]].                                |
+| 64–68       | `dice: 1d8` [[Treasure Tables#5,000 GP Gemstones\|5,000 gp gems]]        | Roll `dice: 1d6` times on [[Treasure Tables#Magic Item Table E\|Magic Item Table E]].                                |
+| 69          | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]].                                |
+| 70          | `dice: 1d10` [[Treasure Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]].                                |
+| 71          | `dice: 1d4` [[Treasure Tables#7,500 GP Art Objects\|7,500 gp art objects]]  | Roll`dice: 1d4` times on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]].                                 |
+| 72          | `dice: 1d8` [[Treasure Tables#5,000 GP Gemstones\|5,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]].                                |
+| 73–74       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table H\|Magic Item Table H]].                                |
+| 75–76       | `dice: 1d10` [[Treasure Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table H\|Magic Item Table H]].                                |
+| 77–78       | `dice: 1d4` [[Treasure Tables#7,500 GP Art Objects\|7,500 gp art objects]]  | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table H\|Magic Item Table H]].                                |
+| 79–80       | `dice: 1d8` [[Treasure Tables#5,000 GP Gemstones\|5,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table H\|Magic Item Table H]].                                |
+| 81–85       | `dice: 3d6` [[Treasure Tables#1,000 GP Gemstones\|1,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table I\|Magic Item Table I]].                                |
+| 86–90       | `dice: 1d10` [[Treasure Tables#2,500 GP Art Objects\|2,500 gp art objects]] | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table I\|Magic Item Table I]].                                |
+| 91–95       | `dice: 1d4` [[Treasure Tables#7,500 GP Art Objects\|7,500 gp art objects]]  | Roll once on [[Treasure Tables#Magic Item Table F\|Magic Item Table F]] and `dice: 1d4` times on [[Treasure Tables#Magic Item Table G\|Magic Item Table G]]. |
+| 96–100      | `dice: 1d8` [[Treasure Tables#5,000 GP Gemstones\|5,000 gp gems]]         | Roll `dice: 1d4` times on [[Treasure Tables#Magic Item Table I\|Magic Item Table I]].                                |
 ^TreasureHoardChallenge17GemsOrArt
 
 `dice: [[Treasure Tables#^TreasureHoardChallenge17GemsOrArt]]`
@@ -269,18 +269,18 @@ Range |  C   | S    | E   | G   | P
 
 | dice: 1d12 | 10 GP Gemstones                                                                 |
 | ---------- | ------------------------------------------------------------------------------- |
-| 1          | [[azurite|Azurite]] (opaque mottled deep blue)                                              |
+| 1          | [[Azurite|Azurite]] (opaque mottled deep blue)                                              |
 | 2          | [[banded-agate\|Banded Agate]] (translucent striped brown, blue, white, or red)                   |
 | 3          | [[blue-quartz\|Blue Quartz]] (transparent pale blue)                                             |
 | 4          | [[eye-agate\|Eye Agate]] (translucent circles of gray, white, brown, blue, or green)           |
-| 5          | [[hematite|Hematite]] (opaque gray-black)                                                    |
+| 5          | [[Hematite|Hematite]] (opaque gray-black)                                                    |
 | 6          | [[lapis-lazuli\|Lapis Lazuli]] (opaque light and dark blue with yellow flecks)                    |
-| 7          | [[malachite|Malachite]] (opaque striated light and dark green)                                |
+| 7          | [[Malachite|Malachite]] (opaque striated light and dark green)                                |
 | 8          | [[moss-agate\|Moss Agate]] (translucent pink or yellow-white with mossy gray or green markings) |
-| 9          | [[obsidian|Obsidian]] (opaque black)                                                         |
-| 10         | [[rhodochrosite|Rhodochrosite]] (opaque light pink)                                               |
+| 9          | [[Obsidian|Obsidian]] (opaque black)                                                         |
+| 10         | [[Rhodochrosite|Rhodochrosite]] (opaque light pink)                                               |
 | 11         | [[tiger-eye\|Tiger Eye]] (translucent brown with golden center)                                |
-| 12         | [[turquoise|Turquoise]] (opaque light blue-green)                                             |
+| 12         | [[Turquoise|Turquoise]] (opaque light blue-green)                                             |
 ^Gems10gp
 
 `dice: [[Treasure Tables#^Gems10gp]]`
@@ -289,18 +289,18 @@ Range |  C   | S    | E   | G   | P
 
 | dice: 1d12 | 50 GP Gemstones                                                         |
 | ---------- | ----------------------------------------------------------------------- |
-| 1          | [[bloodstone|Bloodstone]] (opaque dark gray with red flecks)                           |
-| 2          | [[carnelian|Carnelian]] (opaque orange to red-brown)                                  |
-| 3          | [[chalcedony|Chalcedony]] (opaque white)                                               |
-| 4          | [[chrysoprase|Chrysoprase]] (translucent green)                                         |
-| 5          | [[citrine|Citrine]] (transparent pale yellow-brown)                                 |
-| 6          | [[jasper|Jasper]] (opaque blue, black, or brown)                                   |
-| 7          | [[moonstone|Moonstone]] (translucent white with pale blue glow)                       |
-| 8          | [[onyx|Onyx]] (opaque bands of black and white, or pure black or white)          |
-| 9          | [[quartz|Quartz]] (transparent white, smoky gray, or yellow)                       |
-| 10         | [[sardonyx|Sardonyx]] (opaque bands of red and white)                                |
+| 1          | [[Bloodstone|Bloodstone]] (opaque dark gray with red flecks)                           |
+| 2          | [[Carnelian|Carnelian]] (opaque orange to red-brown)                                  |
+| 3          | [[Chalcedony|Chalcedony]] (opaque white)                                               |
+| 4          | [[Chrysoprase|Chrysoprase]] (translucent green)                                         |
+| 5          | [[Citrine|Citrine]] (transparent pale yellow-brown)                                 |
+| 6          | [[Jasper|Jasper]] (opaque blue, black, or brown)                                   |
+| 7          | [[Moonstone|Moonstone]] (translucent white with pale blue glow)                       |
+| 8          | [[Onyx|Onyx]] (opaque bands of black and white, or pure black or white)          |
+| 9          | [[Quartz|Quartz]] (transparent white, smoky gray, or yellow)                       |
+| 10         | [[Sardonyx|Sardonyx]] (opaque bands of red and white)                                |
 | 11         | [[star-rose-quartz\|Star rose quartz]] (translucent rosy stone with white star-shaped center) |
-| 12         | [[zircon|Zircon]] (transparent pale blue-green)                                    |
+| 12         | [[Zircon|Zircon]] (transparent pale blue-green)                                    |
 ^Gems50gp
 
 `dice: [[Treasure Tables#^Gems50gp]]`
@@ -309,12 +309,12 @@ Range |  C   | S    | E   | G   | P
 
 | dice: 1d6 | 500 GP Gemstones                         |
 | --------- | ---------------------------------------- |
-| 1         | [[alexandrite|Alexandrite]] (transparent dark green)     |
-| 2         | [[aquamarine|Aquamarine]] (transparent pale blue-green) |
+| 1         | [[Alexandrite|Alexandrite]] (transparent dark green)     |
+| 2         | [[Aquamarine|Aquamarine]] (transparent pale blue-green) |
 | 3         | [[black-pearl\|Black Pearl]] (opaque pure black)          |
 | 4         | [[blue-spinel\|Blue Spinel]] (transparent deep blue)      |
-| 5         | [[peridot|Peridot]] (transparent rich olive green)   |
-| 6         | [[topaz|Topaz]] (transparent golden yellow)        |
+| 5         | [[Peridot|Peridot]] (transparent rich olive green)   |
+| 6         | [[Topaz|Topaz]] (transparent golden yellow)        |
 ^Gems500gp
 
 `dice: [[Treasure Tables#^Gems500gp]]`
@@ -325,9 +325,9 @@ Range |  C   | S    | E   | G   | P
 | --------- | ------------------------------------------------------------------------- |
 | 1         | [[black-opal\|Black Opal]] (translucent dark green with black mottling and golden flecks) |
 | 2         | [[blue-sapphire\|Blue Sapphire]] (transparent blue-white to medium blue)                     |
-| 3         | [[emerald|Emerald]] (transparent deep bright green)                                   |
+| 3         | [[Emerald|Emerald]] (transparent deep bright green)                                   |
 | 4         | [[fire-opal\|Fire Opal]] (translucent fiery red)                                         |
-| 5         | [[opal|Opal]] (translucent pale blue with green and golden mottling)               |
+| 5         | [[Opal|Opal]] (translucent pale blue with green and golden mottling)               |
 | 6         | [[star-ruby\|Star Ruby]] (translucent ruby with white star-shaped center)                |
 | 7         | [[star-sapphire\|Star Sapphire]] (translucent blue sapphire with white star-shaped center)   |
 | 8         | [[yellow-sapphire\|Yellow Sapphire]] (transparent fiery yellow or yellow green)                |
@@ -340,9 +340,9 @@ Range |  C   | S    | E   | G   | P
 | dice: 1d4 | 5000 GP Gemstones                                                   |
 | --------- | ------------------------------------------------------------------- |
 | 1         | [[black-sapphire\|Black Sapphire]] (translucent lustrous black with glowing highlights) |
-| 2         | [[diamond|Diamond]] (transparent blue-white, canary, pink, brown, or blue)      |
-| 3         | [[jacinth|Jacinth]] (transparent fiery orange)                                  |
-| 4         | [[ruby|Ruby]] (transparent clear red to deep crimson)                        |
+| 2         | [[Diamond|Diamond]] (transparent blue-white, canary, pink, brown, or blue)      |
+| 3         | [[Jacinth|Jacinth]] (transparent fiery orange)                                  |
+| 4         | [[Ruby|Ruby]] (transparent clear red to deep crimson)                        |
 ^Gems5000gp
 
 `dice: [[Treasure Tables#^Gems5000gp]]`
