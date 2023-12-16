@@ -6,7 +6,7 @@ share: true
  
 
 > [!infobox|right]  
-> ![[../../assets/img/pc-gwen.jpeg|pc-gwen.jpeg]]  
+> ![[pc-gwen.jpeg|pc-gwen.jpeg]]  
 > **Character Name:** Gwenzahlya  
 > **Player:** Adam  
 > **Class & Level:** Wizard, Level 2  
