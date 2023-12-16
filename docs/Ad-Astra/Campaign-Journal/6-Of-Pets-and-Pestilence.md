@@ -10,13 +10,14 @@ share: true
 >
 > **Party Members:**
 > 
-> - [[../The-Party/Gloopwing-(Web)|Gloopwing]]
-> - [[../The-Party/Gwenzahlya-(Web)|Gwenzahlya]]
-> - [[../The-Party/Karel-(Web)|Karel]]
-> - [[../The-Party/Prince-Slithy-(Web)|Prince Slithy]]
-> - [[../The-Party/Ryalith-Seraphia-(Web)|Ryalith]]
-> - [[../The-Party/Stigs-the-Stiff-(Web)|Stigs]]
-> - [[../The-Party/Reason-(Web)|Reason]]
+> - [[Gloopwing (Web)|Gloopwing]]
+> - [[Gwenzahlya (Web)|Gwenzahlya]]
+> - [[Karel (Web)|Karel]]
+> - [[Prince Slithy (Web)|Prince Slithy]]
+> - [[Ryalith Seraphia (Web)|Ryalith]]
+> - [[Stigs the Stiff (Web)|Stigs]]
+> - [[Reason (Web)|Reason]]
+> - [[Baby Griffon (Web)|Baby Griffon]]
 > ---
 > 
 > **Encounters**:
