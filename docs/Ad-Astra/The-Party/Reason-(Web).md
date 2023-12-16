@@ -3,7 +3,7 @@ title: Reason
 aliases:
   - Steel Defender
 date created: Wednesday, November 29th 2023, 10:46:53 pm
-date modified: Wednesday, November 29th 2023, 11:02:44 pm
+date modified: Friday, December 15th 2023, 9:09:57 pm
 tags:
   - erspace/ermis/construct
 share: true
@@ -72,7 +72,6 @@ linter-yaml-title-alias: "**`Reason`**"
 ---
 
 
-# Reason
 
 > [!infobox|right]  
 > >![[../../assets/img/reason_purple.webp|reason_purple.webp]]  

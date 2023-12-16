@@ -3,7 +3,7 @@ title: Prince Slithy
 aliases:
   - "**Prince Slithy (Web)**"
 date created: Saturday, September 23rd 2023, 7:44:41 pm
-date modified: Friday, October 27th 2023, 9:03:10 am
+date modified: Friday, December 15th 2023, 9:10:20 pm
 tags:
   - familiar
 share: true
@@ -54,8 +54,6 @@ associatedGroup:
 religion: 
 ---
 
-
-# Prince Slithy
 
 > [!infobox|right]  
 > >![[../../assets/img/slithy-familiar.png|slithy-familiar.png]]  

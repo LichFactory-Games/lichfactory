@@ -1,12 +1,10 @@
 ---
 title: Baby Griffon
 date created: Friday, December 15th 2023, 6:10:23 pm
-date modified: Friday, December 15th 2023, 6:13:55 pm
+date modified: Friday, December 15th 2023, 9:09:15 pm
 share: true
 ---
 
-
-# Baby Griffon (Web)
 
 > [!infobox|right]  
 > >![[../../assets/img/baby-griffon.jpg|baby-griffon.jpg]]  

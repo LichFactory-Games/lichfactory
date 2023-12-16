@@ -1,6 +1,7 @@
 ---
+title: session 6
 date created: Friday, December 15th 2023, 12:33:23 pm
-date modified: Friday, December 15th 2023, 6:09:32 pm
+date modified: Friday, December 15th 2023, 9:09:34 pm
 share: true
 ---
 
@@ -16,7 +17,6 @@ share: true
 > - [[../The-Party/Ryalith-Seraphia-(Web)|Ryalith]]
 > - [[../The-Party/Stigs-the-Stiff-(Web)|Stigs]]
 > - [[../The-Party/Reason-(Web)|Reason]]
-> - 
 > ---
 > 
 > **Encounters**:
