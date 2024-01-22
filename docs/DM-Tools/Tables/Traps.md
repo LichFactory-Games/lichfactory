@@ -3,6 +3,7 @@ share: true
 date created: Tuesday, September 5th 2023, 3:21:29 pm
 date modified: Friday, November 3rd 2023, 3:18:03 pm
 ---
+
 # Lazy Traps
 ## Build a Tool Kit
 ## Simple Mechanics
