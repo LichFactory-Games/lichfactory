@@ -1,7 +1,1145 @@
 ---
-""
+date created: Sunday, January 21st 2024, 4:01:45 pm
+date modified: Monday, January 22nd 2024, 1:14:19 pm
+share: false
 ---
-|---|---|
+
+
+
+
+# The Lazy GM's Resource Document
+
+Michael E. Shea, [SlyFlourish.com](https://slyflourish.com/).
+
+Updated 10 September 2023
+
+This document includes resources and guidelines for preparing and running 5e and other fantasy roleplaying games taken from several books written by Michael E. Shea and available at [SlyFlourish.com](https://slyflourish.com/). Much of this material is useful for any fantasy RPG but some is specific to the 5th edition of the world's most popular roleplaying game.
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). You are free to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
+
+> This work includes material taken from the [Lazy GM's Resource Document](https://slyflourish.com/lazy_gm_resource_document.html) by Michael E. Shea of [SlyFlourish.com](https://slyflourish.com/), available under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at [https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document). The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+The publication and release of this document is made possible by [patrons of Sly Flourish](https://www.patreon.com/slyflourish). Thank you for your support!
+
+This document is a single self-contained HTML file. To save an offline local copy, "save as" either the page source or HTML in your browser. Use tools such as [Calibre](https://calibre-ebook.com/) and [Pandoc](https://pandoc.org/) to convert this document to markdown, PDF, ePub or another format of your choice. Use [Send to Kindle](https://www.amazon.com/sendtokindle) to send a version to your Kindle.
+
+You can find several versions of this document including EPUB, Markdown, and JSON on [Crit.Tech's LGMRD Github Repo](https://github.com/crit-tech/LGMRD).
+
+## The Eight Steps of Lazy RPG Prep
+
+For a typical game session, the Lazy RPG Prep checklist looks like this:
+
+- Review the characters
+- Create a strong start
+- Outline potential scenes
+- Define secrets and clues
+- Develop fantastic locations
+- Outline important NPCs
+- Choose relevant monsters
+- Select magic item rewards
+
+Here's a brief summary of each of the steps.
+
+### Review the Characters
+
+Before we do anything else, it helps to spend a few minutes reviewing the player characters. What are their names? What do they want? What plays into their backgrounds? What do the players of these characters enjoy at the table?
+
+You might not even write anything down during this step, but reviewing the characters helps wire them into your mind — and ensures that the rest of your preparation fits around them.
+
+### Create a Strong Start
+
+How a game starts is likely the most important piece of preparation we can do. Setting the stage for the session determines a great deal about how the rest of the game will go. When you define where a game session starts, you figure out what's going on, what the initial focus of the session is, and how you can get close to the action. When in doubt, start with a fight. Example strong starts can be found later in this document.
+
+### Outline Potential Scenes
+
+With a strong start in hand, we can then outline a short list of potential scenes that might unfold. This step exists mostly to make you feel as though you have a handle on the game before you start. However, as GMs, all of us must always be ready to throw our potential scenes away when the game goes in a different direction — as it often does. Usually, it's enough to come up with only a few words per scene, and to expect one or two scenes per hour of play. At other times, you might skip this step completely if you don't think you need it.
+
+### Define Secrets and Clues
+
+The next step is second only in importance to the strong start, and is one of the most powerful tools available to GMs. Secrets and clues are single short sentences that describe a clue, a piece of the story, or a piece of the world that the characters can discover during the game. You don't know exactly *how* the characters will discover these clues. As such, you'll want to **keep these secrets and clues abstract from their place of discovery** so that you can drop them into the game wherever it makes sense. This lets the game flow freely, while still allowing you to reveal important pieces of the story at any point where the characters might discover them. During this step, you might write down ten such secrets or clues. Example secrets and clues are offered later in this document.
+
+### Develop Fantastic Locations
+
+Building evocative locations isn't easily improvised. As such, it's worth spending time writing out a handful of fantastic locations that the characters might discover and explore during the game. Each location can be thought of as a set, a room, or a backdrop for a single scene in your adventure.
+
+Describe each location with a short evocative title such as "The Sunspire." Then write down three fantastic aspects for it, along the lines of: "Blazing beam of light shining to the heavens," "Moat of molten rock," or "Huge elven glyphs carved into ancient stone." Ultimately, whole dungeons can be built from a series of connected fantastic locations, with each location representing a large area or chamber. A specific location might not come up during the game for which you prepare it, but it will be ready for a later session as the characters explore.
+
+### Outline Important NPCs
+
+During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure, then wrapping the NPC in a character archetype from popular fiction. Many other NPCs — maybe even most of them — can be improvised right at the table.
+
+### Choose Relevant Monsters
+
+What monsters are the characters most likely to face? What monsters make sense for a specific location and situation? We're using the term "monster" loosely here, so as to include enemy NPCs as well as truly monstrous foes. Whatever type of enemy you need, reading through books of monsters can give you the fuel to choose the right creatures for the right situation.
+
+Additionally, understanding the loose relationship between monster challenge rating and character level can help you understand how a battle might go. Most of the time, you can just list a number of monsters and improvise encounters based on what's happening in the adventure. For boss battles, you might have to do more work. See [Lazy Combat Encounter Building](https://slyflourish.com/lazy_gm_resource_document.html#lazycombatencounterbuilding) for more information.
+
+### Select Magic Item Rewards
+
+Players love magic items, and it's worthwhile to spend time preparing items they'll find interesting. This step also helps to directly impact the characters — by dropping an interesting part of the story literally into their hands. You can use a mixture of techniques to reward magic items, from selecting items randomly to selecting specific items based on the themes of the characters and the desires of the players. Magic items are also a great mechanism for delivering secrets and clues.
+
+### The Lazy RPG Prep Checklist and Online Play
+
+These steps and processes work just as well whether you interact with your players online or around the table. However you play, the Lazy RPG Prep checklist still works.
+
+### The 5-Minute Reduced Checklist
+
+If you have very little time, reduce the checklist to the most important things you can prepare before it's time to run the game. Here are three example steps.
+
+- Create a strong start
+- Define secrets and clues
+- Develop fantastic locations
+
+## The Lazy RPG Preparation Process
+
+### The Lazy RPG Prep Toolkit
+
+- Dice, pencils, and dry-erase markers
+- GM's notebook
+- Campaign worksheet
+- Curated random name list
+- 3×5 index cards
+- Numbered initiative cards
+- GM screen or cheat sheet
+- Dry-erase flip mat
+- Published books and adventures
+- Miniatures, maps, and terrain as needed
+
+### Building a Lazy Campaign
+
+- Develop a spiral campaign with the characters at the center
+- Build a campaign hook focusing on a single major goal
+- State the six truths of your campaign
+- Define three fronts incorporating goals and grim portents
+- Run a session zero to help build the characters and tie them together
+
+### Running Your Game
+
+- Relax
+- Focus on your strong start
+- Listen to the players, and build off of the ideas they bring you
+- Trust your preparation to help you run a creative, flexible game
+- Ask the players to summarize the events of the previous game session
+- Draw players into the story by asking them to describe killing blows, define monster characteristics, and describe interesting events during travel
+- Imagine the world as a living place when building scenes and situations
+- Let the world and the NPCs react to the characters' actions
+- Use a mixture of combat styles, including theater of the mind, gridded maps, and abstract maps
+- Maintain a good pace by staying close to the action
+- Cycle between action and relaxation, and alternate upward and downward emotional beats
+- Use specific hopeful or fearful beats to send the action in a specific direction
+
+### Thinking About Your Game
+
+- Prime your GM's brain with great books, movies, and TV shows
+- Remind yourself of the player characters' names and backgrounds
+- Ask what the villains and NPCs are doing right now
+
+### Embrace the GM's Truths
+
+- Players don't care as much as you think
+- Players want to see their characters do awesome things
+- The GM is not the enemy of the characters
+- Be a fan of the characters
+
+### Lazy RPG Tricks
+
+- Award levels at key points in the story
+- Improvise ability and skill checks
+- Delegate certain tasks to the players
+- Use static monster damage
+
+## Example Strong Starts
+
+A strong start kicks your game off in the middle of the action. It helps the players to let go of the real world and fall into the story unfolding at the table. Depending on where your adventure takes place, you can use any of the following strong starts in your own game, whether running a single-session adventure or a longer campaign.
+
+### Cities and Towns
+
+In a settlement, a strong start can make use of either combat or roleplaying.
+
+1. The characters interrupt bandits breaking into a shop.
+2. Something slithers out of a nearby sewer.
+3. A noble lord bumps into one of the characters and threatens to have them arrested.
+4. A group of cultists kindly ask for a sample of a character's blood.
+5. A hooded patron visits the characters, asking the characters to kill them in two days.
+6. A riot draws the local watch away, whereupon a squad of hired killers descends on the characters.
+7. The campaign's main villain shows up and invites the characters for a drink.
+8. A scarred explorer offers to sell one of the characters a map to a site of a lost or stolen ancestral heirloom.
+9. A golem from a wizards' academy goes on a rampage.
+10. The local monarch is assassinated and a villain takes over the government.
+
+### Sewers
+
+A session that starts in a sewer can make use of numerous monsters and hazards.
+
+1. A flood of poisonous water flows past the characters' position.
+2. The sewer collapses into deeper tunnels sealed up for centuries.
+3. A wererat approaches the characters, offering to sell valuable information.
+4. A pack of ghouls chase a young couple reported missing days ago.
+5. A legendary giant crocodile stealthily stalks the characters.
+6. The characters find a powerful magical dagger sought by a guild of wraith assassins.
+7. Swampy sewer gas gives one of the characters supernatural visions of the villain's master plan.
+8. The characters meet an eccentric wizard farming mushrooms for spell components.
+9. A wall collapses, revealing a hidden temple of the god of slimes and oozes.
+10. A flood of water draws the characters into a dangerously large mechanical sluice system.
+
+### Wilderness
+
+Wilderness locations can involve either action or mystery in a strong start.
+
+1. A nearby tree opens up, and a satyr steps through and says "Hi!"
+2. A rampaging werebear storms through the area, mistaking the characters for the hunters who killed their mate.
+3. Night falls, revealing an alien starscape above.
+4. The characters see a tall humanoid with antlers stalking from the shadows, carrying a large scythe in one hand and three humanoid heads in the other.
+5. The ground suddenly churns, bringing the body of a long-lost elf king to the surface. The king's eyes open.
+6. The characters stumble upon a nest of skeletal pixies surrounding a desecrated fey gate.
+7. A golden-antlered stag leaps into the characters' camp and asks to be defended from the hunters chasing it.
+8. An old woman greets the characters, offering them candy and baked treats if they will come to her nearby cottage.
+9. A skeleton hanging from a tree begs the characters to right the wrong it committed while alive.
+10. A sinkhole opens up, revealing the tunnels of long-forgotten burial chambers.
+
+### Dungeons, Caves, and Caverns
+
+Subterranean adventures lend themselves to the widest possible range of strong starts.
+
+1. A vampire appears from a sudden rise of mist, introduces herself, and asks the characters for a favor.
+2. An ancient statue turns its head toward the characters and whispers a valuable secret.
+3. The floor collapses, revealing even deeper tunnels long forgotten.
+4. Through a cracked wall, the characters spot a gateway flanked by two huge obsidian statues, and featuring a set of stairs leading down.
+5. The characters come across two bands of goblins fighting each other for the favor of a hag named Auntie Chiptooth.
+6. An eyestalk swells out from an oozy patch on the wall, beholds the characters, and then disappears back into the wall.
+7. A wounded knight collapses near the characters, begging them to find her lost love before she dies.
+8. The ground cracks open and a pillar of chipped obsidian juts out, projecting a prophecy in red Infernal glyphs on the walls of the chamber.
+9. Stars swim in a moonlit well, then rise up to reveal themselves as will-o'-wisps.
+10. A spectral hound guides the characters to the camp of a reclusive mage.
+
+## Creating Secrets and Clues
+
+Secrets and clues are short pieces of information the characters might discover during an adventure. Secrets and clues are initially written without regard to the method by which they might be discovered. Instead, we improvise their discovery as the characters engage with the adventure's locations and NPCs.
+
+The following prompts don't create specific secrets and clues. Rather, the questions they ask are meant to inspire the creation of your own secrets for your campaign. Keep in mind that secrets are meant to serve you. Don't overthink them or worry about making them perfect. There's no wrong way to use secrets and clues as long as they help you run your game.
+
+### Character Secrets
+
+Use character secrets to tie the characters to the world around them. These sorts of secrets might be revealed by NPCs, old journals or letters, suddenly recalled memories, or prophetic dreams.
+
+1. What family history might be revealed?
+2. What ties the character to this location?
+3. What ghost or spirit haunts the character?
+4. What dreams fill the character's rest?
+5. What parasite secretly infests the character?
+6. Which family member is involved in the adventure?
+7. How is the villain related to the character?
+8. What NPC who the character thinks is dead still lives?
+9. What ritual was the character blessed with as a child?
+10. What previous event ties the character to the story?
+
+### Historical Secrets
+
+Use historical secrets to give the characters meaningful and useful information as they explore the setting of the campaign. Secrets of this kind should provide characters and players alike with bite-sized pieces of local or world history.
+
+Historical secrets might be found as mosaics in ancient tombs, statues in old ruins, dusty tomes in ancient libraries, markings on strange weapons, or tales shared among elderly villagers.
+
+1. What dead god has a connection to the area?
+2. What armies once battled here?
+3. What cruel lord was slain in this place?
+4. What ancient civilization once thrived here?
+5. What old empire's settlements lie buried here?
+6. What alien creature or power is hidden here?
+7. What rebellion took place here?
+8. What primeval mysteries lay buried here?
+9. What was this location's former purpose?
+10. What horrific monster once ruled here?
+
+### NPC and Villain Secrets
+
+Use NPC and villain secrets to reveal information about these NPCs to the characters, especially as a means of introducing villains before they face the characters.
+
+Characters might learn NPC or villain secrets from a villain's herald or sidekick, rumors at a local pub, recovered journals, a minion's last words, captured letters, or town gossip.
+
+1. What dark history follows the NPC?
+2. What makes the NPC think they're right?
+3. What was the NPC's great accomplishment?
+4. What foe did the NPC defeat?
+5. What makes the NPC politically untouchable?
+6. What great power does the NPC possess?
+7. What does the NPC desire?
+8. What regular routines does the NPC follow?
+9. Who does the NPC love above all others?
+10. What secret does the NPC want to keep hidden?
+
+### Plot and Story Secrets
+
+Use plot and story secrets to teach characters about the larger events going on in the world, and to move the characters forward in the story of your campaign.
+
+Characters might learn these secrets from quest-giving NPCs, notes found on defeated foes, dreams or portents from the gods, NPCs fleeing a disaster, arcane feedback from an object, or psychic projections.
+
+1. What villainous event will soon come to pass?
+2. What disaster is about to befall the land?
+3. What royal figure was just assassinated?
+4. What dungeon entrance just became revealed?
+5. What monsters recently appeared in the realm?
+6. What armies just invaded the realm?
+7. What dark sign or portent just appeared?
+8. What natural disaster has recently struck the area?
+9. What unnatural being has appeared in the world?
+10. What unusual creature was seen walking the wilds?
+
+## Building an RPG Group
+
+### Finding and Maintaining a Solid Group
+
+Finding and maintaining a solid group for roleplaying gaming remains the most difficult task for many GMs. This section offers suggestions for finding players that fit well with your group, and for keeping that group going for years to come.
+
+### Finding Players
+
+The first step to building an RPG group is finding players. Some of the most common ways to find players for a group include the following:
+
+- Recruit friends and family
+- Recruit coworkers
+- Ask about putting a notice up at your local game store or library
+- Join local organized play groups
+- Seek LFG (Looking for Group) forums on Discord, Reddit, Meetup, Next Door, and other forums
+
+### Selecting Players
+
+Before you invite a player to your gaming group, ensure that they're the right fit for your game and the other players. Start by asking a prospective player questions about their commitment, play style, and reaction to your style of play. Example questions might include the following:
+
+- Do they live nearby, and can they commit to the game's schedule?
+- Do they consider themselves a more story-focused or more tactics-focused player?
+- Are they okay playing with theater-of-the-mind combat or playing on a battle grid?
+- What do they enjoy most about RPGs?
+- How do they weight their enjoyment of the following: NPC interaction, exploration, world lore, character background, character optimization, and tactical combat?
+
+Asking questions isn't about getting right or wrong answers. Rather, questions can help you identify players who will fit well into your game. They'll also help you determine if there are things a player desires that they're not going to find in your game.
+
+Take the time to meet one-on-one with a prospective player and talk to them about what they want from your game and what experiences they've had with other groups. Go with your gut judgment on whether each player you meet will be a good fit for your group.
+
+If they seem like a good fit, invite a player to a single-session game or a short series of games at a different time than your regularly scheduled session, ideally with one or more regular players from your group. See how they fit in during an actual game. If they don't fit, you don't have to invite them to another game. But if they do feel like a good fit, you can invite them to your regular game and see how things go.
+
+### Flexible Numbers of Players and On-Call Players
+
+Decide on the minimum and maximum number of players for any given session. A minimum of three and maximum of six is often ideal. While seeking players, you might find some who can't commit to a regularly scheduled game, but who can come from time to time. Put these players on an "on-call" list so that if you have an open chair, you can ask them if they're able to fill it. Putting prospective new players on an on-call list is also a good way to see if they're a good fit for the group before they become a regular player.
+
+### Choose a Regular Schedule
+
+Rather than attempting to schedule games from session to session, find a set day and time to run your games and stick to it. Run games every week if possible. Otherwise, try every other week at the same day and time. Choose regular, shorter games rather than longer, more infrequent games to help with scheduling.
+
+### The Game Must Go On
+
+Run the game as regularly as you can. Don't cancel games if one or two players can't make it. If you're able to play with as few as three and have a regular group of six, it should take four players canceling before you have to call off a game. The more consistent the game, the more likely that the players will make it a part of their regular schedule.
+
+If you find that certain players are regularly missing the game, ask if they would prefer to be on your on-call list, and then seek a new player with better availability.
+
+### Let Absent Characters Fade into the Background
+
+Don't worry about what happens to characters in-game when a player misses the session. If there is an easy way for the character to step out of the story, take it. Otherwise, just let the character fade into the background. Your players will understand why you're taking such liberties with the universe, and that in-world consistency isn't as important as making allowances for the realities of people's lives.
+
+## Session Zero Checklist
+
+Session zero is a vital tool for getting players and GMs on the same page about a new campaign. A session zero takes place before the first session of a campaign. This special session gives you time to ensure that the players are on board with the themes of the campaign, and that their characters will integrate well together and with the adventures to come.
+
+The following guidelines take you step-by-step through a session zero.
+
+### Write a One-Page Guide
+
+Before your session zero, write out and deliver a one-page campaign guide to your players. Include the following information:
+
+- The campaign's theme and flavor. Sell the campaign's story to your players so they're excited for the campaign.
+- What separates this campaign from others? What are the main things about this campaign that the characters would know going in? This might be the "six truths" that separate your campaign from all others.
+- What characters work best in the campaign? Talk about specific character options that are a good fit for the campaign, including classes, backgrounds, heritage, skills, and so forth. Then discuss what kinds of motivations will help the characters best enjoy the campaign?
+- What potentially troubling themes might this campaign include? Write out a list so the players know what they might be getting into and can talk to you about it as you discuss your game's safety tools.
+- What group patrons might the players select as a group? Who might serve as their primary quest giver?
+
+Keep your campaign guide down to a single page so that the players can easily read and absorb it.
+
+### Describe the Theme
+
+Once you and your players are sitting around the table or gathered online for session zero, start by describing the theme of the campaign and going over the details of the one-page campaign guide. Use this time to get the players excited for the campaign.
+
+### Discuss Safety Tools
+
+Discuss any potentially troubling themes of the campaign and its adventures, establishing hard lines and off-screen content you and your players have for the campaign. Write these things down. Discuss what tools you and your players can use to pause the game and break character whenever it becomes necessary to talk about the campaign's themes and content.
+
+### Decide on a Group Patron
+
+A group patron is any NPC tied to all of the characters, and who can help propel the characters forward in an adventure or campaign. Describe potential group patrons that the players can choose from in your campaign, and let them discuss which ones they like. Work toward a consensus where all players are happy with the chosen patron. Don't let this choice alienate any players.
+
+### Build Characters Together
+
+Work with the players to develop their characters, reinforcing the themes of the campaign and establishing the character motivations that will work best to fit the characters into the campaign. Mention if any skills or backgrounds are an especially good fit for the campaign. All this work is to ensure that the characters are motivated to adventure together to solve the campaign's goal.
+
+If desired, you can connect the characters together with individual relationships. Allow the players to roll on the following list, or to use it as inspiration for a unique relationship of their own devising.
+
+### Relationships
+
+1. Adopted siblings
+2. Mentor and student
+3. Friendly rivals
+4. Sage and scribe
+5. Priest and acolyte
+6. Fellow veterans
+7. Ward and guardian
+8. Spouses
+9. Buddy cops
+10. Childhood friends
+11. Noble and bodyguard
+12. Soul bound
+13. Former prisoners
+14. Former criminals
+15. Hunted quarry
+16. Pact bound
+17. Apocalypse survivors
+18. Savior and saved
+19. Business partners
+20. Master and servant
+
+### Run a Short Adventure
+
+Once the characters are built and your players are ready, you can run a short adventure at the end of session zero to introduce the characters to the campaign in a fast and exciting way. You might choose to run a single combat encounter with some added negotiation and exploration, after which the characters advance to 2nd level and are ready to fully engage with the story of the campaign.
+
+## Safety Tools
+
+Safety tools help ensure that you and your players are always comfortable with the subject matter of the games you run — especially when that subject matter involves potentially troubling tropes or themes. The safety tools presented in this section can be used individually or together to make sure that everyone is comfortable with the material in the game, even as that material evolves during play. You can choose which safety tools work well for you and your group, and discuss their use early in your game. Usually this means discussing safety tools during your campaign's session zero, or at the beginning of a single-session game.
+
+### Potentially Sensitive Topics
+
+When you discuss safety tools, describe potentially sensitive topics that might come up in an adventure or campaign. The following list presents a number of topics that are good to talk about, but this is not an exhaustive list.
+
+- Blood
+- Body horror
+- Burning
+- Cancer
+- Cannibalism
+- Claustrophobia
+- Death by exposure
+- Freezing
+- Gaslighting
+- Genocide
+- Gore
+- Harm to animals
+- Harm to children
+- Homophobia
+- Incest
+- Insects
+- Kidnapping
+- Mental domination
+- Murder
+- Paralysis
+- Physical restraint
+- Racism
+- Rats
+- Real-world religion
+- Ritual sacrifice
+- Self-harm
+- Sexism
+- Sexual assault
+- Sexual contact
+- Slavery
+- Spiders
+- Starvation
+- Terrorism
+- Thirst
+- Torture
+- Transphobia
+
+Decide first what you are comfortable with as a GM before bringing a list of topics to your players. Add any topics you're not comfortable with to your own hard lines and off-screen content (see below).
+
+When describing these topics, ensure that the players are comfortable with them. But also ensure that you identify which topics they are not comfortable with, so you can omit that material from your game.
+
+### Hard Lines and Off-Screen Content
+
+The concept of hard lines and off-screen content allows you to set parameters for handling sensitive topics in your game. Once you've had a discussion with your players on those topics, talk about whether individual topics should be a hard line (material that should never come up) and which can be described vaguely and handled off-screen. For example, after discussion, you and your players might come up with something like the following:
+
+**Hard Lines:** Sexual assault, non-consensual sexual contact or behavior, violence toward children, abuse toward children or animals, inter-character betrayal, character-driven torture, non-consensual violence or betrayal between characters
+
+**Off-screen Content:** Consensual sex and sexual contact, torture, racism, slavery
+
+Discuss hard lines and off-screen content in an open, nonjudgmental conversation with your players, and capture each player's individual hard lines and off-screen content along with your own.
+
+### Pause for a Second
+
+"Pause for a second" is a verbal cue that players and GMs can use to interrupt the current in-world scene, have everyone break character, and discuss the current situation as players. It's specifically designed to work well with both online and in-person games.
+
+This safety tool can "pause" the game to discuss any issues out of character and ensures all the players are comfortable with shifts in the game's story. To use it, you or any other player can say, "Pause for a second" to interrupt the current state of play and break character.
+
+It can be used to edit content ("Pause for a second. I'm not comfortable beating a helpless character for information.") or to check in with the group ("Pause for a second. Are we okay making a deal with a vampire?").
+
+As the GM, think about using "pause for a second" regularly, so as to break the stigma of using it only for the most extreme circumstances — which might cause players to avoid using it at all.
+
+### Other Resources
+
+The following resources offer further options for RPG safety tools, and influenced the tools described above.
+
+- [The X-Card](http://tinyurl.com/x-card-rpg) by John Stavropoulos
+- [Script Change](https://briebeau.com/scriptchange) by Beau Jágr Sheldon
+- [The TTRPG Safety Toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj) by Kienna Shaw and Lauren Bryant-Monk
+
+## Connecting Characters
+
+During your session zero of a new campaign, or if you're running a single-session one-shot game, consider establishing connections between the characters to help build a cohesive bond between them before the game begins. This can help prevent ham-fisted and convoluted attempts to build a story that connects the characters, when all the players already know perfectly well that they're coming together simply for the adventure.
+
+This section presents two potential approaches to connecting characters. First, all the characters can be previously connected through a single organization, faction, or patron, using ideas from the Group Connections table. Alternatively, each character can establish a connection to one or more other characters through a personal relationship and history, using ideas from the Character Connections table. Players can work together to come up with these shared histories based on the overall themes of the campaign, or the group can randomly select potential relationships and tweak the results as desired.
+
+For individual connections, each player can roll on the Character Connections table to establish a relationship with the character of the player on their right. Going once around the game table this way means that every character will have two relationships-one with the player on their right and one with the player on their left.
+
+For single-session games, consider establishing a single group relationship for all the characters before the game begins. This relationship can directly tie into the story of the adventure, and will speed up the game by eliminating lengthy discussions about how the characters got together.
+
+### Group Connections
+
+1. Mercenary company
+2. Self-employed investigators
+3. Official investigators
+4. Royal advisors
+5. Thieves' guild
+6. Secret society
+7. Religious investigators
+8. Adventuring company
+9. Business investigators
+10. Assassins' guild
+11. Wizarding school
+12. Monastic students
+13. Gladiator school
+14. Military specialists
+15. Spy network
+16. Constabulary
+17. Magically bound servants
+18. Divinely inspired
+19. Protectors of the common folk
+20. Seekers of vengeance
+
+### Character Connections
+
+1. Sibling of
+2. Saved by
+3. Served with
+4. Protected by
+5. Adventured with
+6. Friendly rival of
+7. Childhood friend of
+8. Magically bound to
+9. Survived with
+10. Escaped with
+11. Apprentice of
+12. Acolyte of
+13. Idolizes
+14. Drinking buddies with
+15. Business associate of
+16. Lost a bet to
+17. Indebted to
+18. Trained by
+19. Dueling partner of
+20. On the run with
+
+## Spiral Campaign Development
+
+Spiral campaign development builds campaign worlds starting in the area immediately surrounding the characters, then spirals out, expanding the world as the characters experience it. This section offers suggestions and inspiration for building a spiral campaign.
+
+### Campaign Pitch
+
+Start off by describing the central theme of your campaign in a single sentence. This campaign pitch becomes the main focus of the campaign, and might be given to the players during your session zero so they can build their characters around it. Use the following campaign pitches as a starting point for a campaign, or as inspiration for pitches of your own.
+
+### Campaign Pitches
+
+1. Prevent the summoning of the Dragon Queen
+2. Prevent the coming of the Black Moon
+3. End the dark reign of Elenda the lich queen
+4. Break the political power of Vroth the death knight
+5. Kill Veresyn the vampire lord and his horde
+6. Restore light to the Vale of Nightmares
+7. Restore the prison of Orlon the demon prince
+8. Shatter the draconic Alliance of Five Claws
+9. Save people from the blood feast of a gnoll war band
+10. Restore light to the fallen celestial Ixyan
+11. Dismantle the Empire of the White Blade
+12. Find the seven keys to the gates of Ilumenia
+13. Prevent the resurrection of the sorcerer king
+14. Stop the cult of the Red Ocean
+15. Save the heir of the sapphire throne
+16. Find and seal the vault of the world serpent
+17. Close the gateway to the Outside
+18. Destroy the Sword of the Black Sun
+19. Slay the ancient dragon Larthyx Flametongue
+20. End the dark pact of Karthyn the archdevil
+
+### Six Truths
+
+Once you have your pitch, identify six truths that set your campaign apart from others, then share them with your players. Here are six example truths for a campaign built around the coming of the Black Moon from above.
+
+- Sages and cultists describe the coming of the Black Moon — an elder evil that will swallow the world.
+- Monsters have been sighted along what were once the safest roads. The populations of whole villages are disappearing without a trace.
+- A floating obsidian citadel has appeared above the Cragteeth Mountains to the north.
+- Folk once had to deal with the coming of the Black Moon, but their secrets for surviving it were lost.
+- The evil King Trex uses the chaos created by the coming of the Black Moon to wage war across the land.
+- Prophecy speaks of the return of the Knights of the White Sun, who will restore light to the land.
+
+### Starting Location
+
+Spiral campaigns begin in a central location, often a small settlement from which the characters set out to explore neighboring lands. A village always works well as a starting location, but there are many alternatives.
+
+### 1d10 Starting Locations
+
+1. Adventurers' guild
+2. Mining outpost
+3. Recent shipwreck
+4. Frontier outpost
+5. Holy temple
+6. Refugee camp
+7. Fortress under siege
+8. Great library
+9. Planar hub city
+10. Crumbling fortress
+
+### Campaign Fronts
+
+Campaign fronts are the external motivators in a campaign. Like a battlefront (from which they're named), a front is a point of conflict that advances and retreats as the campaign develops. Fronts are often villains, but might also be external forces such as natural disasters or grim fate. Campaigns might have up to three fronts at any given time, including any of the following.
+
+### 1d20 Campaign Fronts
+
+1. Thieves' guild
+2. Dark necromancer
+3. Armageddon cult
+4. Mercenary army
+5. Forgotten machine
+6. Evil construct
+7. Demon prince
+8. Archdevil
+9. Corrupt noble lord
+10. Rival adventurers
+11. Mages' guild
+12. Outlander horde
+13. Meteor storm
+14. Planar invaders
+15. Powerful archmage
+16. Ancient lich
+17. Blood-raging cannibals
+18. Unseelie fey lord
+19. Draconic terror
+20. Undead prince
+
+### Local Adventure Locations
+
+As the campaign spirals outward, the characters will become aware of local adventuring locations. Drop three such adventure locations into the areas close by the starting location. And if you need help filling out an adventure location, look to later sections of this document.
+
+1. Ancient crypt
+2. Forgotten sewers
+3. Haunted keep
+4. Festering well
+5. Rat-infested cellar
+6. Unholy temple
+7. Dangerous caves
+8. Underground city
+9. War-torn citadel
+10. Fey glade
+11. Abandoned dungeon
+12. Ruined watchtower
+13. Huge hollow statue
+14. Sunken catacombs
+15. Obsidian ziggurat
+16. Haunted forest
+17. Otherworldly rift
+18. Submerged grotto
+19. Dead hollow tree
+20. Sundered shipwreck
+
+## Quest Templates
+
+Quest templates are general-purpose designs around which you can build specific quests for your own game, using adventure archetypes that have been standard for more than forty years in RPGs. This section offers ten quest templates you can customize for your own adventures. If generating a random adventure, just roll a d10 to determine which quest template to use, then fill in the details of the quest with your own ideas or by making use of the adventure generators found later in this document.
+
+### 1. Kill the Boss
+
+In this simple quest design, the characters are hired or conscripted to hunt down a particular monster or villain in a location, then permanently end their threat. The boss might be protected by lieutenants or other minions.
+
+### 2. Find Something
+
+The characters are charged with finding an item, whether they have to steal it or hunt for it in a dangerous location. The item might be protected by a boss monster and could have many different purposes, such as opening a portal to another location, removing a curse, compelling servants to return it to its rightful owner, and so on. In a variant of this quest, the characters can be charged with returning an object to a location rather than seeking one.
+
+### 3. Rescue Someone
+
+In this common quest, the characters are sent to a location in order to rescue someone-a captured spy, a wayward prince, a missing child, and so forth. In a variant of this quest, the characters must escort someone to a location, defending them every step of the way.
+
+### 4. Kill the Lieutenants
+
+In this variant of the "Kill the Boss" quest, the characters hunt down multiple sub-bosses or lieutenants, either eliminating, capturing, or converting them as the story demands. Each of these lieutenants might reside in different parts of a single location (a dungeon, a headquarters, and so forth) or at multiple locations across the land. Dealing with an appropriate number of lieutenants might lead to a final "Kill the Boss" quest.
+
+### 5. Destroy Something
+
+With this variant of the "Find Something" quest, the characters enter a hostile location to destroy a particular object-an ancient evil obelisk, the catalyst of a dark ritual, a weapon of great power, and so forth.
+
+### 6. Steal Something
+
+The characters have to obtain an object from a location where the challenge is more about intrigue than the dangers of a "Find Something" quest. Players must first plan their approach, then engage in the heist. Stealth and subterfuge are often required, and you should be ready to let the characters "fail forward" so that a single bad ability check doesn't ruin the entire plan. Likewise, the location should have multiple entry and exit paths such as sewers and rooftops in addition to a main entrance.
+
+### 7. Clear the Dangers
+
+In this simple quest template, the characters enter a hostile location and clear it of any dangers. A dwarf clan might need their ancestral mines emptied of monsters, a local lord might want to take over a haunted keep, and so forth. This quest focuses on the characters exploring an entire location to ensure that the danger has been dealt with, as opposed to taking on just a single known foe.
+
+### 8. Collect the Keys
+
+This quest template works for both small adventures and large campaigns, and sees the characters hunting for a number of keys before another group can get them first. This quest works best if it requires a majority of keys instead of all the keys. That way, no one side can thwart the other by possessing only one key. A setup where the characters search for three of five keys, four of seven keys, or five of nine keys works well. These keys might be hidden in a single dungeon for a small adventure, or spread across the entire multiverse for a huge campaign.
+
+### 9. Defend a Location
+
+The characters must defend a location from oncoming enemies. As with the "Steal Something" quest, the players will spend time preparing for the quest, shoring up their defenses and perhaps positioning NPC groups to handle parts of the defense under their direction. Though it's tempting to run this sort of scenario as a large-scale mass battle, that kind of combat is best handled "off-screen" while you focus the spotlight on the characters and their individual roles in the defense.
+
+### 10. End the Ritual
+
+In this quest template, the characters must end an ongoing ritual. Doing so usually requires the disruption of multiple components, such as destroying glyph-marked pillars or corrupting magic pools. Suitable rituals might include those dedicated to opening or closing a gate, summoning a fiend, resurrecting a dead god, and so forth. In a variant of this quest template, the characters must defend those performing a ritual against other forces that seek to stop it.
+
+## Tools for 5e Improvisation
+
+### Difficulty Checks
+
+For any given task or challenge, ask yourself how hard it is to accomplish. Then assign a DC from 10 (easy) to 20 (very hard). If a task is trivial, don't bother asking for a roll. Rather, the characters automatically succeed. Likewise, reserve DCs above 20 for superhuman challenges.
+
+### Improvised Damage
+
+Decide on a challenge rating (CR) for the source of the damage, from CR 1 (low challenge) to CR 20 (very high challenge). Then roll a number of damage dice of a particular kind, as follows:
+
+- Single-Target Damage: 7 × CR (or 2d6 per CR)
+- Multiple-Target Damage: 3 × CR (or 1d6 per CR)
+
+This challenge rating can be thought of as roughly equivalent to the average level of a group of characters. However, don't automatically choose a challenge rating based on the level of the characters. Rather, the level of the challenge might be higher or lower than the characters, depending on the situation.
+
+### Improvised Statistics
+
+Whenever you need to improvise Armor Class, attack modifiers, saving throw DCs, or other combat statistics for a creature, trap, object, or obstacle, use the following guidelines based on its challenge rating:
+
+- AC = 12 + 1/2 CR
+- DC = 12 + 1/2 CR
+- Attack Bonus = 3 + 1/2 CR
+- Damage = 7 × CR (or 2d6 per CR)
+- Saving Throw with Proficiency = 3 + 1/2 CR
+- Hit Points = 20 × CR
+
+When improvising statistics for traps and other objects that deal damage and can be attacked to destroy them, estimate the object's CR by comparing it to various creatures that produce the same sorts of effects in combat.
+
+### Other Improv Tricks
+
+The following tricks can also help make it easier for you to improvise during your game:
+
+- Use the story the players give to you, rather than forcing the characters to stick to a path you set.
+- Use static monster damage.
+- In combat, go around the table by player instead of rolling for initiative.
+- Use advantage and disadvantage to reward unique approaches or clarify poor choices.
+- Improve pacing by changing monster hit points on the fly to speed up or prolong a fight.
+- Let the characters stumble upon two weak monsters, then see whether the monsters and characters want to fight or simply have a conversation.
+
+### Deadly Encounter Benchmark
+
+Choose monsters that make sense for the location, the situation, and the story. Don't worry about whether an encounter is "balanced" — except to determine if it might be deadly. An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of the characters' levels if the characters are 5th level or higher.
+
+If an encounter might be deadly, warn the players — and make sure the characters have a chance to escape. A more detailed version of the benchmark can be found in [Lazy Combat Encounter Building for 5e](https://slyflourish.com/lazy_gm_resource_document.html#lazycombatencounterbuilding) later in this document.
+
+### Running Hordes
+
+When running large numbers of creatures, instead of rolling independent attack rolls or saving throws, assume that one-quarter of those rolls succeed. Increase or decrease that number depending on the situation (for example, if many creatures in the horde have advantage or disadvantage). Additionally, instead of tracking individual hit points for a horde, you can tally the damage done to the entire horde when any of its creatures are hit. Every time the tally becomes equal to or higher than the hit points of any individual creature in the horde, remove a creature from the horde and reset the tally. Round monster hit points to the nearest 5 or 10 to make things easier. A more detailed version of these guidelines can be found in "[Running Hordes](https://slyflourish.com/lazy_gm_resource_document.html#runninghordes)" later in this document.
+
+### Names
+
+You can never have enough names on hand while improvising your game. Here are a few you can use whenever an NPC, location, business, or other part of your game needs a name.
+
+First Names: Shum, Agtos, Edbert, Josiane, Olaugh, Rosaline, Pearson, Boyle, Typhon, Satyros, Ronald, Brice, Wilford, Circe, Surbag, Kayla, Latona, Cecily, Shuzug, Moth, Dolly, Minerva, Prutha, Esmour, Tristan, Lake, Stewart, Hebub, Lanos, Ingram, Orvist, Daud, Metope
+
+Last Names/Organization Names: Lionstone, Treeson, Oakhelm, Gentleheart, Whitesong, Starharp, Nightchaser, Shadowstinger, Catclaw, Faeriebound, Leafwing, Goldrock, Darkslicer, Gravewalker, Rainbright, Needleflinger, Goosechaser, Steelclaw, Scalerazor, Glasscutter, Ironhouse, Eboncloud. More names can be found in the "[NPC Generator](https://slyflourish.com/lazy_gm_resource_document.html#npcgenerator)" section later in this document.
+
+## Quick Tricks for Lazier 5e Games
+
+### Start with Inspiration
+
+Award inspiration to each character at the beginning of a session. This takes some of the weight off of needing to remember to reward inspiration during the game. You can still award it again during the game if players have used it.
+
+### Use Index Cards for Initiative
+
+Index cards can be used to track initiative in two potential ways. First, fold them over into "table tents" and number them from 1 to 9. Then hand them out to the players in the order of their characters' initiative. Alternatively, write the characters' names on one side of the card and put character info useful for you on the other. Fold them over the top of your GM screen, then set them out in initiative order each time combat begins.
+
+### Average Handfuls of Dice
+
+You can reduce the size of huge handfuls of dice by removing pairs of dice from the pile and adding their average as a static number. For every two dice you remove, just add the maximum value on a single die plus one to the static bonus. So 2d4 becomes 5, 2d6 becomes 7, 2d8 becomes 9, 2d10 becomes 11, and 2d12 becomes 13. This way, rolling 8d6 can instead become 2d6 + 21 or 8d8 can become 2d8 + 27.
+
+### Use Passive Scores
+
+Continually calling for checks in the middle of the narrative can disrupt the flow of the story. Instead, keep the characters' passive Perception, passive Insight, and passive Investigation scores in front of you on a cheat sheet or on index cards. Then use those passive scores to describe what the characters see or experience while exploring the scene.
+
+### Campsite Stories
+
+During rests, ask the players to tell a story of their character or describe how their character feels about what's been going on in the campaign. This can help players dig into their characters' thoughts and expose those thoughts to you and the other players. Players might want to describe their characters' conversations while on watch in the same manner.
+
+### Passive Monster Initiative
+
+For simple battles, use a passive initiative score for monsters, equal to 10 plus the monster's Dexterity bonus. This typically puts monsters in the middle of the initiative order, rather than risking them being too high or too low.
+
+### Stars and Wishes
+
+Every few games, take time to ask each player for their "stars and wishes" — a concept described on the Gauntlet RPG blog. Ask each player two questions:
+
+- What have they enjoyed about the game so far?
+- What do they want to see more of in future games?
+
+The answers to these questions can help you understand exactly what your players are getting from the game, and can give you ideas for how the game might unfold in the future.
+
+### Offer Cinematic Advantage
+
+Throughout the game, offer players advantage on checks or attacks if they're willing to undertake high-action moves. For example, a character might leap up and swing from a chandelier to stab at a foe down below. Call for an ability check, granting advantage on the character's next attack with a successful check. But on a failed check, the character's move goes awry and they fall. Most characters will focus on moves that use ability checks they're good at, making success more likely than failure. A slight chance of failure can make winning advantage feel that much sweeter, but keep failure conditions fairly minor so that going for cinematic advantage doesn't seem too risky to the players.
+
+### Other Quick Tricks
+
+The following tricks make excellent additions to every GM's toolbox:
+
+- Keep a list of random names on hand to use for NPCs, villains, and monsters.
+- Describe the world through the eyes of the characters, actively narrating what they see and know about the world around them.
+- Don't ask for a d20 roll if there isn't a chance for failure, or if failure wouldn't be interesting. This can help you remember to never bury useful or vital information behind an ability check.
+- Reskin bandit, thug, ogre, and giant stat blocks to make new hard-hitting monsters of all different sizes.
+- Reveal monster ACs and the DCs for ability checks to the players, and help them calculate ahead of time what they'll need on their d20 roll to succeed. This lets the players focus on the excitement of the die roll rather than the math.
+- When appropriate, roll on a character's behalf so the player doesn't know the result for something their character wouldn't know.
+
+## Wilderness Travel and Exploration
+
+This section offers a systematic approach for handling travel through wild lands filled with potential dangers, and can be used with both point crawls (see the previous page) or hex crawls.
+
+As the characters travel overland, they undertake specific activities related to the journey. Select appropriate DCs for those activities, with checks usually ranging between DC 10 (easy) and DC 20 (very hard). A default of DC 12 is usually a good choice.
+
+### Character Roles
+
+When the characters choose to travel through the wilderness, each player chooses a role for their character to take on. If two characters feel like good choices for a particular role, one character can use the Help action to assist the other, granting advantage on the check.
+
+#### Trailhand
+
+**Applicable Skills:** Nature, Survival
+
+A trailhand ensures that the party follows the right path to reach an intended destination, masterfully navigating the natural or constructed paths that crisscross the wilds. With a successful check, the characters stay on the correct paths. On a failure, they might become lost, stumbling into a hostile area or losing resources. Characters might also be subject to exhaustion as they try to make their way back to the correct path, or might find it difficult to take a short or long rest until they do.
+
+#### Scout
+
+**Applicable Skills:** Insight, Investigation, Nature, Perception, Survival
+
+A scout keeps an eye out for potentially hostile creatures during the characters' journey. These might be creatures stalking the characters, creatures that have earlier crossed the characters' path, or creatures that are traveling in the same direction and overtake the party. With a successful check, the characters spot the potentially hostile creatures and can plan their response. On a failure, the scout might unknowingly lead the party into a hostile encounter or an ambush.
+
+#### Quartermaster
+
+**Applicable Skills:** Medicine, Survival
+
+A quartermaster ensures that the characters remain well fed and hydrated during their journey. They ensure that provisions remain unspoiled, and help forage for additional resources along the way. Shorter journeys might not require a character to take on this role.
+
+With a successful check, the characters have plenty of food and water for the journey, with provisions remaining unspoiled. On a failure, the characters might lose precious resources of food and water (potentially leading to exhaustion), or need to spend additional time searching for resources.
+
+### Group Stealth
+
+If the characters decide to move stealthily through the wilderness, doing so doubles the length of their travel time and might impose disadvantage on other checks at your discretion. To move stealthily through the wilderness, the characters make a group Dexterity (Stealth) check and compare that result to the passive Wisdom (Perception) scores of any potentially hostile creatures that might spot or hear them.
+
+### Creating the Wilderness
+
+When an adventure sees the characters trekking across the wilds, use the following steps to create an adventure framework for that wilderness journey. You can use random tables to generate locations for wilderness journeys, including encounter ideas and suggestions for landmarks.
+
+#### Determine the Weather
+
+Choose or randomly select potential weather for the characters' journey. Weather mostly adds to the in-world atmosphere, but harsh weather can change the DCs of the characters' activities as they travel if you wish.
+
+#### Determine Potential Encounters
+
+As the characters travel through the wilderness, choose or randomly select potential encounters. These might be face-to-face encounters with denizens of the wilderness, but not all such encounters need to be hostile. The characters could run into friendly travelers, fearful monsters, weak foes, or signs of a previous battle. Likewise, they might spot the tracks of creatures recently passed by, or that are heading in the party's direction.
+
+#### Place Notable Landmarks
+
+Use notable landmarks to mark key points along the characters' journey. Such landmarks can serve as a backdrop for random encounters or as places to rest. They might also serve as a source of secrets and clues that the characters can discover.
+
+## 5e Quick Encounter Building
+
+When building encounters, start by choosing the type and number of monsters that make sense for the situation. Then use the following guidelines to compare the challenge rating of the monsters, the level of the characters, and the ratio of monsters to characters. If the quantity of monsters or their challenge rating is beyond the indicated guidelines, the encounter might be deadly. Be especially careful with potentially deadly encounters when the characters are 1st level.
+
+### For Characters of 1st Level
+
+- CR 0 to 1/4: One monster per character
+- CR 1/2: One monster per two characters
+- CR 1: One monster per four characters
+
+### For Characters of 2nd to 4th Level
+
+- CR = 1/10 level: Two monsters per character
+- CR = 1/4 level: One monster per character
+- CR = 1/2 level: One monster per two characters
+- CR = Level: One monster per four characters
+
+### For characters of 5th to 20th Level
+
+- CR = 1/10 level: Four monsters per character
+- CR = 1/4 level: Two monsters per character
+- CR = 1/2 level: One monster per character
+- CR = 3/4 level: One monster per two characters
+- CR = Level + 3: One monster per four characters
+
+Finally, tune encounters by adjusting the number of monsters, increasing or decreasing hit points, or making named or unique monsters more powerful.
+
+**Hit Points:** Standard monster hit points are an average of the monster's HD range. You can increase or decrease hit points within that range to model particularly weak or particularly strong monsters. To make a fight easier, you can also treat monsters as "instant minions," ignoring their usual hit points and letting a single attack kill them. Having a few enemies die quickly can turn the tide in favor of the characters and keep a battle from feeling stale.
+
+**Named Monsters:** Adding an extra attack or maximizing damage can make a named monster or unique foe more challenging. Named monsters can also be given legendary actions or the Legendary Resistance feature to make the fight more interesting.
+
+## Lazy Combat Encounter Building for 5e
+
+This section helps you build and improvise dynamic combat encounters based on the fiction of the game.
+
+### Start with the Story
+
+Good combat encounters begin with the story. Instead of building combat encounters as fixed components of the game, let combat encounters evolve naturally from the story taking place at the table.
+
+Begin by asking the following question: What monsters make sense given the current location and situation? Then let that question guide you in the creation of a list of monsters and NPCs that might show up at a given location, and in what quantity.
+
+Instead of predefining scenes as combat, roleplaying, or exploration, let the characters' approach determine what happens. Maybe they fight the guards at the gatehouse. Maybe they sneak past. Maybe they try to play the part of hired mercenaries. But let whatever happens come from the choices of the players.
+
+### Average Character Hit Points
+
+Gauging the level of challenge in an encounter often comes down to comparing the amount of damage a monster can deal to the hit points of the characters. Hit points vary widely between classes, but you can use the following formula to estimate an average character's hit points at a given level: (Level × 7) + 3.
+
+By giving you a rough estimation of how tough characters of a given level are, this formula can help you gauge how dangerous a specific monster will be, as well as judging the potential deadliness of traps, hazards, and other effects that deal damage.
+
+### Potential Deadliness
+
+Assuming that your chosen monsters aren't dealing damage that easily overwhelms the characters' hit points, you can usually not worry about an encounter's difficulty — unless the encounter is potentially deadly. You can gauge an encounter's potential deadliness with the following benchmark:
+
+**An encounter might be deadly if the total of all the monsters' challenge ratings is greater than one quarter of the total of all the characters' levels, or one half of their levels if the characters are 5th level or higher.**
+
+To use this benchmark for characters of 1st through 4th level, add up the challenge ratings of all monsters in the encounter. Then add up the levels of all of the characters and divide that number by 4. If the challenge level summation is greater than the sum of character levels divided by 4, the encounter might be deadly. If the characters are above 5th level, use the same process but divide the total character levels by 2 instead of 4.
+
+Each time the characters gain a new level, calculate this deadly benchmark score and jot it down in your preparation notes so you have it on hand. If you find that the characters in your game often have an easy time with potentially deadly encounters, treat the characters as though they are one or more levels higher. This will raise the benchmark at which an encounter might become deadly, making the calculation more accurate.
+
+This benchmark assumes multiple monsters, and doesn't work well for gauging combat against a single monster. For legendary monsters-those with legendary actions and possibly lair actions-an encounter is generally deadly if the monster's challenge rating is 5 or more higher than the characters' average level.
+
+### Character Capabilities Vary
+
+No chart, table, or equation works perfectly to judge encounter balance at any given level, because no such system can take into account the wide range of options that can affect combat. Any individual character's effective power in a fight can go well beyond what's expected for their given level, especially at higher levels. And other factors that can affect a character's power might include any of the following:
+
+- Player experience
+- Class synergy between different characters in the party
+- Magic items
+- Environmental and situational circumstances
+- Feats and multiclassing
+- The total number of actions on either side
+- How well rested the characters are
+
+So use the benchmarks for determining whether an encounter might be deadly as a starting point. Then trust that you'll be better able to gauge what your characters can handle in combat the more you see them in action during the game.
+
+### Scaling for Higher Levels
+
+As characters reach 11th level and higher, the deadly encounter benchmark becomes less useful for accurately representing a deadly encounter. Depending on the capabilities of those higher-level characters, monsters might pose even less of a threat than their challenge rating denotes. As such, you can further adjust the deadly encounter benchmark to account for this power with the following optional guideline:
+
+At 11th level and higher, an encounter might be deadly if the total of all the monsters' challenge ratings is greater than three quarters of the total of all the characters' levels, or if it is equal to the total of their levels if the characters are 17th level or higher.
+
+This sets up encounters of a much greater challenge than the baseline benchmark, but it might work more accurately for higher-powered characters.
+
+## Theater of the Mind Guidelines (Extended)
+
+The following guidelines can help Gamemasters run combat in the "theater of the mind," without the need for a gridded battle map or miniatures. This style of combat takes the emphasis away from tactical features such as distance, range, and the specific size of areas of effect. Instead, it focuses on the in-game action, the intent of the characters, and what happens in the story.
+
+This style of combat works just like any other scene in your game. On each player's turn, you describe the current situation, the players describe their intent, and you adjudicate what happens as a result.
+
+Theater-of-the-mind combat requires that the players trust you as the Gamemaster, knowing that you'll describe the situation and adjudicate the results of the characters' actions fairly. As the GM, you'll earn this trust by favoring the players whenever possible, and by focusing on sharing an action-packed story.
+
+Running theater-of-the-mind combat removes agency from the players. It takes away their ability to control every aspect of how their characters move and what they do. As the GM, you can mitigate this by asking each player for their intent each turn, then helping them meet that intent. For example, a player who says "I move close to the orcs" potentially leaves too many possibilities open. So encourage the player to focus their intent more — perhaps along the lines of, "I want to position myself so that at least two orcs are within the reach of my glaive."
+
+When playing in the theater of the mind, both you and the players must worry less about the mechanical details of the game. Instead, everyone will focus on the action and the story.
+
+### Summary Guidelines for the GM
+
+- Each turn, describe the situation surrounding the characters.
+- Ask for the players' intent and help them achieve it.
+- Be generous. Give players the benefit of the doubt.
+- Use ability checks to let the characters try crazy ideas.
+- Ask the players to describe interesting physical characteristics of the monsters, and use these to identify monsters during combat.
+- Bring characters into the story by asking them to describe their killing blows.
+- When needed, use sketches, abstract maps, or miniatures to show complicated locations and relative positions.
+
+### Summary Guidelines for Players
+
+- Describe your intent. What you want to accomplish?
+- Use the features of the area to your advantage.
+- Don't worry about specific distances. Just describe what you want to do.
+- Try awesome ideas based on the details of the location.
+- Describe your character's actions within the story.
+
+### Movement, Distance, and Range
+
+At the beginning of combat, you describe the situation, features, distances, and arrangements of the creatures in the area. Assuming a moderately sized combat area, any creature can generally move within 5 feet of any other creature, and every creature is within range of every other creature making ranged attacks. You'll make it clear whenever this isn't true, such as when an enemy is farther away or behind a front line of protective allies.
+
+Characters with fast movement might have opportunities to move places other characters can't.
+
+### Positioning, Opportunity Attacks, and Cover
+
+On each player's turn, they describe how they intend to position themselves. Examples of movement in the theater of the mind might include moving next to an ally, moving next to two enemies, or staying out of reach while attacking with a polearm.
+
+If a creature is within an enemy's reach, it will likely provoke an opportunity attack if it tries to move away from that enemy. Creatures able to disengage can do so and avoid opportunity attacks.
+
+As you describe the features of the area, make a note of which ones can provide cover to the characters or their enemies, and how much cover.
+
+### Areas of Effect
+
+The following guidelines offer a rough baseline for determining the number of targets that fall within an area of effect. The circumstances of a battle can increase or decrease this number. For example, for larger monsters or monsters that are more spread out, an area of effect might target only half the normal number of creatures. For smaller monsters or monsters that are packed close together, an area of effect might include up to double the normal number of targets.
+
+- **Tiny Area:** 1 or 2 creatures (*cloud of daggers*)
+- **Small Area:** 2 creatures (*burning hands*, *thunderwave*)
+- **Large Area:** 4 creatures (*cone of cold*, *fireball*)
+- **Huge Area:** Everyone (*circle of death*, *earthquake*)
+- **Short Line:** 2 creatures (*wall of fire*)
+- **Long Line:** 3 creatures (*blade barrier*, *lightning bolt*)
+
+Abilities like the evoker's Sculpt Spells feature can increase the number of affected enemies, usually by one or two. Likewise, an area of effect that targets both the characters and their enemies might affect more total targets — including an effect created by a character or monster willing to put allies in harm's way. If a spellcaster character wishes to place allies within an area of effect, you and the players should negotiate this before the spell is cast.
+
+### Locations, Features, Environment, and Terrain
+
+When first describing the combat encounter, describe notable locations, objects, environmental features, and terrain features. Write these down and keep them in front of the players if it helps them visualize the battlefield. Let the players know that they can interact with these environmental features, through such actions as swinging from magical chandeliers, climbing up obsidian cliffs to advantageous positions, or hiding behind ruined statues. If any feature or effect creates difficult terrain, let the players know how this might affect them, such as requiring that they use the Dash action to get out of the area.
+
+### Randomly Selected Targets
+
+Avoid biases — whether perceived or actual — by randomly selecting targets when it isn't clear which character a monster would attack. Rolling randomly for targets in the open can help build trust between you and the players, letting them know that the GM isn't picking on anyone. Monsters aren't idiots, though. If it's clear that a monster would attack a particular character, such as a wizard concentrating on a dangerous spell, the monster will do so. When this happens, just describe why the monster chose that particular character, so the players understand.
+
+### Physical Traits and Identifying Enemies
+
+Ask each player to describe the physical traits of a monster their character is attacking. This helps identify the monster, opens up all the players' imaginations to the battle, and helps everyone know which monster is which using in-story descriptions. Write these physical traits down on a 3×5 index card or on a dry-erase flip mat so everyone can see which monsters are in play.
+
+### Going Big with Descriptions
+
+Theater-of-the-mind combat can go stale if you don't continually reinforce the story of what's happening. Go big with your descriptions of the location and the action. Ask players to describe their attacks and killing blows. Between turns, describe the current situation using in-story language. These descriptions are vital to keeping the scene interesting.
+
+## Theater of the Mind Guidelines (Abbreviated)
+
+This section offers abbreviated guidelines for running "theater of the mind" combat — no maps or miniatures, making use only of narrative and your players' imaginations. Share these guidelines with your players so that everyone has a common understanding of how this style of playing out combat works at the table.
+
+### Core Principles
+
+Round-by-round combat played in the theater-of-the-mind style is built around three core principles:
+
+- The GM describes the situation.
+- Players describe their characters' intent.
+- The GM helps the players achieve that intent and adjudicates how the situation unfolds as a result.
+
+### Common Understandings
+
+A GM running a theater-of-the-mind game should keep the following points in mind:
+
+- Build theater-of-the-mind combat around the following ideals: The GM and the players are working together to share a story of high action and adventure. They are not opponents.
+- The GM and players do not hide their intentions during combat.
+- Players and GMs assume that the characters and their enemies all move cautiously, avoiding opportunity attacks whenever possible.
+- The GM identifies when a character is taking a risk, such as provoking an opportunity attack, before the player chooses the character's action.
+
+### Player Advice
+
+Players in a theater-of-the-mind game should keep the following points in mind:
+
+- Describe your intent. Tell the GM what you want your character to do in the story that the combat encounter is building. Avoid a back-and-forth series of tactical questions.
+- Tell the GM what special features your character has that you want to highlight. If you have crunchy tactical abilities you want to use, describe how you want them to work for the situation. For example: "I want to stay close to the cleric so I can use my Protection Fighting Style, but I'll keep 10 feet away from the orcs so I can use my Polearm Mastery feat to hit them on their way in."
+- Describe specifically what you want to do. "I want to stay within the paladin's aura but still attack the hobgoblin ravager."
+- Look for fun ways to use the environment described by the GM.
+- Worry less about the mechanical details of the game and more on the high action and adventure of the story. One good way to do that is to imagine combat as a high-action battle in one of your favorite movies.
+
+### GM Advice
+
+A GM running a theater-of-the-mind game should keep the following points in mind:
+
+- Work with the players, not against them. Err in favor of the characters as you help the players achieve their intent.
+- Each turn, describe the situation surrounding the acting character.
+- Adjudicate the number of targets in an area attack based on the situation, the assumed positions of the combatants, and the size of the area.
+- Use evocative in-world narration to describe the characters, the monsters, the action, and the high adventure of the story as it plays out.
+- Make bargains and deals with the players. "You can hit three orcs with *fireball*, or you can hit five orcs if one of your companions is willing to be hit as well."
+- Describe the distances between combatants in feet to help players recognize what they can and can't do. Default to 25 feet if you don't really know.
+- Run simpler encounters with useful environmental features, such as flipped tables, cracked stalagmites, cliff edges, bottomless pits, roaring fires, and hanging chandeliers.
+- Ask the players to identify monsters by describing interesting physical characteristics.
+- Give the players opportunities to show off their characters' skills and abilities.
+- Some players can't visualize combat scenes in their head, a condition known as aphantasia. For these players, consider providing a quick sketch or other visual.
+
+### One Tool of Many
+
+Add theater of the mind to your collection of ways to run combat, including abstract maps, zone-based combat (described later in this document), gridded combat, or 3D terrain. Choose the right style of combat for the pace and complexity of the scene. Keep each approach as a tool in your GM's toolbox to help you share exciting tales of action and high adventure.
+
+## Zone-Based Combat
+
+Zone-based combat can help GMs run fast, dynamic, and high-action combat without worrying about all the details of tactical combat played out on a grid. It supports multiple combat styles, including pure narrative theater-of-the-mind combat, quickly drawn abstract sketches, or miniatures used with detailed maps or 3D terrain. Using zone-based combat means you have to worry less about the details of a 5-foot-per-square grid and can focus more on big heroic action. Zone-based combat simply requires that the GM and the players work together with the shared goal of creating fantastic stories of high adventure.
+
+### Zone Rules
+
+The following guidelines establish the broad strokes of zone-based combat:
+
+- Combat areas are made up of one or more zones, each of which is roughly 25 feet on a side but which can be any size.
+- The GM defines zones using evocative descriptions, such as "a crumbling bridge over a bottomless gorge," "a blood-covered altar," or "a holy statue of light."
+- The GM can write down or define these zones and their descriptions on paper, note cards, or erasable battle maps so the players can visualize the situation. Miniatures or tokens can mark out the positions of characters and monsters in zones.
+- Players are encouraged to make use of features in a zone, whether by taking cover, climbing to an advantageous position, activating magical locations, and so forth.
+- Most combat encounters occur in a single zone. Big battles might use two or more zones.
+- On each of their turns, a character can move within a zone or can move from one zone to another. Characters with extra movement can move up to two zones away.
+- Assume that all creatures in combat move cautiously, avoiding opportunity attacks when possible. The GM informs the players if a character risks an opportunity attack from their intended activity in the fight.
+- Attacks with a range of 25 feet or greater can target creatures within a zone or one zone away.
+- Attacks with a range of 50 feet or greater can also target creatures two or more zones away.
+- If a character attacks with or is attacked by a melee attack with a 5-foot reach, that character will provoke opportunity attacks if they attempt to move away from their opponent. A character attacked by a melee attack with a 5-foot reach also has disadvantage on ranged attacks.
+- Players can make best use of zone-based combat by describing their intent — for example, "I want to attack the orc chief with my glaive but stay out of his reach," or "I want to get between our wizard and the ogre."
+- The GM then works with the players to help them achieve their intent.
+
+### Areas of Effect in Zones
+
+Many spells and features have areas of effect. GMs can use the following guidelines to adjudicate which targets are hit by such effects. These guidelines break out general descriptions of the size of an area of effect, how many creatures are typically affected in that area using zone-based combat, and examples of common spells and class features that use that size:
+
+- **Tiny Area:** One or two creatures in the same zone (*cloud of daggers*)
+- **Small Area:** Two or three creatures in the same zone (*burning hands*, *thunderwave*)
+- **Large Area:** Four to six creatures in the same zone (*cone of cold*, *fireball*)
+- **Huge Area:** Twelve creatures across two zones (*circle of death*, Turn Undead)
+- **Short Line:** Two or three creatures in the same zone (*wall of fire*)
+- **Large Line:** Two to four creatures across two zones (*lightning bolt*)
+
+GMs can adjudicate and adjust these numbers based on the current situation. For example, an area containing a horde of monsters might double the potential number of monsters affected. Whatever the circumstances, though, a GM should always adjudicate in favor of the characters.
+
+### Handling Edge Cases
+
+Zone-based combat doesn't account for a wide range of features that make use of specific distances. In those cases, it's up to the GM to work with a player's intent to help them make use of those features. In all cases, the GM should ask what the player wants to do, then help them figure out how to do it.
+
+## Monster Difficulty Dials
+
+Balancing combat encounters is notoriously difficult. Different groups of characters can bring very different capabilities to each battle, even at the same level. However, because monsters as they are typically presented are the average of their type, you can adjust the averages to subtly or dramatically change the difficulty of a given monster or group of monsters. By turning these "difficulty dials" for monsters, you can easily shift the tone of combat even in the middle of a battle.
+
+### "Hit Point" Dial
+
+Hit points given for monsters are the average of their Hit Dice. This means you can adjust hit points within the minimum and maximum of a monster's Hit Dice formula based on the individual story for that particular monster, the current pacing of the battle, or both.
+
+For example, an average ogre has 59 hit points from 7d10 + 21 Hit Dice. This means a weak ogre might have as few as 28 hit points, while a particularly strong ogre might have 91. This lets you easily set up fights in which minion ogres might have fewer hit points while boss ogres have more. (As an even lazier rule of thumb, you can halve or double a monster's average hit points to give you a weaker or stronger version of that monster.)
+
+You can turn this dial before a battle begins or even during the battle itself. If a battle drags, reduce the hit points of a monster to get it out of the fight earlier. If a battle feels like it will be over too quickly, increase the monster's hit points to make it hold up longer. Start with average hit points, and then turn the hit point dial one way or the other whenever doing so can make the game more fun.
+
+### "Number of Monsters" Dial
+
+The "number of monsters in a battle" dial alters combat challenge the most dramatically of all the dials — but because it's so clearly visible to players, this dial is also sometimes difficult to change during a fight.
+
+If circumstances allow for it, some monsters might flee or automatically fall depending on the events of a fight. Undead might break if their necromancer master is killed, and many intelligent creatures will flee a fight they can't win. Other times, more monsters might enter the fray in a second wave if the first wave isn't standing up to the characters.
+
+When developing a combat encounter in which you think you might turn this dial, consider beforehand how monsters might leave the battle or how other monsters might join the fight as reinforcements in a realistic way.
+
+### "Damage" Dial
+
+Increasing the amount of damage a monster deals on each attack increases the monster's threat and can make a dull fight more fun. In the same way, decreasing monster damage can help prevent a fight from becoming overwhelming if the characters are having trouble.
+
+The static damage value noted in a monster's stat block represents the average of the damage formula for the monster's attack. If you use average damage, you can adjust the damage based on that formula. For example, an ogre deals 13 (2d8 + 4) bludgeoning damage with their greatclub attack, so you can set this damage at anywhere from 6 to 20 and still be within the range of what you might roll.
+
+If you're a GM who rolls for damage, you can also turn the damage dial up by adding one or more additional damage dice. If you like, you can have an in-game reason for this increase. Perhaps an ogre sets its club on fire to deal an additional 4 (1d8) or 7 (2d6) fire damage. Or a particularly dangerous vampire with an unholy sword might deal an extra 27 (6d8) necrotic damage if you so choose. Adding these kinds of effects to a monster's attack is an excellent way of increasing a monster's threat in a way the players can clearly understand — and it has no upper limit.
+
+### "Number of Attacks" Dial
+
+Increasing or decreasing the number of attacks a monster makes has a larger effect on its threat than increasing its damage. You can increase a monster's number of attacks if it's badly threatened by the characters, just as you can reduce its attacks if the characters are having an easy time. An angry ogre left alone after its friends have fallen to the heroes might start swinging its club twice per Attack action instead of just once. Single creatures facing an entire party of adventurers often benefit from increasing their number of attacks.
+
+### Mix and Match
+
+You can turn any or all of these dials to tune a combat encounter and bring the most excitement to your game. Don't turn the dials just to make every battle harder, though. Sometimes cutting through great swaths of easy monsters is exactly the sort of situation players love.
+
+Turning several dials together can change combat dramatically, helping to keep things feeling fresh. For example, a group of starving ogres might be weakened (lowering the hit point dial) but also frenzied in combat (turning up the attack dial). By adjusting these dials when designing encounters and during your game, you can keep the pacing of combat exciting and fun.
+
+## Monster Templates
+
+The following monster templates can help you customize existing monsters into new unique variants that can fit a variety of locations and circumstances. With just a few templates in hand, your core monster books can become much more useful.
+
+### Challenge Rating Increase?
+
+The challenge ratings described in these templates are loose guides, so use your best judgment with them. Apply these templates only when you have a good handle on your characters' capabilities, and be prepared to tune your new monsters accordingly.
+
+### Elemental Monsters
+
+Apply this template to any monster to make an elemental version of that monster. Choose from or roll on the following table to determine the type of elemental template you want to apply:
+
+|d8|Elemental Template|d8|Elemental Template|
+|---|---|---|---|
 |1|Fire|5|Poison|
 |2|Cold|6|Necrotic|
 |3|Lighting|7|Radiant|
@@ -114,7 +1252,7 @@ Then apply the traits and actions of any of the following specific templates.
 
 - Resistance to necrotic, bludgeoning, piercing, and slashing damage from nonmagical attacks.
 - The creature has the vampire spawn's Spider Climb, Vampire Weaknesses, and Regeneration traits.
-- **Bite.** Melee Weapon Attack: 4 + one-half the creature's CR to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire spawn creature, incapacitated, or restrained. Hit: piercing damage equal to 1d6 + one-half the creature's CR, plus necrotic damage equal to 1d6 per one- half the creature's CR (minimum 1d6). The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the templated creature regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+- **Bite.** Melee Weapon Attack: 4 + one-half the creature's CR to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire spawn creature, incapacitated, or restrained. Hit: piercing damage equal to 1d6 + one-half the creature's CR, plus necrotic damage equal to 1d6 per onehalf the creature's CR (minimum 1d6). The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the templated creature regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 - The creature can grapple a target instead of dealing damage with any of its attacks. If it makes multiple attacks, it can replace one of those attacks with the Bite action.
 - If you want your vampire spawn creature to feel even more vampiric, give it the ability to cast the misty step, command, or hold person spells at will as a bonus action.
 
@@ -163,7 +1301,7 @@ If you prefer to roll dice, roll twice when a group of monsters all make attacks
 Adjudicate the number of creatures caught up in an area of effect based on the circumstances, but leaning toward more creatures rather than fewer. You can use the following as a baseline for the number of tightly packed creatures in a horde that are affected in a given area:
 
 - **Tiny Area (5-foot radius):** Two creatures
-- **Small Area (10- to 15-foot radius):** Four creatures
+- **Small Area (10to 15-foot radius):** Four creatures
 - **Large Area (20-foot radius):** Sixteen creatures
 - **Huge Area (30-foot radius or more):** Thirty-two or more creatures
 - **Short Line (60 feet):** Six creatures
@@ -241,7 +1379,7 @@ Whenever a character witnesses a potential stress event, you can ask for a Chari
 
 You determine how long the effect lasts and can add mechanical hindrances inspired by the effect at your discretion. Alternatively, you can add the following mechanical effect:
 
-On a failed save, the character becomes stunned for 1 minute. The character can repeat the saving throw at the end of each of their turns and whenever they take damage, ending the effect on themself on a success. If the character's saving throw is successful or if the effect ends for it, the character is immune to this effect for the next 24 hours. A character can also choose to break this effect at the start of their turn by taking 4 (1d8) psychic damage per two character levels. A _lesser restoration_ or equivalent effect likewise negates a stress effect.
+On a failed save, the character becomes stunned for 1 minute. The character can repeat the saving throw at the end of each of their turns and whenever they take damage, ending the effect on themself on a success. If the character's saving throw is successful or if the effect ends for it, the character is immune to this effect for the next 24 hours. A character can also choose to break this effect at the start of their turn by taking 4 (1d8) psychic damage per two character levels. A *lesser restoration* or equivalent effect likewise negates a stress effect.
 
 (You can also apply this mechanism for breaking an effect by taking psychic damage to characters who are frightened, stunned, or incapacitated.)
 
@@ -506,30 +1644,30 @@ This list lets you add treasure to the adventure as appropriate. Roll a d10 to d
 
 ### Spells
 
-Some commonly discovered relics might grant a single- use spell, while less common magic items might allow their wielder to cast a spell daily. Use the list of common spells below or choose specialized spells to create unique magic item rewards.
+Some commonly discovered relics might grant a singleuse spell, while less common magic items might allow their wielder to cast a spell daily. Use the list of common spells below or choose specialized spells to create unique magic item rewards.
 
 ### 1d20 Spells
 
-1. _Magic missile_
-2. _Burning hands_
-3. _Shield_
-4. _Cure wounds_
-5. _Guiding bolt_
-6. _Invisibility_
-7. _Scorching ray_
-8. _Shatter_
-9. _Aid_
-10. _Misty step_
-11. _Spiritual weapon_
-12. _Lesser restoration_
-13. _Daylight_
-14. _Mass healing word_
-15. _Revivify_
-16. _Lightning bolt_
-17. _Fireball_
-18. _Dispel magic_
-19. _Haste_
-20. _Fly_
+1. *Magic missile*
+2. *Burning hands*
+3. *Shield*
+4. *Cure wounds*
+5. *Guiding bolt*
+6. *Invisibility*
+7. *Scorching ray*
+8. *Shatter*
+9. *Aid*
+10. *Misty step*
+11. *Spiritual weapon*
+12. *Lesser restoration*
+13. *Daylight*
+14. *Mass healing word*
+15. *Revivify*
+16. *Lightning bolt*
+17. *Fireball*
+18. *Dispel magic*
+19. *Haste*
+20. *Fly*
 
 ## NPC Generator
 
@@ -662,18 +1800,18 @@ As desired, you can augment monetary treasure with consumable magic items from t
 
 ### 1d12 Consumable Treasure
 
-1. _Potion of healing_
-2. _Potion of greater healing_
-3. _Oil of slipperiness_
-4. _Potion of animal friendship_
-5. _Potion of climbing_
-6. _Potion of growth_
-7. _Potion of mind reading_
-8. _Potion of poison_
-9. _Potion of resistance_
-10. _Potion of water breathing_
-11. _Dust of disappearance_
-12. _Dust of dryness_
+1. *Potion of healing*
+2. *Potion of greater healing*
+3. *Oil of slipperiness*
+4. *Potion of animal friendship*
+5. *Potion of climbing*
+6. *Potion of growth*
+7. *Potion of mind reading*
+8. *Potion of poison*
+9. *Potion of resistance*
+10. *Potion of water breathing*
+11. *Dust of disappearance*
+12. *Dust of dryness*
 
 Rather than standard consumable items, you can also award powerful single-use magic items generated using the Spells table from the "Core Adventure Generator" included in this document. You can also use the Condition, Description, and Origin table in that section to give an item a unique flavor.
 
@@ -683,46 +1821,46 @@ Permanent magic items can be included with treasure as desired, with the uncommo
 
 ### 40 Magical Treasures
 
-1. _Weapon +1_
-2. _Armor +1_
-3. _Ammunition +1_
-4. _Amulet of proof against detection and location_
-5. _Bag of holding_
-6. _Bag of tricks_
-7. _Boots of elvenkind_
-8. _Boots of striding and springing_
-9. _Boots of the winterlands_
-10. _Bracers of archery_
-11. _Brooch of shielding_
-12. _Broom of flying_
-13. _Circlet of blasting_
-14. _Cloak of elvenkind_
-15. _Cloak of protection_
-16. _Cloak of the manta ray_
-17. _Eversmoking bottle_
-18. _Eyes of charming_
-19. _Eyes of the eagle_
-20. _Figurine of wondrous power (silver raven)_
-21. _Gauntlets of ogre power_
-22. _Gloves of missile snaring_
-23. _Gloves of swimming and climbing_
-24. _Goggles of night_
-25. _Hat of disguise_
-26. _Headband of intellect_
-27. _Helm of comprehending languages_
-28. _Helm of telepathy_
-29. _Immovable rod_
-30. _Javelin of lightning_
-31. _Lantern of revealing_
-32. _Medallion of thoughts_
-33. _Necklace of adaptation_
-34. _Pearl of power_
-35. _Ring of mind shielding_
-36. _Rope of climbing_
-37. _Slippers of spider climbing_
-38. _Stone of good luck_
-39. _Wand of magic missiles_
-40. _Wand of web_
+1. *Weapon +1*
+2. *Armor +1*
+3. *Ammunition +1*
+4. *Amulet of proof against detection and location*
+5. *Bag of holding*
+6. *Bag of tricks*
+7. *Boots of elvenkind*
+8. *Boots of striding and springing*
+9. *Boots of the winterlands*
+10. *Bracers of archery*
+11. *Brooch of shielding*
+12. *Broom of flying*
+13. *Circlet of blasting*
+14. *Cloak of elvenkind*
+15. *Cloak of protection*
+16. *Cloak of the manta ray*
+17. *Eversmoking bottle*
+18. *Eyes of charming*
+19. *Eyes of the eagle*
+20. *Figurine of wondrous power (silver raven)*
+21. *Gauntlets of ogre power*
+22. *Gloves of missile snaring*
+23. *Gloves of swimming and climbing*
+24. *Goggles of night*
+25. *Hat of disguise*
+26. *Headband of intellect*
+27. *Helm of comprehending languages*
+28. *Helm of telepathy*
+29. *Immovable rod*
+30. *Javelin of lightning*
+31. *Lantern of revealing*
+32. *Medallion of thoughts*
+33. *Necklace of adaptation*
+34. *Pearl of power*
+35. *Ring of mind shielding*
+36. *Rope of climbing*
+37. *Slippers of spider climbing*
+38. *Stone of good luck*
+39. *Wand of magic missiles*
+40. *Wand of web*
 
 ## Random Traps
 
@@ -948,7 +2086,7 @@ The following lists allow you to generate useful relics and objects, from mundan
 
 Some strange relics might allow a single use of a powerful magical spell. Roll on the Item Condition, Item Origin, Mundane Item, and Spell Effect table to generate a unique single-use magical relic.
 
-Also included is a table noting the four types of _healing potions_ and how many hit points each potion restores.
+Also included is a table noting the four types of *healing potions* and how many hit points each potion restores.
 
 ### 1d20 Weapon Types
 
@@ -1089,56 +2227,56 @@ Also included is a table noting the four types of _healing potions_ and how ma
 
 ### 50 Spell Effect
 
-1. _Acid arrow_
-2. _Acid splash_
-3. _Bane_
-4. _Banishment_
-5. _Bestow curse_
-6. _Black tentacles_
-7. _Bless_
-8. _Blight_
-9. _Blindness/ deafness_
-10. _Burning hands_
-11. _Charm person_
-12. _Cloudkill_
-13. _Color spray_
-14. _Comprehend languages_
-15. _Cone of cold_
-16. _Cure wounds_
-17. _Detect evil and good_
-18. _Detect magic_
-19. _Disintegrate_
-20. _Dispel magic_
-21. _Fear_
-22. _Fire shield_
-23. _Firebolt_
-24. _Flame strike_
-25. _Fly_
-26. _Fog cloud_
-27. _Gaseous form_
-28. _Guiding bolt_
-29. _Haste_
-30. _Ice storm_
-31. _Inflict wounds_
-32. _Insect plague_
-33. _Invisibility_
-34. _Jump_
-35. _Light_
-36. _Lightning bolt_
-37. _Misty step_
-38. _Ray of enfeeblement_
-39. _Scorching ray_
-40. _Shatter_
-41. _Shield of faith_
-42. _Shocking grasp_
-43. _Silence_
-44. _Sleep_
-45. _Slow_
-46. _Stinking cloud_
-47. _Stoneskin_
-48. _Thunderwave_
-49. _True strike_
-50. _Web_
+1. *Acid arrow*
+2. *Acid splash*
+3. *Bane*
+4. *Banishment*
+5. *Bestow curse*
+6. *Black tentacles*
+7. *Bless*
+8. *Blight*
+9. *Blindness/ deafness*
+10. *Burning hands*
+11. *Charm person*
+12. *Cloudkill*
+13. *Color spray*
+14. *Comprehend languages*
+15. *Cone of cold*
+16. *Cure wounds*
+17. *Detect evil and good*
+18. *Detect magic*
+19. *Disintegrate*
+20. *Dispel magic*
+21. *Fear*
+22. *Fire shield*
+23. *Firebolt*
+24. *Flame strike*
+25. *Fly*
+26. *Fog cloud*
+27. *Gaseous form*
+28. *Guiding bolt*
+29. *Haste*
+30. *Ice storm*
+31. *Inflict wounds*
+32. *Insect plague*
+33. *Invisibility*
+34. *Jump*
+35. *Light*
+36. *Lightning bolt*
+37. *Misty step*
+38. *Ray of enfeeblement*
+39. *Scorching ray*
+40. *Shatter*
+41. *Shield of faith*
+42. *Shocking grasp*
+43. *Silence*
+44. *Sleep*
+45. *Slow*
+46. *Stinking cloud*
+47. *Stoneskin*
+48. *Thunderwave*
+49. *True strike*
+50. *Web*
 
 ### Potions of Healing
 
@@ -1558,9 +2696,9 @@ When you defeat a monster or enter a chamber with unguarded treasure, roll on th
 2. No treasure
 3. 3d12 gp
 4. 3d12 gp
-5. _Potion of healing_
-6. _Potion of healing_
+5. *Potion of healing*
+6. *Potion of healing*
 7. Consumable item
 8. Permanent item
 
-For consumable and permanent items, roll on the tables in the "[Treasure Generator](https://slyflourish.com/lazy_gm_resource_document.html#treasuregenerator)" section or a random treasure table of your choice. You can replace any consumable magic item with a _potion of healing_. You can replace any permanent magic item with a _+1 weapon_ of your choice.
+For consumable and permanent items, roll on the tables in the "[Treasure Generator](https://slyflourish.com/lazy_gm_resource_document.html#treasuregenerator)" section or a random treasure table of your choice. You can replace any consumable magic item with a *potion of healing*. You can replace any permanent magic item with a *+1 weapon* of your choice.
