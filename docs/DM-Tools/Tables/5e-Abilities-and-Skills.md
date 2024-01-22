@@ -11,35 +11,35 @@ date modified: Saturday, November 4th 2023, 5:55:43 pm
 
 | Ability                                                    | Measures                     | Check examples                      | Saving Throws                      |
 | ---------------------------------------------------------- | ---------------------------- | ----------------------------------- | ---------------------------------- |
-| **[[08-using-ability-scores#Strength\|Strength]]**         | Physical force and athleticism     | Smash down a door, move a boulder, use a spike to wedge a door shut     | Opposing a force that would physically move or bind you     |
-| **[[08-using-ability-scores#Dexterity\|Dexterity]]**       | Agility, reflexes, and balance    | Sneak past a guard, walk along a narrow ledge, wriggle free from chains    | Dodging out of harm's way    |
-| **[[08-using-ability-scores#Constitution\|Constitution]]** | Stamina and health | Endure a marathon, grasp hot metal without flinching, win a drinking contest | Enduring a disease, poison, or other hazard that saps vitality |
-| **[[08-using-ability-scores#Intelligence\|Intelligence]]** | Memory and reason | Recall a bit of lore, recognize a clue's significance, decode an encrypted message | Disbelieving certain illusions and resisting mental assaults that can be refuted with logic, sharp memory, or both |
-| **[[08-using-ability-scores#Wisdom\|Wisdom]]**             | Perceptiveness and willpower       | Spot a hidden creature, sense that someone is lying       | Resisting effects that charm, frighten, or otherwise assault your willpower       |
-| **[[08-using-ability-scores#Charisma\|Charisma]]**         | Social influence, confidence, strength of personality     | Persuade a creature to do something, cow a crowd, lie to someone convincingly     | Withstanding effects, such as possession, that would subsume your personality or hurl you to another plane of existence     |
+| **[[../../../08-using-ability-scores#Strength\|Strength]]**         | Physical force and athleticism     | Smash down a door, move a boulder, use a spike to wedge a door shut     | Opposing a force that would physically move or bind you     |
+| **[[../../../08-using-ability-scores#Dexterity\|Dexterity]]**       | Agility, reflexes, and balance    | Sneak past a guard, walk along a narrow ledge, wriggle free from chains    | Dodging out of harm's way    |
+| **[[../../../08-using-ability-scores#Constitution\|Constitution]]** | Stamina and health | Endure a marathon, grasp hot metal without flinching, win a drinking contest | Enduring a disease, poison, or other hazard that saps vitality |
+| **[[../../../08-using-ability-scores#Intelligence\|Intelligence]]** | Memory and reason | Recall a bit of lore, recognize a clue's significance, decode an encrypted message | Disbelieving certain illusions and resisting mental assaults that can be refuted with logic, sharp memory, or both |
+| **[[../../../08-using-ability-scores#Wisdom\|Wisdom]]**             | Perceptiveness and willpower       | Spot a hidden creature, sense that someone is lying       | Resisting effects that charm, frighten, or otherwise assault your willpower       |
+| **[[../../../08-using-ability-scores#Charisma\|Charisma]]**         | Social influence, confidence, strength of personality     | Persuade a creature to do something, cow a crowd, lie to someone convincingly     | Withstanding effects, such as possession, that would subsume your personality or hurl you to another plane of existence     |
 
 ## Skill Table
 
 | Skill                                                                         | Ability                                       |
 |-------------------------------------------------------------------------------|-----------------------------------------------|
-| 🦶 &nbsp;[[Rules & Options/rules/Skills#Acrobatics\|Acrobatics]]           | <span style="color:green">DEX</span>          |
-| 🐴 &nbsp;[[Rules & Options/rules/Skills#Animal Handling\|Animal Handling]] | <span style="color:gold">WIS</span>           |
-| 💫 &nbsp;[[Rules & Options/rules/Skills#Arcana\|Arcana]]                   | <span style="color:cornflowerblue">INT</span> |
-| 💪 &nbsp;[[Rules & Options/rules/Skills#Athletics\|Athletics]]             | <span style="color:red">STR</span>            |
-| 😈 &nbsp;[[Rules & Options/rules/Skills#Deception\|Deception]]             | <span style="color:purple">CHA</span>         |
-| 📜 &nbsp;[[Rules & Options/rules/Skills#History\|History]]                 | <span style="color:cornflowerblue">INT</span> |
-| 🤔 &nbsp;[[Rules & Options/rules/Skills#Insight\|Insight]]                 | <span style="color:gold">WIS</span>           |
-| 😡 &nbsp;[[Rules & Options/rules/Skills#Intimidation\|Intimidation]]       | <span style="color:purple">CHA</span>         |
-| 🔍 &nbsp;[[Rules & Options/rules/Skills#Investigation\|Investigation]]     | <span style="color:cornflowerblue">INT</span> |
-| 🩸 &nbsp;[[Rules & Options/rules/Skills#Medicine\|Medicine]]               | <span style="color:gold">WIS</span>           |
-| 🌳 &nbsp;[[Rules & Options/rules/Skills#Nature\|Nature]]                   | <span style="color:cornflowerblue">INT</span> |
-| 👀 &nbsp;[[Rules & Options/rules/Skills#Perception\|Perception]]           | <span style="color:gold">WIS</span>           |
-| 🎭 &nbsp;[[Rules & Options/rules/Skills#Performance\|Performance]]         | <span style="color:purple">CHA</span>         |
-| 😏 &nbsp;[[Rules & Options/rules/Skills#Persuasion\|Persuasion]]           | <span style="color:purple">CHA</span>         |
-| 🙏 &nbsp;[[Rules & Options/rules/Skills#Religion\|Religion]]               | <span style="color:cornflowerblue">INT</span> |
-| ✋ &nbsp;[[Rules & Options/rules/Skills#Sleight of Hand\|Sleight of Hand]] | <span style="color:green">DEX</span>          |
-| 🤫 &nbsp;[[Rules & Options/rules/Skills#Stealth\|Stealth]]                 | <span style="color:green">DEX</span>          |
-| ⛺ &nbsp;[[Rules & Options/rules/Skills#Survival\|Survival]]               | <span style="color:gold">WIS</span>           |
+| 🦶 &nbsp;[[../../Rules-&-Options/rules/skills#Acrobatics\|Acrobatics]]           | <span style="color:green">DEX</span>          |
+| 🐴 &nbsp;[[../../Rules-&-Options/rules/skills#Animal Handling\|Animal Handling]] | <span style="color:gold">WIS</span>           |
+| 💫 &nbsp;[[../../Rules-&-Options/rules/skills#Arcana\|Arcana]]                   | <span style="color:cornflowerblue">INT</span> |
+| 💪 &nbsp;[[../../Rules-&-Options/rules/skills#Athletics\|Athletics]]             | <span style="color:red">STR</span>            |
+| 😈 &nbsp;[[../../Rules-&-Options/rules/skills#Deception\|Deception]]             | <span style="color:purple">CHA</span>         |
+| 📜 &nbsp;[[../../Rules-&-Options/rules/skills#History\|History]]                 | <span style="color:cornflowerblue">INT</span> |
+| 🤔 &nbsp;[[../../Rules-&-Options/rules/skills#Insight\|Insight]]                 | <span style="color:gold">WIS</span>           |
+| 😡 &nbsp;[[../../Rules-&-Options/rules/skills#Intimidation\|Intimidation]]       | <span style="color:purple">CHA</span>         |
+| 🔍 &nbsp;[[../../Rules-&-Options/rules/skills#Investigation\|Investigation]]     | <span style="color:cornflowerblue">INT</span> |
+| 🩸 &nbsp;[[../../Rules-&-Options/rules/skills#Medicine\|Medicine]]               | <span style="color:gold">WIS</span>           |
+| 🌳 &nbsp;[[../../Rules-&-Options/rules/skills#Nature\|Nature]]                   | <span style="color:cornflowerblue">INT</span> |
+| 👀 &nbsp;[[../../Rules-&-Options/rules/skills#Perception\|Perception]]           | <span style="color:gold">WIS</span>           |
+| 🎭 &nbsp;[[../../Rules-&-Options/rules/skills#Performance\|Performance]]         | <span style="color:purple">CHA</span>         |
+| 😏 &nbsp;[[../../Rules-&-Options/rules/skills#Persuasion\|Persuasion]]           | <span style="color:purple">CHA</span>         |
+| 🙏 &nbsp;[[../../Rules-&-Options/rules/skills#Religion\|Religion]]               | <span style="color:cornflowerblue">INT</span> |
+| ✋ &nbsp;[[../../Rules-&-Options/rules/skills#Sleight of Hand\|Sleight of Hand]] | <span style="color:green">DEX</span>          |
+| 🤫 &nbsp;[[../../Rules-&-Options/rules/skills#Stealth\|Stealth]]                 | <span style="color:green">DEX</span>          |
+| ⛺ &nbsp;[[../../Rules-&-Options/rules/skills#Survival\|Survival]]               | <span style="color:gold">WIS</span>           |
 
 ## Meta
 
