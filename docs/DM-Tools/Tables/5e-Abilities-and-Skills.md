@@ -22,24 +22,24 @@ date modified: Saturday, November 4th 2023, 5:55:43 pm
 
 | Skill                                                                         | Ability                                       |
 |-------------------------------------------------------------------------------|-----------------------------------------------|
-| 🦶 &nbsp;[[skills#Acrobatics\|Acrobatics]]           | <span style="color:green">DEX</span>          |
-| 🐴 &nbsp;[[skills#Animal Handling\|Animal Handling]] | <span style="color:gold">WIS</span>           |
-| 💫 &nbsp;[[skills#Arcana\|Arcana]]                   | <span style="color:cornflowerblue">INT</span> |
-| 💪 &nbsp;[[skills#Athletics\|Athletics]]             | <span style="color:red">STR</span>            |
-| 😈 &nbsp;[[skills#Deception\|Deception]]             | <span style="color:purple">CHA</span>         |
-| 📜 &nbsp;[[skills#History\|History]]                 | <span style="color:cornflowerblue">INT</span> |
-| 🤔 &nbsp;[[skills#Insight\|Insight]]                 | <span style="color:gold">WIS</span>           |
-| 😡 &nbsp;[[skills#Intimidation\|Intimidation]]       | <span style="color:purple">CHA</span>         |
-| 🔍 &nbsp;[[skills#Investigation\|Investigation]]     | <span style="color:cornflowerblue">INT</span> |
-| 🩸 &nbsp;[[skills#Medicine\|Medicine]]               | <span style="color:gold">WIS</span>           |
-| 🌳 &nbsp;[[skills#Nature\|Nature]]                   | <span style="color:cornflowerblue">INT</span> |
-| 👀 &nbsp;[[skills#Perception\|Perception]]           | <span style="color:gold">WIS</span>           |
-| 🎭 &nbsp;[[skills#Performance\|Performance]]         | <span style="color:purple">CHA</span>         |
-| 😏 &nbsp;[[skills#Persuasion\|Persuasion]]           | <span style="color:purple">CHA</span>         |
-| 🙏 &nbsp;[[skills#Religion\|Religion]]               | <span style="color:cornflowerblue">INT</span> |
-| ✋ &nbsp;[[skills#Sleight of Hand\|Sleight of Hand]] | <span style="color:green">DEX</span>          |
-| 🤫 &nbsp;[[skills#Stealth\|Stealth]]                 | <span style="color:green">DEX</span>          |
-| ⛺ &nbsp;[[skills#Survival\|Survival]]               | <span style="color:gold">WIS</span>           |
+| 🦶 &nbsp;[[Rules & Options/rules/Skills#Acrobatics\|Acrobatics]]           | <span style="color:green">DEX</span>          |
+| 🐴 &nbsp;[[Rules & Options/rules/Skills#Animal Handling\|Animal Handling]] | <span style="color:gold">WIS</span>           |
+| 💫 &nbsp;[[Rules & Options/rules/Skills#Arcana\|Arcana]]                   | <span style="color:cornflowerblue">INT</span> |
+| 💪 &nbsp;[[Rules & Options/rules/Skills#Athletics\|Athletics]]             | <span style="color:red">STR</span>            |
+| 😈 &nbsp;[[Rules & Options/rules/Skills#Deception\|Deception]]             | <span style="color:purple">CHA</span>         |
+| 📜 &nbsp;[[Rules & Options/rules/Skills#History\|History]]                 | <span style="color:cornflowerblue">INT</span> |
+| 🤔 &nbsp;[[Rules & Options/rules/Skills#Insight\|Insight]]                 | <span style="color:gold">WIS</span>           |
+| 😡 &nbsp;[[Rules & Options/rules/Skills#Intimidation\|Intimidation]]       | <span style="color:purple">CHA</span>         |
+| 🔍 &nbsp;[[Rules & Options/rules/Skills#Investigation\|Investigation]]     | <span style="color:cornflowerblue">INT</span> |
+| 🩸 &nbsp;[[Rules & Options/rules/Skills#Medicine\|Medicine]]               | <span style="color:gold">WIS</span>           |
+| 🌳 &nbsp;[[Rules & Options/rules/Skills#Nature\|Nature]]                   | <span style="color:cornflowerblue">INT</span> |
+| 👀 &nbsp;[[Rules & Options/rules/Skills#Perception\|Perception]]           | <span style="color:gold">WIS</span>           |
+| 🎭 &nbsp;[[Rules & Options/rules/Skills#Performance\|Performance]]         | <span style="color:purple">CHA</span>         |
+| 😏 &nbsp;[[Rules & Options/rules/Skills#Persuasion\|Persuasion]]           | <span style="color:purple">CHA</span>         |
+| 🙏 &nbsp;[[Rules & Options/rules/Skills#Religion\|Religion]]               | <span style="color:cornflowerblue">INT</span> |
+| ✋ &nbsp;[[Rules & Options/rules/Skills#Sleight of Hand\|Sleight of Hand]] | <span style="color:green">DEX</span>          |
+| 🤫 &nbsp;[[Rules & Options/rules/Skills#Stealth\|Stealth]]                 | <span style="color:green">DEX</span>          |
+| ⛺ &nbsp;[[Rules & Options/rules/Skills#Survival\|Survival]]               | <span style="color:gold">WIS</span>           |
 
 ## Meta
 
