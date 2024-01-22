@@ -4,6 +4,7 @@ date created: Sunday, October 22nd 2023, 9:12:22 am
 date modified: Sunday, November 12th 2023, 6:39:43 am
 title: 5e-Monster-Builder
 ---
+
 # The Lazy GM's 5e Monster Builder Resource Document
 
 Scott Fitzgerald Gray, Teos Abadía, Michael E. Shea.
@@ -24,25 +25,25 @@ You can find several versions of this document including EPUB, Markdown, and JSO
 
 ### Table of Contents
 
-*   [Building a Quick Monster](5e-Monster-Builder.md##buildingaquickmonster)
+*   [Building a Quick Monster](#buildingaquickmonster)
 
-*   [General-Use Combat Stat Blocks](5e-Monster-Builder.md##generalusestatblocks)
+*   [General-Use Combat Stat Blocks](#generalusestatblocks)
 
-*   [Lazy Tricks for Running Monsters](5e-Monster-Builder.md##lazytricksforrunningmonsters)
+*   [Lazy Tricks for Running Monsters](#lazytricksforrunningmonsters)
 
-*   [Lightning Rods](5e-Monster-Builder.md##lightingrods)
+*   [Lightning Rods](#lightingrods)
 
-*   [Monster Roles](5e-Monster-Builder.md##monsterroles)
+*   [Monster Roles](#monsterroles)
 
-*   [Bosses and Minions](5e-Monster-Builder.md##bossesandminions)
+*   [Bosses and Minions](#bossesandminions)
 
-*   [The Combat Encounter Checklist](5e-Monster-Builder.md##combatencounterchecklist)
+*   [The Combat Encounter Checklist](#combatencounterchecklist)
 
-*   [Monster Combinations for a Hard Challenge](5e-Monster-Builder.md##monstercombinationsforahardchallenge)
+*   [Monster Combinations for a Hard Challenge](#monstercombinationsforahardchallenge)
 
-*   [Monsters by Adventure Location](5e-Monster-Builder.md##monstersbyadventurelocation)
+*   [Monsters by Adventure Location](#monstersbyadventurelocation)
 
-*   [Monsters and the Tiers of Play](5e-Monster-Builder.md##monstersandthetiersofplay)
+*   [Monsters and the Tiers of Play](#monstersandthetiersofplay)
 
 ## <a id="buildingaquickmonster"></a>Building A Quick Monster
 
