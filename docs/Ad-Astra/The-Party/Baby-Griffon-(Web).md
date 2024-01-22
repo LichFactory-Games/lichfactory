@@ -7,7 +7,7 @@ share: true
 
 
 > [!infobox|right]  
-> >![[../../assets/img/baby-griffon.jpg|baby-griffon.jpg]]  
+> >![[baby-griffon.jpg|baby-griffon.jpg]]  
 > **Player:** Ryalith  
 > **Class:** Pet  
 > **Race:** Griffon  
