@@ -5,6 +5,7 @@ date created: Sunday, March 12th 2023, 2:55:54 pm
 date modified: Thursday, October 12th 2023, 9:01:36 pm
 ---
 
+
 I have helped in thinking about obsidian vault structure with advice from [here](https://phd20.com/my-obsidian-setup-for-dnd) and especially from the [Josh Plunkett beginner video](https://www.patreon.com/JPlunkett/posts?filters[tag]=Beginner). Here are some other useful links for thinking about obsidian and organizing D&D campaigns:
 
 - https://phd20.com/how-i-prepare-for-dnd-with-obsidian
