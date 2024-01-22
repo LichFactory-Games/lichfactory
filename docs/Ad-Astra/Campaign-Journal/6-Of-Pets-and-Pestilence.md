@@ -6,7 +6,7 @@ share: true
 ---
 
 
-> [!info]- Session 5 **Date:** 2023-11-20 1840.04.17 (Day 317 of the 1840th kilochron of Er) 
+> [!info]- Session 6 **Date:** 2023-12-11 1840.04.17 (Day 317 of the 1840th kilochron of Er) 
 >
 > **Party Members:**
 > 

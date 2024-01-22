@@ -2,9 +2,11 @@
 share: true
 date created: Sunday, August 13th 2023, 6:07:50 pm
 date modified: Friday, November 3rd 2023, 3:19:58 pm
-hide: [toc]
+hide:
+  - toc
 title: Home
 ---
+
 
 Welcome to the Lich Factory, the home for all my ttrpg game info and resources.  Here you'll find:
 
@@ -14,4 +16,4 @@ Welcome to the Lich Factory, the home for all my ttrpg game info and resources. 
 - DM Tools I use, including random generators, tables, and easy access to core rule info 
 - Some info on using [Foundry VTT](https://foundryvtt.com), that should hopefully be helpful to players new to the system. I'll also post here notes on my use of Foundry, preferred modules and macros, etc. 
 
-![[./assets/img/lich-factory.webp|lich-factory.webp]]
+![[lich-factory.webp|lich-factory.webp]]

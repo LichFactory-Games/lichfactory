@@ -7,7 +7,7 @@ share: true
 
 
 > [!infobox|right]  
-> ![[../../assets/img/pc-stiggs.png|pc-stiggs.png]]  
+> ![[pc-stiggs.png|pc-stiggs.png]]  
 > **Player:** Griffin  
 > **Class:** Artificer  
 > **Lineage:** Dhampir  

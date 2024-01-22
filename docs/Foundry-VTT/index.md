@@ -4,19 +4,20 @@ modification date: 2023-07-15 16:58:18
 tags:
   - foundry
   - help
-type: folder-note 
+type: folder-note
 share: true
 title: Foundry VTT
 date created: Saturday, July 15th 2023, 4:58:18 pm
 date modified: Tuesday, October 17th 2023, 4:00:55 pm
 ---
 
+
 Foundry can be a bit confusing to use initially. Here are a few links to reference docs and related information to help you. 
 
-- [[./Foundry-Combat|Foundry Combat]]
-- [[./Player-Basics|Player Basics]]
-- [[./Foundry-Chat-Commands|Foundry Chat Commands]]
-- [[./Using-Foundry-Macros|Using Foundry Macros]]
+- [[Foundry VTT/Foundry Chat Commands.md|Foundry Chat Commands]]
+- [[Foundry VTT/Foundry Combat.md|Foundry Combat]]
+- [[Foundry VTT/Player Basics.md|Player Basics]]
+- [[Foundry VTT/Using Foundry Macros.md|Using Foundry Macros]]
 
 
 You can also always go to the knowledge base and search for info: [Foundry knowledge base](https://foundryvtt.com/kb)

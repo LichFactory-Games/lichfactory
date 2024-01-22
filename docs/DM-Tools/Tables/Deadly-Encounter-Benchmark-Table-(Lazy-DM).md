@@ -1,11 +1,12 @@
 ---
 tags:
   - table
-type: info 
+type: info
 share: true
 date created: Tuesday, July 18th 2023, 11:43:00 pm
 date modified: Sunday, October 22nd 2023, 9:16:38 am
 ---
+
 
 | Level | Deadly Monster CR Threshold    |
 |-------|--------------------------------|

@@ -1,6 +1,6 @@
 ---
 share: true
-aliases:
+aliases: 
 creation date: 2023-06-04 16:14
 modification date: 2023-06-04 16:14:51
 tags:
@@ -12,6 +12,7 @@ title: Character Development
 date created: Sunday, June 4th 2023, 4:14:51 pm
 date modified: Sunday, October 22nd 2023, 9:16:40 am
 ---
+
 
 How should we encourage good character development for enhancing role-play and the campaign storyline?
 

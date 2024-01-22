@@ -54,4 +54,4 @@ Some monsters in our games are just more powerful than others. These "big bad bo
 
 Further, bosses can use Legendary Resistance to break other debilitating effects. For example, armored bosses can rip off their armor to avoid heat metal. A death knight can tear open a force cage. A dragon's breath can sometimes break through resistances and immunities. Bosses likely cannot be charmed, suggested, or otherwise easily mentally manipulated.
 
-Save your [[./Save-or-Suck-Abilities|Save or Suck Abilities]] for the boss's minions. 
+Save your [[Save or Suck Abilities|Save or Suck Abilities]] for the boss's minions. 

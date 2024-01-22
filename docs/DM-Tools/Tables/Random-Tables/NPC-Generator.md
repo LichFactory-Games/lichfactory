@@ -1,32 +1,32 @@
 ---
-share: true
-date: 2022-04-15
+date created: Friday, November 3rd 2023, 2:35:58 pm
+date modified: Sunday, January 21st 2024, 4:34:58 pm
 tags:
   - worldbuilding
-date created: Friday, November 3rd 2023, 2:35:58 pm
-date modified: Sunday, November 5th 2023, 4:14:00 pm
+share: true
+date: 2022-04-15
 ---
 
 
-> [!dice]+  NPC Generator
-> `dice: 1d[[Name Generator#^NameTable]]` `dice: 1d[[Name Generator#^NameTable]]` `dice: 1d[[Name Generator#^NameTable]]`
+> [!dice]+ NPC Generator  
+> `dice: 1d[[Name Generator#^NameTable|nodice]]` `dice: 1d[[Name Generator#^NameTable|nodice]]` `dice: 1d[[Name Generator#^NameTable|nodice]]`
 >
-> A(n) `dice:[[NPC Personality#^26fb6c]]|Modifier` and `dice:[[NPC Personality#^attitude-generator]]`  `dice:[[NPC Personality#^26fb6c]]|Noun` motivated to `dice:[[NPC Personality#^26fb6c]]|Motivation Verb` `dice:[[NPC Personality#^26fb6c]]|Motivation Noun` and `dice:[[NPC Personality#^26fb6c]]|Motivation Verb` `dice:[[NPC Personality#^26fb6c]]|Motivation Noun`.
+> A(n) `dice:[[NPC Personality#^26fb6c]]|Modifier` and `dice:[[NPC Personality#^attitude-generator]]` `dice:[[NPC Personality#^26fb6c]]|Noun` motivated to `dice:[[NPC Personality#^26fb6c]]|Motivation Verb` `dice:[[NPC Personality#^26fb6c]]|Motivation Noun` and `dice:[[NPC Personality#^26fb6c]]|Motivation Verb` `dice:[[NPC Personality#^26fb6c]]|Motivation Noun`.
 >
-> **High Ability:**  `dice: [[NPC Generator#^abilities]]|High Ability` 
-> **Low Ability:**  `dice: [[NPC Generator#^abilities]]|Low Ability` 
+> **High Ability:** `dice: [[NPC Generator#^abilities]]|High Ability`  
+> **Low Ability:** `dice: [[NPC Generator#^abilities]]|Low Ability`  
 > **Age**: `dice: [[NPC Generator#^age]]`  
-> **Appearance**:  `dice: [[NPC Generator#^Appearance]]`  
-> **Fear**: `dice: [[NPC Generator#^Fear]]` 
-> **Bonds**: `dice:[[NPC Generator#^Bonds]]` 
-> **Height**: `dice:[[NPC Generator#^weightheight]]|Height` 
-> **Weight**:  `dice:[[NPC Generator#^weightheight]]|Weight` 
-> **Ideal 1**: `dice: [[NPC Generator#^ideal]]` 
-> **Ideal 2**: `dice: [[NPC Generator#^ideal]]` 
-> **Mannerism**: `dice: [[NPC Generator#^mannerism]]` 
-> **Talent**: `dice: [[NPC Generator#^talent]]` 
-> **Combat Personality**: `dice: [[NPC Generator#^combatpersonality]]` 
-> **Ally Relationship**:  `dice: [[NPC Generator#^allyrelationships]]`
+> **Appearance**: `dice: [[NPC Generator#^Appearance]]`  
+> **Fear**: `dice: [[NPC Generator#^Fear]]`  
+> **Bonds**: `dice:[[NPC Generator#^Bonds]]`  
+> **Height**: `dice:[[NPC Generator#^weightheight]]|Height`  
+> **Weight**: `dice:[[NPC Generator#^weightheight]]|Weight`  
+> **Ideal 1**: `dice: [[NPC Generator#^ideal]]`  
+> **Ideal 2**: `dice: [[NPC Generator#^ideal]]`  
+> **Mannerism**: `dice: [[NPC Generator#^mannerism]]`  
+> **Talent**: `dice: [[NPC Generator#^talent]]`  
+> **Combat Personality**: `dice: [[NPC Generator#^combatpersonality]]`  
+> **Ally Relationship**: `dice: [[NPC Generator#^allyrelationships]]`  
 ^generator
 
 ## Supporting Tables
@@ -38,7 +38,7 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 3        | Constitution - hardy, hale, healthy           | Constitution - sickly, pale      |
 | 4        | Intelligence - studious, learned, inquisitive | Intelligence - dim-witted, slow  |
 | 5        | Wisdom - perceptive, spiritual, insightful    | Wisdom - oblivious, absentminded |
-| 6        | Charisma - persuasive, forceful, born leader  | Charisma - dull, boring          |
+| 6        | Charisma - persuasive, forceful, born leader  | Charisma - dull, boring          |  
 ^abilities
 
 
@@ -48,7 +48,7 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 05-19       | Teen       |
 | 20-69       | Adult      |
 | 70-94       | Middle Age |
-| 94-99       | Senior     |
+| 94-99       | Senior     |  
 ^age
 
 
@@ -73,7 +73,7 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 17        | Distinctive nose                                            |
 | 18        | Distinctive posture (crooked or rigid)                      |
 | 19        | Exceptionally beautiful                                     |
-| 20        | Exceptionally ugly                                          |
+| 20        | Exceptionally ugly                                          |  
 ^Appearance
 
 | dice:1d12 | Feature                                          |
@@ -89,7 +89,7 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 9         | Shameful or scandalous history                   |
 | 10        | Secret crime or misdeed                          |
 | 11        | Possession of forbidden lore                     |
-| 12        | Foolhardy bravery                                                 |
+| 12        | Foolhardy bravery                                                 |  
 ^Fear
 
 
@@ -104,7 +104,7 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 7         | Protective of a sentimental keepsake                    |
 | 8         | Protective of a valuable possession                     |
 | 9         | Out for revenge                                         |
-| 10        | Forced on a quest or other work for some powerful being | 
+| 10        | Forced on a quest or other work for some powerful being |   
 ^Bonds
 
 | dice: 1d100 | Height              | Weight               |
@@ -113,7 +113,7 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 06-20       | Short               | Skinny               |
 | 21-80       | Average             | Average              |
 | 81-95       | Tall                | Heavy                |
-| 96-00       | Exceptionally tall  | Exceptionally heavy                     |
+| 96-00       | Exceptionally tall  | Exceptionally heavy                     |  
 ^weightheight
 
 | dice:1d36 | Ideal             |
@@ -153,7 +153,7 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 33        | Neutrality        |
 | 34        | Redemption        |
 | 35        | People            |
-| 36        | Self-knowledge    |
+| 36        | Self-knowledge    |  
 ^ideal
 
 | dice:1d12 | Trait         |
@@ -169,7 +169,7 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 9         | Irritable     |
 | 10        | Ponderous     |
 | 11        | Quiet         |
-| 12        | Suspicious     |
+| 12        | Suspicious     |  
 ^trait
 
 | dice: 1d20 | Mannerism                                      |
@@ -193,7 +193,7 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 17         | Paces                                          |
 | 18         | Taps fingers                                   |
 | 19         | Bites Fingernails                              |
-| 20         | Twirls hair or tugs beard                      |
+| 20         | Twirls hair or tugs beard                      |  
 ^mannerism
 
 | dice: 1d20 | Talent                               |
@@ -217,7 +217,7 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 17         | Expert juggler                       |
 | 18         | Skilled actor and master of disguise |
 | 19         | Skilled dancer                       |
-| 20         | Knows thieves' cant                  |
+| 20         | Knows thieves' cant                  |  
 ^talent
 
 
@@ -230,7 +230,7 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 5        | Rabble; poorly trained and easily rattled              |
 | 6        | Brave; stands its ground                               |
 | 7        | Joker; taunts its enemies                             |
-| 8        | Bully; refuses to believe it can use                                                       |
+| 8        | Bully; refuses to believe it can use                                                       |  
 ^combatpersonality
 
 | dice:1d6 | Relationships                                                 |
@@ -240,10 +240,10 @@ date modified: Sunday, November 5th 2023, 4:14:00 pm
 | 3        | is worshiped; allies will die for it                          |
 | 4        | is outcast by group; its allies ignore it                     |
 | 5        | is outcast by choice; cares only for itself                   |
-| 6        | is seen as a bully; its allies want to see it defeated                                                              |
+| 6        | is seen as a bully; its allies want to see it defeated                                                              |  
 ^allyrelationships
 
 
-Sources: 
-Dungeon Master's Guide 5e
+Sources:  
+Dungeon Master's Guide 5e  
 Dungeon Master's Guide 3.5

@@ -7,6 +7,7 @@ tag:
 type: randomizer
 ---
 
+
 Todays random monster is based on (structured as name, ecological niche, key traits, and hunting style):
 
 `dice: [[Monster Base organisms#^base-organisms]]`

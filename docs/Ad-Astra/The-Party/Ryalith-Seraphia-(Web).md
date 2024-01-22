@@ -7,7 +7,7 @@ share: true
 
 
 > [!infobox|right]  
-> ![[../../assets/img/faeir-feline.png|faeir-feline.png]]  
+> ![[faeir-feline.png|faeir-feline.png]]  
 > **Player:** Val  
 > **Class:** Pugilist  
 > **Race:** Faeir  
