@@ -23,10 +23,10 @@ Arion, Sylfweard of Althussein
 
 ---
 
-- [[./1.-Overview|1. Overview]]
-- [[./2.-People-&-Factions|2. People & Factions]]
-- [[./3.-Locations|3. Locations]]
-- [[./4.-Ermis-Calendar|4. Ermis Calendar]]
+- [[Ad Astra/Ermis Enchiridion/1. Overview.md|1. Overview]]
+- [[Ad Astra/Ermis Enchiridion/2. People & Factions.md|2. People & Factions]]
+- [[Ad Astra/Ermis Enchiridion/3. Locations.md|3. Locations]]
+- [[Ad Astra/Ermis Enchiridion/4. Ermis Calendar.md|4. Ermis Calendar]]
 
 
 > [!info| no-icon title-center]- A Note From the Editors  
