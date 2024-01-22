@@ -9,7 +9,7 @@ The Chat sidebar is one of the most important interfaces for players on Foundry,
 
 Here's some basic info: 
 
-![[../assets/img/foundry-chat.png|foundry-chat.png]]
+![[foundry-chat.png|foundry-chat.png]]
 
 You can send messages to other players or the GM. You can also roll dice or run macros. I'm also using a module -- 'Chat commander' -- to make using chat for text or rolling a bit easier, including adding an autocomplete function (for more see the Chat commander [webpage](https://gitlab.com/woodentavern/foundryvtt-chat-command-lib#core-commands)) Here is some basic info for types of commands in chat (for further details see the [foundry-vtt wiki](https://foundryvtt.wiki/en/basics/Chat)): 
 
