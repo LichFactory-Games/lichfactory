@@ -9,7 +9,7 @@ tags:
 share: true
 type: familiar
 linter-yaml-title-alias: "**Prince Slithy (Web)**"
-art: "![[slithy-familiar.png|75]]"
+art: "![[../../assets/img/slithy-familiar.png|75]]"
 player: Adam (Keotep)
 name: 
 class: Familiar
@@ -56,7 +56,7 @@ religion:
 
 
 > [!infobox|right]  
-> >![[slithy-familiar.png|slithy-familiar.png]]  
+> >![[../../assets/img/slithy-familiar.png|slithy-familiar.png]]  
 > **Player:** Adam  
 > **Class:** Familiar  
 > **Race:** Snake  
