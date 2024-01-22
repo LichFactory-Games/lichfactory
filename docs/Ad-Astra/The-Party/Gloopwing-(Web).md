@@ -6,7 +6,7 @@ share: true
 
 
 > [!infobox|right]  
-> ![[../../assets/img/gloopwing.png|gloopwing.png]]  
+> ![[gloopwing.png|gloopwing.png]]  
 > **Player:** Rebbecca  
 > **Class:** Fighter (Psi-Warrior)  
 > **Race:** Plasmoid  
