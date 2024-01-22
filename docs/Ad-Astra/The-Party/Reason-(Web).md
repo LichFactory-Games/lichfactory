@@ -8,7 +8,7 @@ tags:
   - erspace/ermis/construct
 share: true
 image: 
-art: "![[reason_purple.webp|reason_purple.webp]]"
+art: "![[../../assets/img/reason_purple.webp|reason_purple.webp]]"
 type: pc
 name: Reason
 player: Stigs
@@ -74,7 +74,7 @@ linter-yaml-title-alias: "**`Reason`**"
 
 
 > [!infobox|right]  
-> >![[reason_purple.webp|reason_purple.webp]]  
+> >![[../../assets/img/reason_purple.webp|reason_purple.webp]]  
 > **Player:** Griffin  
 > **Class:** Steel Defender  
 > **Race:** Construct  

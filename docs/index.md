@@ -16,4 +16,4 @@ Welcome to the Lich Factory, the home for all my ttrpg game info and resources. 
 - DM Tools I use, including random generators, tables, and easy access to core rule info 
 - Some info on using [Foundry VTT](https://foundryvtt.com), that should hopefully be helpful to players new to the system. I'll also post here notes on my use of Foundry, preferred modules and macros, etc. 
 
-![[lich-factory.webp|lich-factory.webp]]
+![[./assets/img/lich-factory.webp|lich-factory.webp]]

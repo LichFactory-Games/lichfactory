@@ -19,7 +19,7 @@ date modified: Sunday, November 5th 2023, 9:05:35 pm
 - **Skill encounters** are rewarded with supplies, shortcuts, and rest; and punished with delay and exhaustion. Prepare the locations if necessary but let the players suggest how to move forward. This is a good place for puzzles and traps if your players like them. 
 - **Roleplay encounters** are rewarded with lore, inspiration and small magic boons, and punished with loss of inspiration, exhaustion, and minor curses. The party rolls wisdom or constitution saves, and success determines whether they receive the benefits the location holds. Prepare an evocative description of the location (or prepare to improvise) and ask "How does your character feel when you see this?" Encourage the players to ask each other this as well, and to reflect on the scene together.
 
-[^1]: Original Source from Elizabeth Van Couvering. See [[Better-Encounters-by-ejvc.pdf|Better-Encounters-by-ejvc.pdf]]
+[^1]: Original Source from Elizabeth Van Couvering. See [[../../../assets/img/Better-Encounters-by-ejvc.pdf|Better-Encounters-by-ejvc.pdf]]
 
 ### Wilderness Encounters
 | d12 | Encounter Name | Encounter Type | Description                                                                                                                                                                                                  |

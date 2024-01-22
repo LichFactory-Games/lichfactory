@@ -6,7 +6,7 @@ share: true
 
 
 > [!infobox|right]  
-> ![[pc-karel2.png|pc-karel2.png]]
+> ![[../../assets/img/pc-karel2.png|pc-karel2.png]]
 > **Character Name:** Kárel  
 > **Player:** Josh  
 > **Class** Pugilist  

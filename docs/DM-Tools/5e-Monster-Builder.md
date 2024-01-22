@@ -25,25 +25,25 @@ You can find several versions of this document including EPUB, Markdown, and JSO
 
 ### Table of Contents
 
-*   [Building a Quick Monster](#buildingaquickmonster)
+*   [Building a Quick Monster](5e-Monster-Builder.md##buildingaquickmonster)
 
-*   [General-Use Combat Stat Blocks](#generalusestatblocks)
+*   [General-Use Combat Stat Blocks](5e-Monster-Builder.md##generalusestatblocks)
 
-*   [Lazy Tricks for Running Monsters](#lazytricksforrunningmonsters)
+*   [Lazy Tricks for Running Monsters](5e-Monster-Builder.md##lazytricksforrunningmonsters)
 
-*   [Lightning Rods](#lightingrods)
+*   [Lightning Rods](5e-Monster-Builder.md##lightingrods)
 
-*   [Monster Roles](#monsterroles)
+*   [Monster Roles](5e-Monster-Builder.md##monsterroles)
 
-*   [Bosses and Minions](#bossesandminions)
+*   [Bosses and Minions](5e-Monster-Builder.md##bossesandminions)
 
-*   [The Combat Encounter Checklist](#combatencounterchecklist)
+*   [The Combat Encounter Checklist](5e-Monster-Builder.md##combatencounterchecklist)
 
-*   [Monster Combinations for a Hard Challenge](#monstercombinationsforahardchallenge)
+*   [Monster Combinations for a Hard Challenge](5e-Monster-Builder.md##monstercombinationsforahardchallenge)
 
-*   [Monsters by Adventure Location](#monstersbyadventurelocation)
+*   [Monsters by Adventure Location](5e-Monster-Builder.md##monstersbyadventurelocation)
 
-*   [Monsters and the Tiers of Play](#monstersandthetiersofplay)
+*   [Monsters and the Tiers of Play](5e-Monster-Builder.md##monstersandthetiersofplay)
 
 ## <a id="buildingaquickmonster"></a>Building A Quick Monster
 

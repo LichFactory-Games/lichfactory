@@ -23,13 +23,13 @@ I'll walk you through the basic tutorial that you can find [here](https://foundr
 
 I'll have you set with a default character (you can modify everything about this character). You also don't need a password. Just pick your name and log in!
 
-![[foundry-join-game.png|foundry-join-game.png]]
+![[../assets/img/foundry-join-game.png|foundry-join-game.png]]
 
 ## Game UI
 
 The Game UI will often look slightly different from what you see below. The player's list and macro hotbar are often going to be collapsed on the left, and the sidebar will often be collapsed on the right. These can be expanded as you like. 
 
-![[foundry-game-controls.png|foundry-game-controls.png]]
+![[../assets/img/foundry-game-controls.png|foundry-game-controls.png]]
 
 - Scene Navigation Bar
 	- Used to switch between currently available scenes.
@@ -48,42 +48,42 @@ The Game UI will often look slightly different from what you see below. The play
 
 The sidebars are where you can find all your settings, actors, items, journals, etc. The sidebar will typically collapsed on the right. You can single click on any icon to create a separate window, or you can expand the sidebar and click through that way. 
 
-![[foundry-sidebars.png|foundry-sidebars.png]]
+![[../assets/img/foundry-sidebars.png|foundry-sidebars.png]]
 
 ## Sound & Volume
 
 I'll use some background ambient sound. If it gets annoying for you, or otherwise interferes with play, you can alter the volume as you prefer. 
 
-![[foundry-sound.png|foundry-sound.png]]
+![[../assets/img/foundry-sound.png|foundry-sound.png]]
 
 ## Users & Macros
 
-![[foundry-macros.png|foundry-macros.png]]
+![[../assets/img/foundry-macros.png|foundry-macros.png]]
 
 ## Chat
 
-Other than your character sheet, the chat is probably the most important interface for you to use in Foundry, as it is where you will usually roll all dice and see the results of your and others rolls. You can also send messages to other players or the DM. For more extensive info see [[Foundry Chat Commands|Foundry Chat Commands]].
+Other than your character sheet, the chat is probably the most important interface for you to use in Foundry, as it is where you will usually roll all dice and see the results of your and others rolls. You can also send messages to other players or the DM. For more extensive info see [[./Foundry-Chat-Commands|Foundry Chat Commands]].
 
-![[foundry-chat.png|foundry-chat.png]]
+![[../assets/img/foundry-chat.png|foundry-chat.png]]
 
 ## Your Character
 
 You can find your character in the "actors" tab in the sidebar. 
 
-![[foundry-character.png|foundry-character.png]]
+![[../assets/img/foundry-character.png|foundry-character.png]]
 
 When you click on a character you own you'll see your character sheet. It is roughly similar to a dndbeyond character sheet, if a bit denser. You can drag and drop items or spells, etc., onto the sheet. 
 
-![[foundry-char-sheet.png|foundry-char-sheet.png]]
+![[../assets/img/foundry-char-sheet.png|foundry-char-sheet.png]]
 
 ## Navigation
 
 Just as with roll20, you can move by keyboard or dragging your token around (or drag it onto a scene if not present). 
 
-![[foundry-nav.png|foundry-nav.png]]
+![[../assets/img/foundry-nav.png|foundry-nav.png]]
 
 ## Your Token
 
 Your token is attached to your actor and character sheet. Right click on your token to see a number of actions you can take, and information. You can also get a quick glimpse of basic character info like AC and HP by hovering over your token and pressing the shift key. 
 
-![[foundry-tokem.png|foundry-tokem.png]]
+![[../assets/img/foundry-tokem.png|foundry-tokem.png]]
