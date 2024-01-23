@@ -1,5 +1,7 @@
 ---
-title: session 1
+title: session 01
+date created: Friday, November 24th 2023, 7:41:42 am
+date modified: Tuesday, January 23rd 2024, 10:39:50 am
 share: true
 type: journal
 ---
