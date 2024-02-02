@@ -36,9 +36,6 @@ theme:
         - navigation.top
         - navigation.footer
         - navigation.path
-        # - navigation.tabs
-        # - navigation.tabs.sticky
-        # - navigation.expand
         - search.suggest
         - search.highlight
         - toc.follow
@@ -121,7 +118,7 @@ plugins:
       enabled: true
       blog_dir: Cryptography
       blog_toc: false
-      categories: false
+      categories: true
       authors: false
       archive: false      
       pagination: false
@@ -135,7 +132,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - Cryptography (Blog):
+  - Cryptography:
     - Cryptography/index.md
   - GM Tools:
     - GM-Tools/index.md
