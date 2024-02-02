@@ -120,7 +120,7 @@ plugins:
       blog_toc: false
       categories: true
       authors: false
-      archive: false      
+      archive: true      
       pagination: false
       draft_if_future_date: true
       post_readtime: true
