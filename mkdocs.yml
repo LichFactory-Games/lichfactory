@@ -115,7 +115,6 @@ plugins:
       file: 'assets/css/custom_attributes.css'
   - blog:
       enabled: true
-      blog_dir: 'Tales from the Crypt'
   - encryptcontent:
       title_prefix: '🔐'
       summary: 'Private page'
