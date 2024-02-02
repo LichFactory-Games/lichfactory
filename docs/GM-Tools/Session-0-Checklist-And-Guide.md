@@ -1,20 +1,20 @@
 ---
 title: session 0 guide
 date created: Sunday, January 21st 2024, 10:09:22 am
-date modified: Monday, January 22nd 2024, 1:14:06 pm
+date modified: Friday, February 2nd 2024, 6:18:34 pm
 share: true
 ---
 
-
-# Session-0 Topic Checklist and Guide
-
-## Welcome to Haze-Zero's Session-0 Topic List & Guide.
 
 Perhaps you are a new DM, or perhaps your a veteran DM but seemingly always forget that one topic to cover in Session-0, perhaps your a vetern player starting with a new DM. This guide is here to serve as a check-list for potential DMs for the topics you could discuss with your players durring a session-0. This list of topics are things I have come up over the years as I have DMed, but also some things I have gathered from the shared online & offline experiences of others. Know also, that this is something of an interactive guide. If you feel there is an important topic that should be discussed in a Session-0 that I missed, feel free to suggest it, if I agree, will add it to this article & credit you for the addition. 
 
 DMs this is more than a check list though, these are potential discussions to be had at the table with your players. Read through, form your own opinions & thoughts before you discuss this at your table, but to also keep an open mind & be willing to adjust & adapt to your players. You may not want to preset ALL of these topics as table discussions, but that is what this check-list is for. Prune or add to as much or as little as you like for your DM-style & campaign. 
 
 Rules as written in PHB or DMG may cover what happens in a circumstance, for a topic I list here & you may be attempted to provide those rules in reply to this article. Other questions may seem to have obvious answers. Understand though, I am not asking for solutions, that is not why this topic is here. If you want to share and discuss here in the comments that is fine, but more importantly save your answer for the players at your table. These are here to help you consider various topics, circumstances and potential issues in your Session-0, so that they do not become problems during game-play, or in case they do, you can refer back to the things you covered in session-0.
+
+
+> [!info]- Source  
+> <https://old.reddit.com/r/dndnext/comments/601awb/session0_topic_checklist_and_guide/>
 
 ## Topic List
 
@@ -248,7 +248,3 @@ Rules as written in PHB or DMG may cover what happens in a circumstance, for a t
     
 - **Resting Rules** - DMs if you have rules for rest mechanics discuss them here. A common rule seems to be only 2 short rest before a long rest. Another common is that a Long Rest always starts with a Short rest.
     
-
-> [!info]- Source  
-> <https://old.reddit.com/r/dndnext/comments/601awb/session0_topic_checklist_and_guide/>
-
