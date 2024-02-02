@@ -119,7 +119,7 @@ plugins:
   - glightbox
   - blog:
       enabled: true
-      blog_dir: blog
+      blog_dir: Cryptography
       blog_toc: false
       categories: false
       authors: false
@@ -135,12 +135,10 @@ plugins:
 
 nav:
   - Home: index.md
-  - Blog:
-    - blog/index.md
+  - Cryptography (Blog):
+    - Cryptography/index.md
   - GM Tools:
     - GM-Tools/index.md
-  - Adventures:
-    - Adventures/index.md
     
 hooks:
   - overrides/hooks/on_page_markdown.py
