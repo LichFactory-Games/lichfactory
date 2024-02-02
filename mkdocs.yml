@@ -39,7 +39,6 @@ theme:
         - search.suggest
         - search.highlight
         - toc.follow
-        - navigation.indexes        
 
 # Extensions
 markdown_extensions:
@@ -129,13 +128,6 @@ plugins:
       post_excerpt: optional
       post_excerpt_separator: <!-- more -->
       post_readtime: true
-
-nav:
-  - Home: index.md
-  - Cryptography:
-    - Cryptography/index.md
-  - GM Tools:
-    - GM-Tools/index.md
     
 hooks:
   - overrides/hooks/on_page_markdown.py
