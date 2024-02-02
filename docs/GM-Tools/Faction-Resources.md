@@ -5,7 +5,7 @@ share: true
 ---
 
 
-## Faction Resources 
+# Faction Resources 
 
 - Keith Amman "We See it Differently" <https://www.dmsguild.com/product/321006/We-See-It-Differently-Bringing-Factions-into-Conflict>
 - Role Playing Tips Faction Articles: <https://www.roleplayingtips.com/world-building/the-faction-pyramid-technique/>
