@@ -45,9 +45,11 @@ theme:
         - navigation.indexes        
 
 nav:
-  - ...
+  - Home: index.md
   - Blog:
-    - blog/index.md
+    - Tales from the Crypt/index.md
+  - GM Tools: index.md
+  - Adventures: index.md
     
 # Extensions
 markdown_extensions:
@@ -96,9 +98,6 @@ plugins:
   - tags:
       enabled: false
   - search
-  - blog:
-      enabled: true
-      blog_dir: blog
   - meta-descriptions
   - git-revision-date-localized:
       type: date
@@ -114,6 +113,9 @@ plugins:
       custom-attributes: 'assets/css/custom_attributes.css'
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
+  - blog:
+      enabled: true
+      blog_dir: 'Tales from the Crypt'
   - encryptcontent:
       title_prefix: '🔐'
       summary: 'Private page'
