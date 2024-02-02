@@ -22,7 +22,7 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
 
-    # Dark mode
+# Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
@@ -42,7 +42,13 @@ theme:
         - search.suggest
         - search.highlight
         - toc.follow
+        - navigation.indexes        
 
+nav:
+  - ...
+  - Blog:
+    - blog/index.md
+    
 # Extensions
 markdown_extensions:
   - footnotes
@@ -90,6 +96,9 @@ plugins:
   - tags:
       enabled: false
   - search
+  - blog:
+      enabled: true
+      blog_dir: blog
   - meta-descriptions
   - git-revision-date-localized:
       type: date
