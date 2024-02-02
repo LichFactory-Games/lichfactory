@@ -47,9 +47,9 @@ theme:
 nav:
   - Home: index.md
   - Blog:
-    - Tales from the Crypt/index.md
-  - GM Tools: index.md
-  - Adventures: index.md
+    - 'Tales from the Crypt/Tales from the Crypt.md'
+  - GM Tools: 'GM Tools/GM Tools.md'
+  - Adventures: 'Adventures/Adventures.md'
     
 # Extensions
 markdown_extensions:
