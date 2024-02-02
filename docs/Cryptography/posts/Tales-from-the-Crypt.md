@@ -1,9 +1,9 @@
 ---
-date: 24-02-02
+date: 2024-02-02
 title: Tales from the Crypt
 share: true
 date created: Friday, February 2nd 2024, 5:31:52 pm
-date modified: Friday, February 2nd 2024, 5:41:30 pm
+date modified: Friday, February 2nd 2024, 5:45:15 pm
 ---
 
 
