@@ -1,6 +1,6 @@
 ---
 date: 2024-02-03
-title: 
+title: Adventure Riffing
 share: true
 categories:
   - GMing
@@ -8,7 +8,7 @@ categories:
   - process
   - homebrew
 date created: Saturday, February 3rd 2024, 11:57:54 am
-date modified: Saturday, February 3rd 2024, 4:55:58 pm
+date modified: Saturday, February 3rd 2024, 5:04:48 pm
 ---
 
 
@@ -29,7 +29,7 @@ The arc of the campaign requires the PCs to go to the largest city on the contin
 
 Of course, I could have just tried to work up something myself. But I had been spending a lot of time on the campaign setting itself and world-building and was hoping to save myself some time. I also had only limited experience running a 5e game and wanted a little bit of hand-holding. In this sort of situation riffing on an adventure seems like the perfect thing. 
 
-## Choosing an adventure 
+## Choosing an Adventure 
 
 After a little bit of web-searching, I settled on the 5e adventure "[The Night Hunter](https://adventurelookup.com/adventures/the-night-hunter)" from [Arcane Library](https://www.thearcanelibrary.com). It was first level, was set in the woods, had a creepy/horror vibe (it is a riff on the "slasher in the woods" trope), and Kelsey Dionne, the writer, was known for her design sense and for writing good material. 
 
