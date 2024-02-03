@@ -1,7 +1,7 @@
 ---
-title: session 0 guide
+title: Session 0 guide
 date created: Sunday, January 21st 2024, 10:09:22 am
-date modified: Friday, February 2nd 2024, 6:18:34 pm
+date modified: Friday, February 2nd 2024, 10:45:20 pm
 share: true
 ---
 
