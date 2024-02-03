@@ -3,12 +3,12 @@ date: 2024-02-03
 title: Adventure Riffing
 share: true
 categories:
-  - GMing
-  - D&D
+  - gm
+  - dnd
   - process
   - homebrew
 date created: Saturday, February 3rd 2024, 11:57:54 am
-date modified: Saturday, February 3rd 2024, 5:04:48 pm
+date modified: Saturday, February 3rd 2024, 5:15:14 pm
 ---
 
 
