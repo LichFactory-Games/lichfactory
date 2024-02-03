@@ -1,11 +1,9 @@
 ---
 date created: Thursday, December 21st 2023, 12:54:57 pm
-date modified: Monday, January 22nd 2024, 1:14:28 pm
+date modified: Friday, February 2nd 2024, 10:38:16 pm
 share: true
 ---
 
-
-# Faction Resources 
 
 - Keith Amman "We See it Differently" <https://www.dmsguild.com/product/321006/We-See-It-Differently-Bringing-Factions-into-Conflict>
 - Role Playing Tips Faction Articles: <https://www.roleplayingtips.com/world-building/the-faction-pyramid-technique/>
