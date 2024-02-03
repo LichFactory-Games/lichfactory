@@ -1,13 +1,13 @@
 ---
 date created: Thursday, December 21st 2023, 12:54:57 pm
-date modified: Friday, February 2nd 2024, 10:38:16 pm
+date modified: Friday, February 2nd 2024, 11:11:34 pm
 share: true
 ---
 
 
 - Keith Amman "We See it Differently" <https://www.dmsguild.com/product/321006/We-See-It-Differently-Bringing-Factions-into-Conflict>
 - Role Playing Tips Faction Articles: <https://www.roleplayingtips.com/world-building/the-faction-pyramid-technique/>
-- <https://www.roleplayingtips.com/adventure-building-campaigns/walking-the-faction-pyramid-magic-trinkets-magic-banking/>
+- The Faction Pyramid: <https://www.roleplayingtips.com/adventure-building-campaigns/walking-the-faction-pyramid-magic-trinkets-magic-banking/>
 - "Situations for Tabletop Roleplaying" <https://preview.drivethrurpg.com/en/product/102507/Situations-For-Tabletop-Roleplaying>
 - Dire Den videos: "5 steps to Better Campaign Prep" <https://www.youtube.com/watch?v=8vHolPWjAdg>
 - "D&D Factions: Campaign Prep part 5" <https://www.youtube.com/watch?v=MnSsfMnabpI>
