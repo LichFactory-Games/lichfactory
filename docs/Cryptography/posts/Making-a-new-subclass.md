@@ -1,5 +1,5 @@
 ---
-date: 2024-02-02
+date: 2024-02-06
 title: Making a New Subclass in D&D 5e
 share: true
 categories:
