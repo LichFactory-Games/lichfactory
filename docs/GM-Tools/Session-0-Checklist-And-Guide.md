@@ -1,16 +1,16 @@
 ---
 title: Session 0 guide
 date created: Sunday, January 21st 2024, 10:09:22 am
-date modified: Friday, February 2nd 2024, 10:45:20 pm
+date modified: Tuesday, February 6th 2024, 5:58:15 pm
 share: true
 ---
 
 
-Perhaps you are a new DM, or perhaps your a veteran DM but seemingly always forget that one topic to cover in Session-0, perhaps your a vetern player starting with a new DM. This guide is here to serve as a check-list for potential DMs for the topics you could discuss with your players durring a session-0. This list of topics are things I have come up over the years as I have DMed, but also some things I have gathered from the shared online & offline experiences of others. Know also, that this is something of an interactive guide. If you feel there is an important topic that should be discussed in a Session-0 that I missed, feel free to suggest it, if I agree, will add it to this article & credit you for the addition. 
+One of the most important things you can do to help get your games off on the right foot, whatever system you're playing, is to have a "session 0" in which you talk over the core features of your game, what you expect from your players, what they expect from you (and each other), and various other issues. 
 
-DMs this is more than a check list though, these are potential discussions to be had at the table with your players. Read through, form your own opinions & thoughts before you discuss this at your table, but to also keep an open mind & be willing to adjust & adapt to your players. You may not want to preset ALL of these topics as table discussions, but that is what this check-list is for. Prune or add to as much or as little as you like for your DM-style & campaign. 
+Below is a fantastic list of questions to think about and issues to address, originally appearing on reddit but reposted here for posterity (even if just for me…). A lot of it is 5e-oriented, but much is useful food for thought in virtually any style of game. 
 
-Rules as written in PHB or DMG may cover what happens in a circumstance, for a topic I list here & you may be attempted to provide those rules in reply to this article. Other questions may seem to have obvious answers. Understand though, I am not asking for solutions, that is not why this topic is here. If you want to share and discuss here in the comments that is fine, but more importantly save your answer for the players at your table. These are here to help you consider various topics, circumstances and potential issues in your Session-0, so that they do not become problems during game-play, or in case they do, you can refer back to the things you covered in session-0.
+Bear in mind that these are all *potential* discussions to be had at the table with your players. Not everything might be applicable or suitable to your table. Prune or add to as much or as little as you like for your GM/DM-style & campaign. 
 
 
 > [!info]- Source  
