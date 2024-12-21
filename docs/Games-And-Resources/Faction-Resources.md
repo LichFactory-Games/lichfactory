@@ -4,7 +4,6 @@ date modified: Friday, February 2nd 2024, 11:11:34 pm
 share: true
 ---
 
-
 - Keith Amman "We See it Differently" <https://www.dmsguild.com/product/321006/We-See-It-Differently-Bringing-Factions-into-Conflict>
 - Role Playing Tips Faction Articles: <https://www.roleplayingtips.com/world-building/the-faction-pyramid-technique/>
 - The Faction Pyramid: <https://www.roleplayingtips.com/adventure-building-campaigns/walking-the-faction-pyramid-magic-trinkets-magic-banking/>

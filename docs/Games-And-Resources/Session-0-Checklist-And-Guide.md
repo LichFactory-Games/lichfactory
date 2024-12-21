@@ -5,7 +5,6 @@ date modified: Tuesday, February 6th 2024, 5:58:15 pm
 share: true
 ---
 
-
 One of the most important things you can do to help get your games off on the right foot, whatever system you're playing, is to have a "session 0" in which you talk over the core features of your game, what you expect from your players, what they expect from you (and each other), and various other issues. 
 
 Below is a fantastic list of questions to think about and issues to address, originally appearing on reddit but reposted here for posterity (even if just for me…). A lot of it is 5e-oriented, but much is useful food for thought in virtually any style of game. 
