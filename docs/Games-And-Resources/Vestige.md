@@ -1,6 +1,6 @@
 ---
 date created: Saturday, December 21st 2024, 3:00:51 pm
-date modified: Saturday, December 21st 2024, 3:09:12 pm
+date modified: Saturday, December 21st 2024, 3:14:10 pm
 share: true
 categories:
   - homebrew
@@ -17,22 +17,11 @@ The aim of the game and setting is to be a different take on standard cyberpunk 
 
 The world has changed dramatically since the catastrophic events of the 2040s. The Null Event in 2043 erased vast swaths of digital records and history. It was followed by the White Death, a devastating fungal pandemic that claimed nearly a third of the world's population. In the chaos that followed, the United States fractured into several successor states, with the American Union emerging as one of the largest and most stable.
 
-`\sloppy`{=latex}
-
 Today, society functions differently. The global internet is gone, replaced by isolated local networks connected by physical data couriers. Technology has advanced but is viewed with more suspicion, especially the neural-integrated "Daemon" computers that some blame for the Null. Cities are more self-contained, travel between regions is more restricted, and people have learned to be warier of both technology and authority.
 
 ### The Federal Security Agency
 
-The Federal Security Agency serves as the American Union's primary investigative and security organization, combining the roles once held by agencies like the FBI and CIA. Since the Crash, the FSA has evolved to face both traditional criminal enterprises and 
-
-
-
-`\switchcolumn[1]`{=latex}
-
-
-strange phenomena or inexplicable incidents that seem to defy conventional explanation.
-
-`\fussy`{=latex}
+The Federal Security Agency serves as the American Union's primary investigative and security organization, combining the roles once held by agencies like the FBI and CIA. Since the Crash, the FSA has evolved to face both traditional criminal enterprises and strange phenomena or inexplicable incidents that seem to defy conventional explanation.
 
 ### Task Force Vestige
 
