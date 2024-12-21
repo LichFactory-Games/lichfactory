@@ -1,13 +1,13 @@
 ---
 date created: Saturday, December 21st 2024, 3:00:51 pm
-date modified: Saturday, December 21st 2024, 3:17:38 pm
+date modified: Saturday, December 21st 2024, 3:25:47 pm
 share: true
 categories:
   - homebrew
   - games
 ---
 
-I've been working on and off on an investigative near-future sci-fi/horror game called *Vestige*. You can read more about the setting below. You can also check out the (work-in-progress) core book -- the [Vestige Field Manual](https://www.icloud.com/iclouddrive/087LwAYxUtss6AWi_4bxY4A_w#vestige-field-manual) -- and and an intro adventure -- [Echo Chamber](https://www.icloud.com/iclouddrive/034-fchBBZmoKCkfxUYLNvwNQ#echo-chamber).
+I've been working on and off on an investigative near-future sci-fi/horror game called *Vestige*. You can read more about the setting below. You can also check out the (work-in-progress) core book -- the [Vestige Field Manual](https://www.dropbox.com/scl/fi/t0wm2zg82vonimbrlgehf/vestige-field-manual.pdf?rlkey=4y6e7a51884lr4bomn3n3dias&st=iaiornc3&dl=0) -- and and an intro adventure -- [Echo Chamber](https://www.dropbox.com/scl/fi/f2l8tn1j8scp8m2cdfceo/echo-chamber.pdf?rlkey=108kfl0a2f5rtbaurii6vvjwc&st=uj85yw4j&dl=0).
 
 The aim of the game and setting is to be a different take on standard cyberpunk settings, and while being horror, not strictly cosmic horror like so many games are these days (don't get me wrong, I love Lovecraft!), and not about watching your character slowly come to pieces under the pressure of their work. 
 
@@ -15,13 +15,13 @@ The aim of the game and setting is to be a different take on standard cyberpunk 
 
 ### The World of 2065
 
-The world has changed dramatically since the catastrophic events of the 2040s. The Null Event in 2043 erased vast swaths of digital records and history. It was followed by the White Death, a devastating fungal pandemic that claimed nearly a third of the world's population. In the chaos that followed, the United States fractured into several successor states, with the Federated States of America (NSB) emerging as one of the largest and most stable.
+The world has changed dramatically since the catastrophic events of the 2040s. The Null Event in 2043 erased vast swaths of digital records and history. It was followed by the White Death, a devastating fungal pandemic that claimed nearly a third of the world's population. In the chaos that followed, the United States fractured into several successor states, with the Federated States of America (FSA) emerging as one of the largest and most stable.
 
 Today, society functions differently. The global internet is gone, replaced by isolated local networks connected by physical data couriers. Technology has advanced but is viewed with more suspicion, especially the neural-integrated "Daemon" computers that some blame for the Null. Cities are more self-contained, travel between regions is more restricted, and people have learned to be warier of both technology and authority.
 
 ### The National Security Bureau
 
-The National Security Bureau serves as the Federated States's primary investigative and security organization, combining the roles once held by agencies like the FBI and CIA. Since the Crash, the NSB has evolved to face both traditional criminal enterprises and strange phenomena or inexplicable incidents that seem to defy conventional explanation.
+The National Security Bureau serves as the FSA's primary investigative and security organization, combining the roles once held by agencies like the FBI and CIA. Since the Crash, the NSB has evolved to face both traditional criminal enterprises and strange phenomena or inexplicable incidents that seem to defy conventional explanation.
 
 ### Task Force Vestige
 
