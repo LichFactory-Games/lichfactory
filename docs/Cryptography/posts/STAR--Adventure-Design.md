@@ -1,6 +1,6 @@
 ---
 date created: Saturday, December 14th 2024, 8:13:08 pm
-date modified: Saturday, December 21st 2024, 12:52:53 pm
+date modified: Saturday, December 21st 2024, 1:01:04 pm
 date: 2024-12-21
 title: The STAR Design Framework
 share: true
@@ -8,6 +8,11 @@ categories:
   - GMing
   - process
 ---
+
+I've been trying to do more adventure design and writing of late, and have been likewise trying to get a sense of what the core pillars of such design might be, as well as how to keep them front of mind when writing or revising. So in that spirit I present to you the "STAR" design framework (really this was all about making a snappy acronym). 
+
+<!-- more -->
+
 
 ## The **S.T.A.R.** Adventure Design Framework
 
