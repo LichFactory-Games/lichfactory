@@ -25,7 +25,7 @@ This was perhaps the easiest question for me to answer.
 
 I wanted to take what I thought of as the most "complete" version of D&D -- the BECMI/Rules Cyclopedia (RC) system -- and revise it with modern play and information design principles in mind. I felt like this might even be a project of interest to others, given that there is only one other RC retroclone out there -- [Dark Dungeons](https://www.nobleknight.com/P/2147547832/Dark-Dungeons?msclkid=a8907b2c01df1daa19c71328f5c41ea6&utm_source=bing&utm_medium=cpc&utm_campaign=Website%20-%20Dynamic&utm_term=nobleknight&utm_content=all%20web%20pages). *Dark Dungeons* is excellent, but it is unwieldy and overly verbose for table use. It is also extremely dense and I felt could benefit from a sparser, less crowded, information design. 
 
-Thus was born *Swords & Sovereigns*. 
+Thus was born *[Swords & Sovereigns](https://www.icloud.com/iclouddrive/005sHKzH6pf6pS6fqTAHiM88w#Swords_&_Sovereigns_compressed)*. 
 
 ## Swords & Sovereigns 
 
