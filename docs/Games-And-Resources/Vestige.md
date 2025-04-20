@@ -1,6 +1,6 @@
 ---
 date created: Saturday, December 21st 2024, 3:00:51 pm
-date modified: Saturday, December 21st 2024, 3:25:47 pm
+date modified: Saturday, December 21st 2024, 3:35:49 pm
 share: true
 categories:
   - homebrew
@@ -9,7 +9,7 @@ categories:
 
 I've been working on and off on an investigative near-future sci-fi/horror game called *Vestige*. You can read more about the setting below. You can also check out the (work-in-progress) core book -- the [Vestige Field Manual](https://www.dropbox.com/scl/fi/t0wm2zg82vonimbrlgehf/vestige-field-manual.pdf?rlkey=4y6e7a51884lr4bomn3n3dias&st=iaiornc3&dl=0) -- and and an intro adventure -- [Echo Chamber](https://www.dropbox.com/scl/fi/f2l8tn1j8scp8m2cdfceo/echo-chamber.pdf?rlkey=108kfl0a2f5rtbaurii6vvjwc&st=uj85yw4j&dl=0).
 
-The aim of the game and setting is to be a different take on standard cyberpunk settings, and while being horror, not strictly cosmic horror like so many games are these days (don't get me wrong, I love Lovecraft!), and not about watching your character slowly come to pieces under the pressure of their work. 
+The aim of the game and setting is to be a different take on standard cyberpunk settings, and while being horror, not strictly cosmic horror like so many games are these days (don't get me wrong, I love Lovecraft!), and not about watching your character slowly come to pieces under the stresses of what they discover or do (hello, *Delta Green*). 
 
 ## Operations Brief
 
