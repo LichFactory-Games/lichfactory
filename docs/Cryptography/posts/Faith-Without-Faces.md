@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, May 7th 2025, 2:06:00 pm
-date modified: Wednesday, May 7th 2025, 3:34:27 pm
+date modified: Wednesday, May 7th 2025, 3:56:28 pm
 date: 2025-05-07
 title: "Faith Without Faces: Divine Power Without Divine Persons"
 comments: true
@@ -30,6 +30,8 @@ But what if deities weren't people at all? Here I don't mean, what if they weren
 
 The Stoic philosopher Chrysippus (279-206 BCE) construed the world as governed by a kind of law or principle -- "logos" (λόγος). Unlike the sky-dwelling gods who observe and meddle in mortal affairs through whim and fancy, the logos permeates everything as a cosmic intelligence—a rational fire flowing through all existence that orders the universe according to perfect mathematical patterns. This divine principle isn't something you petition or bargain with—it has no desires or emotions to appeal to—but rather represents the inherent rational structure that both creates and sustains reality itself.
 
+![[../../assets/img/Chrysippos_BM_1846.webp|500]]
+
 ### Logos and the Law vs. Chaos Axis
 
 The Stoic concept of logos as a cosmic ordering principle bears striking similarities to how Gary Gygax conceptualized the Law-Chaos alignment axis in early Advanced Dungeons & Dragons. While the Stoics saw logos as an impersonal divine force maintaining cosmic order, Gygax translated this philosophical concept into a gamified cosmic struggle.
@@ -52,6 +54,8 @@ Character development on this view could easily be digetically explained as part
 
 This approach creates a more philosophical form of divine magic where clerics become living embodiments of the fundamental forces shaping reality itself.
 
+![[../../assets/img/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.webp|500]]
+
 ## Divinity As Being
 
 While the Stoics conceived of divinity as an impersonal ordering force, another tradition takes this de-personalization even further. Baruch Spinoza (1632-1677) radically proposed that God is not separate from the universe at all—God simply *is* the universe in its totality. This conception, often called "pantheism," identifies God with Nature itself (his famous formula: *Deus sive Natura*—"God, or Nature").
@@ -66,7 +70,11 @@ On this view then everything that exists is simply a mode or expression of this 
 
 This conception found different expressions in later philosophers. G.W.F. Hegel (1770-1831) developed a vision of the "Absolute Spirit" as a kind of cosmic consciousness that progressively realizes itself through history. In Hegel's system, divinity is Being that comes to know itself through the dialectical process of human history and thought. The divine is still impersonal, but unlike Spinoza's static notion of an unchanging and eternal Being, Hegel's Absolute is dynamic—evolving, developing, always becoming.
 
+![[../../assets/img/Paul_Delaroche_-_Napoleon_Crossing_the_Alps_-_Google_Art_Project_2.webp|500]]
+
 In stark contrast, Arthur Schopenhauer (1788-1860) conceived of the foundation of reality as "Will"—a blind, purposeless *striving* that manifests itself in all things. This cosmic Will has no goal, no consciousness, no morality—it simply *is*, endlessly expressing itself through the suffering and striving of all beings. If Spinoza and Hegel represent lawful conceptions of Being-as-divinity, Schopenhauer offers us the chaotic counterpart.
+
+![[../../assets/img/Sisyphus_by_von_Stuck.webp|500]]
 
 ### Clerics of Being
 
@@ -79,6 +87,8 @@ Hegelian clerics would be more historically oriented, seeing themselves as agent
 Schopenhauerian priests would draw power from acknowledging the fundamental striving that underlies all existence. Their magic might involve channeling the raw energy of Will itself, temporarily suspending the endless cycle of desire and suffering, or even manipulating the representational nature of perceived reality. These clerics might even be nihilistic ascetics who gain power precisely by denying the Will that drives all things.
 
 As with the clerics of cosmic forces, there is a lot of room for diegetical notions of advancement, in addition to the more traditional levels or tiers of play. In gameplay terms, clerics of Being might gain power not through prayer or alignment with cosmic forces, but through their understanding of the world and their place in it. Their spells could be conceptualized as temporary manipulations of the fundamental fabric of reality rather than granted boons. Crisis might come not from failing their deity but from losing their hard-won understanding of reality's true nature. 
+
+![[../../assets/img/Spinoza's_seal_"Caute".svg.webp|500]]
 
 There can even be a kind of Lovecraftian element here. Traditional presentations of Lovecraftian cosmic horror depend on the protagonist realizing their insignificance, or that their actions or lives are meaningless. But an alternative notion of cosmic horror makes itself available when we start to think of reality as essentially one being of which each of us is a mere expression. The term "nihilism" was coined to describe what people took to be the commitments of such a philosophical picture. No freedom or responsibility, no possibility of eternal life, not even any morality -- just the eternal (or dynamic) expression of Being. Perhaps as the cleric more clearly realizes the nature of reality and their place in it, the more disturbed they become (or the more persected by others they become).[^1]
 
