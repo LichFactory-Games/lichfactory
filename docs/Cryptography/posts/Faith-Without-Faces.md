@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, May 7th 2025, 2:06:00 pm
-date modified: Wednesday, May 7th 2025, 6:23:46 pm
+date modified: Wednesday, May 7th 2025, 6:26:45 pm
 date: 2025-05-07
 title: "Faith Without Faces: Divine Power Without Divine Persons"
 comments: true
@@ -112,24 +112,24 @@ This approach transforms the cleric from divine intermediary to ontological expl
 
 [^2]: There are a LOT of others posting about gods, clerics, and related. An incomplete list includes: 
 	
-	Explorers Design: [What's Under the Pope's Hat?](tab:https://www.explorersdesign.com/whats-under-the-popes-hat/)
+	Explorers Design: [What's Under the Pope's Hat?](https://www.explorersdesign.com/whats-under-the-popes-hat/)
 	
-	Dododecahedron: [Classless Clerics](tab:https://dododecahedron.blog/2025/05/06/classless-clerics/)
+	Dododecahedron: [Classless Clerics](https://dododecahedron.blog/2025/05/06/classless-clerics/)
 	
-	Patchwork Paladin: [Trade and Be Blessed](tab:https://patchworkpaladin.com/2025/05/07/trade-and-be-blessed/)
+	Patchwork Paladin: [Trade and Be Blessed](https://patchworkpaladin.com/2025/05/07/trade-and-be-blessed/)
 	
-	Seed of Worlds: [Insectfolk Elementalism](tab:https://seedofworlds.blogspot.com/2025/05/insectfolk-elementalism-conclave.html)
+	Seed of Worlds: [Insectfolk Elementalism](https://seedofworlds.blogspot.com/2025/05/insectfolk-elementalism-conclave.html)
 	
-	Bommyknocker Press: [Clerical Error - 9 Gods to Sin Against](tab:https://bommyknocker.bearblog.dev/clerical-error/)
+	Bommyknocker Press: [Clerical Error - 9 Gods to Sin Against](https://bommyknocker.bearblog.dev/clerical-error/)
 	
-	Rise Up Comus: [Embedding Lore in Your Classes](tab:https://riseupcomus.blogspot.com/2025/05/embedding-lore-in-your-classes.html)
+	Rise Up Comus: [Embedding Lore in Your Classes](https://riseupcomus.blogspot.com/2025/05/embedding-lore-in-your-classes.html)
 	
-	Among Cats and Books: [Kill Clerics, Become Warlocks](tab:https://elmc.at/kill-clerics-become-warlocks/)
+	Among Cats and Books: [Kill Clerics, Become Warlocks](https://elmc.at/kill-clerics-become-warlocks/)
 	
-	Personable Thoughts: [A Link in the Great Chain: Clerics in the Religious Hierarchy](tab:https://personabler.blogspot.com/2025/05/a-link-in-great-chain-clerics-in.html)
+	Personable Thoughts: [A Link in the Great Chain: Clerics in the Religious Hierarchy](https://personabler.blogspot.com/2025/05/a-link-in-great-chain-clerics-in.html)
 	
-	Magnolia Keep: [The Implied Apocalypse of the Cleric](tab:https://magnoliakeep.blogspot.com/2025/05/the-implied-apocalypse-of-cleric.html)
+	Magnolia Keep: [The Implied Apocalypse of the Cleric](https://magnoliakeep.blogspot.com/2025/05/the-implied-apocalypse-of-cleric.html)
 	
-	Mindstorm Press: [Biblically Inaccurate Religions](tab:https://www.mindstormpress.com/biblically-inaccurate-religions)
+	Mindstorm Press: [Biblically Inaccurate Religions](https://www.mindstormpress.com/biblically-inaccurate-religions)
 	
-	Prismatic Wasteland: [Divine Magic Works in Mysterious Ways](tab:https://www.prismaticwasteland.com/blog/divine-magic-works-in-mysterious-ways)
+	Prismatic Wasteland: [Divine Magic Works in Mysterious Ways](https://www.prismaticwasteland.com/blog/divine-magic-works-in-mysterious-ways)
