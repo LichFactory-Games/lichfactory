@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, May 7th 2025, 2:06:00 pm
-date modified: Wednesday, May 7th 2025, 5:26:34 pm
+date modified: Wednesday, May 7th 2025, 6:23:46 pm
 date: 2025-05-07
 title: "Faith Without Faces: Divine Power Without Divine Persons"
 comments: true
@@ -11,7 +11,7 @@ categories:
   - philosophy
 ---
 
-In honor of the currently convened papal conclave, and as part of [Prismatic Wasteland's Emergency Conclave Bandwagon](https://prismaticweekly.substack.com/p/emergency-bandwagon-conclave-edition), I though I might sketch out an alternative take to gods and religion in fantasy games. If you ever wondered whether Spinoza, Hegel, or Schopenhaur might be relevant to your RPG experience, this one's for you (I promise this will be interesting even if you have no idea who those people are!). 
+In honor of the currently convened papal conclave, and as part of [Prismatic Wasteland's Emergency Conclave Bandwagon](https://prismaticweekly.substack.com/p/emergency-bandwagon-conclave-edition),[^2] I though I might sketch out an alternative take to gods and religion in fantasy games. If you ever wondered whether Spinoza, Hegel, or Schopenhaur might be relevant to your RPG experience, this one's for you (I promise this will be interesting even if you have no idea who those people are!). 
 
 <!-- more -->
 
@@ -109,3 +109,27 @@ This approach transforms the cleric from divine intermediary to ontological expl
 
 
 [^1]: The *[Pantheismusstreit](https://en.wikipedia.org/wiki/Pantheism_controversy)* was a period of controversy in 1780s Germany where an accusation of "Spinozism" could easily ruin one's career, if not one's life.
+
+[^2]: There are a LOT of others posting about gods, clerics, and related. An incomplete list includes: 
+	
+	Explorers Design: [What's Under the Pope's Hat?](tab:https://www.explorersdesign.com/whats-under-the-popes-hat/)
+	
+	Dododecahedron: [Classless Clerics](tab:https://dododecahedron.blog/2025/05/06/classless-clerics/)
+	
+	Patchwork Paladin: [Trade and Be Blessed](tab:https://patchworkpaladin.com/2025/05/07/trade-and-be-blessed/)
+	
+	Seed of Worlds: [Insectfolk Elementalism](tab:https://seedofworlds.blogspot.com/2025/05/insectfolk-elementalism-conclave.html)
+	
+	Bommyknocker Press: [Clerical Error - 9 Gods to Sin Against](tab:https://bommyknocker.bearblog.dev/clerical-error/)
+	
+	Rise Up Comus: [Embedding Lore in Your Classes](tab:https://riseupcomus.blogspot.com/2025/05/embedding-lore-in-your-classes.html)
+	
+	Among Cats and Books: [Kill Clerics, Become Warlocks](tab:https://elmc.at/kill-clerics-become-warlocks/)
+	
+	Personable Thoughts: [A Link in the Great Chain: Clerics in the Religious Hierarchy](tab:https://personabler.blogspot.com/2025/05/a-link-in-great-chain-clerics-in.html)
+	
+	Magnolia Keep: [The Implied Apocalypse of the Cleric](tab:https://magnoliakeep.blogspot.com/2025/05/the-implied-apocalypse-of-cleric.html)
+	
+	Mindstorm Press: [Biblically Inaccurate Religions](tab:https://www.mindstormpress.com/biblically-inaccurate-religions)
+	
+	Prismatic Wasteland: [Divine Magic Works in Mysterious Ways](tab:https://www.prismaticwasteland.com/blog/divine-magic-works-in-mysterious-ways)
