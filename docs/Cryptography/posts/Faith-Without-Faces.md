@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, May 7th 2025, 2:06:00 pm
-date modified: Wednesday, May 7th 2025, 4:25:09 pm
+date modified: Wednesday, May 7th 2025, 4:48:44 pm
 date: 2025-05-07
 title: "Faith Without Faces: Divine Power Without Divine Persons"
 comments: true
@@ -14,6 +14,7 @@ categories:
 In honor of the currently convened papal conclave, and as part of [Prismatic Wasteland's Emergency Conclave Bandwagon](https://prismaticweekly.substack.com/p/emergency-bandwagon-conclave-edition), I though I might sketch out an alternative take to gods and religion in fantasy games. If you ever wondered whether Spinoza, Hegel, or Schopenhaur might be relevant to your RPG experience, this one's for you (I promise this will be interesting even if you have no idea who those people are!). 
 
 <!-- more -->
+
 
 ## People In The Sky 
 
