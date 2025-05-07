@@ -1,3 +1,9 @@
 /* File dedicated to custom attributes */
 /* Get more info here : https://pypi.org/project/mkdocs-custom-tags-attributes/ */
 
+/* Center Images */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
