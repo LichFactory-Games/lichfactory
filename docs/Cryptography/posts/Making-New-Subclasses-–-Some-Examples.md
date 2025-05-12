@@ -10,7 +10,7 @@ date modified: Friday, February 16th 2024, 12:59:11 pm
 ---
 
 
-In my [[./Making-a-new-subclass|last post]] I talked about what to think about in terms of constructing a subclass. Here I want to discuss two examples – the [[../../Homebrew/Subclasses/Orimancer-(Wizard)|Orimancer]] Wizard, and the [[../../Homebrew/Subclasses/Tinkerer-(Rogue)|Tinkerer]] Rogue. The first I think works pretty well, but the second perhaps less so. In both cases I think there are useful lessons to learn – sometimes failure is quite instructive!
+In my [last post](Making-a-new-subclass.md) I talked about what to think about in terms of constructing a subclass. Here I want to discuss two examples – the [Orimancer](../Homebrew/Subclasses/Orimancer-Wizard.md) Wizard, and the [Tinkerer](../Homebrew/Subclasses/Tinkerer-Rogue.md) Rogue. The first I think works pretty well, but the second perhaps less so. In both cases I think there are useful lessons to learn – sometimes failure is quite instructive!
 
 <!-- more -->
 
@@ -23,7 +23,8 @@ Enter the Orimancer – a subclass of Wizard specializing in the manipulation of
 *Orimancers* are experts at manipulating the limits, boundaries, and measure of space and time. "Orimancy" is the wizardly term for the study (or "school") of this technique. Orimancers are one of wizarding schools primary responsible for maintaining the functioning of the Spar transport system, as well as the various enchantments that allow the city of Omerth to maintain its position floating at the center of the world. 
 
 ### Features
-The [[../../Homebrew/Subclasses/Orimancer-(Wizard)|Orimancer]] gets five subclass features, at levels 2, 6, 10, and (the standard Wizard advancement levels): 
+The [Orimancer](../Homebrew/Subclasses/Orimancer-Wizard.md) gets five subclass features, at levels 2, 6, 10, and (the standard Wizard advancement levels):
+
 
 1. Scholar of Magnitude (2)
 2. Warp Space (2) 
@@ -33,14 +34,14 @@ The [[../../Homebrew/Subclasses/Orimancer-(Wizard)|Orimancer]] gets five subclas
 
 The first two features, gained at level two when the subclass is chosen, indicate core aspects of the subclass. We get enhanced proficiency (Orimancers are supposed to be particularly learned and well-studied) and the ability to bend or warp space. The latter makes the Orimancer especially mobile, able to pop in and out of dangerous areas, and similarly to move others as well. This is a core expression of the character concept, and lets the subclass stand out mechanically as well. 
 
-The next three abilities likewise provide mechanical benefits centered on moving or controlling space-time, with the cap being agelessness and immunity to being moved in time or space against one's will. You can look at [[../../Homebrew/Subclasses/Orimancer-(Wizard)|the subclass]] itself for further details. 
+The next three abilities likewise provide mechanical benefits centered on moving or controlling space-time, with the cap being agelessness and immunity to being moved in time or space against one's will. You can look at [the subclass](../Homebrew/Subclasses/Orimancer-Wizard.md) itself for further details.
 
 ### Evaluation 
 I have been pretty happy with this subclass, which also includes some specific Orimancy spells, and have had a couple of players choose the subclass, with playtest results being positive. 
 
 ## The Tinkerer
 
-The [[../../Homebrew/Subclasses/Tinkerer-(Rogue)|Tinkerer]] subclass of Rogue was my attempt to make a subclass that would reflect the fact that the campaign world has some technological advancements, and that an adventurer might make use of them. Basically, I wanted a D&D version of 18th century MacGyver. I chose the Rogue class as the base class because the Rogue in D&D 5e has become the "expert" class, where skill and tool proficiency is often most emphasized. I also didn't want to compete with or try and replace the Artificer class.  
+The [Tinkerer](../Homebrew/Subclasses/Tinkerer-Rogue.md) subclass of Rogue was my attempt to make a subclass that would reflect the fact that the campaign world has some technological advancements, and that an adventurer might make use of them. Basically, I wanted a D&D version of 18th century MacGyver. I chose the Rogue class as the base class because the Rogue in D&D 5e has become the "expert" class, where skill and tool proficiency is often most emphasized. I also didn't want to compete with or try and replace the Artificer class.  
 
 ### Features 
 I gave the Tinkerer six features, again all gained at standard Rogue Archetype levels 3, 9, 13, and 17: 
@@ -65,7 +66,8 @@ Here are some things that I think work in the subclass's favor:
 But there are definitely some things that I don't think work well, and for which I currently have no solutions. 
 
 1. There is potential for significant overlap with the Artificer class. The fact that the Tinkerer is Rogue-based perhaps helps to alleviate this, but still one might be concerned that the articulation of the core concept doesn't sit all that comfortably next to the Artificer. 
-2. The Tinkerer relies heavily on a poorly-developed subset of crafting rules in D&D 5e. Crafting is notoriously not that well thought-out in D&D and that might make adjudicating the sorts of devices a Tinkerer would want to develop somewhat difficult. I've tried to alleviate this somewhat with a notion of "complexity levels" and examples of each (see the [[../../Homebrew/Subclasses/Tinkerer-(Rogue)|Tinkerer]] entry) but I'm not particularly satisfied by it. 
+2. The Tinkerer relies heavily on a poorly-developed subset of crafting rules in D&D 5e. Crafting is notoriously not that well thought-out in D&D and that might make adjudicating the sorts of devices a Tinkerer would want to develop somewhat difficult. I've tried to alleviate this somewhat with a notion of "complexity levels" and examples of each (see the [Tinkerer entry](../Homebrew/Subclasses/Tinkerer-Rogue.md)  but I'm not particularly satisfied by it. 
 3. Similarly -- there is just a lot of dependence on DM fiat here, and while that may work fine between some DMs and players, it also contains the potential for lots of issues. 
+
 
 In general I'm not thoroughly satisfied with the Tinkerer subclass. It is still in want of a fair bit of tinkering itself (sorry I couldn't resist!)

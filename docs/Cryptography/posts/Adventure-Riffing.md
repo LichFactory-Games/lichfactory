@@ -33,7 +33,7 @@ Of course, I could have just tried to work up something myself. But I had been s
 
 After a little bit of web-searching, I settled on the 5e adventure "[The Night Hunter](https://adventurelookup.com/adventures/the-night-hunter)" from [Arcane Library](https://www.thearcanelibrary.com). It was first level, was set in the woods, had a creepy/horror vibe (it is a riff on the "slasher in the woods" trope), and Kelsey Dionne, the writer, was known for her design sense and for writing good material. 
 
-![[../../assets/img/The-Night-Hunter-Cover.jpg|500]]
+![The Night Hunter Cover](../../assets/img/The-Night-Hunter-Cover.jpg){ width="500" .center }
 
 Here's the basic [scenario structure](https://thealexandrian.net/wordpress/15126/roleplaying-games/game-structures), which is also really well laid-out on the page:
 
@@ -43,7 +43,7 @@ There are five events provided:
 
 1. The Howling -- while setting up camp there is a consistent howling sound that gets closer and closer. 
 2. The Owl -- a loud crash in the woods turns out to be an owl hunting its prey. 
-3. It Strikes -- The Night Hunter causes a herd of animals to run through the camp.  
+3. It Strikes -- The Night Hunter causes a herd of animals to run through the camp. 
 4. A Cry for Help -- The Night Hunter pretends to be someone in distress out in the dark woods. 
 5. The Butchery -- The Night Hunter, no longer hiding, strikes!
 

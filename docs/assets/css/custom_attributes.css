@@ -7,3 +7,12 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.right {
+  float: right;
+  margin-left: 15px;
+}
+
+.hmed {
+  height: 50px; /* or whatever medium height you want */
+}

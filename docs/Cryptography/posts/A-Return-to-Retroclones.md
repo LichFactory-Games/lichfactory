@@ -30,7 +30,7 @@ Thus was born *[Swords & Sovereigns](https://www.icloud.com/iclouddrive/005sHKzH
 
 ## Swords & Sovereigns 
 
-![[../../assets/img/Swords-and-Sovereigns-Cover.png|600]]
+![Swords and Sovereigns Cover](../../assets/img/Swords-and-Sovereigns-Cover.png){ width=600px }
 
 The much more difficult set of questions to answer depends on what "revising with modern play and information design principles" really means. I decided I wanted to have the following features, concerning each of which I'll provide further comment in subsequent posts.
 
