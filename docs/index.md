@@ -13,6 +13,6 @@ I host on a subdomain of this site containing resources related to a 5e campaign
 
 I also make the occasional module for [Foundry VTT](https://foundryvtt.com) or [Obsidian](https://obsidian.md). You can check out what I'm working on over at my [Github Site](https://github.com/LichFactory-Games). 
 
-![Memento Mori - Georges Nauwelaerts](../assets/img/lich-factory-front.jpg){ .image-caption }
+![Memento Mori - Georges Nauwelaerts](../assets/img/lich-factory-front.jpg)
 <div class="caption">Memento Mori - Georges Nauwelaerts</div>
 

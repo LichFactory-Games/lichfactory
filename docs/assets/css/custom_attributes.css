@@ -17,8 +17,8 @@
   height: 50px; /* or whatever medium height you want */
 }
 
-.caption {
-  font-size: 0.6em;
+.md-typeset .caption {
+  font-size: 0.5em;
   text-align: right;
   color: gray;
   margin-top: -2em;
