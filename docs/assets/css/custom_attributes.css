@@ -16,3 +16,11 @@
 .hmed {
   height: 50px; /* or whatever medium height you want */
 }
+
+.caption {
+  font-size: 0.6em;
+  text-align: right;
+  color: gray;
+  margin-top: -2em;
+  margin-bottom: 1.5em;
+}
